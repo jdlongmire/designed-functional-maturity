@@ -1,6 +1,6 @@
-# Assets
+# Image Assets
 
-Graphical artifacts associated with the Designed Functional Maturity framework — infographics, models, diagrams — supporting the papers in `drafts/`. Reference the relevant asset from the paper or work package that uses it.
+Graphical artifacts associated with the Designed Functional Maturity framework — infographics, models, diagrams — supporting the papers in `drafts/`. Reference the relevant asset from the paper or work package that uses it. See `video-assets/` for narrated video built from these images.
 
 | Asset | Description | Associated with |
 |---|---|---|
