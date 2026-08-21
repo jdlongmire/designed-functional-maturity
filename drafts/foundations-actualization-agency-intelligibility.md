@@ -1,7 +1,7 @@
 # Actualization, Agency, and Intelligibility: Foundations for a Designed Functional Maturity Programme
 
 **Abstract**
-This paper defends two arguments that a companion comparative paper assumes. The first is that actualization constitutes a genuine explanatory demand distinct from the demand physics answers: a formalism that constrains which states are admissible does not thereby explain why any state is actual. The second is that reality's intelligibility to human minds is better explained by a common rational source for knower and known than by cognitive faculties selected for fitness alone. Each argument is stated, then run against its strongest published opposition: Grünbaum's rejection of the question as ill-posed, van Inwagen's modal-collapse argument against the Principle of Sufficient Reason, Oppy's parity argument for a necessary natural initial state, Anscombe's criticism of the argument from reason, and Fitelson and Sober's technical objections to Plantinga. The paper concludes that the actualization argument survives in a weakened, non-contrastive form whose cost is stated explicitly, that the intelligibility argument survives better in abductive than in self-defeating form, and that a functional-maturity model of creation requires a fabrication criterion which, applied honestly, constrains the programme more tightly than its proponents have generally acknowledged.
+This paper defends two arguments that a companion comparative paper assumes. The first is that actualization constitutes a genuine explanatory demand distinct from the demand physics answers: a formalism that constrains which states are admissible does not thereby explain why any state is actual. The second is that reality's intelligibility to human minds is better explained by a common rational source for knower and known than by cognitive faculties selected for fitness alone. Each argument is stated, then run against its strongest published opposition: Grünbaum's rejection of the question as ill-posed, van Inwagen's modal-collapse argument against the Principle of Sufficient Reason, Oppy's parity argument for a necessary natural initial state, Anscombe's criticism of the argument from reason, and Fitelson and Sober's technical objections to Plantinga. The paper concludes that the actualization argument survives in a weakened, non-contrastive form whose cost is stated explicitly, that the intelligibility argument survives better in abductive than in self-defeating form, and that the Omphalos or appearance-of-age objection, correctly scoped, applies to far less of a functional-maturity model than either its critics or its defenders have generally assumed. Traces recording real events under a contested reconstruction, including the entire geological record, raise no fabrication question at all; what remains is a narrow and identifiable residual concerning light in transit, which is left open rather than resolved.
 
 ---
 
@@ -13,7 +13,7 @@ A companion paper argues comparatively, surveying ten foundational features of r
 
 The order matters. The actualization argument, if it succeeds, delivers an agent sufficient to actualize. It does not deliver a rational, singular, or good agent, and it certainly does not deliver the God of Christian confession. Those are separate claims resting on separate evidence. Running the actualization argument and the intelligibility argument as one continuous movement, which is the natural way to present them and the way the source material for this paper presented them, obscures a seam that critics will find. They are therefore run here in sequence: §3 and §4 argue from contingency to agency; §5 argues from intelligibility to *rational* agency; §9 marks precisely where philosophical argument stops and a different kind of evidence would have to take over.
 
-The paper is written to be falsifiable in the sense its research programme demands elsewhere. Section 8.4 names conditions under which its central model should be abandoned. A foundations paper for a programme governed by Popperian and Lakatosian discipline that supplied no such conditions would fail its own standard.
+The paper is written to be falsifiable in the sense its research programme demands elsewhere. Section 8.6 names conditions under which its central model should be abandoned. A foundations paper for a programme governed by Popperian and Lakatosian discipline that supplied no such conditions would fail its own standard.
 
 ---
 
@@ -187,7 +187,7 @@ With those hedges the claim reduces to something modest and defensible in existe
 
 ---
 
-## 8. Functional Maturity and the Fabrication Criterion
+## 8. Functional Maturity, Real History, and the Fabrication Criterion
 
 ### 8.1 The objection
 
@@ -199,7 +199,19 @@ Russell (1921) supplies the reductio. "There is no logical impossibility in the 
 
 It is worth recording that the standard dismissals of Gosse are weaker than usually assumed. Bennett (2020) argues that both the Occam's-razor objection and the unfalsifiability objection fail, and that Omphalos was rejected for theological unattractiveness rather than logical defect. The objection that survives is Kingsley's, and it is about honesty rather than parsimony.
 
-### 8.2 The criterion
+### 8.2 Three classes, routinely conflated
+
+The Omphalos objection is applied far more widely than it applies. Critics of design-oriented origins models frequently direct it at claims that are not of Gosse's kind at all, and defenders sometimes accept the framing rather than contesting it. Three structurally different classes of claim need separating before the objection can be assessed against any of them.
+
+**Class A: initialization state.** Properties a system possesses at deployment because its commissioned function requires them. A mature tree has structural wood. An adult has adult physiology. A rock has some initial isotopic ratio R₀. None of these is a record of anything. A boundary condition is not a claim about the past; it is what the laws operate upon. Gosse's own examples divide here: Adam's navel is a genuine borderline case, since a navel is specifically the trace of a severed umbilical connection, whereas structural wood in a mature tree is simply what wood is.
+
+**Class B: real history under a contested reconstruction.** Traces that genuinely record events that genuinely occurred, where what is disputed is the mechanism and timescale of their production rather than their authenticity. Fossils belong here. On a catastrophist reconstruction, a fossil is the real remains of a real organism that really died and was really buried. Nothing false is recorded. What is contested is whether the burial mechanism was slow uniformitarian sedimentation or rapid catastrophic deposition, which is a disagreement about historical reconstruction of the ordinary kind, adjudicable by sedimentology, taphonomy, and stratigraphy.
+
+**Class C: prochronic event-records.** Structured, internally consistent records of specific events that, on the model in question, did not occur, and for which no auxiliary hypothesis supplies real referents. This is Gosse's actual category, and it is the only one Kingsley's objection touches.
+
+The distinction between B and C is the load-bearing one, and it is the distinction most often lost. **A creator who deploys a functional world and then permits ordinary and extraordinary physical processes to leave real traces has not fabricated anything, regardless of how the resulting traces are dated.** The deceiver charge requires that the traces be false, not merely that their conventional interpretation be wrong. A model claiming the strata record a real global catastrophe on a compressed timescale is claiming the record is *true* and the standard reading of it *mistaken*. That is a claim about geology, right or wrong, and it carries no theological liability whatever.
+
+### 8.3 The criterion
 
 The distinction the framework needs is between **functional maturity** and **fabricated history**.
 
@@ -209,29 +221,59 @@ Fabricated history is different in kind. It is a specific, internally consistent
 
 The criterion follows: **required-for-commissioned-function is admissible; gratuitous event-record is not.** A creator may deploy a functional system. A creator who embeds a detailed false event log has done something the first act does not entail, and Kingsley's objection applies to the second and not the first.
 
+The criterion's scope must be stated precisely, because misapplying it is how the conflation in §8.2 gets reintroduced. **It adjudicates the boundary between Class A and Class C only.** It has nothing to say about Class B, and is not needed there. Class B traces are real records of real events; no question of fabrication arises, and the criterion is simply not the relevant test. Whether a Class B reconstruction is *correct* is an empirical question for the relevant science. Whether it is *honest* is not in question at all.
+
 Two things must be said about the status of this criterion. It is not novel: it has been asserted in popular creationist writing at least since Harold (2017), who states it in nearly these terms. And it has never been developed philosophically; no treatment in academic philosophy of religion was located. Duff (2021) argues that the distinction collapses precisely because its proponents "have been at a loss to provide a functional definition of how that created maturity is fundamentally different than creation with the appearance of history of specific events." That critique is fair against an unelaborated assertion. Whether it is fair against a criterion stated as above depends entirely on whether the criterion can be applied to hard cases and yield determinate verdicts, including unwelcome ones.
 
-### 8.3 Applying it against interest
+### 8.4 Class B and the work auxiliary hypotheses do
 
-The hardest case is light in transit, and the criterion gives a split verdict rather than a convenient one.
+The claim that Class B is not Omphalos is not a definitional convenience. It is testable by asking what the auxiliary hypothesis in question actually does: whether it forbids anything, whether it binds its proponents, and whether it can fail.
 
-Light already en route at deployment is plausibly required-for-function on a reading where the luminaries' commissioned function is to give light upon the earth. A luminary that will not illuminate for millennia is not performing its commissioned function, and light in transit is what performing it consists in. So far the criterion licenses what the framework wants.
+A worked example is available in the Catastrophic Hydrotectonic Flood Model, a Lakatosian programme developed alongside this framework and consuming it as an upstream boundary condition (Longmire, 2026). Its architecture is explicit about the division this section draws. A four-tier chain runs from methodological designism through Designed Functional Maturity to the hydrotectonic programme and then to post-Flood recovery models, with DFM supplying initialization, chronology, and biological starting conditions as boundary conditions, and the hydrotectonic programme taking a narrower question: given those conditions, is the proposed catastrophic transition physically possible? Class A is DFM's territory. Class B is the flood programme's.
 
-But light does not merely illuminate. It carries structured information about specific events. A supernova light curve encodes a particular star's particular death, with a characteristic rise, decay, and spectral evolution. Eclipsing-binary light curves encode specific orbital histories. These are not required for illumination. Illumination requires photons in transit; it does not require that those photons encode a detailed event record. On the criterion as stated, such records fall on the gratuitous side of the line, and the framework must either accept that the events they record actually occurred, with the temporal consequences that entails, or accept Kingsley's charge for those cases.
+Three features of that programme distinguish it structurally from Gosse's.
 
-This is not an outsider's objection. Faulkner (2026), writing as Answers in Genesis' own astronomer, concedes the point: on a mature-creation account of starlight, eclipsing binaries mean "we are seeing evidence of processes that never happened," and "that seems deceptive."
+**It commits to lawful production of the record.** The programme's hard core includes the commitment that "post-catastrophe natural law is stable," that "ordinary physical law governs interpretation of the geological and hydrological record from the close of the Flood-year catastrophe forward," and that "intervention is the exception; law is the rule," together with the observation that this "is what makes the belt testable at all." Omphalos cannot make this commitment; the whole content of Gosse's proposal is that the marks were not lawfully produced.
 
-The alternatives within young-earth astronomy do not currently relieve the difficulty. Humphreys' white-hole cosmology has been abandoned by Humphreys himself and replaced twice. Lisle's anisotropic synchrony convention is untestable by its author's own account, is described as "somewhat ad hoc" by Creation Ministries International, and has drawn an internal-contradiction critique in *Answers Research Journal*. Light-speed decay is rejected within young-earth circles. Mainstream engagement with any of these is effectively nil.
+**It forbids things, including things its proponents would prefer.** The programme has registered two exclusions. The first shows that latent-heat radiative capacity caps vapor-mediated precipitation at roughly 0.46 m over forty days, excluding vapor-canopy mechanisms as a bulk source; the register states explicitly that "this programme is not exempt," since its own impact-lofting mechanism would be excluded too were it to prove vapor-dominated. The second excludes escape-velocity steam-jet cooling on a specific-enthalpy ceiling, ruling against a rival model within the same family. Both are noted as binding the programme as hard as its rivals. A framework producing results that constrain its own preferred mechanisms is doing something Omphalos is structurally incapable of doing, since a proposal that every trace was created in place forbids no observation whatever.
 
-The consistent conclusion is that the fabrication criterion, honestly applied, constrains the programme more tightly than its proponents have generally acknowledged. It licenses functional maturity. It does not license arbitrary apparent history, and it does not obviously license the young-earth astronomical case. A criterion that returned only convenient verdicts would not be a criterion, and the programme's stated commitment to symmetric rigor requires reporting this rather than routing around it.
+**It holds an unresolved quantitative shortfall in the open.** The programme states that its required transient mantle viscosity remains three to four orders of magnitude short of what the best-targeted experimental result supports, and names this the gate on which its kinematic claims depend, adding that conceding the shortfall "would itself be a real result." It also records that no smoking-gun discriminator has yet been evaluated against data. Publishing an unresolved shortfall against one's own core mechanism is the behavior of a research programme, not of an unfalsifiable accommodation.
 
-### 8.4 Discriminators
+Whether the programme's reconstruction is *correct* is a question for sedimentology, geodynamics, and geochronology, and this paper takes no position on it. The point here is narrower and is a point about the shape of the claim rather than its truth: a model of this kind is exposed to refutation in the ordinary way, and the deceiver objection is simply the wrong instrument to bring to it. Critics who reach for Omphalos when facing a Class B reconstruction have misidentified the target, and defenders who feel obliged to answer the deceiver charge in that setting have conceded a framing they should reject.
+
+The same analysis applies to radiometric data, which are sometimes mistakenly assigned to Class C. An initialized isotopic ratio R₀ is a Class A boundary condition, not a record. A rock deployed with a given ratio is not thereby recording a decay history that did not occur, any more than a mature tree records growth seasons by having wood. The appearance of great age arises only under the additional assumption that R₀ took a particular standard value, and that assumption is a premise of the conventional reconstruction rather than an observation. Whether the resulting model is defensible is, again, an empirical question. It raises no fabrication issue.
+
+### 8.5 The residual, narrowed
+
+Class C is real, but it is much smaller than §8.1 alone would suggest, and locating it precisely matters more than either dismissing or inflating it.
+
+Light in transit gives a split verdict. Light already en route at deployment is plausibly required-for-function on a reading where the luminaries' commissioned function is to give light upon the earth, and a luminary that will not illuminate for millennia is not performing that function. But light does not merely illuminate. A supernova light curve encodes a particular star's particular death with a characteristic rise, decay, and spectral evolution; eclipsing-binary curves encode specific orbital histories. Illumination requires photons in transit. It does not require that those photons carry a structured record of specific events. On the criterion as stated, such records fall on the gratuitous side.
+
+This is not an outsider's objection. Faulkner (2026), writing as Answers in Genesis' own astronomer, concedes it: on a mature-creation account of starlight, eclipsing binaries mean "we are seeing evidence of processes that never happened," and "that seems deceptive."
+
+Two things follow, and they cut in opposite directions.
+
+The residual is genuinely narrow. Once Class B is correctly separated out, most of what critics file under apparent age leaves the category entirely: fossils, strata, isotope ratios, ice layers, and erosional features are Class A or Class B, and none of them raises a fabrication question. What remains is essentially astronomical, and within that, essentially light-travel-time.
+
+But the residual is not answered by the auxiliary hypotheses that answer Class B, and it is important not to let the success of §8.4 paper over this. The hydrotectonic programme is a terrestrial hydrological and tectonic model, and by its own scope statement does not reach light-travel-time; the four-tier chain assigns astronomical initialization upstream, to DFM itself. The existing candidate treatments within young-earth astronomy are in poor condition: Humphreys' white-hole cosmology has been abandoned by its author and replaced twice, Lisle's anisotropic synchrony convention is untestable by its author's own account and is called "somewhat ad hoc" by Creation Ministries International, and light-speed decay is rejected within young-earth circles. Mainstream engagement with any of them is effectively nil.
+
+The honest statement is therefore neither the one critics make nor the one defenders often make. The fabrication criterion clears the great bulk of the model's commitments, including the entire geological record, because those commitments are about real traces of real events. It leaves one identifiable domain open, and what that domain requires is an auxiliary hypothesis with the same falsifiable character the flood programme exhibits: something that forbids an observation and can fail. Until one exists, the position to hold is that the question is open, which is a different and more defensible thing than either denying the residual or accepting Kingsley's charge across the board.
+
+### 8.6 Discriminators
 
 The model's falsification conditions follow from the criterion.
 
-The framework should be abandoned, or substantially revised, if any of the following obtains. If no principled line can be drawn between required-for-function and gratuitous event-record that yields determinate verdicts across cases, the criterion is vacuous and the deceiver objection stands unanswered. If the criterion, consistently applied, rules against the model's own commitments across a broad range of domains rather than in isolated cases, the model is being maintained by exemption rather than by evidence. If functional maturity is invoked *ad hoc*, domain by domain, whenever conventional reconstruction conflicts with the model, rather than being derived antecedently from stated commissioned functions, it has become an unfalsifiable accommodation and should be treated as one.
+The framework should be abandoned, or substantially revised, if any of the following obtains.
 
-Section 8.3 is a partial instance of the second condition, and is recorded as such rather than absorbed.
+If no principled line can be drawn between required-for-function and gratuitous event-record that yields determinate verdicts across cases, the criterion is vacuous and the deceiver objection stands unanswered.
+
+If the Class A / Class B / Class C partition cannot be applied without case-by-case adjustment to protect favored conclusions, it is a rationalization rather than a taxonomy. The test is whether class assignment is made on structural grounds, namely whether the trace records an event and whether real referents are claimed for it, before the assignment's consequences are known.
+
+If functional maturity is invoked *ad hoc*, domain by domain, whenever conventional reconstruction conflicts with the model, rather than being derived antecedently from stated commissioned functions, it has become an unfalsifiable accommodation and should be treated as one.
+
+If Class B auxiliary hypotheses cease to forbid anything, the defense mounted in §8.4 lapses. That defense turns entirely on such hypotheses making falsifiable claims that bind their proponents. A flood model that registered no exclusions, held no shortfalls open, and adjusted freely to accommodate every observation would be Omphalos in a different vocabulary, and should be judged as such. The distinction drawn in this section is earned by a programme's behavior, not conferred by its subject matter.
+
+Section 8.5 records an open residual rather than a satisfied condition, and it is left standing rather than absorbed.
 
 ---
 
@@ -261,7 +303,7 @@ The actualization argument establishes that a formalism constraining admissible 
 
 The intelligibility argument fares better, provided it is run as abduction rather than as a self-defeat argument, since the technical objections of Fitelson and Sober bite the latter and largely miss the former.
 
-The functional-maturity model requires a criterion distinguishing required-for-function from gratuitous event-record. That criterion is stateable, has not previously been developed, and when applied honestly constrains the programme more than its proponents have granted, including against the young-earth astronomical case.
+The functional-maturity model requires a criterion distinguishing required-for-function from gratuitous event-record. That criterion is stateable and has not previously been developed. Its most consequential result is not a constraint on the model but a correction to how the model is usually attacked and usually defended. The Omphalos objection applies only to records of events claimed not to have occurred. It does not apply to initialization states, which record nothing, and it does not apply to real traces of real events under a contested reconstruction, which is what the geological record is on any catastrophist account. Auxiliary hypotheses of that kind stand or fall on evidence in the ordinary way, and the programme examined here demonstrates the relevant character by registering exclusions that bind its own mechanisms and by holding an unresolved quantitative shortfall in the open. What survives is a narrow residual concerning structured event-records in light already in transit, for which no auxiliary hypothesis of comparable quality currently exists, and which is therefore recorded as open.
 
 The central proposition is narrower than the framework's rhetoric usually suggests and, so narrowed, is defensible: possibility does not explain actuality; law does not explain why there is something for law to govern; description does not supply origination. Whether agency, and ultimately Logos, provides a more coherent account of the evidence than the alternatives is a comparative question. It is not settled by this paper, which aims only to establish that the question is well-formed and that the leading answer has not been eliminated.
 
@@ -318,6 +360,8 @@ Kuchař, K.V. (1992) 'Time and Interpretations of Quantum Gravity', in *Proceedi
 Leibniz, G.W. (1714) *Principles of Nature and Grace, Founded on Reason*, §7. [HIGH: §7 verified: "the first question we can fairly ask is: Why is there something rather than nothing? After all, nothing is simpler and easier than something."]
 
 Lewis, C.S. (1960) *Miracles: A Preliminary Study*. Revised edn. London: Fontana, ch. 3 ('The Cardinal Difficulty of Naturalism'). [HIGH: cite the 1960 revision; the 1947 chapter was titled 'The Self-Contradiction of the Naturalist'.]
+
+Longmire, J.D. (2026) *Catastrophic Hydrotectonic Flood Model*. Research programme repository. Available at: https://github.com/jdlongmire/catastrophic-hydrotectonic-flood-model. Hard core at `03-solutions-baseline/3.1-hypothesis/hard-core.md`; registered exclusions E1 and E2 and the rheology gate at `03-solutions-baseline/3.3-prediction/discriminators.md`. [HIGH: primary, read directly. Cited in §8.4 as a worked example of Class B auxiliary-hypothesis structure, not as endorsement of its geological conclusions.]
 
 Lowe, E.J. (2008) *Personal Agency: The Metaphysics of Mind and Action*. Oxford: Oxford University Press. [HIGH bibliographic; MEDIUM characterization.]
 
