@@ -1,7 +1,7 @@
 # WP-001: Flesh out the original artifact
 
 **Target artifact:** `drafts/designed-functional-maturity.md`
-**Status:** Not started
+**Status:** Draft complete — pending review
 
 ## Framing
 
@@ -26,7 +26,11 @@ Take the initial cut from a conceptual synthesis to a defensible draft: every em
 
 ## Definition of done
 
-- Every empirical claim in §3 has a real citation with a confidence signal.
-- Each §3 subsection engages a steelmanned naturalist counter-argument.
-- §1/§5 methodological-not-historical framing is intact.
-- Draft committed to `drafts/designed-functional-maturity.md` on its own branch, reviewed, merged.
+- [x] Every empirical claim in §3 has a real citation with a confidence signal.
+- [x] Each §3 subsection engages a steelmanned naturalist counter-argument.
+- [x] §1/§5 methodological-not-historical framing is intact.
+- [ ] Draft committed to `drafts/designed-functional-maturity.md` on its own branch, reviewed, merged. (committed and pushed; review/merge pending JD)
+
+## Notes on the citation/steelman pass (2026-08-21)
+
+Ten parallel research passes (one per §3 subsection) located real primary sources and the strongest available naturalist/mainstream reply for each claim, per the source protocol in `meta-harness/mind.md`. One material correction surfaced: §3.9's original "special pleading" framing for radiometric discordance did not survive contact with the literature — the concordia/discordia dual-decay-chain check and multi-chronometer cross-validation (radiocarbon vs. dendrochronology/varves/speleothems) are principled, designed-in diagnostics, not post-hoc rescue. §3.9 was revised to the narrower, defensible claim (interpretive judgment on anomalies is not fully theory-independent) rather than kept as originally drafted. §4 was rewritten to track each bullet 1:1 back to the specific relocation point identified in the corresponding §3 subsection rather than restating it in parallel. §2 was expanded with the forming–filling literary structure (Wenham, 1987) and the Day 3/Day 4/Day 6 internal-dependency argument.
