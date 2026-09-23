@@ -16,6 +16,16 @@ SN 1987A is the motivating test case because its arriving radiation carries temp
 
 The hypothesis does not presently assert that any single supernova is necessary for life. The initial research claim is narrower: stellar nucleosynthesis and dispersal processes, including supernovae, contribute to elemental and environmental conditions relevant to terrestrial habitability.
 
+## Principle of Designed Integration
+
+**Revealed theological claim:** Scripture presents creation as intentional, ordered, integrated, sustained, and directed toward God's purposes (e.g., Colossians 1:16–17; Romans 11:36; Hebrews 1:3). DFM therefore does not begin by presuming that observed components or states are arbitrary residues of an undirected history.
+
+**Research heuristic:** Because creation is revealed as an intentionally ordered whole, DFM treats observed components and states as potentially functionally integrated within the overall design. Revelation establishes the teleological expectation; empirical investigation identifies, tests, and constrains proposed functions.
+
+This principle does not license the assertion that the specific function of every observed feature is already known, nor does it make every proposed function immune to falsification. The research obligation is to ask what role an observed state may play in the integrated system, propose mechanisms or dependencies where warranted, and reject or revise those proposals when the evidence does not support them.
+
+Applied to WP-003, the governing question is therefore not merely whether an observed supernova-associated state can be accommodated within DFM, but what functional relationship, if any, the source, event-state, products, propagating information, and downstream consequences bear to the designed life-permitting cosmic system.
+
 ## Systems framing
 
 DFM should not treat distant-light initialization as an isolated photon problem. The candidate initialization unit is larger:
