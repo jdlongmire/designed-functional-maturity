@@ -167,6 +167,16 @@ A feature qualifies as a historical trace when independent evidence warrants tha
 
 The burden rises with specificity. A feature that purports to encode a particular event, actor, date, sequence, or contingent occurrence requires stronger justification as initialization information than a generic state variable required for immediate physical coherence.
 
+## 6.4 Principle of Designed Integration
+
+**Revealed theological claim:** Scripture presents creation as intentional, ordered, integrated, sustained, and directed toward God's purposes (e.g., Colossians 1:16–17; Romans 11:36; Hebrews 1:3). Within DFM, this supplies a teleological research prior: observed components and states should not be presumed arbitrary merely because their specific function is not yet known.
+
+**Research heuristic:** Because creation is revealed as an intentionally ordered whole, DFM treats observed components and states as potentially functionally integrated within the overall design. Revelation establishes the teleological expectation; empirical investigation identifies, tests, and constrains proposed functions.
+
+The principle does not entail that every proposed function is correct, that every feature has one independently identifiable local function, or that unexplained observations may be labeled functional to protect chronology. Specific functional claims remain revisable and must satisfy the no-smuggling and no-free-lunch rules below.
+
+A proposed functional relationship gains warrant when it is independently supported by physical coupling, system dependency, conservation requirements, cross-domain consequences, or discriminating predictions. It loses warrant when it exists only to preserve a preferred chronology or when the relevant observations are better explained without the proposed dependency.
+
 ## 7. Operational no-smuggling rule
 
 **NS-1.** Observations must be stated first in non-historical measurement language where practicable.
@@ -299,7 +309,7 @@ Measured ordinary decay behavior remains the prospective default. Accelerated de
 
 **P7.** Physical rates are not altered to rescue chronology without independent empirical warrant.
 
-**P8.** Unresolved accounting remains unresolved. It is not evidence for whichever programme currently lacks an explanation.
+**P8.** Unresolved accounting remains unresolved. It is not evidence for whichever programme currently lacks an explanation.\n\n**P9.** Designed integration is a research expectation grounded in the revealed teleology of creation; specific functional assignments remain empirical hypotheses constrained by the no-smuggling and no-free-lunch rules.
 
 ## 15. Next gate
 
