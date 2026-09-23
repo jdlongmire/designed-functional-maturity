@@ -1,6 +1,6 @@
 # WP-002: Retrodiction, Initialization, and Radiogenic Inference
 
-**Status:** Proposed foundational work package  
+**Status:** In progress  
 **Parent:** Designed Functional Maturity (DFM) Research Programme  
 **Target:** Formal framework plus controlled revision inputs for the DFM research-programme paper
 
@@ -278,3 +278,14 @@ DFM does not need faster clocks.
 It needs a rigorous account of what the clocks are measuring,
 what their models infer, and what warrants identifying that inference with actual history.
 ```
+
+
+## 18. Execution log
+
+### 2026-09-23
+
+- WS-1 Formal epistemology: **baseline complete**
+- WS-2 Initialization-state constraints: **baseline complete**
+- Artifact: [DFM Retrodiction and Initialization Framework](WP-002/dfm-retrodiction-initialization-framework.md)
+- Next gate: WS-3 radiogenic evidence ledger and known-age calibration dataset from primary technical sources
+- Flagship DFM paper remains unchanged pending adversarial testing
