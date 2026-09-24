@@ -210,9 +210,9 @@ Relevant constraint classes include:
 - cross-system concordance;
 - consequences testable outside the chronology being protected.
 
-An initialization parameter introduced solely because it yields the preferred T_H is ad hoc and counts against DFM.
+An initialization parameter introduced primarily to recover a preferred T_H carries additional explanatory cost. It is not disallowed merely because it is auxiliary or introduced in response to an anomaly; competing research programmes routinely revise protective-belt hypotheses. Its warrant increases when it gains independent constraint, explanatory reach, cross-domain coherence, or discriminating consequences, and decreases when it serves only as an unconstrained chronology accommodation.
 
-## 9. No chronology rescue rule
+## 9. Symmetric auxiliary and chronology-accounting rule
 
 The following inference is invalid:
 
@@ -230,7 +230,7 @@ therefore alter a measured physical rate
 
 is invalid absent independent evidence for rate variation.
 
-DFM must absorb unresolved discrepancies as unresolved rather than purchasing agreement through unconstrained auxiliaries.
+DFM may revise boundary conditions, mechanisms, and auxiliary hypotheses in response to unresolved discrepancies, as may competing programmes. Such revisions incur explanatory cost and should be evaluated by the same standard applied to conventional models: independent motivation, constraint, explanatory gain, empirical fruitfulness, and whether the programme is becoming progressively more coherent rather than accumulating unconstrained accommodations. Unresolved accounting remains unresolved when no warranted revision is available.
 
 ## 10. Concordance rule
 
@@ -303,13 +303,13 @@ Measured ordinary decay behavior remains the prospective default. Accelerated de
 
 **P4.** DFM initialization is constrained initialization, not arbitrary assignment of antecedent-looking state.
 
-**P5.** Initialization freedom cannot be purchased by chronology conflict.
+**P5.** Initialization and auxiliary hypotheses are legitimate model components, including when developed in response to chronology conflict; their evidential standing depends on independent constraint, explanatory gain, and empirical fruitfulness rather than on an asymmetric prohibition against model revision.
 
 **P6.** Genuine independent concordance is evidence that DFM must explain rather than dismiss.
 
 **P7.** Physical rates are not altered to rescue chronology without independent empirical warrant.
 
-**P8.** Unresolved accounting remains unresolved. It is not evidence for whichever programme currently lacks an explanation.\n\n**P9.** Designed integration is a research expectation grounded in the revealed teleology of creation; specific functional assignments remain empirical hypotheses constrained by the no-smuggling and no-free-lunch rules.
+**P8.** Unresolved accounting remains unresolved. It is not evidence for whichever programme currently lacks an explanation.\n\n**P9.** Designed integration is a research expectation grounded in the revealed teleology of creation; specific functional assignments remain empirical hypotheses constrained by the no-smuggling and no-free-lunch rules.\n\n**P10.** Competing research programmes receive the same methodological allowance for auxiliary hypotheses, model revision, unresolved problems, and continuing research. They should be compared using the same evidence, inferential rules, accounting for auxiliaries, and demand for progressive explanatory development.
 
 ## 15. Next gate
 
