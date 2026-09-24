@@ -50,14 +50,14 @@ Information-rich observations such as SN 1987A are research obligations for DFM.
 4. What functional roles do supernova remnants, shock waves, and enriched interstellar material play in subsequent star and planet formation?
 5. What information is encoded in observed supernova light curves and spectra, particularly SN 1987A?
 6. Under DFM, what would have to be initialized coherently for an information-rich radiation field to correspond to a real source and functional cosmic state?
-7. Can DFM distinguish an initialized functional state from a fabricated event history in a principled, non-ad-hoc way?
+7. Can DFM distinguish an initialized functional state from a fabricated event history using constrained auxiliaries that add explanatory value rather than merely accommodating chronology?
 8. What observations would count against the proposed functional-state hypothesis?
 9. Does the hypothesis generate any novel or discriminating expectation concerning elemental abundance, source/event relationships, or cosmic habitability?
 10. How does the hypothesis interface with Day 4 deployment without asserting more than the biblical text warrants?
 
 ## Initial falsification / failure conditions
 
-The hypothesis should be weakened or rejected if research shows that the proposed supernova-related states have no material functional relationship to life-permitting conditions; the required initialized state cannot preserve coherent source, event, product, and radiation relationships without arbitrary auxiliaries; the model requires observations to represent events having no functional or causal relationship to the initialized system; a simpler DFM mechanism explains the observations with fewer unsupported assumptions; or the hypothesis conflicts with established observations that cannot be reconciled without relaxing its stated constraints.
+The hypothesis should be weakened or rejected if research shows that the proposed supernova-related states have no material functional relationship to life-permitting conditions; the required initialized state cannot preserve coherent source, event, product, and radiation relationships without unconstrained or purely accommodative auxiliaries; the model requires observations to represent events having no functional or causal relationship to the initialized system; a simpler DFM mechanism explains the observations with fewer unsupported assumptions; or the hypothesis conflicts with established observations that cannot be reconciled without relaxing its stated constraints.
 
 ## Work plan
 
