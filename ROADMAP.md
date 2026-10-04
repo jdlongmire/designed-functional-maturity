@@ -2,7 +2,7 @@
 
 ## Current objective
 
-Move DFM from a conceptual framework to a constrained, quantitatively testable research programme.
+Develop DFM as a constrained, quantitatively testable model of the Genesis 1 phased supernatural deployment of creation, its transition into ordinary designed operation, and the historical inferences that can legitimately be drawn from present mature states.
 
 ## Phase 1: Programme foundation
 
@@ -17,7 +17,7 @@ Move DFM from a conceptual framework to a constrained, quantitatively testable r
 
 ## Phase 2: Radiogenic severe tests
 
-**Status: active**
+**Status: checkpoint reached; WP-012 captured and deferred**
 
 Priority order:
 
@@ -69,8 +69,15 @@ Deliverables:
 
 ## Immediate next gate
 
-The immediate technical gate is a quantitative U-Pb case study.
+The immediate programme-level gate is **phased-deployment formalization**, not another radiometric subproblem.
 
-The case study must attempt to derive or constrain the dual U-Pb concordance structure from a common initialized state without using the conventional target age as an input.
+Priority tasks:
 
-A negative result is informative. If coherent initialization cannot account for the observed structure without age-target fitting, the current radiogenic auxiliary must be revised or downgraded.
+1. Map the Genesis 1 sequence as a deployment/run-book architecture without reducing the text to the engineering analogy.
+2. Formalize the transition `S_{i-1} -> S_i` for each creation day at the level warranted by the text.
+3. Define terrestrial-day continuity: Day 1 establishment of the light-dark/evening-morning cycle and Day 4 transition to luminary governance.
+4. Distinguish supernatural deployment transitions from ordinary designed operation.
+5. Build the coherent pre-seeding model and its consilience/provenance implications.
+6. Re-enter radiogenic WP-012 only when the programme-level architecture requires the formal identifiability result.
+
+The radiometric workstream remains a severe-test track, but it is no longer the immediate driver of DFM development.

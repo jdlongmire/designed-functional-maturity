@@ -2,9 +2,9 @@
 
 ## 1. Programme identity
 
-Designed Functional Maturity (DFM) is a Christian methodological-designist research programme examining whether functionally mature created states can account for present observations without requiring that every retrodictively available antecedent history was actually traversed.
+Designed Functional Maturity (DFM) is a Christian methodological-designist research programme that treats Genesis 1 as an actual historical description of God's ordered, supernatural, phased deployment of creation. It investigates how functionally mature created states are instantiated and commissioned into ordinary operation, and what follows for historical inference when post-deployment laws are extrapolated backward across supernatural initialization boundaries.
 
-DFM operates inside the Biblical World Model (BWM). It is not an independent replacement for biblical exegesis and does not permit natural reconstruction to silently redefine canonical historical boundaries.
+DFM operates inside the Biblical World Model (BWM). Scripture supplies the governing creation-history architecture. Natural observation supplies genuine constraints on the physical states, ordinary operations, and post-initialization histories modeled within that architecture.
 
 ## 2. Research question
 
@@ -14,15 +14,18 @@ DFM focuses especially on cases in which a present mature state admits a long na
 
 ## 3. Hard core
 
-1. Intentional creation is a real causal category.
-2. Biblical creation history supplies governing historical boundary conditions for the programme.
-3. Functional maturity at initialization is admissible.
-4. Initialization must be physically coherent rather than miraculous disorder disguised as maturity.
-5. Ordinary observed physical laws govern subsequent operation by default.
-6. Retrodictive accessibility does not establish historical traversal by logical necessity.
-7. Empirical observations remain genuine constraints on DFM.
+1. **Revealed phased deployment:** Genesis 1 records a real ordered sequence of supernatural creative/deployment acts.
+2. **Sequential initialization:** successive creation phases instantiate, configure, populate, and commission real domains and systems.
+3. **Functional maturity:** created systems may begin operation in mature states adequate for their commissioned roles.
+4. **Coherent pre-seeding:** initialized state is integrated and physically coherent rather than a collection of arbitrary appearances.
+5. **Terrestrial-day continuity:** God establishes the terrestrial light-dark, evening-morning cycle on Day 1 by supplying and purposefully constraining the initial light; on Day 4 the luminaries become its ordinary created governors and markers.
+6. **Biblical supernaturalism:** divine action is a real causal category and cannot be excluded a priori from the revealed creation sequence.
+7. **Methodological Designism:** ordinary created operation is investigated through designed natural capacities, stable regularities, laws, structures, and boundary conditions.
+8. **Ordinary prospective physics:** observed physical laws govern subsequent operation by default.
+9. **Retrodictive non-identity:** retrodictive accessibility does not establish historical traversal by logical necessity.
+10. **Empirical accountability:** observations remain genuine constraints, and the protective belt must generate independently constrained, empirically progressive explanations.
 
-The hard core is protected methodologically, not immunized empirically. Repeated failure of the protective belt to generate independently constrained, empirically progressive explanations counts against the programme.
+The hard core is protected methodologically, not immunized empirically. Failure of an auxiliary is not automatically failure of the hard core, but repeated protective-belt failure without increasing predictive content counts against the programme.
 
 ## 4. Positive heuristic
 
@@ -49,29 +52,53 @@ DFM should not:
 - use a conventional retrodictive age as an initialization input and then claim the recovered age as a prediction;
 - protect an auxiliary indefinitely when it repeatedly fails independent tests.
 
-## 6. Initialization formalism
+## 6. Phased initialization formalism
 
-The general initialization boundary is:
+The canonical Genesis-scale architecture is:
+
+```text
+S_i = G_i(Phi_i, L, B_i, S_{i-1})
+```
+
+where `S_{i-1}` is the already-deployed creation, `Phi_i` is the commissioned functionality introduced or enabled in phase `i`, `B_i` is the relevant coherent boundary state, and `G_i` represents the divine initialization/deployment act.
+
+Schematically:
+
+```text
+S_0 --A1--> S_1 --A2--> ... --A6--> S_6
+```
+
+The local subsystem form remains:
 
 ```text
 S_0 = G(Phi, L, B)
 ```
 
-A stronger reconstruction formulation is:
+The distinction between deployment and operation is fundamental:
+
+> **The rules that govern a running system need not be the process by which the system was deployed.**
+
+For historical reconstruction:
 
 ```text
 R = R(O_t | M, A, B)
 ```
 
-where `R` is a retrodictively reconstructed trajectory. The programme denies the logical identity:
+DFM denies the logical identity `R = H` without historical-provenance warrant.
+
+Likewise:
 
 ```text
-R = H
+T_R = R(O_t | M,A,B)
 ```
 
-without historical-provenance warrant, where `H` is actual history.
+does not by itself entail:
 
-This is an underdetermination claim, not a claim that every alternative history is equally plausible.
+```text
+T_R = T_H
+```
+
+A retrodictive extrapolation may be mathematically precise while its chronometric interpretation remains conditioned on provenance and historical assumptions.
 
 ## 7. Functional versus deceptive maturity
 
@@ -166,7 +193,7 @@ An auxiliary should be downgraded or abandoned when:
 
 The programme as a whole becomes degenerative if its protective belt grows while independent predictive content does not.
 
-## 13. Comparison standard
+## 13. Comparison standard and consilience
 
 DFM and competing programmes receive symmetrical treatment:
 
@@ -177,6 +204,16 @@ DFM and competing programmes receive symmetrical treatment:
 - cross-domain consilience matters;
 - post-hoc flexibility reduces discriminating force;
 - severe successful predictions increase programme credibility.
+
+DFM expects substantial consilience in an initialized state because creation is modeled as an integrated functional whole. Consilience therefore does not embarrass supernatural initialization. It is a requirement of coherent initialization.
+
+However, DFM must not infer from this that every particular consilient pattern has thereby been explained. Where a competing historical model derives a specific mathematical relationship, DFM bears the burden of deriving its alternative rather than merely labeling the observation coherent.
+
+Canonical epistemic maxims:
+
+> **Consilience establishes coherence; provenance establishes history.**
+
+> **Measurement establishes state. Retrodiction reconstructs trajectory. Provenance warrants history.**
 
 ## 14. Research outputs
 
@@ -194,3 +231,7 @@ DFM development should produce:
 ## 15. Governing maxim
 
 > Physical maturity is a state property. Historical age is a trajectory property. Inferring the latter from the former requires a warranted history model.
+
+> The rules that govern a running system need not be the process by which the system was deployed.
+
+> Consilience establishes coherence; retrodiction estimates trajectory; provenance establishes history.

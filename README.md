@@ -1,29 +1,32 @@
 # Designed Functional Maturity (DFM)
 
-**A research programme for distinguishing physical maturity from traversed history.**
+**A Christian methodological-designist research programme for phased supernatural creation, functional initialization, and historical inference.**
 
-Designed Functional Maturity (DFM) investigates a simple but consequential question:
+Designed Functional Maturity (DFM) begins with the Genesis 1 creation narrative as an actual historical description of God's ordered, supernatural deployment of creation. The creation days describe a real phased rollout in which domains and systems are instantiated, configured, populated, and commissioned into functional operation.
+
+From that starting point DFM investigates a consequential historical-inference question:
 
 > Does a mature physical state necessarily imply that every natural process capable of producing that state was historically traversed?
 
-DFM answers: **not by logical necessity**. It proposes that an intentionally initialized world may begin in a physically coherent, functionally mature state and thereafter operate under ordinary physical law.
+DFM answers: **not by logical necessity**. The laws that govern a running created system need not be the process by which that system was deployed. Created systems may therefore begin in physically coherent, functionally mature states and thereafter operate under ordinary designed physical law.
 
 DFM is developed here as a **Christian methodological-designist research programme** within the broader Biblical World Model (BWM). Scripture supplies the governing historical boundary conditions; observations of nature supply real constraints on model construction. The programme is intended to be exposed to severe empirical testing rather than insulated from it.
 
 ## Core model
 
-The initialization boundary is represented as:
+Genesis 1 is modeled as a phased initialization architecture:
 
 ```text
-S_0 = G(Phi, L, B)
+S_i = G_i(Phi_i, L, B_i, S_{i-1})
 ```
 
-where:
+where each deployment phase receives the already-established creation and adds or commissions the functionality specified for that phase. Schematically:
 
-- `S_0` is the initialized physical state;
-- `Phi` is the set of commissioned functional requirements;
-- `L` is the governing physical law structure;
-- `B` is the boundary conditions required for coherent operation.
+```text
+S_0 --A1--> S_1 --A2--> ... --A6--> S_6
+```
+
+The simpler local form `S_0 = G(Phi,L,B)` remains useful for individual initialized subsystems.
 
 The central reconstruction distinction is:
 
@@ -52,13 +55,34 @@ This is not permission for arbitrary initial conditions. DFM uses a **no-free-lu
 
 The current DFM hard core is:
 
-1. Creation is intentional rather than ontologically autonomous.
-2. The creation sequence establishes real historical boundary conditions.
-3. Created systems may be initialized in functionally mature states.
-4. The initialized state must be physically coherent under the laws governing subsequent operation.
-5. Ordinary observed physical law is the default for post-initialization evolution unless independent evidence warrants otherwise.
-6. Present state does not uniquely entail a traversed antecedent history merely because such a history can be retrodictively reconstructed.
-7. Observations and model-conditioned historical inferences must remain explicitly distinguished.
+1. **Revealed phased deployment.** Genesis 1 is an actual historical description of God's ordered supernatural deployment of creation.
+2. **Real deployment sequence.** The creation days specify real sequential initialization acts in which domains and systems are instantiated, configured, populated, and commissioned.
+3. **Functional maturity.** Created systems may be initialized in states adequate for immediate commissioned function.
+4. **Coherent pre-seeding.** Initialized states form an integrated physical whole rather than disconnected appearances; coupled state variables must be mutually coherent.
+5. **Terrestrial-day continuity.** God supplies and purposefully constrains the Day 1 light to establish the terrestrial light-dark, evening-morning cycle. On Day 4 the luminaries are commissioned as ordinary created governors and markers of that already-established terrestrial day.
+6. **Biblical supernaturalism.** Divine action is a real causal category and is not excluded from creation history a priori.
+7. **Methodological Designism in ordinary operation.** Once commissioned, created systems are ordinarily investigated through their stable designed causal capacities, laws, structures, and boundary conditions.
+8. **Ordinary prospective physics.** Observed physical law is the default for post-initialization operation unless independent evidence warrants otherwise.
+9. **Retrodiction is not provenance.** A present state does not uniquely entail a traversed antecedent history merely because that history can be reconstructed under ordinary laws.
+10. **Empirical accountability.** Observations constrain DFM, and initialization cannot be used as an unconstrained rescue device.
+
+Two canonical maxims follow:
+
+> **The rules that govern a running system need not be the process by which the system was deployed.**
+
+> **Consilience establishes coherence; provenance establishes history.**
+
+A fuller epistemic formulation is:
+
+> **Measurement establishes state. Retrodiction reconstructs trajectory. Provenance warrants history.**
+
+## Accessible model: coherent pre-seeding
+
+A useful analogy is a pre-seeded virtual world. A competent designer may initialize a world with mature terrain, atmosphere, hydrology, organisms, astronomical states, and the internal variables required for those systems to operate coherently under the world's ordinary rules. An observer can later extrapolate those rules backward and calculate how much runtime would be required to generate aspects of the state naturally. That retrodiction does not by itself establish the world's actual deployment history.
+
+The analogy illustrates initialization, state depth, coherence, phased deployment, and provenance. DFM does **not** assert that physical reality is a simulation.
+
+Because a pre-seeded state is integrated rather than arbitrary, substantial consilience among its observables is expected. The severe-testing question is not whether initialized states can be coherent, but whether DFM can derive the particular structure of that coherence without simply encoding the conventional history.
 
 ## Radiogenic systems
 
@@ -81,7 +105,7 @@ constrained radiogenic architecture
     -> ordinary decay thereafter
 ```
 
-Radiometric concordance is consequently investigated as an **orderly marker** of a coherent physical state. Its interpretation as a chronometer of pre-initialization elapsed history requires additional historical-provenance warrant.
+Radiometric concordance is investigated as a candidate **orderly marker** of a coherent physical state. Consilience is unsurprising under coherent initialization, but its specific mathematical structure remains a severe test. Its interpretation as a chronometer of pre-initialization elapsed history requires historical-provenance warrant, while DFM must independently explain any alternative initialization account it proposes.
 
 The heat budget is an anchor, not a universal explanation. It directly motivates U/Th/K architecture but does not automatically derive U-Pb concordia, isochrons, extinct-radionuclide signatures, mineral closure histories, or non-heat-producing isotope systems. Those are severe tests of the model.
 
