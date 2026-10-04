@@ -12,11 +12,15 @@ For each species `k`:
 M_k,total = Sum_r M_k,r
 ```
 
+Here `M_k,total` is total inventory of species `k`, `M_k,r` is that species' inventory in reservoir `r`, and the sum runs over reservoirs.
+
 For each reservoir:
 
 ```text
 M_r = Sum_k M_k,r
 ```
+
+Here `M_r` is total mass/inventory assigned to reservoir `r`, and the sum runs over species `k`.
 
 The model must close both species and reservoir mass balances.
 
@@ -27,6 +31,8 @@ For a mineral `m` and source reservoir `r`:
 ```text
 C_E,m = D_E^(m/r) * C_E,r
 ```
+
+Here `C_E,m` and `C_E,r` are concentrations of element `E` in mineral `m` and reservoir `r`, and `D_E^(m/r)` is their partition coefficient.
 
 This predicts elemental enrichment/depletion patterns when `D_E` and phase fractions are independently constrained.
 
@@ -49,6 +55,8 @@ N_P(t) = N_P(0) exp(-lambda t)
 
 N_D*(t) = N_D*(0) + N_P(0)[1 - exp(-lambda t)]
 ```
+
+Here `N_P(t)` is parent inventory at time `t`, `N_P(0)` is initial parent inventory, `N_D*(t)` is radiogenic daughter inventory, `N_D*(0)` is its initial value, and `lambda` is the measured decay constant.
 
 Ordinary decay is retained.
 
