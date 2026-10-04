@@ -10,5 +10,6 @@ Systematic development track for the Designed Functional Maturity (DFM) research
 | [WP-004](WP-004-radiogenic-coherent-initialization.md) | Radiogenic Coherent Initialization and Orderly-Marker Hypothesis | Canonical radiogenic model + RCIM | Executed baseline |
 | [WP-005](WP-005-programme-foundation-repository-refactor.md) | DFM Programme Foundation and Repository Refactor | Root README + programme charter + roadmap | Executed baseline |
 | [WP-006](WP-006-flagship-paper-rebuild.md) | Flagship DFM Paper Rebuild | `drafts/designed-functional-maturity.md` | Executed baseline |
+| [WP-007](WP-007-primary-source-literature-citation-pass.md) | Primary-Source Literature and Citation Pass | Evidence ledger + flagship citation grounding | Executed baseline |
 
 The current programme-level specification is [`PROGRAMME.md`](../PROGRAMME.md). The current development sequence is [`ROADMAP.md`](../ROADMAP.md).
