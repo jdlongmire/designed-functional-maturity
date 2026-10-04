@@ -195,6 +195,27 @@ Purpose: answer predictable objections and expose deeper implications.
 
 Purpose: support technical papers and research evaluation.
 
+## Preferred composition: 2 x 2 square grid
+
+For public-facing and social DFM infographics, the **default composition is a square 2 x 2 grid**. The format is preferred because it is mobile-friendly, publication-friendly, visually scannable, and forces each graphic to resolve into four high-value conceptual units.
+
+The 2 x 2 format is a default, not an absolute constraint. Use another composition when the subject is inherently sequential, cumulative, or mathematically dependent and forcing it into four panels would reduce explanatory accuracy. Likely exceptions include the six-day cumulative deployment sequence and technical retrodiction or concordance figures.
+
+For Visual 1, the preferred prototype is:
+
+| Panel | Function |
+|---|---|
+| **1. DEPLOY** | God establishes the system and coherent state required for intended function. `G_i` |
+| **2. COMMISSION** | The initialized system is placed into ordinary operation. |
+| **3. OPERATE** | The system subsequently behaves according to its designed regularities. `F_L^t` |
+| **4. INTERPRET** | Observing those regularities does not, by itself, establish how the system was deployed. |
+
+The canonical footer proposition is:
+
+> THE RULES THAT GOVERN A RUNNING SYSTEM NEED NOT BE THE PROCESS BY WHICH THE SYSTEM WAS DEPLOYED.
+
+Subtle numbering, connector treatment, or directional cues may preserve sequence across the four panels without sacrificing the square-grid composition.
+
 ## Common visual grammar
 
 The series should inherit the BWM/DFM visual family while remaining recognizably DFM.
@@ -220,10 +241,11 @@ For every visual:
 2. Identify the canonical proposition it must communicate.
 3. Identify what the graphic must **not** imply.
 4. Develop the information architecture before visual styling.
-5. Produce an initial concept with desktop/mobile use in mind.
-6. Review jointly for theological, scientific, epistemic, and visual accuracy.
-7. Revise until explicitly approved.
-8. Only then integrate into Pages, papers, social/publication assets, or the BWM layer as appropriate.
+5. Default to a square 2 x 2 information architecture for public-facing infographics unless the subject requires a different topology.
+6. Produce an initial concept with desktop/mobile use in mind.
+7. Review jointly for theological, scientific, epistemic, and visual accuracy.
+8. Revise until explicitly approved.
+9. Only then integrate into Pages, papers, social/publication assets, or the BWM layer as appropriate.
 
 No graphic is considered canonical merely because it has been generated.
 
