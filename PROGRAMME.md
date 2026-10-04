@@ -226,9 +226,20 @@ DFM development should produce:
 - quantitative notebooks/models;
 - adversarial test matrices;
 - peer-facing papers;
-- accessible public explainers.
+- accessible public explainers;
+- a canonical objections-and-responses register with stable IDs, dispositions, residual burdens, and links to severe-test work.
 
-## 15. Governing maxim
+## 15. Objections and adversarial testing
+
+DFM maintains a canonical [Objections and Responses Register](OBJECTIONS-AND-RESPONSES.md). Objections are stated in their strongest fair form and assigned explicit dispositions. A response does not close an objection merely by demonstrating logical possibility.
+
+Where appropriate, the programme uses the formulation:
+
+> **This objection does not defeat the argument, but it does identify a genuine explanatory burden that remains.**
+
+Hard-core challenges, auxiliary defeaters, severe challenges, and ordinary explanatory burdens are tracked separately so that protective-belt revision is not confused with revision of the programme's theological commitments.
+
+## 16. Governing maxim
 
 > Physical maturity is a state property. Historical age is a trajectory property. Inferring the latter from the former requires a warranted history model.
 
