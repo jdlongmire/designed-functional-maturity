@@ -378,6 +378,108 @@ Track A and Track B results are recorded separately. A failure on one ledger is 
 > **Test both directions, but keep the ledgers separate.**
 
 
+
+### 13A.10 Bayesian comparative evidence architecture
+
+DFM shall progressively evaluate competing historical models through a dependency-aware Bayesian evidence ledger rather than through undifferentiated counts of supporting observations.
+
+For a specified DFM model `D`, a specified competing historical model `C`, and evidence `E`:
+
+```text
+Posterior odds(D:C | E)
+=
+Prior odds(D:C)
+x
+Bayes factor(E | D:C)
+```
+
+For multiple evidential families, a simple product of likelihood ratios is admissible only where the relevant conditional-independence assumptions are warranted. Correlated observations, shared calibrations, shared physical models, and common auxiliary assumptions must be represented through the dependency graph rather than multiplied as independent confirmations.
+
+The programme shall therefore prefer:
+
+```text
+P(E_1,...,E_n | M)
+```
+
+or an explicitly factorized dependency model over an unqualified product:
+
+```text
+product_i P(E_i | M)
+```
+
+when evidence streams are dependent.
+
+#### Three-region comparison
+
+The programme shall organize the evidential trajectory into three analytically distinct regions:
+
+```text
+INITIALIZATION / PROVENANCE
+        ->
+HISTORICAL DEVELOPMENT
+        ->
+OBSERVED OPERATION
+```
+
+**Region I — Initialization / provenance**
+
+Evaluate the comparative explanatory treatment of initial state, law-governed intelligibility, functional specification, low-entropy boundary conditions, integrated system requirements, information-bearing organization, and relevant causal categories.
+
+DFM may possess substantial explanatory resources in this region, but no feature receives Bayesian credit merely because it is compatible with design. Likelihood advantage requires a reason that the evidence is differentially expected under the compared models.
+
+**Region II — Historical development**
+
+Evaluate radiometric relationships, stratigraphic sequence, geological formation histories, catastrophic processes, fossil succession, phylogenetic/genomic correspondence, biogeography, astronomical reconstruction, post-Flood diversification, and other process-specific historical evidence.
+
+This is presently the region in which conventional deep-time reconstruction is more extensively developed and cross-validated. DFM's standing here must improve through constrained generators, dependency-aware CCNs, discriminating predictions, severe tests, and quantitative causal audits rather than by transferring credit from Region I.
+
+**Region III — Observed operation**
+
+Evaluate prospective physical regularities and ordinary system behavior after the relevant initialization or historical boundary.
+
+Where DFM and a competing model make substantially the same operational prediction, the evidence has little discriminatory force and its Bayes factor should remain near unity. Shared successful prospective physics must not be repeatedly counted as evidence uniquely favoring either provenance model.
+
+#### Evidence-family ledger
+
+Each CCN shall eventually feed a Bayesian Evidence Ledger containing, at minimum:
+
+| Field | Requirement |
+|---|---|
+| Evidence family | Defined observation or evidential cluster |
+| Region | Initialization / historical development / observed operation |
+| DFM model | Exact DFM hypothesis being scored |
+| Comparator | Exact competing model being scored |
+| Observation | Measured state, not historical interpretation |
+| Dependencies | Shared models, calibrations, assumptions, auxiliaries |
+| DFM expectation | Pre-specified where possible |
+| Comparator expectation | Pre-specified where possible |
+| Likelihood assessment | Quantitative where defensible; ordinal otherwise |
+| Bayes factor | Calculated only where likelihoods are defensible |
+| Auxiliary cost | Parameter/fitting/post-hoc burden |
+| Independence status | Independent / partially dependent / dependent |
+| Confidence | Strength of the appraisal |
+| Direction | Favors DFM / favors comparator / weakly discriminating |
+| Update history | How the appraisal changes as the programme develops |
+
+#### Bayesian discipline
+
+1. **No false precision.** Do not assign numerical likelihoods merely to create an appearance of quantification. Use ordinal likelihood categories until defensible probability models exist.
+2. **No omnibus comparator.** "Naturalism," "old earth," or "science" is not a sufficiently specified comparator for quantitative scoring. Compare DFM against a defined model with stated auxiliaries and boundary conditions.
+3. **No double counting.** Evidence sharing a calibration, assumption, dataset, or causal dependency must not be multiplied as independent.
+4. **No prior laundering.** The posterior shall not conceal controversial worldview commitments inside unexplained numerical priors. Where priors cannot be responsibly quantified, report likelihood or Bayes-factor comparisons separately and perform sensitivity analysis.
+5. **No post-hoc likelihood inflation.** A model fitted after observing the target does not receive the same evidential credit as a pre-specified prediction.
+6. **No cross-ledger transfer.** Strong Region I evidence does not erase a Region II deficit. Strong Region II evidence does not settle an independent Region I provenance burden.
+7. **Update progressively.** The ledger is versioned. DFM may gain or lose comparative standing as generators, constraints, predictions, and severe-test outcomes mature.
+
+#### Canonical Bayesian interpretation
+
+> **DFM is not required to dominate every evidential region to possess comparative explanatory strength. Nor may strength in one region subsidize weakness in another. The programme shall track where each model is strong, weak, improving, or degenerating and update the comparative evidential ledger accordingly.**
+
+> **Bayesian comparison asks not merely whether a model can accommodate evidence, but how strongly the evidence was expected under that model relative to a specified competitor.**
+
+The purpose of the ledger is therefore progressive model comparison, not a predetermined numerical proof of DFM.
+
+
 ## 14. Research outputs
 
 DFM development should produce:
