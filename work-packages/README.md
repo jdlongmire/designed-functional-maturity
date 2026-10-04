@@ -29,6 +29,7 @@ Systematic development track for the Designed Functional Maturity (DFM) research
 | WP-023 | DFM Visual Explainer and Infographic Programme | Visual governance + ranked explainer programme | Executed / active |
 | WP-024 | DFM Media Library and Visual Asset Publication Architecture | Public media library + asset workflow | Executed |
 | [WP-025](WP-025-methodological-consolidation-epistemic-rollback-severe-test-architecture.md) | Methodological Consolidation, Epistemic Rollback, and Severe-Test Architecture | Canonical methodology + CCN/dependency graph + Track A/B governance | Active |
+| [WP-026](WP-026-oklo-natural-reactor-severe-test.md) | Oklo Natural Reactor Severe Test | `CCN-002-oklo-natural-reactor.md` + isotope/transport evidence ledger | Active |
 
 > **Index note:** WP-020 through WP-024 were previously executed/captured but were not consistently indexed in this README. WP-025 records the known sequence while follow-on maintenance should reconcile exact filenames/links for those entries.
 
