@@ -401,6 +401,40 @@ Symmetry must be demonstrated case by case. The existence of an asymmetric criti
 
 ---
 
+## OAR-017: Artifact and engineered-system analogies already assume known designers
+
+**Class:** Analogy / philosophy of inference  
+**Target:** Lived-epistemology argument; pre-seeded-world analogy  
+**Disposition:** Answered with qualification
+
+### Strong objection
+
+Computers, software, archaeological artifacts, and engineered systems are known to involve designers because we independently observe human agents making such things. Pointing out that their operating rules do not explain their manufacture does not establish that nature has an analogous designer. The argument risks transferring a known-artifact inference to the universe without warrant.
+
+### DFM response
+
+Agreed if the analogy is offered as a proof of design. DFM does not use it that way.
+
+The narrower argument is epistemic: ordinary reasoning already recognizes that a system's operating laws and its provenance are distinct explanatory questions. Therefore the inference
+
+```text
+regular natural operation -> exclusively natural provenance
+```
+
+is not a general rule of rational inquiry. If that inference is imposed specifically upon origins, it requires independent justification.
+
+The analogy therefore establishes the legitimacy of separating operation from provenance. It does not identify the provenance of creation by itself.
+
+### Residual burden
+
+DFM must supply its positive warrant for supernatural initialization independently of the artifact analogy and must not treat every instance of complex or orderly natural structure as direct evidence of design merely by resemblance to engineered objects.
+
+### Burden-symmetry note
+
+A critic may reject design provenance, but should not simultaneously treat methodological success in explaining ordinary operation as though it independently established exhaustive naturalistic provenance. The historical inference on either side remains subject to the Symmetric Evidential Standard.
+
+---
+
 ## Register maintenance
 
 New objections should be added before substantial response development where practical. Existing entries should be updated rather than duplicated. A changed disposition should record the WP or evidence that justified the change.
