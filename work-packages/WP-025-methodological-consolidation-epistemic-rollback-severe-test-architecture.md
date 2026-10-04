@@ -25,7 +25,7 @@ where:
 - `O_t` = present observed state;
 - `M` = model connecting observations to a reconstructed trajectory;
 - `A` = auxiliary assumptions/hypotheses;
-- `B` = boundary and calibration conditions;
+- `B` = boundary, calibration, and initialization conditions;
 - `T_R` = model-conditioned retrodictive age;
 - `T_H` = actual historical elapsed time.
 
@@ -65,7 +65,7 @@ Intelligent agency is an empirically observed causal category capable of produci
 
 ### 3.5 No Free Lunch
 
-No programme may hide explanatory cost inside initial conditions, fitted parameters, auxiliary hypotheses, unspecified emergence, elapsed time, or unconstrained historical reconstruction and then count the resulting fit as independent explanatory success.
+No programme may hide explanatory cost inside initialization conditions, fitted parameters, auxiliary hypotheses, unspecified emergence, elapsed time, or unconstrained historical reconstruction and then count the resulting fit as independent explanatory success.
 
 ### 3.6 Dependency-Aware Consilience
 
@@ -77,7 +77,7 @@ Evidential weight must account for:
 - shared assumptions;
 - distinct physical mechanisms;
 - calibration chains;
-- boundary conditions;
+- initialization and boundary conditions;
 - model mediation;
 - known failure modes;
 - discordances and their explanations;
@@ -120,6 +120,43 @@ Can a specified conventional historical mechanism quantitatively generate the ob
 
 A Track B failure debits the tested conventional causal story. It does not automatically credit DFM. A Track A failure debits DFM. It does not automatically solve an independent conventional provenance burden.
 
+### 3.9 Interpretive Sensitivity Principle
+
+Radiometric chronology is a model-mediated inverse problem. A measured isotope state and a measured decay law do not, by themselves, specify historical elapsed time.
+
+For a radiometric reconstruction, use the canonical abstraction:
+
+```
+T_R = f(O_t, lambda, S_0, H, M, A)
+```
+
+where:
+
+- `O_t` = present measured isotope state;
+- `lambda` = operationally measured decay physics;
+- `S_0` = initialization conditions at the relevant reconstruction boundary;
+- `H` = subsequent system history, including closure, retention, loss, migration, alteration, and thermal events;
+- `M` = interpretive/reconstruction model;
+- `A` = remaining auxiliaries;
+- `T_R` = model-conditioned retrodictive age.
+
+Therefore:
+
+```
+analytical precision of O_t and lambda != historical certainty of T_H
+```
+
+Sensitivity is not uniform across radiometric systems. Systems with independently constrained initialization conditions, robust closure evidence, multiple decay chains, concordance relations, and genuinely independent geological cross-checks can sharply restrict admissible reconstructions. Systems with poorly constrained initialization conditions or disturbed histories may be highly sensitive to interpretive choices.
+
+Accordingly, DFM shall not argue merely that "radiometric dating depends on assumptions." It shall identify which initialization condition or historical auxiliary materially controls a result, quantify sensitivity where possible, and test whether independent evidence constrains that degree of freedom.
+
+The preferred terminology is:
+
+- **initial state** for the actual physical state `S_0`;
+- **initialization conditions** for the conditions specified, inferred, or assumed when constructing the retrodictive model.
+
+This distinction applies symmetrically to DFM and conventional reconstructions.
+
 ## 4. Epistemic rollback audit
 
 The programme shall review existing DFM artifacts for language that inadvertently grants more than the evidence directly establishes.
@@ -147,7 +184,8 @@ For each major chronological claim, record:
 | Model | What maps the measurement to prior state/trajectory? |
 | Shared assumptions | Which assumptions recur across streams? |
 | Calibration | What calibration chain is required? |
-| Boundary conditions | What initial/closure/environmental conditions matter? |
+| Initialization conditions | What initial isotope/mineral/physical conditions are specified or inferred? |
+| Subsequent history | What closure/retention/environmental history matters? |
 | Auxiliaries | What additional hypotheses are used? |
 | Failure modes | How can the system depart from ideal behavior? |
 | Independent cross-checks | Which checks use genuinely distinct physics/data? |
@@ -189,7 +227,7 @@ solely because a selected `T_R` places the system on conventional concordia, the
 
 The open severe-test question remains:
 
-> Can independently constrained initialization produce decay-constant-indexed concordance without elapsed retrodictive age functioning as an initialization surrogate?
+> Can independently constrained initialization conditions produce decay-constant-indexed concordance without elapsed retrodictive age functioning as an initialization surrogate?
 
 Failure is to be recorded as failure.
 
@@ -330,6 +368,12 @@ The same auxiliary and causal standards apply when auditing conventional histori
 > Measurement establishes state. Retrodiction reconstructs trajectory. Provenance warrants history.
 
 > Physical maturity is a state property. Historical age is a trajectory property.
+
+> Radiometric age is reconstructed, not directly measured.
+
+> Initialization conditions and subsequent system history are part of the inference, not part of the measurement.
+
+> Analytical precision does not erase interpretive sensitivity.
 
 > Consilience is not homogeneity.
 
