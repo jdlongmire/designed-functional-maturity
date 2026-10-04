@@ -5,4 +5,6 @@ Systematic development track for the papers associated with the Designed Functio
 | ID | Title | Target artifact | Status |
 |---|---|---|---|
 | [WP-001](WP-001-flesh-out-original-artifact.md) | Flesh out the original artifact | `drafts/designed-functional-maturity.md` | Not started |
-| [WP-002](WP-002-retrodiction-initialization-radiogenic-inference.md) | Retrodiction, Initialization, and Radiogenic Inference | Formal framework + DFM research-programme revision inputs | Proposed |\n| [WP-003](WP-003-supernova-functional-state-hypothesis.md) | Supernova Functional-State Hypothesis | Supernova dependency map + SN 1987A test case + constrained initialization model | Proposed / active investigation |
+| [WP-002](WP-002-retrodiction-initialization-radiogenic-inference.md) | Retrodiction, Initialization, and Radiogenic Inference | Formal framework + DFM research-programme revision inputs | In progress |
+| [WP-003](WP-003-supernova-functional-state-hypothesis.md) | Supernova Functional-State Hypothesis | Supernova dependency map + SN 1987A test case + constrained initialization model | Proposed / active investigation |
+| [WP-004](WP-004-radiogenic-coherent-initialization.md) | Radiogenic Coherent Initialization and Orderly-Marker Hypothesis | Canonical model statement + Radiogenic Coherent Initialization Matrix | Executed baseline |
