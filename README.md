@@ -157,6 +157,7 @@ Where observations could discriminate coherent initialization from traversed nat
 - [`video-assets/`](video-assets/) — video assets.
 - [Programme Charter](PROGRAMME.md) — hard core, heuristics, scope, burdens, predictions, and falsification discipline.
 - [Research Roadmap](ROADMAP.md) — current development sequence.
+- [Objections and Responses Register](OBJECTIONS-AND-RESPONSES.md) — canonical adversarial-testing ledger with dispositions and residual burdens.
 
 ## Current principal artifacts
 
