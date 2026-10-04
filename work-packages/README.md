@@ -19,5 +19,6 @@ Systematic development track for the Designed Functional Maturity (DFM) research
 | [WP-013](WP-013-hard-core-phased-deployment-and-provenance.md) | Hard-Core Tuning: Phased Deployment and Provenance | Programme charter + README + flagship + roadmap tuning | Executed |
 | [WP-014](WP-014-objections-and-responses-register.md) | Objections and Responses Register | Canonical OAR register + governance rules | Executed |
 | [WP-015](WP-015-symmetric-evidential-standard.md) | Symmetric Evidential Standard | Comparative epistemology + OAR burden-symmetry governance | Executed |
+| [WP-016](WP-016-dfm-public-pages-site.md) | DFM Public Pages Site | Mobile-first public programme presentation | Executed baseline |
 
 The current programme-level specification is [`PROGRAMME.md`](../PROGRAMME.md). The current development sequence is [`ROADMAP.md`](../ROADMAP.md).
