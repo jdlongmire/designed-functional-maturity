@@ -349,6 +349,29 @@ compatibility
 
 Demonstrating that a causal category can produce a class of effects does not establish that it produced the particular historical effect under investigation. Historical attribution requires discriminating evidence.
 
+### 13A.6a Causal Adequacy Burden
+
+> **A proposed historical explanation bears the burden of demonstrating that its specified causal resources are sufficient to generate the explanandum under independently warranted initialization and boundary conditions. Demonstrating that individual component processes are possible does not establish the causal adequacy of the complete historical pathway.**
+
+The burden applies symmetrically to DFM and competing historical programmes. A sequence of individually possible steps is not yet a demonstrated generative trajectory. The programme must distinguish:
+
+```text
+component possibility
+< pathway plausibility
+< integrated causal adequacy
+< discriminating historical attribution
+```
+
+Accordingly, elapsed time, available precursor materials, isolated laboratory reactions, or a collection of individually admissible mechanisms do not by themselves establish that the proposed historical transition was reachable under the specified conditions.
+
+Likewise, failure of a competing mechanism to meet its causal-adequacy burden does not establish DFM. DFM carries its own positive burden to specify initialization constraints, derive consequences, and survive discriminating tests.
+
+This principle is especially important when laboratory intervention supplies conditions not independently established for the proposed historical environment. Purification, concentration, sequencing, selection, removal of products, controlled energy input, or investigator-directed transitions may demonstrate that a chemical or physical process is possible under those conditions without demonstrating that the target historical environment generated those conditions unguided.
+
+Canonical burden rule:
+
+> **Each explanatory arrow carries its own positive burden. Failure on one ledger is not success on another. Possibility of the parts is not causal adequacy of the pathway.**
+
 ### 13A.7 No Free Lunch
 
 No programme may hide explanatory cost inside initial conditions, fitted parameters, auxiliary hypotheses, unspecified emergence, elapsed time, or unconstrained historical reconstruction and then count the resulting fit as independent explanatory success.
