@@ -60,7 +60,7 @@ The canonical Genesis-scale architecture is:
 S_i = G_i(Phi_i, L, B_i, S_{i-1})
 ```
 
-where `S_{i-1}` is the already-deployed creation, `Phi_i` is the commissioned functionality introduced or enabled in phase `i`, `B_i` is the relevant coherent boundary state, and `G_i` represents the divine initialization/deployment act.
+where `i` identifies the phase, `S_i` is the resulting state, `S_{i-1}` is the already-deployed creation, `G_i` is the initialization/deployment act, `Phi_i` is the commissioned functionality introduced or enabled in phase `i`, `B_i` is the relevant coherent boundary state, and `G_i` represents the divine initialization/deployment act.
 
 Schematically:
 
@@ -73,6 +73,8 @@ The local subsystem form remains:
 ```text
 S_0 = G(Phi, L, B)
 ```
+
+Here `S_0` is the initialized subsystem state, `G` is the initialization relation, `Phi` is commissioned functionality, `L` is the governing law-set, and `B` is the coherent boundary state.
 
 The distinction between deployment and operation is fundamental:
 

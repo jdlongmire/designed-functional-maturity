@@ -20,11 +20,15 @@ For isotope system `i` with decay constant `lambda_i`, conventional closed-syste
 m_i = exp(lambda_i T) - 1
 ```
 
+Here `i` indexes an isotope system, `m_i` is its radiogenic slope or daughter-parent growth relation, `lambda_i` is its measured decay constant, and `T` is elapsed/retrodictive time.
+
 Cross-system concordance occurs when distinct isotope systems recover approximately the same `T`:
 
 ```text
 T_i = ln(1 + m_i) / lambda_i ~= T
 ```
+
+Here `T_i` is the duration inferred from isotope system `i`; `ln` is the natural logarithm. Approximate equality across `T_i` values is the cross-system concordance condition.
 
 WP-008 through WP-011 established that DFM physical initialization constraints can motivate:
 
@@ -70,6 +74,8 @@ Define:
 ```text
 T_i(G) = ln(1 + m_i(G)) / lambda_i
 ```
+
+Here `G` is the proposed initialization generator and `m_i(G)` is the relation it generates for isotope system `i`.
 
 If for all modeled systems:
 

@@ -21,6 +21,8 @@ x(T) = Pb206*/U238 = exp(lambda238 T) - 1
 y(T) = Pb207*/U235 = exp(lambda235 T) - 1
 ```
 
+Here `T` is elapsed or retrodictive time; `x(T)` is the radiogenic Pb-206/U-238 ratio; `y(T)` is the radiogenic Pb-207/U-235 ratio; and `lambda238` and `lambda235` are the corresponding measured decay constants.
+
 The concordia curve is the parametric locus `(x(T), y(T))`.
 
 ## 3. Initialization inversion
@@ -31,6 +33,8 @@ If DFM historical elapsed time after initialization is `tau`, but a zircon plots
 x0 = [x(T_R) + 1] exp(-lambda238 tau) - 1
 y0 = [y(T_R) + 1] exp(-lambda235 tau) - 1
 ```
+
+Here `x0` and `y0` are the ratios required at initialization, `T_R` is the retrodictive duration represented by the target concordia point, and `tau` is actual post-initialization elapsed time.
 
 For `tau << T_R`:
 

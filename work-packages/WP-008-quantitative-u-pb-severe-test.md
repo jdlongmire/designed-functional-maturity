@@ -17,12 +17,16 @@ D206(t) = D206_0 + N238_0 (1 - exp(-lambda238 t))
 D207(t) = D207_0 + N235_0 (1 - exp(-lambda235 t))
 ```
 
+Here `D206(t)` and `D207(t)` are daughter inventories at time `t`; `D206_0` and `D207_0` are initial daughter inventories; `N238_0` and `N235_0` are initial parent inventories; `lambda238` and `lambda235` are the measured decay constants; and `t` is elapsed time.
+
 Equivalently in present-parent form:
 
 ```text
 D206_rad / U238_now = exp(lambda238 t) - 1
 D207_rad / U235_now = exp(lambda235 t) - 1
 ```
+
+Here `D206_rad` and `D207_rad` are radiogenic daughter inventories, while `U238_now` and `U235_now` are present parent inventories.
 
 Concordia arises because one value of `t` simultaneously satisfies both decay systems.
 
@@ -46,6 +50,8 @@ For a perfectly concordant point corresponding to a conventional age `T_R`, the 
 r206_0 ~= exp(lambda238 T_R) - 1
 r207_0 ~= exp(lambda235 T_R) - 1
 ```
+
+Here `r206_0` and `r207_0` are initialized radiogenic daughter-to-parent ratios, and `T_R` is the retrodictive duration.
 
 Therefore the two initial daughter ratios must satisfy the same nonlinear relationship that defines conventional concordia.
 
