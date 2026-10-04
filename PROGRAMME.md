@@ -195,15 +195,46 @@ The programme as a whole becomes degenerative if its protective belt grows while
 
 ## 13. Comparison standard and consilience
 
-DFM and competing programmes receive symmetrical treatment:
+### 13.1 Symmetric Evidential Standard
 
-- observations are observations;
-- reconstructions are reconstructions;
-- auxiliaries are allowed but costed;
-- independent constraints increase evidential weight;
-- cross-domain consilience matters;
-- post-hoc flexibility reduces discriminating force;
-- severe successful predictions increase programme credibility.
+> **DFM and competing historical programmes must be evaluated under the same epistemic standards. A requirement imposed on DFM cannot be waived for a competing reconstruction merely because that reconstruction represents the prevailing consensus.**
+
+Symmetry applies to initial and boundary conditions, unobserved historical states, auxiliary hypotheses, parameter fitting, post-hoc accommodation, explanatory compression, provenance claims, and severe tests.
+
+Neither side receives privileged access to unobserved history. DFM may not demand direct observation of a competing programme's past while relying on inference for its own claims. Conversely, DFM may not be required to directly observe supernatural initialization while a competing programme is permitted to infer its unobserved history from present states.
+
+Both should expose the same inference architecture:
+
+```text
+observations
++ model structure
++ initial/boundary conditions
++ auxiliaries
++ provenance assumptions
+-> historical inference
+```
+
+### 13.2 Common evidential ladder
+
+Claims should be identified by the strongest level actually achieved:
+
+```text
+compatibility
+    < accommodation
+    < independent derivation
+    < novel prediction
+    < successful severe test
+```
+
+Consensus status does not itself promote a claim to a higher evidential level.
+
+### 13.3 No race to the bottom
+
+> **Weakness, underdetermination, or auxiliary dependence in a competing programme does not constitute positive evidence for DFM.**
+
+The symmetry principle prevents special pleading; it does not reduce DFM's burden. DFM should seek stronger derivations and more severe tests even where competing models have not done so.
+
+### 13.4 Consilience
 
 DFM expects substantial consilience in an initialized state because creation is modeled as an integrated functional whole. Consilience therefore does not embarrass supernatural initialization. It is a requirement of coherent initialization.
 
@@ -238,6 +269,8 @@ Where appropriate, the programme uses the formulation:
 > **This objection does not defeat the argument, but it does identify a genuine explanatory burden that remains.**
 
 Hard-core challenges, auxiliary defeaters, severe challenges, and ordinary explanatory burdens are tracked separately so that protective-belt revision is not confused with revision of the programme's theological commitments.
+
+Every substantial OAR entry should also receive a **burden-symmetry check**: determine whether the objection expresses a universal epistemic requirement or a demand applied only to DFM; then apply any universal requirement to the competing reconstruction as well. This check does not answer the objection by itself and may not be used as a tu quoque defense.
 
 ## 16. Governing maxim
 
