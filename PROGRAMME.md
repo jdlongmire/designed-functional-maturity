@@ -426,6 +426,65 @@ Canonical maxim:
 
 > **A demonstrated mind-mediated pathway is positive causal knowledge, not merely a gap in another explanation. Generative capacity establishes candidacy; discriminating evidence establishes attribution.**
 
+### 13A.6c No Gap Substitution Principle
+
+> **No explanatory framework may convert an unresolved causal pathway into an explanation merely by naming what occupies the gap.**
+
+The methodological error is symmetric. For example:
+
+```text
+God-of-the-gaps:
+unresolved pathway -> therefore divine action
+
+time-of-the-gaps:
+unresolved pathway -> therefore sufficient elapsed time
+
+emergence-of-the-gaps:
+unresolved pathway -> therefore emergence
+
+chance-of-the-gaps:
+unresolved pathway -> therefore chance
+
+initialization-of-the-gaps:
+unresolved pathway -> therefore initialized state
+```
+
+In each case, the label does not discharge the causal burden. The relevant question remains whether the proposed explanatory resources supply a specified generative pathway with adequate mechanism or agency, constraints, reachable states, rates or probabilities where applicable, viable intermediates where applicable, and discriminating empirical warrant.
+
+#### Time is not a generative mechanism
+
+Elapsed time can increase the number of opportunities available to an independently specified process. It does not itself generate an outcome. Additional time has explanatory force only after a causal model establishes how the relevant process explores its reachable state space and how additional trials affect the probability of the explanandum.
+
+Thus:
+
+```text
+more time + unspecified pathway != causal explanation
+```
+
+#### Emergence must expose the arrow
+
+Emergence may name a genuine relationship between lower-level dynamics and higher-level organization. But when invoked historically, the term does explanatory work only to the extent that the lower-level dynamics, boundary conditions, interactions, and transition rules actually generate the claimed higher-level state.
+
+Thus:
+
+```text
+"emergent" != demonstrated emergence pathway
+```
+
+#### Mind is a causal candidate, not a gap label
+
+The symmetry of burden does not imply that every proposed cause has the same empirical status. Mind is independently observed to generate some classes of specified functional outcomes. It therefore enters an appropriate comparison as a candidate causal pathway on the basis of positive causal knowledge, not merely because another explanation has failed.
+
+That positive generative capacity still does not establish historical attribution. The evidence must discriminate intelligent agency from other causally adequate candidates.
+
+#### DFM receives no exemption
+
+DFM may not use "initialization," "functional maturity," "design," or divine action as placeholders for an unexplained physical relationship. Where DFM proposes an initialized state, it must specify the constraints of that initialization, derive consequences where possible, and expose the proposal to comparative and severe testing.
+
+Canonical maxim:
+
+> **Naming the gap is not crossing it. Time supplies duration, chance supplies a probability model only when one is specified, emergence names an outcome relation only when its generating dynamics are shown, and design establishes history only when positive causal capacity is joined to discriminating evidence.**
+
 ### 13A.7 No Free Lunch
 
 No programme may hide explanatory cost inside initial conditions, fitted parameters, auxiliary hypotheses, unspecified emergence, elapsed time, or unconstrained historical reconstruction and then count the resulting fit as independent explanatory success.
