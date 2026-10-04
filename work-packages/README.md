@@ -17,5 +17,6 @@ Systematic development track for the Designed Functional Maturity (DFM) research
 | [WP-011](WP-011-rb-sr-isochron-severe-test.md) | Rb-Sr Isochron Severe Test | Isochron decomposition + slope discriminator | Executed baseline |
 | [WP-012](WP-012-decay-constant-indexed-concordance-challenge.md) | Decay-Constant-Indexed Concordance Challenge | Formal identifiability challenge across isotope systems | Captured / not executed |
 | [WP-013](WP-013-hard-core-phased-deployment-and-provenance.md) | Hard-Core Tuning: Phased Deployment and Provenance | Programme charter + README + flagship + roadmap tuning | Executed |
+| [WP-014](WP-014-objections-and-responses-register.md) | Objections and Responses Register | Canonical OAR register + governance rules | Executed |
 
 The current programme-level specification is [`PROGRAMME.md`](../PROGRAMME.md). The current development sequence is [`ROADMAP.md`](../ROADMAP.md).
