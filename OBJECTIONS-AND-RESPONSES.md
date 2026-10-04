@@ -6,6 +6,20 @@
 
 This register records objections in their strongest fair form, the current DFM response, and any burden that remains. An objection is not considered resolved merely because DFM can state a logically possible alternative.
 
+### Burden-symmetry check
+
+For each substantial objection, ask:
+
+1. Is the proposed burden a universal epistemic standard?
+2. Is that same standard applied to competing historical reconstructions?
+3. What is directly observed on each side, and what is inferred?
+4. Which initial and boundary conditions are independently constrained?
+5. Which auxiliaries are independently motivated and which are post-hoc?
+6. What evidential level is actually achieved: compatibility, accommodation, independent derivation, novel prediction, or successful severe test?
+7. Does the objection identify a genuine discriminator or merely expose differing background assumptions?
+
+A symmetry failure does not make DFM true. It means the objection must be reformulated as a genuinely comparative evidential test.
+
 ### Dispositions
 
 - **Answered**
@@ -358,6 +372,32 @@ DFM challenges automatic extrapolation across a claimed supernatural initializat
 ### Residual burden
 
 Operational criteria for distinguishing initialized state information from genuine event records need further quantitative development.
+
+---
+
+## OAR-016: DFM is held to standards not applied to the consensus reconstruction
+
+**Class:** Comparative epistemology / philosophy of science  
+**Target:** Programme comparison standard  
+**Disposition:** Answered as a governance rule
+
+### Strong objection
+
+Alternative creation models are often required to specify every initial condition, derive every mature-state relationship independently, directly justify unobserved initialization, and avoid auxiliary hypotheses, while prevailing historical reconstructions are permitted inferred initial states, fitted parameters, protective auxiliaries, and retrospective model revision. If so, the comparison is structurally asymmetric.
+
+### DFM response
+
+DFM adopts a Symmetric Evidential Standard. Any legitimate epistemic requirement applied to DFM also applies to competing historical programmes. Both must distinguish observations from reconstructions, expose initial and boundary assumptions, cost auxiliaries, identify post-hoc flexibility, and distinguish compatibility from derivation, prediction, and successful severe testing.
+
+DFM likewise rejects the reverse asymmetry. It may not dismiss a conventional model merely because that model uses inference or auxiliaries while permitting the same practices for itself.
+
+### Residual burden
+
+Symmetry must be demonstrated case by case. The existence of an asymmetric criticism does not provide positive evidence for DFM and does not discharge DFM's own explanatory burden.
+
+### Governing safeguard
+
+> **Weakness, underdetermination, or auxiliary dependence in a competing programme does not constitute positive evidence for DFM.**
 
 ---
 
