@@ -372,6 +372,60 @@ Canonical burden rule:
 
 > **Each explanatory arrow carries its own positive burden. Failure on one ledger is not success on another. Possibility of the parts is not causal adequacy of the pathway.**
 
+### 13A.6b Generative Pathway Principle
+
+> **Mind is an empirically observed generative causal pathway capable of producing specified functional organization through intention, specification, selection, action, and instantiated outcome.**
+
+Schematically:
+
+```text
+mind
+-> intention
+-> specification
+-> selection
+-> action
+-> instantiated functional state
+```
+
+This matters for causal comparison because intelligent agency is not introduced merely as the negation of an inadequate natural mechanism. Minds are independently observed causes with demonstrated generative capacities. Where the explanandum belongs to a class of effects that minds are known to generate, intelligent agency is therefore a legitimate candidate causal pathway.
+
+This does not by itself establish historical attribution:
+
+```text
+demonstrated generative capacity
+!=
+demonstrated historical agency
+```
+
+The evidential task is comparative. For a specified explanandum `E`, competing hypotheses must expose their generative pathways and bear their own causal-adequacy burdens:
+
+```text
+H_N: specified natural pathway -> E
+H_M: specified intelligent pathway -> E
+```
+
+Failure of `H_N` does not prove `H_M`. Conversely, the existence of unresolved details in `H_M` does not license treating `H_N` as causally adequate without demonstrating its pathway. Historical attribution requires evidence that discriminates among causally adequate candidates.
+
+#### Investigator contribution in simulation experiments
+
+Where an experiment intended to model an unguided historical process depends materially on investigator choices, those interventions belong in the causal account. Relevant contributions may include purification, concentration, sequencing, selection, isolation, removal of products, controlled energy input, timing, environmental switching, or preservation of successful intermediates.
+
+The correct question is not merely whether chemistry or physics performs the local transformation. It is whether the proposed unguided historical environment supplies the full sequence of constraints required for the integrated pathway.
+
+Thus:
+
+```text
+investigator-guided pathway demonstrates physical/chemical possibility
+!=
+independently demonstrated unguided historical pathway
+```
+
+If intelligent intervention performs causal work necessary to traverse the pathway, that contribution may not be deleted from the causal ledger when evaluating the historical model.
+
+Canonical maxim:
+
+> **A demonstrated mind-mediated pathway is positive causal knowledge, not merely a gap in another explanation. Generative capacity establishes candidacy; discriminating evidence establishes attribution.**
+
 ### 13A.7 No Free Lunch
 
 No programme may hide explanatory cost inside initial conditions, fitted parameters, auxiliary hypotheses, unspecified emergence, elapsed time, or unconstrained historical reconstruction and then count the resulting fit as independent explanatory success.
