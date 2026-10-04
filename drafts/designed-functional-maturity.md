@@ -47,7 +47,7 @@ and more generally:
 S_i = G_i(Phi_i, L, B_i, S_{i-1})
 ```
 
-where each phase receives an already-established creation and adds the functionality commissioned in that phase.
+where `i` identifies the phase, `S_i` is the resulting state, `S_{i-1}` is the already-established creation, `G_i` is the initialization/deployment act, `Phi_i` is commissioned functionality, `L` is the governing law-set, and `B_i` is the coherent boundary state. Each phase receives an already-established creation and adds the functionality commissioned in that phase.
 
 ### 2.2 Terrestrial-day continuity
 
@@ -289,6 +289,8 @@ For the radiogenic subsystem:
 ```text
 S_0^rad = G(Phi_thermal, L_nuclear, B_geo)
 ```
+
+Here `S_0^rad` is the initialized radiogenic state, `Phi_thermal` is the thermal functional requirement, `L_nuclear` is ordinary nuclear law, and `B_geo` is the geochemical boundary state.
 
 A simplified radiogenic heat expression is:
 
