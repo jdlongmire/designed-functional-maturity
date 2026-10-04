@@ -269,6 +269,115 @@ Canonical epistemic maxims:
 
 > **Measurement establishes state. Retrodiction reconstructs trajectory. Provenance warrants history.**
 
+
+## 13A. Canonical epistemic governance
+
+All chronological and provenance claims in DFM shall preserve four distinct epistemic layers:
+
+```text
+O -> L -> R -> H
+```
+
+where:
+
+- `O` = present observation or measured state;
+- `L` = experimentally constrained operational law or regularity;
+- `R` = model-conditioned reconstruction of an antecedent state, trajectory, or duration;
+- `H` = claim about the actual historical trajectory or elapsed history.
+
+A transition from `O` and `L` to `R` may be mathematically precise and strongly cross-validated. A transition from `R` to `H` remains a historical/provenance inference whose warrant must be stated rather than silently imported.
+
+This distinction does **not** imply that all historical interpretations are equally plausible, nor does it weaken strong retrodictive evidence merely because it is inferential. It requires correct epistemic labeling.
+
+### 13A.1 Canonical comparative posture
+
+Use the following formulation when comparing DFM with conventional deep-time reconstruction:
+
+> **Conventional deep-time reconstruction presently possesses the more developed and extensively cross-validated retrodictive framework. DFM has not yet produced a comparably developed alternative reconstruction. That asymmetry in model development and empirical testing does not, by itself, establish the identity of model-conditioned retrodictive time T_R with actual historical elapsed time T_H.**
+
+Avoid unqualified formulations that collapse the distinction, including claims that a reconstructed age is simply "the historical age" when provenance is the disputed question.
+
+### 13A.2 Dependency-aware consilience
+
+Consilience shall be evaluated as a weighted network, not as a count of nominally separate observations.
+
+For each evidential stream identify:
+
+1. measured observation;
+2. operational physics;
+3. model connecting observation to reconstructed history;
+4. calibration chain;
+5. initial/boundary conditions;
+6. shared assumptions;
+7. auxiliaries;
+8. known failure modes;
+9. genuinely independent cross-checks;
+10. predictive history;
+11. residual discordance.
+
+Shared assumptions are counted once. Distinct physics and independently constrained failure modes increase evidential weight. Discordance is not automatically evidence for DFM; a conventional model receives appropriate credit where it independently predicts the form of a disturbance.
+
+> **Consilience is not homogeneity. Convergence is not perfect concordance. Build the dependency graph.**
+
+### 13A.3 Independent Burden Principle
+
+> **An unresolved problem in one research programme does not discharge an explanatory burden in another.**
+
+A conventional failure does not automatically count as positive evidence for DFM. A DFM failure does not automatically strengthen an independent conventional provenance claim.
+
+### 13A.4 No Unexplained Arrow
+
+Every material causal transition `A -> B` bears a burden of mechanism, constraints, reachable state space, rates where applicable, viable intermediates, causal adequacy, and empirical warrant.
+
+Elapsed time supplies duration, not causal sufficiency. "Emergence," "evolution," "migration," "Flood," "initialization," or "design" does not discharge an arrow merely by naming it.
+
+### 13A.5 Compatibility Is Not Replacement
+
+Use the progressive evidential ladder:
+
+```text
+compatibility
+< accommodation
+< generic coherence
+< process-specific sequential consilience
+< independent derivation
+< novel prediction
+< successful severe test
+```
+
+### 13A.6 Causal Adequacy Is Not Causal Attribution
+
+Demonstrating that a causal category can produce a class of effects does not establish that it produced the particular historical effect under investigation. Historical attribution requires discriminating evidence.
+
+### 13A.7 No Free Lunch
+
+No programme may hide explanatory cost inside initial conditions, fitted parameters, auxiliary hypotheses, unspecified emergence, elapsed time, or unconstrained historical reconstruction and then count the resulting fit as independent explanatory success.
+
+### 13A.8 Specify -> Run -> Predict -> Compare
+
+DFM generators shall follow:
+
+```text
+SPECIFY -> RUN -> PREDICT -> COMPARE
+```
+
+and shall not follow:
+
+```text
+OBSERVE -> FIT -> RELABEL -> CLAIM DERIVATION
+```
+
+### 13A.9 Test both directions, keep the ledgers separate
+
+**Track A — DFM generative testing:** Can independently specified DFM constraints generate observations presently interpreted as evidence of deep history?
+
+**Track B — conventional trajectory testing:** Can a specified conventional historical mechanism quantitatively generate the observed state under independently constrained physical conditions?
+
+Track A and Track B results are recorded separately. A failure on one ledger is not automatically a success on the other.
+
+> **Test both directions, but keep the ledgers separate.**
+
+
 ## 14. Research outputs
 
 DFM development should produce:
