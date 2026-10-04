@@ -49,7 +49,7 @@ DFM does not require a second set of physical laws after creation. Its default i
 L_post = L_observed
 ```
 
-For radioactive decay:
+For radioactive decay, DFM adopts the experimentally measured decay behavior as its prospective default (Jaffey et al. 1971; Schoene et al. 2006):
 
 ```text
 lambda_DFM = lambda_observed
@@ -201,7 +201,7 @@ All research programmes use auxiliaries. DFM therefore does not prohibit model r
 
 ## 6. Radiogenic systems as a test case
 
-Radiometric dating is a particularly valuable DFM test because nuclear decay physics is experimentally mature, multiple isotope systems can be compared, mineral chemistry constrains initial and subsequent states, and conventional geochronology has developed sophisticated methods for detecting disturbance.
+Radiometric dating is a particularly valuable DFM test because nuclear decay physics is experimentally mature, multiple isotope systems can be compared, mineral chemistry constrains initial and subsequent states, and geochronology has developed sophisticated methods for detecting disturbance (Jaffey et al. 1971; Wetherill 1956; Cherniak and Watson 2001; Schoene et al. 2006).
 
 DFM should therefore treat radiometric evidence as a severe test rather than dismiss it as “assumption based.”
 
@@ -224,7 +224,7 @@ The DFM question concerns the provenance represented by `B_initial` and `G_histo
 
 ## 7. Radiogenic heat and coherent initialization
 
-Long-lived U, Th, and K isotopes contribute to Earth's heat production. An initialized terrestrial system therefore requires a radionuclide inventory compatible with its thermal and geochemical architecture.
+Long-lived U, Th, and K isotopes contribute materially to Earth's heat production, a relationship constrained both geophysically and through geoneutrino measurements (KamLAND Collaboration 2011; Huang et al. 2022). An initialized terrestrial system therefore requires a radionuclide inventory compatible with its thermal and geochemical architecture.
 
 For the radiogenic subsystem:
 
@@ -301,11 +301,11 @@ These are not details to be waved away. They are the places where DFM can be tes
 
 ## 9. Multi-system concordance as a severe test
 
-U-Pb is especially important because two uranium decay chains operate in the same mineral system with distinct decay constants. Zircon chemistry can strongly constrain lead incorporation and retention behavior. Concordia/discordia analysis further tests disturbance histories.
+U-Pb is especially important because two uranium decay chains operate in the same mineral system with distinct decay constants. Zircon generally incorporates U while excluding most Pb during growth, crystalline zircon can retain radiogenic Pb strongly, and concordia/discordia structure supplies internal tests of disturbance (Wetherill 1956; Cherniak and Watson 2001; Valley et al. 2014).
 
 A successful DFM account must therefore do more than say “the initial state was mature.” It must attempt to derive or constrain the observed dual-system structure from a common admissible `S_0` without feeding the conventional target age into the model.
 
-Non-heat-centric systems increase the pressure. Rb-Sr, Sm-Nd, Lu-Hf, Re-Os, and extinct radionuclide systems cannot be explained simply by appealing to terrestrial heat requirements. Their order must arise from broader chemical, mineralogical, nucleosynthetic, or initialization constraints if the coherent-initialization hypothesis is correct.
+Non-heat-centric systems increase the pressure. Classic meteoritic Rb-Sr work, for example, produced a whole-meteorite isochron broadly concordant with Pb-based Solar System ages (Patterson 1956; Pinson et al. 1965). Rb-Sr, Sm-Nd, Lu-Hf, Re-Os, and extinct radionuclide systems cannot be explained simply by appealing to terrestrial heat requirements. Their order must arise from broader chemical, mineralogical, nucleosynthetic, or initialization constraints if the coherent-initialization hypothesis is correct.
 
 This yields a clear discriminator:
 
@@ -319,7 +319,7 @@ Events occurring after initialization can produce genuine historical records. If
 
 DFM should preserve such results.
 
-Known-age calibration is therefore important. It tests both the power and limits of isotope systems under conditions where historical provenance is independently available.
+Known-age and independently constrained event calibration is therefore important. It tests both the power and limits of isotope systems under conditions where provenance is available from additional evidence. Cross-method studies such as the Lava Creek Tuff show that Ar-Ar and U-Pb can converge on the same eruption interval while stratigraphic constraints provide additional context (Matthews et al. 2015).
 
 ## 11. Cosmological extension
 
@@ -514,8 +514,28 @@ The appropriate question is consequently not whether nature contains order that 
 
 DFM makes that question explicit and places the burden of answering it on model comparison, provenance, physical constraint, and severe empirical testing.
 
-## References and source-development status
+## References
 
-This manuscript is the programme-level synthesis draft. A formal source pass remains required before external scholarly publication. That pass must privilege primary technical literature for nuclear decay, terrestrial heat production, U-Pb/zircon geochronology, isochron methods, known-age calibration, high-redshift observations, supernova physics, and low-entropy cosmology.
+Cherniak, D. J. and Watson, E. B. (2001) ‘Pb diffusion in zircon’, *Chemical Geology*, 172(1–2), pp. 5–24. doi:10.1016/S0009-2541(00)00233-3.
 
-The manuscript intentionally does not fabricate or placeholder-format bibliographic citations. Source acquisition and citation verification are a separate controlled workstream.
+Huang, Y. et al. (2022) ‘Quantifying Earth's radiogenic heat budget’, *Earth and Planetary Science Letters*, 593, 117684. doi:10.1016/j.epsl.2022.117684.
+
+Jaffey, A. H., Flynn, K. F., Glendenin, L. E., Bentley, W. C. and Essling, A. M. (1971) ‘Precision Measurement of Half-Lives and Specific Activities of 235U and 238U’, *Physical Review C*, 4, pp. 1889–1906. doi:10.1103/PhysRevC.4.1889.
+
+KamLAND Collaboration (2011) ‘Partial radiogenic heat model for Earth revealed by geoneutrino measurements’, *Nature Geoscience*, 4, pp. 647–651. doi:10.1038/ngeo1205.
+
+Matthews, N. E. et al. (2015) ‘Age of the Lava Creek supereruption and magma chamber assembly at Yellowstone based on 40Ar/39Ar and U-Pb dating of sanidine and zircon crystals’, *Geochemistry, Geophysics, Geosystems*, 16. doi:10.1002/2015GC005881.
+
+Patterson, C. (1956) ‘Age of meteorites and the earth’, *Geochimica et Cosmochimica Acta*, 10(4), pp. 230–237. doi:10.1016/0016-7037(56)90036-9.
+
+Pinson, W. H. Jr. et al. (1965) ‘Rb-Sr age of stony meteorites’, *Geochimica et Cosmochimica Acta*, 29(5), pp. 455–466. doi:10.1016/0016-7037(65)90039-6.
+
+Schoene, B., Crowley, J. L., Condon, D. J., Schmitz, M. D. and Bowring, S. A. (2006) ‘Reassessing the uranium decay constants for geochronology using ID-TIMS U-Pb data’, *Geochimica et Cosmochimica Acta*, 70(2), pp. 426–445. doi:10.1016/j.gca.2005.09.007.
+
+Valley, J. W. et al. (2014) ‘Hadean age for a post-magma-ocean zircon confirmed by atom-probe tomography’, *Nature Geoscience*, 7, pp. 219–223. doi:10.1038/ngeo2075.
+
+Wetherill, G. W. (1956) ‘Discordant uranium-lead ages, I’, *Transactions, American Geophysical Union*, 37(3), pp. 320–326. doi:10.1029/TR037i003p00320.
+
+### Source-development status
+
+The radiogenic sections have completed a baseline primary-source pass. A broader source pass remains required before external publication for cosmology, entropy, nucleosynthesis, and the theological/exegetical boundary discussion.
