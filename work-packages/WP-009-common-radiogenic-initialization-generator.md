@@ -19,6 +19,8 @@ x = Pb206*/U238 = exp(lambda238 T_R) - 1
 y = Pb207*/U235 = exp(lambda235 T_R) - 1
 ```
 
+Here `x` is radiogenic Pb-206/U-238, `y` is radiogenic Pb-207/U-235, `lambda238` and `lambda235` are the measured decay constants, and `T_R` is the common retrodictive duration.
+
 The pair `(x,y)` occupies a one-dimensional curve because the same parameter `T_R` controls both decay systems.
 
 Under a short-history DFM initialization:
@@ -48,6 +50,8 @@ where:
 - `X` = common-Pb and daughter-hosting constraints;
 - `F` = commissioned functional constraints, including thermal architecture;
 - `L` = ordinary nuclear and chemical law.
+
+Here `S0_rad` is the generated radiogenic initialization state; `R` is source-reservoir composition; `Uiso` is uranium isotopic abundance; `P` is partition/crystal chemistry; `X` is common-Pb and daughter-hosting constraints; `F` is commissioned functional constraints; and `L` is ordinary nuclear and chemical law.
 
 For zircon domain `j`:
 
@@ -135,6 +139,8 @@ Suppose:
 x0 = f238(q)
 y0 = f235(q)
 ```
+
+Here `q` is a proposed non-temporal generator parameter, `f238` and `f235` map it to the two initialized U-Pb ratios, and `h` denotes a mapping from retrodictive duration to that parameter.
 
 If:
 
