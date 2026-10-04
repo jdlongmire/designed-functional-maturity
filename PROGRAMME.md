@@ -234,7 +234,28 @@ Consensus status does not itself promote a claim to a higher evidential level.
 
 The symmetry principle prevents special pleading; it does not reduce DFM's burden. DFM should seek stronger derivations and more severe tests even where competing models have not done so.
 
-### 13.4 Consilience
+### 13.4 Lived epistemology: operation is not provenance
+
+DFM distinguishes **operational naturalism** from **provenance naturalism**.
+
+In ordinary reasoning, stable natural operation does not by itself establish naturalistic provenance. Human inquiry routinely distinguishes a system's present operating rules from its deployment, initialization, configuration, maintenance, and intervention history. Engineering, software, archaeology, and forensics all employ this distinction.
+
+The formal point is limited:
+
+```text
+present regular operation != demonstrated naturalistic provenance
+law-governed state != demonstrated law-generated state
+```
+
+This is not an argument that artifacts prove creation, nor that every natural structure is therefore designed. It identifies a general epistemic distinction that is commonplace in lived reasoning but can be obscured when methodological naturalism is expanded from a method for investigating ordinary operation into an exclusive rule of historical provenance.
+
+> **Operational naturalism is commonplace in lived experience. Provenance naturalism is an additional historical thesis.**
+
+Accordingly, DFM may investigate ordinary created operation through natural mechanisms while separately asking how the relevant system was initialized.
+
+The lived-experience analogy establishes logical and methodological permission for that distinction; it does **not** independently prove supernatural initialization. DFM's positive historical claim rests on its canonical and theological hard core and must still face empirical constraints.
+
+### 13.5 Consilience
 
 DFM expects substantial consilience in an initialized state because creation is modeled as an integrated functional whole. Consilience therefore does not embarrass supernatural initialization. It is a requirement of coherent initialization.
 
