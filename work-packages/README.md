@@ -23,4 +23,13 @@ Systematic development track for the Designed Functional Maturity (DFM) research
 | [WP-017](WP-017-bwm-visual-integration.md) | BWM Visual Integration | Parent-programme theme and shared public graphics | Executed |
 | [WP-018](WP-018-lived-epistemology-and-provenance.md) | Lived Epistemology and Provenance | Operation/provenance distinction + public explainer + OAR-017 | Executed |
 
+| [WP-019](WP-019-equation-variable-explanation-sweep.md) | Equation and Variable Explanation Sweep | Immediate-context notation explanations across programme artifacts | Executed |
+| WP-020 | Public Pages QA Gate | Publication QA baseline | Executed |
+| WP-022 | Genesis 1 Phased Deployment Architecture | Canonical phased-deployment architecture | Executed |
+| WP-023 | DFM Visual Explainer and Infographic Programme | Visual governance + ranked explainer programme | Executed / active |
+| WP-024 | DFM Media Library and Visual Asset Publication Architecture | Public media library + asset workflow | Executed |
+| [WP-025](WP-025-methodological-consolidation-epistemic-rollback-severe-test-architecture.md) | Methodological Consolidation, Epistemic Rollback, and Severe-Test Architecture | Canonical methodology + CCN/dependency graph + Track A/B governance | Active |
+
+> **Index note:** WP-020 through WP-024 were previously executed/captured but were not consistently indexed in this README. WP-025 records the known sequence while follow-on maintenance should reconcile exact filenames/links for those entries.
+
 The current programme-level specification is [`PROGRAMME.md`](../PROGRAMME.md). The current development sequence is [`ROADMAP.md`](../ROADMAP.md).
