@@ -14,5 +14,6 @@ Systematic development track for the Designed Functional Maturity (DFM) research
 | [WP-008](WP-008-quantitative-u-pb-severe-test.md) | Quantitative U-Pb Severe-Test Model | Concordia initialization inversion + failure criteria | Executed baseline |
 | [WP-009](WP-009-common-radiogenic-initialization-generator.md) | Common Radiogenic Initialization Generator | Generator architecture + candidate matrix + age-surrogate test | Executed baseline |
 | [WP-010](WP-010-source-reservoir-isotopic-architecture.md) | Source-Reservoir Isotopic Architecture and Mass-Balance Model | Coupled reservoir model + complexity metric | Executed baseline |
+| [WP-011](WP-011-rb-sr-isochron-severe-test.md) | Rb-Sr Isochron Severe Test | Isochron decomposition + slope discriminator | Executed baseline |
 
 The current programme-level specification is [`PROGRAMME.md`](../PROGRAMME.md). The current development sequence is [`ROADMAP.md`](../ROADMAP.md).
