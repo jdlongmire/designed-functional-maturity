@@ -24,7 +24,7 @@ For isotope or element species `k`:
 M_k,total = Sum_r M_k,r
 ```
 
-where `M_k,r` is the inventory of species `k` in reservoir `r`.
+where `M_k,total` is the total inventory of species `k`, `M_k,r` is its inventory in reservoir `r`, and the sum runs over all reservoirs `r`.
 
 No reservoir can be assigned an isotope inventory independently of the global inventory.
 
@@ -70,6 +70,8 @@ For mineral `m` crystallizing from reservoir `r`:
 ```text
 D_E^(m/r) = C_E,m / C_E,r
 ```
+
+Here `K_E^(a/b)` is the partition coefficient for element `E` between phases `a` and `b`; `C_E,a` and `C_E,b` are the corresponding concentrations. Likewise, `D_E^(m/r)` is the mineral/reservoir partition coefficient, with `C_E,m` and `C_E,r` the element concentrations in mineral `m` and reservoir `r`.
 
 These relationships can strongly alter parent/daughter elemental ratios across reservoirs and minerals.
 
@@ -221,6 +223,8 @@ Define:
 ```text
 rho = N_free_initialization_parameters / N_independent_observational_constraints
 ```
+
+Here `rho` is the parameter-to-constraint ratio, `N_free_initialization_parameters` counts freely adjustable initialization parameters, and `N_independent_observational_constraints` counts independent observational constraints.
 
 A developing DFM generator should drive `rho` downward as cross-system evidence is added.
 
