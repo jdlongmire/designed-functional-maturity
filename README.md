@@ -137,6 +137,18 @@ Neither DFM nor a competing programme may describe an inferred historical trajec
 
 Where observations could discriminate coherent initialization from traversed natural history, DFM should seek those observations rather than avoid them.
 
+### Symmetric evidential standard
+
+DFM and competing historical programmes are evaluated under the same epistemic standards. Requirements concerning unobserved states, initial conditions, auxiliaries, fitting, provenance, prediction, and severe testing may not be imposed selectively because one reconstruction is the prevailing consensus.
+
+The comparison uses a common evidential ladder:
+
+```text
+compatibility < accommodation < independent derivation < novel prediction < successful severe test
+```
+
+This is not a race to the bottom: a weakness in a competing model is not positive evidence for DFM.
+
 ## Current research tracks
 
 | Track | Question | Status |
