@@ -29,7 +29,7 @@ The programme shall neither dismiss Oklo as "just dating" nor treat the conventi
 present isotope/mineral state
 + operational nuclear physics
 + reactor model
-+ initial-state / closure / transport auxiliaries
++ initialization conditions + closure / transport history
 -> reconstructed reactor history
 -> historical elapsed-time interpretation
 ```
@@ -67,7 +67,7 @@ Which portions of the conventional ~2 Ga reconstruction arise from:
 - cross-system convergence?
 
 ### Q6 — DFM generative burden
-Can an independently specified DFM initial state and subsequent history reproduce the Oklo network without importing a conventional age or an age-equivalent scalar?
+Can an independently specified DFM initialization conditions and subsequent history reproduce the Oklo network without importing a conventional age or an age-equivalent scalar?
 
 ## 4. Anti-circularity rule
 
@@ -133,7 +133,7 @@ Possible isotope mobility is relevant but insufficient. DFM must explain both mo
 
 Current DFM radiogenic/chronological auxiliaries receive substantial negative pressure if:
 
-1. no age-independent initialization can produce the required U-235 inventory;
+1. no age-independent initialization conditions can produce the required U-235 inventory;
 2. a compressed post-initialization history cannot physically generate the observed fission/neutron-capture network;
 3. required isotope disturbance contradicts observed selective retention;
 4. explaining Oklo requires unrelated datum-by-datum initialization;
@@ -197,12 +197,12 @@ This control demonstrates an important distinction:
 ```text
 measured parent/daughter or isotope state
 + measured decay constant
-+ initial-state assumption
++ initialization condition
 + closure/retention model
 -> model age
 ```
 
-A decay constant does not by itself turn a present isotope ratio into historical elapsed time. The initial daughter inventory and subsequent transport/retention history matter.
+A decay constant does not by itself turn a present isotope ratio into historical elapsed time. The initialization inventory and subsequent transport/retention history matter.
 
 ### What the Mount St. Helens result does not establish
 
@@ -230,13 +230,13 @@ unknown T_H
 -> T_R
 ```
 
-Therefore the programme must ask which Oklo constraints are vulnerable to the same class of initial-state/retention error demonstrated at Mount St. Helens and which are independently protected by reactor physics, multi-isotope coupling, or mineralogical evidence.
+Therefore the programme must ask which Oklo constraints are vulnerable to the same class of initialization/retention error demonstrated at Mount St. Helens and which are independently protected by reactor physics, multi-isotope coupling, or mineralogical evidence.
 
 ### Required comparative test
 
 For each Oklo chronological node:
 
-1. identify the assumed initial daughter/isotope state;
+1. identify the initialization conditions for the daughter/isotope state;
 2. identify whether that state is measured, inferred, or stipulated;
 3. identify retention/loss mechanisms and mineral hosts;
 4. test sensitivity of T_R to plausible nonzero initial daughter inventories;
@@ -244,3 +244,38 @@ For each Oklo chronological node:
 6. distinguish failure of a model-age assumption from evidence for a changed decay constant.
 
 This known-age control becomes part of the Oklo dependency graph and the broader DFM radiogenic severe-test architecture.
+
+## 13. Interpretive Sensitivity Principle applied to Oklo
+
+WP-026 inherits the WP-025 Interpretive Sensitivity Principle. For each radiometric or isotope-based chronological claim, the working abstraction is:
+
+```text
+T_R = f(O_t, lambda, S_0, H, M, A)
+```
+
+Here `S_0` is the actual physical initial state, while **initialization conditions** are the specified, inferred, or assumed conditions used to represent `S_0` in the reconstruction.
+
+The analytical question is therefore not merely whether a decay constant is well measured. It is:
+
+> How sensitive is the inferred chronology to the initialization conditions and subsequent system-history model, and how independently are those conditions constrained?
+
+Mount St. Helens provides a known-history control in which ordinary decay physics plus inappropriate initialization conditions for argon yield a retrodictive age that is not the historical elapsed time. Oklo is a stronger network because reactor physics, fission products, neutron-capture products, uranium isotopes, mineral hosts, and transport behavior may independently constrain some of the same degrees of freedom.
+
+Accordingly, each Oklo node shall receive an **interpretive-sensitivity audit**:
+
+| Field | Required assessment |
+|---|---|
+| Present observation | What isotope/mineral state is directly measured? |
+| Decay/interaction law | What operational nuclear physics is independently measured? |
+| Initialization conditions | Which starting quantities are measured, inferred, fitted, or stipulated? |
+| Subsequent history | What closure, transport, alteration, or thermal history is required? |
+| Model dependence | Which mapping from present state to past state is used? |
+| Sensitivity | How much does T_R or the reconstructed reactor state change across admissible conditions? |
+| Independent constraint | What evidence constrains the same condition without importing T_R? |
+| Residual freedom | What materially different histories remain admissible? |
+
+The programme shall not infer from Mount St. Helens that Oklo chronology is therefore wrong. The control establishes the reality of initialization sensitivity. Oklo must then be tested to determine how much of that sensitivity survives its denser cross-constraint network.
+
+Canonical formulation:
+
+> **Radiometric measurements constrain present isotope states and operational decay physics. Historical ages are retrodictive outputs whose warrant depends additionally on initialization conditions, subsequent system history, and the independence and strength of cross-constraints.**
