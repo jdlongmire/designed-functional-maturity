@@ -407,3 +407,61 @@ WP-025 is complete when:
 - programme language consistently distinguishes O, L, R, and H;
 - the flagship and public-facing materials no longer over-concede historical interpretation or overclaim DFM evidence;
 - subsequent work packages can inherit this methodology without reconstructing the debate.
+
+
+### 3.10 Residual-State Bayesian Evidential Principle
+
+A present residual state is evidence about history, not a logical entailment of one reconstructed history. Its evidential force is the degree to which the observation is more expected under one specified historical model than under its competitors.
+
+For competing models `C` and `D`:
+
+```
+BF_C,D = P(O | C) / P(O | D)
+```
+
+and posterior odds are:
+
+```
+PosteriorOdds(C:D) = BF_C,D * PriorOdds(C:D)
+```
+
+Accordingly, the programme shall replace formulations of the form:
+
+```
+we observe residual state O
+therefore history H necessarily obtained
+```
+
+with:
+
+```
+we observe O
+-> specify competing historical models and initialization conditions
+-> estimate how expected O is under each
+-> update relative evidential weight
+```
+
+A residual state may yield a very large Bayes factor and therefore constitute powerful historical evidence. Its inferential status is not a reason to discount it arbitrarily.
+
+#### Dependency-aware Bayesian weighting
+
+Multiple observations may not be multiplied as though independent merely because they are measured separately. The joint likelihood shall be represented as:
+
+```
+P(O1,...,On | H)
+= product_i P(Oi | O_<i, H)
+```
+
+or by an explicit dependency model.
+
+Shared initialization conditions, calibration chains, fitted parameters, closure assumptions, reconstruction models, or derived quantities reduce the amount of new information contributed by later nodes.
+
+Thus:
+
+```
+apparent consilience != independent likelihood multiplication
+```
+
+The evidential task is to determine the incremental likelihood contribution of each node after conditioning on what is already known.
+
+This principle is symmetric. DFM receives no credit for residuals it encoded into its initialization conditions, and a conventional reconstruction receives no extra evidential multiplication when several claimed confirmations inherit the same chronological or initialization premise.
