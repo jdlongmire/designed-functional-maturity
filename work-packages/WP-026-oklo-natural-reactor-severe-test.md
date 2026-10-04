@@ -279,3 +279,46 @@ The programme shall not infer from Mount St. Helens that Oklo chronology is ther
 Canonical formulation:
 
 > **Radiometric measurements constrain present isotope states and operational decay physics. Historical ages are retrodictive outputs whose warrant depends additionally on initialization conditions, subsequent system history, and the independence and strength of cross-constraints.**
+
+
+## 14. Bayesian weighting of the Oklo residual state
+
+Oklo shall be evaluated as a residual-state likelihood problem, not as a deductive inference from present residues to a necessary history.
+
+Let `O_OKL` denote the coupled observed state and let `C` and `D` denote fully specified conventional and DFM comparators:
+
+```text
+BF_C,D = P(O_OKL | C) / P(O_OKL | D)
+```
+
+The objective is not to assign a numerical Bayes factor before defensible likelihood models exist. The immediate task is to identify which observations genuinely change the likelihood ratio and which are dependent consequences of common inputs.
+
+The Oklo evidence vector shall initially be decomposed as:
+
+```text
+O_OKL = {
+  U depletion,
+  fission-product inventory,
+  neutron-capture inventory,
+  criticality-compatible ore state,
+  U differential-decay relation,
+  U-Pb/Rb-Sr structure,
+  selective retention/migration,
+  mineralogical and hydrothermal state
+}
+```
+
+Naive multiplication of a separate Bayes factor for every entry is forbidden unless conditional independence is established. Instead use the chain rule or an explicit dependency graph:
+
+```text
+P(O1,...,On | H)
+= product_i P(Oi | O_<i, H)
+```
+
+Particular attention shall be given to whether the claimed convergence between differential uranium decay and criticality is genuinely independent. If reactor models obtain the earlier U-235 abundance by first importing the conventional elapsed time, the apparent corroboration must be discounted accordingly. If criticality physics independently constrains the required U-235 abundance and it converges with the differential-decay reconstruction without importing elapsed time, the resulting Bayes factor may be substantial.
+
+Mount St. Helens enters the ledger differently. It is not direct evidence that Oklo is young. It supplies empirical evidence that initialization conditions can materially alter the mapping from isotope state to historical age even when the operational decay law is retained. It therefore informs the plausibility and sensitivity assigned to initialization/closure auxiliaries rather than functioning as an Oklo-age datum.
+
+Canonical question:
+
+> **Given the observed residual state, how much more expected is that state under each independently specified historical model, after conditioning on shared initialization conditions and dependent evidence?**
