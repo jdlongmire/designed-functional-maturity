@@ -20,7 +20,7 @@ Genesis 1 is modeled as a phased initialization architecture:
 S_i = G_i(Phi_i, L, B_i, S_{i-1})
 ```
 
-where each deployment phase receives the already-established creation and adds or commissions the functionality specified for that phase. Schematically:
+where `i` identifies the deployment phase, `S_i` is the resulting state after phase `i`, `S_{i-1}` is the state already deployed, `G_i` is the divine initialization/deployment act, `Phi_i` is the commissioned functionality, `L` is the governing law-set for ordinary operation, and `B_i` is the coherent boundary state. Each deployment phase receives the already-established creation and adds or commissions the functionality specified for that phase. Schematically:
 
 ```text
 S_0 --A1--> S_1 --A2--> ... --A6--> S_6
