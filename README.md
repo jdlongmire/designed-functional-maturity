@@ -160,6 +160,10 @@ This is not a race to the bottom: a weakness in a competing model is not positiv
 | Cosmological maturity | Which mature astronomical states discriminate DFM from gradual assembly models? | Developing |
 | Severe tests | Which observations would materially count against DFM auxiliaries? | Developing |
 
+## Public site
+
+A mobile-first public presentation layer is maintained in [`docs/`](docs/). The repository remains canonical; the Pages site provides accessible and technical entry points into the programme.
+
 ## Repository map
 
 - [`drafts/`](drafts/) — working papers and synthesis drafts.
