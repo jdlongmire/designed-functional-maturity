@@ -12,5 +12,6 @@ Systematic development track for the Designed Functional Maturity (DFM) research
 | [WP-006](WP-006-flagship-paper-rebuild.md) | Flagship DFM Paper Rebuild | `drafts/designed-functional-maturity.md` | Executed baseline |
 | [WP-007](WP-007-primary-source-literature-citation-pass.md) | Primary-Source Literature and Citation Pass | Evidence ledger + flagship citation grounding | Executed baseline |
 | [WP-008](WP-008-quantitative-u-pb-severe-test.md) | Quantitative U-Pb Severe-Test Model | Concordia initialization inversion + failure criteria | Executed baseline |
+| [WP-009](WP-009-common-radiogenic-initialization-generator.md) | Common Radiogenic Initialization Generator | Generator architecture + candidate matrix + age-surrogate test | Executed baseline |
 
 The current programme-level specification is [`PROGRAMME.md`](../PROGRAMME.md). The current development sequence is [`ROADMAP.md`](../ROADMAP.md).
