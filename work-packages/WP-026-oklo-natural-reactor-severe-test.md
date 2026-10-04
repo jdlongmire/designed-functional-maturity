@@ -168,3 +168,79 @@ DFM gains standing if it independently predicts:
 ## 11. Canonical disposition
 
 > Oklo is accepted as evidence of past natural nuclear fission. Its conventional chronology is a model-conditioned historical reconstruction with unusually strong cross-constraints. DFM must account for the entire coupled nuclear-geochemical network, including the differential uranium-decay/criticality convergence and selective radionuclide transport. Until it does so quantitatively, Oklo remains a severe challenge rather than positive evidence for DFM.
+
+
+## 12. Known-age control: Mount St. Helens 1986 dacite
+
+The Oklo analysis shall include a known-age calibration/control case drawn from Steven A. Austin's 1996 K-Ar measurements of dacite from the 1986 Mount St. Helens lava dome.
+
+### Observed state
+
+Austin reported:
+
+| Fraction | Reported K-Ar model age |
+|---|---:|
+| whole rock | 0.35 +/- 0.05 Ma |
+| feldspar/glass concentrate | 0.34 +/- 0.06 Ma |
+| amphibole-rich concentrate | 0.9 +/- 0.2 Ma |
+| pyroxene-rich concentrate | 1.7 +/- 0.3 Ma |
+| pyroxene concentrate | 2.8 +/- 0.6 Ma |
+
+The eruption/emplacement history is historically known. Therefore these numerical model ages do not represent actual elapsed time.
+
+Austin interpreted the nonzero Ar-40* as inherited/excess argon retained differentially by minerals rather than radiogenic Ar-40 accumulated since the 1986 emplacement.
+
+### Epistemic significance
+
+This control demonstrates an important distinction:
+
+```text
+measured parent/daughter or isotope state
++ measured decay constant
++ initial-state assumption
++ closure/retention model
+-> model age
+```
+
+A decay constant does not by itself turn a present isotope ratio into historical elapsed time. The initial daughter inventory and subsequent transport/retention history matter.
+
+### What the Mount St. Helens result does not establish
+
+The experiment does **not** directly demonstrate that the K-40 decay constant changed, nor does it establish accelerated radioactive decay. The reported anomaly is explainable in terms of excess/inherited argon and mineral-specific retention. Any DFM claim of changed historical decay rates therefore carries an independent burden and cannot cite this experiment as direct measurement of rate variation.
+
+### Oklo comparison
+
+The Mt. St. Helens control shall be used to sharpen, rather than weaken, the Oklo severe test.
+
+At Mount St. Helens:
+
+```text
+known T_H + anomalous initial/retained Ar
+-> K-Ar T_R != T_H
+```
+
+At Oklo the question is harder:
+
+```text
+unknown T_H
++ coupled U isotope state
++ fission/capture products
++ reactor criticality physics
++ selective transport/retention
+-> T_R
+```
+
+Therefore the programme must ask which Oklo constraints are vulnerable to the same class of initial-state/retention error demonstrated at Mount St. Helens and which are independently protected by reactor physics, multi-isotope coupling, or mineralogical evidence.
+
+### Required comparative test
+
+For each Oklo chronological node:
+
+1. identify the assumed initial daughter/isotope state;
+2. identify whether that state is measured, inferred, or stipulated;
+3. identify retention/loss mechanisms and mineral hosts;
+4. test sensitivity of T_R to plausible nonzero initial daughter inventories;
+5. test whether reactor-physics constraints independently recover the same prior state;
+6. distinguish failure of a model-age assumption from evidence for a changed decay constant.
+
+This known-age control becomes part of the Oklo dependency graph and the broader DFM radiogenic severe-test architecture.
