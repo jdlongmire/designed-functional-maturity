@@ -69,3 +69,7 @@ Before accepting an objection as a special burden on DFM, ask:
 - Add OAR-016 on asymmetric evidential burdens.
 - Add concise README research-discipline rule.
 - Index WP-015.
+
+## Linked artifacts
+
+- [`drafts/dfm-ute-conditional-comparison.md`](../drafts/dfm-ute-conditional-comparison.md) — "Designed Functional Maturity and Undirected Time and Emergence" (analysis paper, 2026-10-05). A conditional comparison of selector, consistency, and trace likelihood between DFM (paired with the Catastrophic Hydrotectonic Flood Model) and Undirected Time and Emergence, executed under the symmetric evidential standard: auxiliaries charged equally, brute fact withdrawn for both, no credit for operational science. Result recorded as a conditional DFM lead on the terminal step, no completed posterior, no tie. Also seeds ROADMAP Phase 5 (comparative appraisal).
