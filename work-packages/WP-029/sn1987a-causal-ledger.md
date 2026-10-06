@@ -130,3 +130,72 @@ This is a severe-test advantage rather than a liability. High-coupling observati
 ## Epistemic status
 
 This ledger supports genuine causal history for substantial portions of the SN 1987A phenomenon more strongly than a pure initialized-signal account. It does not establish ordinary-duration antecedent history, a particular Day 4 temporal mechanism, or the truth of the asynchronous auxiliary.
+
+
+## Quantified invariant ledger v0.1
+
+This section fixes observational relationships that later temporal models must preserve. Values are evidence anchors, not an endorsement of the ordinary-duration reconstruction attached to them.
+
+| ID | Evidence anchor | Measured/observed quantity | Invariant burden on Day 4 models |
+|---|---|---|---|
+| Q1 | Kamiokande-II neutrinos | 11 electron events, 7.5-36 MeV, beginning 23 Feb 1987 07:35:35 UT +/-1 min, within 13 s | preserve a short, source-associated neutrino burst and its causal relation to collapse |
+| Q2 | Baksan neutrinos | 5 events within 9.1 s at the Kamiokande/IMB epoch | preserve independent-detector temporal coincidence |
+| Q3 | radioactive gamma line | 56Co-associated line near 1238 keV observed 286 d after explosion; 1240.8 +/-1.7 keV, intrinsic width 8.2 +3.4 keV, flux 2.1 +/-0.7 x10^-3 ph cm^-2 s^-1 | preserve nucleosynthesis/decay/ejecta relationship rather than independently tuning the line |
+| Q4 | 56Co gamma emission | significant ~847 keV line and evidence for 1238 keV line in Aug-Oct 1987 | preserve radioactive-product chronology and ejecta transparency/mixing constraints |
+| Q5 | equatorial ring scale | ring approximately 1 light-year in diameter | preserve source-ring spatial geometry |
+| Q6 | shock interaction | HST observed progressive hot spots as blast wave struck ring; interaction evidence by 1996 and extensive brightening thereafter | preserve explosion -> propagation -> ring-impact ordering |
+| Q7 | ejecta dynamics | outer debris measured at roughly 8000 km/s in shock studies; central debris reported near 20 million mph in mission summaries | preserve expanding-remnant kinematics into ordinary observed runtime |
+| Q8 | ring transmitted shocks | equatorial-ring expansion 680 +/-50 km/s in later HST analysis | preserve continuing post-event hydrodynamic evolution |
+| Q9 | dust | ALMA resolved substantial newly formed cool dust in the remnant | preserve post-explosion chemical/thermal evolution |
+| Q10 | compact remnant | JWST detected ionization evidence interpreted as the strongest evidence yet for a neutron star at the explosion site | preserve collapse -> compact-object causal continuity |
+
+### Observation versus reconstruction discipline
+
+Several widely quoted quantities are model-derived rather than direct clock readings. For example, the statement that the equatorial ring was expelled roughly 20,000 years before the explosion is an inference from ring geometry, kinematics, and stellar-evolution modeling. WP-029 records such values as **R: reconstructed** unless the measurement itself directly establishes elapsed duration.
+
+The same rule applies to the approximately 160,000-light-year source distance and any conversion of observed geometry into ordinary-runtime travel history. These remain important quantitative constraints, but the mapping from state to elapsed history is precisely what the Day 4 auxiliary places under test.
+
+### Invariants before mechanism
+
+Candidate temporal models are not permitted to tune Q1-Q10 independently. At minimum they must preserve:
+
+```text
+collapse <-> neutrino burst
+collapse/explosion -> radioactive products
+explosion -> ejecta expansion
+explosion -> propagating shock -> ring interaction
+explosion -> radiation -> light-echo geometry
+explosion -> remnant evolution -> compact remnant signatures
+```
+
+Here arrows express causal ordering, not yet a commitment to ordinary-duration elapsed time.
+
+### First constraint on temporal mappings
+
+Let a candidate implementation map deployment-domain intervals to Earth-local observational intervals through a relation `F_i`.
+
+A minimally acceptable model must preserve causal order:
+
+```text
+A precedes B  =>  F(A) does not reverse B before A
+```
+
+and coupled-event identity:
+
+```text
+one collapse event
+  -> one mutually consistent neutrino / electromagnetic / ejecta / remnant causal family
+```
+
+A model that requires a different unconstrained `F_i` for each messenger or each observational node fails the common-architecture criterion.
+
+### Immediate mathematical target
+
+The next formal task is therefore not to choose a numerical acceleration factor. It is to determine the smallest transformation family capable of preserving the observed causal DAG:
+
+```text
+F : {tau_C,i, x, signal class, deployment state} -> {tau_E-observable relations}
+```
+
+subject to causal-order preservation, cross-messenger consistency, spectral/energy constraints, geometric consistency, and a single synchronization/commissioning boundary.
+
