@@ -18,7 +18,8 @@ DFM focuses especially on cases in which a present mature state admits a long na
 2. **Sequential initialization:** successive creation phases instantiate, configure, populate, and commission real domains and systems.
 3. **Functional maturity:** created systems may begin operation in mature states adequate for their commissioned roles.
 4. **Coherent pre-seeding:** initialized state is integrated and physically coherent rather than a collection of arbitrary appearances.
-5. **Terrestrial-day continuity:** God establishes the terrestrial light-dark, evening-morning cycle on Day 1 by supplying and purposefully constraining the initial light; on Day 4 the luminaries become its ordinary created governors and markers.
+5. **Terrestrial-day continuity:** God establishes the terrestrial light-dark, evening-morning cycle on Day 1 by supplying and purposefully constraining the initial light; on Day 4 the luminaries become its ordinary created governors and markers. The terrestrial day does not entail that every physical domain or creation-process phase must accumulate identical elapsed/process time during supernatural deployment.
+6. **Initialization-deployment complementarity:** creation may include both directly instantiated mature states and genuine causal processes executed under extraordinary deployment conditions. Initialization and process history are not mutually exclusive explanatory categories.
 6. **Biblical supernaturalism:** divine action is a real causal category and cannot be excluded a priori from the revealed creation sequence.
 7. **Methodological Designism:** ordinary created operation is investigated through designed natural capacities, stable regularities, laws, structures, and boundary conditions.
 8. **Ordinary prospective physics:** observed physical laws govern subsequent operation by default.
@@ -649,3 +650,12 @@ Every substantial OAR entry should also receive a **burden-symmetry check**: det
 > The rules that govern a running system need not be the process by which the system was deployed.
 
 > Consilience establishes coherence; retrodiction estimates trajectory; provenance establishes history.
+
+
+## Day 4 asynchronous-deployment auxiliary
+
+DFM presently treats the recovered LPI asynchronous Day 4 architecture as an **auxiliary hypothesis**, not as part of the revealed hard core. The hypothesis proposes that during the terrestrial Day 4 interval, non-terrestrial domains or processes may accumulate differential elapsed/process time before synchronization into ordinary runtime. Scripture fixes the terrestrial creation chronology but does not require a universal synchronous clock across every physical process during supernatural deployment.
+
+Joshua 10:12-14 and 2 Kings 20:8-11 / Isaiah 38:7-8 provide a possibility warrant for divine alteration of ordinary temporal/astronomical coordination, not a technical description of the Day 4 mechanism. Relativistic differential proper time supplies a physical conceptual precedent for non-universal elapsed time, but no particular relativistic implementation is presently canonical DFM.
+
+See `work-packages/WP-028-initialization-asynchronous-deployment-refactor.md`.

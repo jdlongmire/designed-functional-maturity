@@ -1,0 +1,245 @@
+# WP-029: Day 4 Causal Architecture and Severe-Test Programme
+
+**Status:** Proposed / active design  
+**Parent architecture:** WP-028  
+**Registry:** WP-028-HR Day 4 Layered Hypothesis Registry
+
+## Objective
+
+Move the Day 4 asynchronous-deployment auxiliary from conceptual possibility toward a constrained physical research programme.
+
+## Frozen hypothesis boundary
+
+WP-029 tests implementations of a specified asynchronous Day 4 hypothesis. It does not use failed candidate mechanisms to redefine the hypothesis.
+
+The working architecture is:
+
+```text
+stable, encapsulated terrestrial reference domain
+        |
+        | Day 4: Delta tau_E ~= one ordinary terrestrial day
+        |
+        +==============================+
+        | external cosmic deployment   |
+        | standard Big-Bang expansion  |
+        | and thermal-history payload  |
+        | Delta tau_C ~= 13.8 Gyr      |
+        +==============================+
+        |
+        v
+synchronization / commissioning
+        |
+        v
+ordinary common runtime
+```
+
+During the extraordinary deployment interval, Earth remains the stable reference domain while the external cosmos genuinely executes the current standard Big-Bang expansion and thermal history around it. Stellar evolution, nucleosynthesis, supernovae, white-dwarf cooling, galaxy development, CMB history, propagation, and related coupled histories are therefore deployment payload requirements, not candidates to be initialized away merely to reduce the temporal hierarchy.
+
+The approximate target
+
+```text
+Delta tau_C / Delta tau_E ~= 5.04 x 10^12
+```
+
+is part of the asynchronous hypothesis under test. Candidate physical implementations may succeed or fail to derive that relationship. Failure of a metric, foliation, field, or junction implementation demotes that implementation, not the hypothesis by silently replacing the external history with a shorter one.
+
+Designed Functional Maturity still supplies the creation boundary and whatever initialization is independently warranted before the external deployment begins. Initialization-Deployment Complementarity therefore remains intact, but it is not a license within WP-029 to truncate the stipulated external Big-Bang deployment payload.
+
+### Warrant and burden
+
+The theological/biblical warrant is a possibility warrant: Scripture does not impose universal synchronous progression across every created physical process during divine creation/intervention. It does not specify the physical mechanism.
+
+The scientific burden of WP-029 is therefore narrow:
+
+> **What asynchronous creation-deployment architecture can permit a stable, encapsulated terrestrial reference domain to experience one ordinary Day 4 while the external cosmos executes the standard expansion and thermal history, followed by coherent synchronization into ordinary runtime?**
+
+
+
+The governing question is not merely whether asynchronous deployment is conceivable. It is:
+
+> **Can one coherent, constrained creation-deployment architecture account for multiple independent cosmic causal relationships while preserving an ordinary Earth-local Day 4 and transitioning coherently into ordinary runtime?**
+
+## Causal exemplar: supernova observation
+
+Initial causal graph:
+
+```text
+initialized cosmic boundary / source macrostate
+        |
+        v
+stellar/progenitor process development
+        |
+        v
+instability / collapse / explosion
+        |
+        +--> nucleosynthesis
+        |
+        +--> remnant dynamics
+        |
+        +--> photon emission ---------+
+        +--> neutrino emission -------+--> propagation --> Earth observation
+        +--> gravitational signal ----+
+        |
+        v
+post-event environmental consequences
+```
+
+Within the external Day-4 deployment payload, the standard causal chain is provisionally treated as genuinely executed process history. Allocation analysis remains useful for the initial creation boundary and for distinguishing deployment from later ordinary runtime, but WP-029 does not shorten the external history by reclassifying difficult process nodes as initialized actuality.
+
+## Provenance classes
+
+For each node assign one or more candidate classes:
+
+- **I:** directly initialized actuality;
+- **D:** genuinely executed extraordinary-deployment history;
+- **R:** ordinary runtime history;
+- **H:** hybrid initialized + deployed causal structure;
+- **P:** arbitrary pseudo-history, methodologically rejected.
+
+Within the stipulated external deployment payload, D is the default provenance for standard Big-Bang/thermal-history processes. H remains available where independently warranted at the initialization boundary, not as a mechanism for reducing the stipulated cosmic deployment duration.
+
+## Temporal representation
+
+Use Earth-local elapsed/process time `tau_E` and a family of domain/process proper-time variables `tau_C,i`.
+
+Minimum auxiliary:
+
+```text
+Delta tau_C,i != Delta tau_E
+```
+
+Strong asynchronous candidate:
+
+```text
+Delta tau_C,i >> Delta tau_E
+```
+
+Do not introduce one universal cosmic clock unless a candidate physical model independently warrants it.
+
+## Synchronization problem
+
+The central technical burden is to define the transition:
+
+```text
+A(tau_E, {tau_C,i}) -> Sync -> R(L_R)
+```
+
+A successful model must specify, at minimum:
+
+1. what physical quantity differs among temporal domains/processes;
+2. what generates the differential;
+3. how interacting domains remain causally coupled;
+4. how photons, particles, fields, and gravitational effects cross or couple between regimes;
+5. whether frequencies, energies, phases, decay/process rates, or other observables transform;
+6. what constitutes the Day 4 synchronization/commissioning boundary;
+7. how the transition avoids arbitrary discontinuities;
+8. why ordinary post-deployment physics follows thereafter.
+
+“God synchronized it” is a theological possibility statement, not a sufficient physical model for this work package.
+
+## Severe-test domains
+
+### ST-1: Stellar and supernova causal chains
+
+Test whether a single temporal architecture preserves progenitor evolution, transient dynamics, nucleosynthesis, remnant state, and correlated signals.
+
+**Loss condition:** different portions require unrelated temporal factors or causal relationships become inconsistent.
+
+### ST-2: Spectra and redshift
+
+Test whether candidate deployment models preserve observed spectral structure and produce a coherent account of frequency/redshift relationships.
+
+**Loss condition:** observation-specific transformations are required or spectral correlations are destroyed.
+
+### ST-3: Signal propagation
+
+Test photons, neutrinos, and gravitational signals where observations provide correlated constraints.
+
+**Loss condition:** one signal class can be accommodated only by breaking the common causal history of another.
+
+### ST-4: CMB
+
+Test whether the CMB is better treated as initialized boundary state, genuine deployment history, hybrid state, or ordinary antecedent history under competing models.
+
+**Loss condition for a DFM-specific CMB auxiliary:** it merely relabels the observed spectrum without independently deriving relevant structure.
+
+### ST-5: Nucleosynthetic inventories
+
+Test whether elemental/isotopic inventories require genuine process history, can be independently constrained as initialized state, or favor a hybrid allocation.
+
+**Loss condition:** the allocation is chosen isotope-by-isotope without common causal rationale.
+
+### ST-6: Large-scale structure
+
+Test whether initialized macrostructure plus asynchronous process execution yields a coherent account of mature galactic and large-scale organization.
+
+**Loss condition:** required initial conditions simply encode the complete target observation with no independent generative constraint.
+
+## Cross-domain severe-test matrix
+
+Every Layer 3 candidate should be scored across all applicable severe-test domains rather than only the anomaly that motivated it.
+
+| Candidate | Stellar/SN | Spectra/redshift | Propagation | CMB | Nucleosynthesis | Large-scale structure | Synchronization |
+|---|---|---|---|---|---|---|---|
+| Relativistic differential proper time | open | open | open | open | open | open | open |
+| Creation-specific metric/foliation | open | open | open | open | open | open | open |
+| Anisotropic propagation/synchronization | open | open | open | open | open | open | open |
+| Coupled temporal domains | open | open | open | open | open | open | open |
+| Temporal-domain translation | open | open | open | open | open | open | open |
+
+Allowed scores: unsupported, compatible, accommodated, independently derived, novel prediction, severe-test pass, severe-test fail.
+
+## Ancillary opportunity rule
+
+Multiple candidate mechanisms are expected and desirable. A new auxiliary is not penalized merely for being new or for addressing an anomaly. It is appraised by independent motivation, constraint, explanatory reach, parameter economy, discriminating consequences, and severe-test performance.
+
+The same rule applies to competing naturalistic programmes.
+
+## Research sequence
+
+1. Establish observational causal graphs before choosing mechanisms.
+2. Mark what is directly observed versus reconstructed.
+3. Identify correlations a successful model must preserve.
+4. Generate competing Layer 3 mechanisms.
+5. Derive each mechanism's cross-domain consequences.
+6. Score against evidence not used in its construction.
+7. Retain, revise, combine, demote, or reject.
+8. Propagate only stable results upward into DFM public claims and BWM.
+
+## Immediate exemplar
+
+Begin with a supernova system because it forces DFM to address multiple linked phenomena rather than a single travel-time datum.
+
+The first deliverable should distinguish:
+
+```text
+observed present state
+vs
+ordinary retrodictive history
+vs
+initialized components
+vs
+genuine deployment-time processes
+vs
+ordinary post-deployment processes
+```
+
+and then identify which observations discriminate among those allocations.
+
+## First exemplar result
+
+The first controlled competition is recorded in [`WP-029A: SN 1987A Causal Ledger and First Hypothesis Competition`](WP-029/sn1987a-causal-ledger.md).
+
+Initial result: no Layer 3 candidate yet earns a severe-test pass. Coupled temporal domains currently provide the strongest architectural representation of the problem, with relativistic proper-time and creation-specific metric/foliation models retained as candidate implementation families. This is a research prioritization, not a DFM conclusion.
+
+## Success criterion
+
+WP-029 succeeds if it produces at least one quantitatively constrained candidate architecture that simultaneously addresses multiple independent severe-test domains and exposes itself to meaningful failure.
+
+Conceptual compatibility alone is not success.
+
+## Failure is informative
+
+If no candidate asynchronous architecture survives, that result is retained. It would demote or reject the Layer 2 asynchronous auxiliary without automatically defeating Layer 1 Designed Functional Maturity.
+
+This separation is a feature of the layered research programme, not an escape from falsification.

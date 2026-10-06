@@ -397,7 +397,7 @@ A stronger DFM programme should preregister expectations about the degree and ki
 
 ### 11.2 Starlight and propagation
 
-“Starlight in transit” is a candidate DFM hypothesis, not a completed explanation. A viable treatment must specify the initialized radiation field, source-state relationship, propagation under ordinary law after initialization, and how the model avoids encoding arbitrary fictional event histories.
+WP-028 replaces “starlight in transit” as the default framing with a mixed-allocation problem. A viable treatment must determine which components belong to initialized cosmic state and which belong to genuine propagation or source history executed during extraordinary deployment. The recovered LPI Day 4 auxiliary permits differential elapsed/process time relative to the Earth-local creation-day clock, but no particular physical implementation is yet canonical. The model must preserve source-state relationships, correlated observations, synchronization constraints, and severe-test accountability.
 
 ### 11.3 Supernova products
 
@@ -599,3 +599,8 @@ Wetherill, G. W. (1956) ‘Discordant uranium-lead ages, I’, *Transactions, Am
 ### Source-development status
 
 The radiogenic sections have completed a baseline primary-source pass. A broader source pass remains required before external publication for cosmology, entropy, nucleosynthesis, and the theological/exegetical boundary discussion.
+
+
+### Initialization and asynchronous deployment
+
+DFM now treats initialization and genuine creation-process history as complementary. The Day 1 boundary establishes a coherent, purposefully specified initial state. During later creation phases, genuine processes may execute under extraordinary deployment conditions rather than ordinary post-commissioning runtime. The recovered LPI Day 4 auxiliary proposes that non-terrestrial domains may accumulate differential elapsed/process time before synchronization into ordinary operation. This preserves the terrestrial evening-morning chronology without imposing a universal synchronous clock on every physical process. Joshua 10:12-14 and 2 Kings 20:8-11 / Isaiah 38:7-8 provide a scriptural possibility warrant for extraordinary temporal coordination, not a technical physical mechanism.
