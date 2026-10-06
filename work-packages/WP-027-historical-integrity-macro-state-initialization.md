@@ -11,10 +11,26 @@ Formalize the boundary between legitimate Designed Functional Maturity (DFM) ini
 
 1. Functional and creational macro-state may be initialized where required by the proper state/function of the whole or by revealed aesthetic, epistemic, vocational, revelatory, or doxological purpose.
 2. Ordinary runtime law describes the operation of instantiated creation; it is not assumed to exhaustively describe the supernatural creation/deployment process.
-3. A specific-event trace requires a real causal referent. DFM may not posit a trace of an event that never occurred.
+3. A genuine present state may possess properties that an ordinary runtime model would retrodict to an antecedent process without requiring that the ordinary process was actually traversed. John 2:1-11 supplies a canonical control case: genuine wine elicited the ordinary inference of vinting history although Christ actualized the completed state miraculously.
 4. Where Scripture independently warrants a historical catastrophe with plausible causal capacity for an explanandum, that catastrophe is tested before creation-process or initialization explanations.
 5. Failure of a preferred historical explanation does not migrate a specific-event trace into initialization.
 6. Initialization may not be used to evade empirical testing of an independently warranted historical cause.
+
+## Cana control case: mature actuality without ordinary antecedent traversal
+
+John 2:1-11 provides a biblical control case for retrodiction. The master of the feast encounters genuine wine and evaluates it as unusually good wine. Ordinary causal reasoning would supply a vinting history involving grapes, harvest, pressing, fermentation, maturation, and human production. Yet the narrative attributes the wine's obtaining to Christ's miraculous action rather than traversal of that ordinary production history.
+
+Therefore:
+
+    observed mature state S + ordinary process model P -> retrodicted history H_R
+
+but not necessarily:
+
+    H_R = actual history H_A
+
+> **State-Pathway Non-Entailment Principle:** A genuine present state may instantiate properties ordinarily produced by historical pathway H without thereby asserting, entailing, or requiring that H was the pathway by which the state actually obtained.
+
+The wine is not counterfeit because its ordinary production history was not traversed. Its properties are genuine properties of the actualized state. This pattern is consonant with Christ's miracles more broadly: completed physical or biological states may be actualized without traversal of the ordinary processes by which an investigator would normally explain them.
 
 ## Operational trace sorting rule
 
@@ -61,7 +77,7 @@ Therefore:
 G_i != necessarily F_(L_R)^t
 ```
 
-A real creation-process event can occur without requiring the ordinary runtime duration obtained by extrapolating `L_R` backward.
+A real creation-process event can occur without requiring the ordinary runtime duration obtained by extrapolating `L_R` backward. More generally, a coherently initialized event-state may possess causal depth whose ordinary runtime analogue would imply antecedent history, without establishing that the entire retrodicted pathway was traversed.
 
 ## Historical-Causal Priority
 
@@ -183,13 +199,13 @@ Gosse's prochronism permits, in principle:
 T(e) AND NOT Actual(e)
 ```
 
-DFM requires:
+DFM instead requires a more precise inference rule:
 
 ```text
-T(e) -> Actual(e)
+Properties(S) compatible with H -/-> Actual(H)
 ```
 
-The difference is therefore not simply the amount of apparent age admitted. It is an ontological and methodological restriction on **historical reference**.
+A genuine state may possess properties ordinarily produced by history `H` without asserting that `H` was traversed. The relevant constraints are coherent creational purpose, systemic integration, non-ad-hoc boundary architecture, and the distinction between mature actuality and semantically determinate fabricated testimony.
 
 ### Consequence for fossils and catastrophe
 
@@ -317,8 +333,33 @@ The first four categories may occur in legitimate model construction depending o
 
 DFM places a hard boundary before the final category.
 
-The issue is therefore not the **degree of maturity alone**. A highly structured initial state is not automatically deceptive. The decisive question is whether that state falsely bears witness to particular events that never occurred.
+The issue is therefore not the **degree of maturity alone**. A highly structured initial state is not automatically deceptive. The decisive question is not merely whether an observer can retrodict an ordinary history from the state. The question is whether the boundary assignment belongs coherently to the designed whole, serves independently warranted creational purposes, remains constrained rather than ad hoc, and avoids semantically determinate fabricated testimony.
 
 ### Canonical formulation
 
 > **DFM acknowledges a limited inheritance from Gosse's Omphalos: the recognition that a created mature state need not have traversed the ordinary developmental history that can be retrodicted from it. DFM places that insight within the universal initialization problem faced by origins models generally. Every such model specifies an initial or boundary state; they differ in what they assign to that state, how the assignment is justified, and what subsequent history must actually occur. DFM interprets part of its boundary state as designed functional maturity while expressly rejecting Gosse's further move to prochronic specific-event history. Thus the meaningful dispute is not initialization versus no initialization, but competing initialization architectures under common evidential standards.**
+
+
+## Creational causal-depth principle
+
+> **Creational Causal-Depth Principle:** The initialized creation may contain coherent causal depth, including mature relationships, process-like structure, and event-like states whose ordinary runtime analogues would imply antecedent history, when those features are integrated into the created whole and serve independently warranted creational purposes.
+
+Those purposes are not restricted to minimal mechanical survival. They include holistic ecosystem and system stability, functional integration, intelligibility and investigability, aesthetic richness and beauty, human wonder and awe, vocational stewardship, and revelatory and doxological purpose.
+
+Psalm 19:1 supplies explicit canonical warrant for the latter: "The heavens declare the glory of God, and the sky above proclaims his handiwork." The heavens therefore possess a communicative and doxological role within the biblical objective function. A cosmological feature need not be justified only by sterile pragmatic necessity.
+
+The virtual-world designer analogy is useful here. A designer may pre-seed a coherent world with mature ecosystems, weather, astronomical phenomena, and causal depth because those states belong to the intended experience and operation of the world. An internal investigator may reasonably retrodict ordinary runtime histories from those states. The reasonableness of that retrodiction does not establish that the designer ran the world through the entire retrodicted runtime before the initialization boundary.
+
+### Supernova application
+
+For a named supernova or analogous astronomical phenomenon, DFM asks whether the phenomenon is (1) a post-boundary historical event, (2) a genuine creation-process event, or (3) part of a coherently pre-seeded cosmic event-state or causal structure integrated into the initialized heavens.
+
+The third category may be admissible where the state belongs to a coherent cosmological initialization architecture and serves systemic, epistemic, aesthetic, experiential, revelatory, or doxological purposes. Its admissibility cannot rest solely on the desire to evade a light-travel-time difficulty.
+
+    observed supernova state + runtime propagation model -> retrodicted propagation history
+
+does not by itself establish:
+
+    retrodicted propagation history = actual pre-boundary elapsed history
+
+The technical burden remains to formulate a unified boundary model that handles such phenomena consistently rather than assigning them ad hoc.
