@@ -81,6 +81,6 @@ Priority tasks:
 4. Formalize Initialization-Deployment Complementarity and the recovered LPI Day 4 asynchronous auxiliary.
 5. Distinguish supernatural deployment transitions from ordinary designed operation.
 6. Build the coherent pre-seeding model and its consilience/provenance implications.
-7. Re-enter radiogenic WP-012 only when the programme-level architecture requires the formal identifiability result.
+7. Re-enter radiogenic WP-012 when the first of its pre-registered re-entry triggers fires (see the Re-entry criterion in WP-012).
 
 The radiometric workstream remains a severe-test track, but it is no longer the immediate driver of DFM development.

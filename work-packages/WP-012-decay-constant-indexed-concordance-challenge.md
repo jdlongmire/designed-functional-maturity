@@ -186,3 +186,14 @@ The programme records the dependency rather than adding unconstrained auxiliarie
 **Captured for later execution.**
 
 The radiometric workstream has reached a natural formal checkpoint. Further execution should occur only after programme-level reprioritization confirms that this is the highest-value next investment for DFM.
+
+## Re-entry criterion (adopted 2026-10-06)
+
+Triggers. WP-012 moves from Deferred to Active when the first of these occurs:
+
+1. **Calendar backstop.** 2027-10-06, twelve months after adoption, unless the programme has recorded a dated decision to extend the deferral with a stated reason.
+2. **Deliverable gate.** Completion of the ROADMAP "Immediate next gate" (phased-deployment formalization, items 1 to 6), or of any later named phased-deployment deliverable JD designates, whichever comes first. The identifiability result is then the next open burden on the radiogenic auxiliary.
+3. **Public-claim gate.** Any new radiogenic claim in a public artifact (paper, page, video, or OBJECTIONS-AND-RESPONSES entry), including any statement that an orderly-marker or common-initialization generator accounts for concordance. Such a claim may not be published while CCN-001 or CCN-002 stands at "Severe Challenge / active" unless WP-012 has first been activated or the claim is explicitly labeled as an undefended auxiliary.
+
+Rationale. Under the severe-test rule, an auxiliary that has met an adverse test is not retired from scrutiny by being reprioritized. CCN-001 and CCN-002 remain at "Severe Challenge / active" and WP-008 and WP-009 found no age-independent generator, so the negative heuristic protects the hard core while the protective belt carries an acknowledged open burden. The symmetric evidential standard forbids granting DFM a deferral that a competing programme would not receive on its own adverse results. A deferral with no stated exit condition is indistinguishable, to a Lakatosian critic, from a degenerating problem shift: the belt is held fixed while attention moves to areas where the positive heuristic is producing results. Pre-registering the exit conditions converts the pivot into an openly scheduled sequence, keeps the programme's progressive-versus-degenerative accounting auditable, and leaves the theological hard core untouched by the fate of this one auxiliary.
+
