@@ -489,3 +489,130 @@ This is not an attempt to restore Ptolemaic astronomy or to infer geometric cent
 Research programmes such as exoplanet surveys, astrobiology, biosignature searches, and SETI are legitimate empirical investigations. Their existence, scale, or motivating expectations are not themselves evidence that inhabited worlds or technological civilizations are common. Likewise, nondetection does not by itself establish terrestrial uniqueness or DFM.
 
 Where terrestrial nonprivilege functions as a methodological assumption, prior, or model constraint, WP-031 should identify it explicitly rather than recording it as an observation.
+
+
+---
+
+## Biblical-Terrestrial Privilege Test
+
+### Organizing hypothesis
+
+> **Scripture provides independent warrant for investigating Earth as a privileged creation reference domain. Does independent observation of the natural world support, remain neutral toward, or challenge that expectation?**
+
+This is the organizing test for RO-EARTH-001. The intended direction of inference is:
+
+```text
+biblical warrant
+      ↓
+specified terrestrial-privilege hypothesis
+      ↓
+predicted / expected observational pattern
+      ↓
+independent observational test
+      ↓
+support / neutral-underdetermined / challenge
+```
+
+The programme should not begin with an interesting physical observation and retrospectively search Scripture for a compatible interpretation. The biblical case must first establish what kind of terrestrial privilege is actually warranted and what it does **not** warrant.
+
+### Track 1 — Canonical biblical warrant v0.1
+
+#### BTP-B1 — Earth as the human habitation domain
+
+Genesis 1–2 assigns humanity its vocation on Earth. Genesis 1:26–28 gives mankind dominion over terrestrial life and commands humanity to fill and subdue the Earth. Genesis 2 locates the human vocation in the garden and terrestrial environment.
+
+Psalm 115:16 distinguishes the heavens as belonging to YHWH while describing the Earth as given to the children of man. Isaiah 45:18 explicitly describes God as forming and establishing the Earth to be inhabited.
+
+**Provisional warrant:** Strong for **functional / habitation privilege**.
+
+**Does not establish:** geometric centrality.
+
+#### BTP-B2 — Terrestrial chronology as the Genesis creation reference
+
+Genesis 1 repeatedly marks the creation sequence by evening and morning. On the fourth day, the luminaries are assigned functions including separating day and night, marking signs/seasons/days/years, giving light upon the Earth, and governing day and night.
+
+The narrative therefore describes the luminaries in explicit functional relation to the terrestrial domain and embeds Day 4 within the same terrestrial evening-morning sequence already in operation.
+
+**Provisional warrant:** Strong within the DFM historical-grammatical reading for **terrestrial chronological/reference-domain privilege**.
+
+**Does not establish:** the physical mechanism by which the external cosmos is deployed or synchronized.
+
+#### BTP-B3 — Earth established for habitation
+
+Isaiah 45:18 describes God as forming, making, and establishing Earth and states a purpose: it was formed to be inhabited.
+
+**Provisional warrant:** Strong for **purposeful terrestrial habitability**.
+
+This provides an independent biblical reason to investigate whether Earth's observed habitability is merely minimally permissive or exhibits unusually integrated functional preparation.
+
+**Does not establish:** rarity of habitable planets or terrestrial uniqueness.
+
+#### BTP-B4 — Human vocation and dominion are terrestrially located
+
+Genesis 1:26–28 and the subsequent canonical storyline place humanity's assigned dominion and ordinary vocation on Earth.
+
+**Provisional warrant:** Strong for **anthropological / vocational privilege**.
+
+**Does not establish:** that nonhuman life cannot exist elsewhere.
+
+#### BTP-B5 — Day 4 luminaries are described relative to Earth
+
+Genesis 1:14–18 repeatedly assigns the luminaries Earth-facing functions: temporal markers, illumination of Earth, and governance of terrestrial day/night.
+
+**Provisional warrant:** Strong for **functional relational privilege of the terrestrial domain within the Day 4 narrative**.
+
+**Does not establish:** geometric centrality, a Ptolemaic system, or any specific relativistic/deployment mechanism.
+
+#### BTP-B6 — Canonical temporal-intervention possibility warrant
+
+Joshua 10:12–14 and 2 Kings 20:9–11 / Isaiah 38:7–8 describe extraordinary divine interventions involving terrestrial and astronomical temporal relationships.
+
+**Provisional warrant:** Moderate-to-strong as a **possibility warrant for extraordinary temporal coordination**.
+
+**Does not establish:** that Genesis Day 4 used the same mechanism or physical process.
+
+### Initial privilege taxonomy from the canonical pass
+
+| Privilege claim | Biblical warrant | Initial assessment |
+|---|---|---|
+| Earth as purposeful human habitation | Gen 1:26–28; Gen 2; Isa 45:18; Ps 115:16 | Strong |
+| Earth as human vocational domain | Gen 1:26–28; Gen 2 | Strong |
+| Earth as Genesis chronological/reference domain | Gen 1 evening-morning sequence; Gen 1:14–19 | Strong under DFM reading |
+| Day 4 luminaries functionally related to Earth | Gen 1:14–18 | Strong |
+| Extraordinary temporal coordination is biblically possible | Josh 10:12–14; 2 Kgs 20:9–11; Isa 38:7–8 | Strong as possibility warrant |
+| Earth as uniquely inhabited planet | No explicit canonical statement identified | Not established |
+| Earth as only location of created life | No explicit canonical statement identified | Not established |
+| Earth as geometric center of universe | No explicit canonical statement identified | Not established |
+| Specific Day 4 asynchronous physical mechanism | No explicit canonical statement identified | Not established |
+
+### Derived observational expectations v0.1
+
+These are research expectations, not yet DFM evidence.
+
+If the biblical terrestrial-privilege inference is physically meaningful rather than merely literary or theological, the programme may reasonably investigate whether:
+
+1. Earth exhibits an unusually integrated state suited to sustained human and complex-life habitation.
+2. Earth exhibits unusual functional stability across multiple coupled planetary systems.
+3. the terrestrial domain is unusually suitable for observing and characterizing the wider cosmos.
+4. large-scale observations from Earth exhibit symmetry or regularity compatible with a terrestrial reference-domain role.
+5. the Day 4 deployment architecture can reproduce those observations without arbitrary observation-specific tuning.
+6. some measurable deployment/synchronization signature distinguishes terrestrial reference-domain architecture from terrestrial nonprivilege.
+
+The programme does **not** derive from the canonical warrant an expectation that Earth must occupy the ordinary geometric center of a finite spherical universe. Any such claim requires an additional hypothesis and independent justification.
+
+### Canonical falsification / correction conditions
+
+The biblical component itself should be revised if historical-grammatical and canonical analysis shows that:
+
+- the evening-morning chronology cannot reasonably function as a terrestrial reference sequence;
+- Genesis 1:14–18 does not warrant treating the luminaries' stated functions as relationally Earth-facing;
+- the broader canon undermines rather than reinforces purposeful terrestrial habitation and vocation;
+- the temporal-intervention texts do not support the limited possibility claim being made from them.
+
+Failure of a **physical** terrestrial-privilege prediction, by contrast, need not falsify the biblical texts. It may instead falsify or narrow the DFM inference drawn from them. This distinction must remain explicit.
+
+### Track 1 status
+
+**Initial canonical result:** Scripture gives substantial warrant for investigating **functional, habitation, vocational, chronological/reference-domain, and creation-historical terrestrial privilege**. It does not presently establish **geometric centrality**, **terrestrial uniqueness as the only inhabited world**, or a **specific Day 4 physical mechanism**.
+
+The next research task is to test the derived expectations independently against the observational record rather than increasing the biblical claim beyond this warrant.
