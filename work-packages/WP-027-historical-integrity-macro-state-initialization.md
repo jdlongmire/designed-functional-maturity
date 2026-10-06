@@ -220,3 +220,105 @@ The relationship is best stated as:
 > **Gosse identified a real initialization problem; DFM accepts the initialization insight while rejecting prochronic pseudo-history as its solution.**
 
 This distinction must remain empirically costly. DFM cannot merely relabel inconvenient historical traces as macro-state. The Specific-Event Trace Test, Non-Migration Principle, catastrophe appraisal protocol, and local failure criteria exist precisely to prevent that move.
+
+
+## Inheritance without identity: the universal initialization problem
+
+DFM need not deny every conceptual inheritance from Gosse. Doing so would obscure a legitimate insight in *Omphalos* and overstate the difference.
+
+The limited inheritance is this:
+
+> **A created system need not begin at the beginning of the ordinary developmental trajectory that an investigator can retrodict from its observed mature state.**
+
+DFM accepts this as an instance of the more general **initialization problem**.
+
+The initialization problem is not peculiar to young-creation models. Every origins model requires some specified initial or boundary state from which subsequent evolution is modeled. Depending on the model, this may include fields, matter distributions, constants, geometry, quantum state, entropy, inflationary conditions, chemical inventories, biological starting populations, or other structured boundary information.
+
+Accordingly, the relevant contrast is not:
+
+```text
+initialized model vs non-initialized model
+```
+
+but:
+
+```text
+initialization architecture A vs initialization architecture B
+```
+
+and, more specifically:
+
+```text
+what is assigned to the boundary state?
+why is that assignment warranted?
+what must instead be explained by actual causal history?
+```
+
+### Functional maturity is DFM's boundary interpretation
+
+The universal claim should therefore be stated carefully. Not every origins model affirms **functional maturity** in DFM's theological/design sense. Every origins model does, however, require an initialized or boundary state.
+
+DFM interprets some of its initialized state as **functional maturity** because Scripture's creation account presents systems as deployed into commissioned roles and ordinary operation.
+
+A conventional cosmological model may instead describe its starting specification in terms such as a low-entropy boundary condition, initial quantum state, field configuration, or other physical initial conditions.
+
+Those descriptions differ substantially in ontology and explanatory commitments, but none eliminates the boundary-state question.
+
+### Omphalos as a predecessor, not an identity claim
+
+DFM can therefore acknowledge a limited intellectual family resemblance:
+
+1. Gosse recognized that present mature state does not logically entail traversal of the entire ordinary developmental history reconstructed from that state.
+2. DFM retains that initialization insight.
+3. Gosse extended the insight into prochronism, allowing detailed traces of events that never occurred diachronically.
+4. DFM rejects that extension through the Historical Integrity Constraint.
+
+The relationship is therefore one of **partial inheritance without model identity**.
+
+Calling every mature-creation model “Omphalos” obscures the very issue that distinguishes Gosse's proposal from DFM: whether initialization may include fabricated specific-event history.
+
+Conversely, DFM should not evade the historical relationship merely by changing terminology. Where Gosse's initialization insight is sound, DFM may acknowledge it openly while rejecting the prochronic-history mechanism.
+
+### Comparative initialization principle
+
+> **Comparative Initialization Principle:** Origins models should be compared not on whether they possess an initial or boundary state, since all such models require one, but on the content, justification, degrees of freedom, physical coherence, historical commitments, and empirical consequences of their respective initialization architectures.
+
+This principle applies symmetrically.
+
+DFM may not dismiss a conventional low-entropy or cosmological boundary state merely because it is specified as an initial condition. Competing models likewise may not treat the mere presence of initialized functional state in DFM as a unique methodological defect.
+
+The evidential questions are comparative:
+
+- How much information is assigned to the boundary?
+- Is that information independently constrained?
+- Does the boundary specification merely accommodate the observed world, or does it generate risky consequences?
+- Which observations arise from subsequent genuine history?
+- Does the model preserve historical provenance?
+- How many free parameters or auxiliary assumptions are required?
+- What observations could discriminate among the competing initialization architectures?
+
+### Boundary-content spectrum
+
+The relevant conceptual spectrum is therefore:
+
+```text
+minimal boundary specification
+        |
+structured physical initial state
+        |
+low-entropy / highly ordered initial state
+        |
+functionally mature initialized state
+        |
+specific-event pseudo-history
+```
+
+The first four categories may occur in legitimate model construction depending on the model's commitments and evidential support.
+
+DFM places a hard boundary before the final category.
+
+The issue is therefore not the **degree of maturity alone**. A highly structured initial state is not automatically deceptive. The decisive question is whether that state falsely bears witness to particular events that never occurred.
+
+### Canonical formulation
+
+> **DFM acknowledges a limited inheritance from Gosse's Omphalos: the recognition that a created mature state need not have traversed the ordinary developmental history that can be retrodicted from it. DFM places that insight within the universal initialization problem faced by origins models generally. Every such model specifies an initial or boundary state; they differ in what they assign to that state, how the assignment is justified, and what subsequent history must actually occur. DFM interprets part of its boundary state as designed functional maturity while expressly rejecting Gosse's further move to prochronic specific-event history. Thus the meaningful dispute is not initialization versus no initialization, but competing initialization architectures under common evidential standards.**
