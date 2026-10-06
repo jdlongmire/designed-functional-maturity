@@ -849,3 +849,146 @@ BTP-O2 should be promoted to positive evidence only if the programme can:
 ### Relationship to D3
 
 BTP-O2 is not D3. General observability can strengthen a convergent terrestrial-privilege case, but the decisive DFM test remains a deployment-specific observable expected under the Earth-reference-domain Day 4 architecture and not equally expected under standard FLRW plus terrestrial nonprivilege.
+
+
+---
+
+## Track 2 — Observational Test 3: Terrestrial Isotropy and the Copernican Inference
+
+**Test ID:** BTP-O3  
+**Derived from:** RO-EARTH-001, TP-ISO-001, TP-COP-001, TP-REM-001  
+**Question:** Given the high degree of large-scale isotropy observed from the terrestrial domain, what is directly observed, what follows only with additional cosmological assumptions, and what observations independently test those assumptions?
+
+### O3-A — Observation and inference must be separated
+
+The terrestrial observer measures a remarkably isotropic large-scale sky, most stringently in the CMB after removal/modeling of local-motion and foreground effects. This is a direct observational fact about our past light cone.
+
+It does **not**, by itself, establish either:
+
+```text
+Earth is a privileged center
+```
+
+or:
+
+```text
+every typical comoving observer sees statistically the same large-scale universe.
+```
+
+The latter conclusion requires additional spacetime assumptions and/or independent observational tests.
+
+### O3-B — The standard inference
+
+In standard cosmology the Copernican principle, together with large-scale isotropy and the relativistic cosmological framework, motivates spatial homogeneity and FLRW geometry. The inference is powerful and empirically successful, but the Copernican step must not be mislabeled as the same observation as terrestrial isotropy.
+
+The research distinction is:
+
+```text
+O: large-scale observations are approximately isotropic about our worldline
+CP: our observational location is not privileged
+O + CP + physical/geometric conditions -> near-FLRW / large-scale homogeneity
+```
+
+Generalized Ehlers-Geren-Sachs results clarify both the strength and the conditional character of this inference: isotropic radiation for a suitable congruence of observers, together with additional dynamical conditions, can strongly constrain spacetime geometry. A single observer's isotropic sky is not equivalent to demonstrating isotropy for the required family of observers.
+
+### O3-C — The Copernican principle is testable
+
+The programme must not describe CP as wholly untested. Modern cosmology has developed indirect tests of radial inhomogeneity and observer equivalence using combinations of:
+
+- CMB spectral distortions;
+- kinetic Sunyaev-Zeldovich measurements;
+- BAO;
+- Type Ia supernovae;
+- cosmic chronometers;
+- galaxy distributions and geometric consistency tests;
+- large-scale structure.
+
+These observations place strong constraints on broad classes of non-Copernican models, especially giant spherically symmetric void models constructed to replace dark energy.
+
+Recent analyses allowing spherical inhomogeneity around us find tight limits on large-scale non-Copernican density contrasts. This is genuine evidence relevant to CP and must be represented at full strength.
+
+### O3-D — What those tests do not establish
+
+Constraints on particular radial-inhomogeneity or giant-void models do not logically establish:
+
+```text
+no possible terrestrial privilege of any kind.
+```
+
+They instead exclude or constrain specified geometries and departures from homogeneity.
+
+This matters because H_TP is presently broader than a giant-void or Ptolemaic centrality model. Functional, observational, temporal/deployment, and creation-historical privilege can in principle coexist with an external cosmos that is highly homogeneous and isotropic after commissioning.
+
+Therefore each remote-observer result must be translated into:
+
+1. the non-Copernican geometry actually tested;
+2. the parameter range excluded;
+3. whether DFM predicts that geometry;
+4. whether the result constrains DFM's Day 4 reference-domain architecture.
+
+### O3-E — CMB anomalies are constraints, not automatic evidence
+
+Published analyses disagree about the significance and interpretation of some large-angle CMB alignments and other statistical-isotropy anomalies. Other analyses place extremely tight bounds on specified anisotropic cosmologies.
+
+Accordingly:
+
+> **An anomalous CMB statistic is not evidence for terrestrial privilege merely because it departs from a simple isotropic null model.**
+
+It becomes relevant only if H_TP independently predicts its form, direction, scale, or covariance structure and survives foreground, look-elsewhere, cosmic-variance, and analysis-pipeline controls.
+
+### O3-F — Explanatory-symmetry challenge
+
+The following methodological challenge remains legitimate:
+
+> **If terrestrial observational isotropy is judged non-evidential for a privileged terrestrial reference domain because a homogeneous universe would produce approximately the same observation for every typical comoving observer, then the homogeneity/Copernican premise doing that explanatory work must be supported independently rather than treated as identical to the isotropy being explained.**
+
+The standard model does possess independent and indirect support. The DFM task is therefore not to point out an assumption and stop, but to compare that support with a developed terrestrial-reference-domain model.
+
+### Competing hypotheses
+
+**H_NP / FLRW:** terrestrial isotropy is expected because Earth is a typical comoving location in a statistically homogeneous and isotropic large-scale universe.
+
+**H_TP / DFM:** terrestrial isotropy may be expected because Earth is the stable terrestrial reference domain around which the external cosmic deployment was coordinated, while the commissioned external cosmos may itself approach ordinary homogeneous/isotropic runtime.
+
+At present both can accommodate terrestrial isotropy.
+
+### D2 — Remote-observer discriminator
+
+For each empirical CP test, record:
+
+```text
+observable
+-> inferred remote-domain property
+-> model assumptions
+-> class of non-Copernican geometry constrained
+-> quantitative exclusion
+-> applicability to H_TP
+```
+
+A remote-observer test challenges DFM only to the extent that DFM predicts the excluded property.
+
+### D3 — Deployment-signature discriminator
+
+The decisive next step is stronger:
+
+> **Derive at least one observable consequence of a terrestrial-reference-domain Day 4 deployment/synchronization architecture that is not equally expected under standard FLRW plus terrestrial nonprivilege.**
+
+Candidate classes to investigate, without assigning evidential weight in advance:
+
+- radial or worldline-dependent deployment residuals;
+- synchronization-boundary signatures;
+- correlations between terrestrial observational frame and otherwise independent cosmological observables;
+- departures from remote-observer statistical equivalence;
+- invariant consequences of the Earth/external-cosmos temporal-domain relation.
+
+No candidate should be promoted merely because an existing cosmological anomaly can be redescribed in DFM terminology.
+
+### Current verdict
+
+> **Large-scale terrestrial isotropy is a strong observation but is not presently a discriminator between terrestrial privilege and nonprivilege. The Copernican/homogeneity interpretation is not a raw observation, yet it has substantial indirect empirical support that constrains broad non-Copernican geometries. DFM must therefore produce a privilege-specific prediction rather than treating our isotropic sky itself as positive evidence.**
+
+**Classification:** **Strong observation / dual-use constraint / presently nondiscriminating.**
+
+### Research consequence
+
+BTP-O3 moves the programme from asking whether Earth merely *looks special* to asking whether terrestrial privilege produces a measurable consequence that survives comparison with the strongest observational tests of the Copernican principle. This is the bridge from the convergence case to D3.
