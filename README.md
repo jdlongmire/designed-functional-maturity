@@ -14,7 +14,7 @@ DFM is developed here as a **Christian methodological-designist research program
 
 ## Core model
 
-Genesis 1 is modeled as a phased initialization architecture:
+Genesis 1 is modeled as a phased initialization-and-deployment architecture:
 
 ```text
 S_i = G_i(Phi_i, L, B_i, S_{i-1})
@@ -59,12 +59,13 @@ The current DFM hard core is:
 2. **Real deployment sequence.** The creation days specify real sequential initialization acts in which domains and systems are instantiated, configured, populated, and commissioned.
 3. **Functional maturity.** Created systems may be initialized in states adequate for immediate commissioned function.
 4. **Coherent pre-seeding.** Initialized states form an integrated physical whole rather than disconnected appearances; coupled state variables must be mutually coherent.
-5. **Terrestrial-day continuity.** God supplies and purposefully constrains the Day 1 light to establish the terrestrial light-dark, evening-morning cycle. On Day 4 the luminaries are commissioned as ordinary created governors and markers of that already-established terrestrial day.
-6. **Biblical supernaturalism.** Divine action is a real causal category and is not excluded from creation history a priori.
-7. **Methodological Designism in ordinary operation.** Once commissioned, created systems are ordinarily investigated through their stable designed causal capacities, laws, structures, and boundary conditions.
-8. **Ordinary prospective physics.** Observed physical law is the default for post-initialization operation unless independent evidence warrants otherwise.
-9. **Retrodiction is not provenance.** A present state does not uniquely entail a traversed antecedent history merely because that history can be reconstructed under ordinary laws.
-10. **Empirical accountability.** Observations constrain DFM, and initialization cannot be used as an unconstrained rescue device.
+5. **Terrestrial-day continuity without universal synchrony.** God supplies and purposefully constrains the Day 1 light to establish the terrestrial light-dark, evening-morning cycle. On Day 4 the luminaries are commissioned as ordinary created governors and markers of that already-established terrestrial day. This terrestrial chronology does not require every physical domain or creation process to accumulate identical elapsed/process time during supernatural deployment.
+6. **Initialization-deployment complementarity.** Creation may include both directly instantiated mature states and genuinely executed causal processes under extraordinary deployment conditions. These are complementary rather than mutually exclusive explanatory categories.
+7. **Biblical supernaturalism.** Divine action is a real causal category and is not excluded from creation history a priori.
+8. **Methodological Designism in ordinary operation.** Once commissioned, created systems are ordinarily investigated through their stable designed causal capacities, laws, structures, and boundary conditions.
+9. **Ordinary prospective physics.** Observed physical law is the default for post-initialization operation unless independent evidence warrants otherwise.
+10. **Retrodiction is not provenance.** A present state does not uniquely entail a traversed antecedent history merely because that history can be reconstructed under ordinary laws.
+11. **Empirical accountability.** Observations constrain DFM, and initialization cannot be used as an unconstrained rescue device.
 
 Two canonical maxims follow:
 
@@ -113,9 +114,11 @@ See [WP-002](work-packages/WP-002-retrodiction-initialization-radiogenic-inferen
 
 ## Cosmological application
 
-DFM applies the same distinction to cosmology. Functional astronomical maturity need not imply that all observed states were assembled through the full conventional antecedent history inferred from present processes.
+DFM applies a both-and architecture to cosmology. Functional astronomical maturity need not imply that every observed state was assembled through the full conventional antecedent history inferred from present processes, but neither must every causally rich observation be assigned to direct initialization.
 
-This creates research questions around stellar light, redshift, supernova products, elemental inventories, low-entropy initialization, early galaxy maturity, and the relationship between created boundary conditions and subsequent ordinary cosmic evolution.
+The recovered LPI Day 4 auxiliary proposes that genuine cosmic processes may execute asynchronously relative to the Earth-local creation-day clock and then synchronize into ordinary runtime. This permits mixed explanatory allocation: initialized macrostate plus genuine process history where warranted. The specific physical implementation remains open and is not part of the hard core.
+
+This creates research questions around differential elapsed/process time, stellar light, redshift, supernova events and products, elemental inventories, low-entropy initialization, early galaxy maturity, synchronization constraints, and the relationship between created boundary conditions and subsequent ordinary cosmic evolution.
 
 DFM does not treat every surprising observation as confirmation. A useful DFM prediction must follow from the model more strongly than from unconstrained retrospective accommodation.
 
@@ -204,3 +207,7 @@ Correspondence: jdlongmire@outlook.com
 ## Status
 
 Active research programme. The repository is intentionally revision-controlled so that hypotheses, burdens, tests, and model changes remain auditable.
+
+## License and citation
+
+Text in this repository is licensed under CC BY 4.0; see [LICENSE](LICENSE). To cite this programme, use [CITATION.cff](CITATION.cff).

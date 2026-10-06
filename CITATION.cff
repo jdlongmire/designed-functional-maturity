@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you cite this research programme, please cite it as below."
+title: "Designed Functional Maturity (DFM)"
+abstract: "A Christian methodological-designist research programme for phased supernatural creation, functional initialization, and historical inference. DFM asks whether a mature physical state necessarily implies that every natural process capable of producing it was historically traversed, and exposes its answer to severe empirical testing."
+authors:
+  - family-names: Longmire
+    given-names: "James (JD)"
+    orcid: "https://orcid.org/0009-0009-1383-7698"
+repository-code: "https://github.com/jdlongmire/designed-functional-maturity"
+url: "https://jdlongmire.github.io/designed-functional-maturity/"
+license: CC-BY-4.0
+keywords:
+  - designed functional maturity
+  - biblical world model
+  - creation
+  - historical inference
+  - radiometric dating
+  - Lakatos

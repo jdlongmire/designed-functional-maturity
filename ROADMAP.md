@@ -37,13 +37,15 @@ Deliverables:
 - concordance/discordance model;
 - explicit failure criteria.
 
-## Phase 3: Cosmological initialization
+## Phase 3: Cosmological initialization and asynchronous deployment
 
 **Status: developing**
 
-- Formalize Day 4 deployment boundary.
+- Formalize Day 4 as initialized state plus genuine process execution.
+- Formalize differential elapsed/process time without presupposing a particular physical mechanism.
+- Define synchronization and cross-domain coupling constraints at Day 4 completion.
 - Separate observed redshift from inferred travel/development history.
-- Model light propagation and “starlight in transit” precisely.
+- Model light propagation using explicit allocation among initialized state, genuine propagation, and asynchronous deployment.
 - Treat SN 1987A and supernova-remnant observations.
 - Map nucleosynthetic products to functional-state requirements.
 - Quantify low-entropy boundary conditions.
@@ -75,9 +77,10 @@ Priority tasks:
 
 1. Map the Genesis 1 sequence as a deployment/run-book architecture without reducing the text to the engineering analogy.
 2. Formalize the transition `S_{i-1} -> S_i` for each creation day at the level warranted by the text.
-3. Define terrestrial-day continuity: Day 1 establishment of the light-dark/evening-morning cycle and Day 4 transition to luminary governance.
-4. Distinguish supernatural deployment transitions from ordinary designed operation.
-5. Build the coherent pre-seeding model and its consilience/provenance implications.
-6. Re-enter radiogenic WP-012 only when the programme-level architecture requires the formal identifiability result.
+3. Define terrestrial-day continuity without assuming universal synchronous process-time.
+4. Formalize Initialization-Deployment Complementarity and the recovered LPI Day 4 asynchronous auxiliary.
+5. Distinguish supernatural deployment transitions from ordinary designed operation.
+6. Build the coherent pre-seeding model and its consilience/provenance implications.
+7. Re-enter radiogenic WP-012 only when the programme-level architecture requires the formal identifiability result.
 
 The radiometric workstream remains a severe-test track, but it is no longer the immediate driver of DFM development.

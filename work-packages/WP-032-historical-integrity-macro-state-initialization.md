@@ -1,6 +1,6 @@
 # WP-032: Historical Integrity, Macro-State Initialization, and Explanatory Allocation
 
-**Status:** Executed specification baseline  
+**Status:** Executed — specification baseline  
 **Target:** `PROGRAMME.md` hard-core/heuristic tuning after adversarial review
 
 ## Objective

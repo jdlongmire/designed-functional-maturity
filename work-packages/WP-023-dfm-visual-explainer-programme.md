@@ -1,6 +1,6 @@
 # WP-023: DFM Visual Explainer and Infographic Programme
 
-**Status:** Captured / governed development
+**Status:** Active — governed development  
 **Type:** Public communication / visual architecture
 **Depends on:** WP-013, WP-016, WP-017, WP-020, WP-022
 

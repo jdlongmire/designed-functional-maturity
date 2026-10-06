@@ -1,6 +1,6 @@
 # WP-006: Flagship DFM Paper Rebuild
 
-**Status:** Executed baseline  
+**Status:** Executed — baseline  
 **Parent:** DFM Research Programme  
 **Canonical input:** `PROGRAMME.md`  
 **Target:** `drafts/designed-functional-maturity.md`

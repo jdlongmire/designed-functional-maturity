@@ -1,7 +1,7 @@
 # WP-001: Flesh out the original artifact
 
 **Target artifact:** `drafts/designed-functional-maturity.md`
-**Status:** Not started
+**Status:** Superseded — by WP-006
 
 ## Framing
 

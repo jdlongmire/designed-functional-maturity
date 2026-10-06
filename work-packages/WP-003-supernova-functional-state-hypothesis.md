@@ -2,7 +2,7 @@
 
 ## Status
 
-Proposed / active investigation
+**Status:** Active — active investigation
 
 ## Purpose
 

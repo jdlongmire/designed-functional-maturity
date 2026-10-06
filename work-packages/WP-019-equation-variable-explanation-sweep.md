@@ -1,6 +1,6 @@
 # WP-019: Equation and Variable Explanation Sweep
 
-**Status:** Executed
+**Status:** Executed  
 **Type:** Notation governance / documentation quality
 
 ## Objective
