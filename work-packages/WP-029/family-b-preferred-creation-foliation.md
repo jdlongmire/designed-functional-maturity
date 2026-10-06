@@ -209,3 +209,155 @@ Candidate mathematical analogues may include constant-mean-curvature slicing, Yo
 Demote Family B if its explanatory success requires freely specifying N(x,s), alpha(x,s), or slice geometry after seeing each target observation.
 
 Promote it only if one constrained foliation architecture explains multiple independent domains and yields at least one discriminator not built into its construction.
+
+
+## Boundary-determined lapse test: CMC/York-style screen
+
+The first Family B screen uses standard 3+1 constraint structure rather than inventing a new clock law.
+
+On each deployment slice Sigma_s, let h_ij be the spatial metric, K_ij its extrinsic curvature, n^mu the unit normal, rho the normal-frame energy density, and S the trace of spatial stress.
+
+The ADM constraints include, schematically,
+
+    R^(3) + K^2 - K_ij K^ij = 16 pi G rho / c^4
+
+and
+
+    D_j(K^ij - h^ij K) = 8 pi G j^i / c^4.
+
+These constrain admissible initial/slice data but do not by themselves determine the lapse N, because lapse is ordinarily part of the slicing/gauge freedom.
+
+### Add a physical deployment slicing condition
+
+Test constant-mean-curvature slicing:
+
+    K(x,s) = K(s).
+
+Demanding preservation of this condition under evolution yields an elliptic lapse equation of the general form
+
+    -D^2 N
+    + N [K_ij K^ij + 4 pi G (rho + S)/c^4]
+    = source[K_dot(s), shift, conventions].
+
+The exact coefficients/signs depend on convention, but the structural result is what matters:
+
+> Once the slice geometry, matter data, prescribed K(s), shift treatment, and boundary conditions are fixed, the lapse is constrained by an elliptic equation rather than freely assigned point by point.
+
+This is the first Family B result that materially differs from an arbitrary alpha(x,s) clock field.
+
+## What is and is not determined
+
+CMC does not remove all freedom.
+
+The programme still must justify:
+
+- why CMC, or another slicing principle, is physically privileged during creation deployment;
+- the function K(s) or an equivalent global temporal condition;
+- spatial boundary/asymptotic conditions for N;
+- shift beta^i or a rule fixing it;
+- initial h_ij, K_ij, and matter/boundary data.
+
+Therefore Family B has not derived the terrestrial/cosmic time ratio from first principles. It has reduced local lapse freedom to a smaller set of global geometric/boundary choices.
+
+That reduction is genuine methodological progress if those choices are independently constrained.
+
+## York-time interpretation
+
+The mean curvature K can serve as a global temporal parameter in suitable formulations. Define a York-like deployment parameter schematically by
+
+    T_Y proportional to -K.
+
+Then the creation foliation can be expressed as ordered constant-K slices rather than an arbitrary coordinate-time stack.
+
+This has an architectural attraction for DFM:
+
+    boundary geometry
+      -> ordered deployment slices
+      -> locally covariant evolution
+      -> commissioning slice.
+
+But DFM must not infer from mathematical usefulness that York time is the actual creation clock. It is a candidate organizing variable only.
+
+## Lapse-ratio consequence
+
+For observers normal to the slices,
+
+    d tau = N ds.
+
+Hence the local process-depth ratio between a cosmic domain C and terrestrial domain E is
+
+    Delta tau_C / Delta tau_E
+      = [integral N_C(s) ds] / [integral N_E(s) ds].
+
+Under the CMC screen, N_C and N_E are solutions of the same lapse equation on the same slice geometry. Their ratio is therefore not independently selectable if h_ij, K_ij, matter content, K(s), and boundary conditions are fixed.
+
+This is exactly the kind of constraint Family B needs.
+
+## SN 1987A implication
+
+A successful CMC-like deployment geometry would determine the lapse throughout the source-to-observer geometry at once. SN 1987A photons, neutrinos, stellar processes, ejecta, and ring interaction would therefore inherit one geometric temporal architecture rather than independent clock assignments.
+
+This does not yet show that the required large differential exists. It shows that the hypothesis can be made non-arbitrary enough to test.
+
+## First Family B discriminator
+
+The central quantitative question becomes:
+
+> Can admissible slice data and a physically motivated K(s) produce a large N_C/N_E or integrated proper-time differential while maintaining regular geometry, acceptable matter/source behavior, and ordinary post-commissioning physics?
+
+If the answer is no across reasonable CMC/boundary data, this version of Family B fails.
+
+If yes, the lapse equation supplies a derived clock relation rather than a stipulated one.
+
+## Commissioning condition
+
+Choose Sigma_sync as a final slice satisfying ordinary-runtime constraint data and require the preferred deployment slicing to match onto an ordinary solution.
+
+A particularly economical target is
+
+    K(s) -> K_R
+    N(x,s) -> N_R(x)
+    beta^i -> beta_R^i
+    h_ij -> h_ij^R
+    K_ij -> K_ij^R
+
+smoothly as s approaches s_sync.
+
+No state reset is permitted.
+
+## CMC screen verdict
+
+**Family B passes its first structural screen.**
+
+Reason: a preferred slicing condition such as CMC can convert lapse from an arbitrary pointwise function into the solution of a constrained elliptic boundary-value problem.
+
+This does not establish CMC as the correct creation foliation and does not establish a large cosmic/terrestrial proper-time ratio. It establishes that Family B need not collapse immediately into arbitrary clock assignment.
+
+## New burden ledger
+
+B1. **Foliation-selection burden:** independently motivate CMC/York or another slicing principle.
+
+B2. **Global-time burden:** constrain K(s) rather than choosing it to manufacture the desired ratio.
+
+B3. **Boundary-data burden:** specify lapse boundary/asymptotic conditions without source-specific tuning.
+
+B4. **Existence burden:** show regular solutions with the required differential proper time actually exist.
+
+B5. **Propagation burden:** evolve photons/neutrinos/fields on the same geometry.
+
+B6. **Commissioning burden:** recover ordinary runtime smoothly.
+
+B7. **Discriminator burden:** derive a consequence not used to construct the foliation.
+
+## Next severe test
+
+Construct a simplified spherically symmetric CMC boundary-value model with:
+
+    terrestrial normalization N_E = 1,
+    one source-domain geometry,
+    one global K(s),
+    no messenger-specific functions.
+
+Solve or bound the elliptic lapse equation sufficiently to determine whether large N_C/N_E can arise without singular geometry or exotic source terms chosen solely for that purpose.
+
+If CMC cannot generate the required hierarchy under constrained data, test one alternative slicing principle before increasing the ontology further.
