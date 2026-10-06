@@ -68,7 +68,9 @@ Each hypothesis records: ID, layer, proposition, motivation, dependencies, free 
 
 **Proposition:** The creation-deployment regime includes a physically meaningful metric structure or preferred creation foliation capable of coordinating Earth-local chronology with non-terrestrial process time.
 
-**Status:** Candidate.
+**Active branch:** WP-029C tests an explicit preferred creation foliation with covariant local physics, using an ADM-style deployment architecture and a stop rule against freely assignable lapse/clock fields.
+
+**Status:** Active candidate.
 
 ### D4-H3-003: Anisotropic propagation/synchronization implementation
 
