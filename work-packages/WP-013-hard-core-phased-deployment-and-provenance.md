@@ -118,3 +118,8 @@ A compact alternative retained for public use:
 ## Completion criterion
 
 The repo should present DFM first as a Genesis-constrained phased supernatural initialization programme, with mature-state retrodiction as a consequence of that architecture rather than as the programme's defining premise.
+
+
+## WP-028 clarification: terrestrial day and process-time
+
+Terrestrial-day continuity specifies the Genesis observer/reference chronology. It does not entail a universal synchronous clock across every physical domain during supernatural deployment. DFM therefore distinguishes the ordinary terrestrial evening-morning cadence from the open auxiliary question of differential elapsed/process time in other domains. The recovered LPI Day 4 asynchronous-deployment hypothesis is admissible as an auxiliary and remains subject to physical modeling, coupling constraints, synchronization requirements, and severe tests.
