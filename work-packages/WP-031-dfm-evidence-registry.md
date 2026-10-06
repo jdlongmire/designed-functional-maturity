@@ -322,3 +322,54 @@ The opportunity should be promoted to an evidence entry only when specific, suff
 #### Research objective
 
 The objective is not to accumulate “remarkable coincidences.” It is to determine whether a set of independently motivated observations becomes more coherent under terrestrial privilege and whether that interpretation produces risky, discriminating consequences that terrestrial nonprivilege does not equally predict.
+
+
+---
+
+## RO-EARTH-001 Evidence Ledger v0.1
+
+This ledger begins the research phase for Convergent Terrestrial Privilege. It intentionally records both favorable and unfavorable considerations and distinguishes direct observation from model-dependent inference.
+
+| ID | Stream | Observation / claim | Direction | Current weight | Principal control / challenge |
+|---|---|---|---|---|---|
+| TP-BIB-001 | Biblical | Genesis 1 presents the terrestrial day cycle as the explicit chronological frame of the creation sequence, with luminaries assigned their Day 4 functions relative to that established domain. | Potentially supporting | To be developed canonically | Narrative/reference privilege does not by itself establish geometric centrality or a physical deployment mechanism. |
+| TP-BIB-002 | Biblical | Joshua 10:12–14 and 2 Kings 20:9–11 / Isaiah 38:7–8 provide canonical examples of extraordinary alteration of ordinary terrestrial/astronomical temporal coordination. | Supporting as possibility warrant | Moderate for possibility, not mechanism | Does not establish that Day 4 used the same kind of intervention. |
+| TP-HAB-001 | Habitability | Earth sustains known life through a coupled stellar, planetary, atmospheric, hydrological, geochemical, and geophysical system. | Potentially supporting | Unresolved | Observer-selection effects and covariance among habitability parameters must be controlled. |
+| TP-HAB-002 | Habitability | Long-term complex habitability may depend on a conjunction of properties rather than circumstellar habitable-zone location alone. | Potentially supporting | Unresolved | Individual claimed prerequisites vary substantially in evidential strength; exoplanet characterization remains incomplete. |
+| TP-HAB-003 | Habitability | Earth is presently the only known inhabited world and the only empirical template for complex-life habitability. | Neutral / opportunity-generating | Low as discriminator | Strong selection effect: observers necessarily find themselves in an observer-permitting environment. |
+| TP-OBS-001 | Observability | Earth permits high-information astronomical observation across multiple messenger and electromagnetic channels. | Potentially supporting | Unresolved | Must establish rarity and independence from habitability rather than simply noting compatibility. |
+| TP-ISO-001 | Isotropy | The large-scale cosmos observed from the terrestrial domain is highly isotropic, most strikingly in the CMB after local-motion corrections. | Dual-use constraint | Strong observation; unresolved interpretation | FLRW + Copernican/homogeneity assumptions also expect approximate isotropy for typical comoving observers. |
+| TP-COP-001 | Copernican inference | Universal observer equivalence is not itself the same observation as terrestrial isotropy; it is inferred within a broader cosmological model and tested indirectly. | Research opportunity | High conceptual relevance | Standard cosmology has nontrivial indirect tests of homogeneity and the Copernican principle; these must be represented at full strength. |
+| TP-REM-001 | Remote-observer tests | Scattering, large-scale structure, BAO and related probes can constrain departures from large-scale homogeneity / observer equivalence without physically relocating the observer. | Potentially challenging | To quantify | Need to determine exactly which classes of terrestrial-privilege geometry are excluded and which remain viable. |
+| TP-DFM-001 | DFM architecture | Current Day 4 DFM/UTE architecture independently assigns Earth the stable terrestrial reference-domain role while the external cosmos undergoes genuine asynchronous deployment. | Internal coherence, not independent evidence | N/A | Cannot count a consequence of the hypothesis as independent empirical confirmation of the hypothesis. |
+| TP-CONV-001 | Convergence | Biblical reference framing, terrestrial habitability/stability, observational suitability and terrestrial isotropy may converge on one reference-domain interpretation. | Potentially supporting | Unresolved | Must demonstrate genuine independence and differential likelihood under H_TP versus H_NP. |
+
+### Current external research controls
+
+The habitability literature does not currently justify a simple “Earth is uniquely habitable” premise. Rocky planets appear common, and habitability is an evolving multidimensional concept. At the same time, current exo-geoscience work emphasizes substantial planetary diversity and potentially uncommon combinations relevant to long-term habitability. The correct DFM target is therefore **integrated complex-life habitability and stability**, not merely rocky-planet occurrence or habitable-zone membership.
+
+The terrestrial-isotropy stream must likewise distinguish a very strong observation from its interpretation. Approximate isotropy about Earth is observationally well established; extending this to statistical equivalence of distant comoving observers invokes the wider FLRW/Copernican framework and indirect empirical tests. RO-EARTH-001 should catalogue those tests rather than dismiss them.
+
+### New discriminator programme
+
+RO-EARTH-001 should now pursue three explicit discriminator classes:
+
+**D1 — Independence discriminator.** Determine which proposed privilege indicators carry information not already conditioned on the existence of observers or on one another.
+
+**D2 — Remote-observer discriminator.** Identify observations that constrain whether distant domains are statistically equivalent to the terrestrial observational domain. State the exact terrestrial-privilege geometries excluded by each test.
+
+**D3 — Deployment-signature discriminator.** Derive at least one observable consequence expected from an Earth-reference-domain Day 4 deployment/synchronization architecture that is not equally expected from standard FLRW + terrestrial nonprivilege.
+
+Until D3 exists, terrestrial isotropy is a constraint and research opportunity rather than positive physical evidence for DFM.
+
+### Adjacent opportunity cross-links
+
+The following should be tested for possible convergence but must not be imported as positive evidence without separate appraisal:
+
+- Hubble-constant inference tension;
+- S8 / growth-amplitude discrepancies;
+- robust JWST high-redshift galaxy, black-hole, chemical-enrichment, and structural observations;
+- dark matter and dark energy as inferred model components;
+- statistically robust large-scale directional or structural anomalies.
+
+These belong first to RO-COSMOS-001. Their relevance to RO-EARTH-001 arises only if a terrestrial-reference or deployment model derives a directional, radial, temporal, or synchronization-related prediction that can be tested.
