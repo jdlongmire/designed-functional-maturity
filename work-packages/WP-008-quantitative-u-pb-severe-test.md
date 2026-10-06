@@ -1,6 +1,6 @@
 # WP-008: Quantitative U-Pb Severe-Test Model
 
-**Status:** Baseline model executed  
+**Status:** Executed — baseline model  
 **Parent:** DFM Research Programme  
 **Depends on:** WP-002, WP-004, WP-007
 

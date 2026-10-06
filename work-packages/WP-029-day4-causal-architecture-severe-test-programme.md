@@ -1,6 +1,6 @@
 # WP-029: Day 4 Causal Architecture and Severe-Test Programme
 
-**Status:** Proposed / active design  
+**Status:** Active — design  
 **Parent architecture:** WP-028  
 **Registry:** WP-028-HR Day 4 Layered Hypothesis Registry
 

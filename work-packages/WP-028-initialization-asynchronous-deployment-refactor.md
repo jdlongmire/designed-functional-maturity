@@ -1,6 +1,6 @@
 # WP-028: Initialization + Asynchronous Deployment Refactor
 
-**Status:** Proposed programme refactor  
+**Status:** Proposed — programme refactor  
 **Scope:** DFM hard-core clarification, LPI temporal-architecture recovery, Day 4 cosmology, historical-integrity rules, and corpus propagation
 
 ## Governing correction

@@ -1,7 +1,7 @@
 # WP-027 — Low-Initial-Salinity Ocean Hypothesis
 
 **Programme:** Designed Functional Maturity (DFM)  
-**Status:** Open ancillary hypothesis / research work package  
+**Status:** Proposed — open ancillary hypothesis  
 **Date:** 2026-10-05  
 **Owner:** James D. (JD) Longmire  
 **Epistemic status:** Proposed. Not part of the DFM hard core. Subject to quantitative constraint, severe testing, revision, or rejection.
