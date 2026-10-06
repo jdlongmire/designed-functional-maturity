@@ -123,3 +123,8 @@ WP-022 creates the basis for:
 
 ## Result
 The DFM hard core now has an explicit six-phase deployment architecture. The next substantive step is to formalize commissioning and the transition from initialized state to ordinary operation, then derive discriminators rather than merely additional analogies.
+
+
+## WP-028 clarification: Day 4 deployment
+
+The governance handoff remains textually important, but DFM must not turn that observation into a prohibition on physical deployment during Day 4. The programme now explicitly permits a both-and model: luminaries are commissioned as ordinary governors and markers of the terrestrial day while genuine cosmic processes may also execute under an asynchronous deployment regime. Initialized macrostate and genuine process history may coexist. The particular differential-time mechanism remains auxiliary rather than hard core.
