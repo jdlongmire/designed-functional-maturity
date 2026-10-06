@@ -1,6 +1,6 @@
 # WP-010: Source-Reservoir Isotopic Architecture and Mass-Balance Model
 
-**Status:** Executed baseline  
+**Status:** Executed — baseline  
 **Parent:** DFM Research Programme  
 **Depends on:** WP-004, WP-007, WP-008, WP-009
 

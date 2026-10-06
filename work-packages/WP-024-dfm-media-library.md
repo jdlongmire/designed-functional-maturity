@@ -1,6 +1,6 @@
 # WP-024: DFM Media Library and Visual Asset Publication Architecture
 
-**Status:** Executed / infrastructure established
+**Status:** Executed — infrastructure established  
 **Type:** Publication infrastructure
 **Depends on:** WP-016, WP-017, WP-020, WP-023
 

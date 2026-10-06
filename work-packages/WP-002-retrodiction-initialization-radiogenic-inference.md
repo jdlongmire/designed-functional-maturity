@@ -1,6 +1,6 @@
 # WP-002: Retrodiction, Initialization, and Radiogenic Inference
 
-**Status:** In progress  
+**Status:** Active — in progress  
 **Parent:** Designed Functional Maturity (DFM) Research Programme  
 **Target:** Formal framework plus controlled revision inputs for the DFM research-programme paper
 
