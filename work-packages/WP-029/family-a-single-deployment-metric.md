@@ -380,3 +380,164 @@ Use the near-conformal subfamily lambda = mu as the next severe test. Choose a s
     commissioning regularity.
 
 This should determine whether the apparent economy of the conformal subfamily is genuine or merely moves the required complexity into q(t), f(r), and the effective source.
+
+
+## Near-conformal severe test: smooth Day-4 pulse
+
+Set lambda = mu and define
+
+    Omega(r,t) = exp[lambda f(r) q(t)].
+
+In the reduced time-radial sector:
+
+    ds^2_(2) = Omega^2 [-c^2 dt^2 + a(t)^2 dr^2].
+
+Choose the simplest finite pulse satisfying the first-order commissioning conditions:
+
+    q(t) = Q sin^2(pi t / T),    0 <= t <= T
+    q(t) = 0,                    outside deployment,
+
+where T is the Earth-local Day-4 coordinate interval.
+
+Then
+
+    q(0) = q(T) = 0
+    q_dot(0) = q_dot(T) = 0
+
+and
+
+    q_dot(t) = (pi Q/T) sin(2 pi t/T).
+
+The metric and its first temporal derivative therefore return continuously to the ordinary-runtime values at both boundaries. The second derivative is finite but generally nonzero at the endpoints, so stronger smoothness may later motivate a higher-order bump function.
+
+### Proper-time gain
+
+For a comoving observer at fixed r with beta(r)=lambda f(r):
+
+    Delta tau(r)
+      = integral_0^T exp[beta q(t)] dt
+      = T exp(beta Q/2) I_0(beta Q/2),
+
+where I_0 is the modified Bessel function.
+
+Therefore the process-depth ratio is
+
+    R_tau(beta Q)
+      = Delta tau(r)/T
+      = exp(z) I_0(z),
+
+with z = beta Q/2.
+
+For large z,
+
+    I_0(z) ~ exp(z)/sqrt(2 pi z),
+
+so
+
+    R_tau ~ exp(beta Q) / sqrt(pi beta Q).
+
+This is important: enormous proper-time ratios do not require an enormous dimensionless exponent. The required beta Q grows only logarithmically with the target ratio.
+
+For illustration only, a ratio of order 10^12-10^13 corresponds to beta Q of order several tens, not 10^12-10^13.
+
+### Radial null paths
+
+Because the reduced t-r sector is conformally related,
+
+    ds^2_(2)=0
+      => dr/dt = +/- c/a(t).
+
+Thus Omega cancels from the radial null-path equation.
+
+This is the strongest result yet for Family A: in the reduced conformal model, large timelike proper-time accumulation can coexist with unchanged unparameterized radial null paths.
+
+However, this does **not** establish unchanged affine parameterization, photon energy, measured frequency, full four-dimensional propagation, or observational redshift.
+
+### Frequency transport burden
+
+For a conformal transformation g_tilde = Omega^2 g, null geodesic curves are preserved but their affine parameterization changes. Measured frequency remains
+
+    omega = -k_mu u^mu.
+
+For comoving emitter/observer worldlines, endpoint values of Omega and the evolution of the background enter the observed frequency relation.
+
+Because the pulse is constructed with Omega=1 at commissioning, signals emitted and observed entirely after commissioning incur no residual endpoint conformal factor from the deployment pulse. Signals whose emission/propagation occurs during deployment require explicit wave-vector transport through the time-dependent Omega.
+
+Therefore the model gains a possible route to avoiding a permanent gigantic redshift, but only if the full transport calculation confirms it. No cancellation is assumed.
+
+### Curvature/source scaling
+
+The economy in proper-time gain does not imply a free geometry.
+
+For a conformal transformation in four dimensions, curvature receives terms schematically of the form
+
+    R_tilde
+      = Omega^-2 [R - 6 Box ln(Omega) - 6 (grad ln(Omega))^2].
+
+Here
+
+    ln(Omega) = beta(r) q(t).
+
+Hence the effective curvature/source contains terms scaling approximately as
+
+    beta q_ddot,
+    beta^2 q_dot^2,
+    spatial derivatives of beta,
+    and cross terms.
+
+For the pulse,
+
+    |q_dot|_max = pi Q/T,
+
+so increasing beta Q to obtain large process depth necessarily increases derivative-driven curvature unless spatial/temporal structure produces a derived compensation.
+
+This identifies the next major cost center: the required effective stress-energy or creation-boundary source.
+
+### Key tradeoff
+
+The conformal subfamily has now passed one conceptual screen and exposed another:
+
+**Gain:**
+large timelike process depth with unchanged reduced radial null paths.
+
+**Cost:**
+time-dependent conformal curvature/source terms plus unresolved frequency transport.
+
+This is a better research position than the lapse-only model because the propagation economy follows from one geometric structure rather than an independent correction.
+
+### Commissioning regularity
+
+The sin^2 pulse guarantees continuity of Omega and its first temporal derivative at t=T. That is favorable for first-order matching.
+
+Because q_ddot does not vanish at the endpoints, curvature can change abruptly there even though the metric and extrinsic-curvature-relevant first derivatives are continuous.
+
+Accordingly, the next refinement should replace sin^2 with a compact smooth bump whose derivatives vanish to the order required by the field equations. This should be done only if the source/frequency tests justify continuing Family A; smoothness must not become a way of hiding a failed physical source.
+
+## Severe-test disposition after conformal screen
+
+Family A is **not demoted**.
+
+The near-conformal subfamily has earned continued investigation because it derives a nontrivial separation between timelike proper-time accumulation and radial null-path geometry using one deployment field.
+
+It has not earned promotion to a physical DFM mechanism because:
+
+1. the effective T_mu_nu has not been shown physically interpretable;
+2. photon frequency transport has not been solved;
+3. the full 3+1 geometry has not been specified;
+4. no quantitative SN 1987A fit has been attempted;
+5. no novel observational discriminator has yet been derived.
+
+## Next decision experiment
+
+Before increasing geometric complexity, compute the effective Einstein tensor for the simplest conformal 3+1 completion and classify its required source by:
+
+    energy density,
+    radial/tangential pressure,
+    energy-condition behavior,
+    singularity/regularity,
+    spatial localization,
+    boundary behavior.
+
+In parallel, derive photon frequency transport through the same Omega(r,t).
+
+If both require independent compensating structure, Family A should be demoted. If one common source geometry controls proper-time depth, propagation, frequency behavior, and smooth commissioning, Family A becomes a serious developed candidate.
