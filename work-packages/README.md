@@ -36,6 +36,7 @@ Systematic development track for the Designed Functional Maturity (DFM) research
 | [WP-031](WP-031-dfm-evidence-registry.md) | DFM Evidence Registry | Biblical, theoretical, and physical evidence registry + appraisal discipline | Active — evidence appraisal |
 | [WP-032](WP-032-historical-integrity-macro-state-initialization.md) | Historical Integrity, Macro-State Initialization, and Explanatory Allocation | Historical-integrity boundary + adversarial case matrix + catastrophe appraisal protocol | Executed — specification baseline |
 | [WP-033](WP-033-foundations-paper-recovery.md) | Foundations Paper Recovery (Actualization, Agency, and Intelligibility) | `drafts/foundations-actualization-agency-intelligibility.md` | Active — recovered draft, framing refresh pending |
+| [WP-034](WP-034-day4-reconciliation-and-legacy-sweep.md) | Day 4 Reconciliation and Legacy-Framing Sweep | Foundations paper §8 revision + legacy-conflict sweep report | Active — pending Principal Investigator review |
 
 WP-021 is unassigned: no file, branch, or commit in the repository history ever used that number (the sequence skipped from WP-020 to WP-022).
 
