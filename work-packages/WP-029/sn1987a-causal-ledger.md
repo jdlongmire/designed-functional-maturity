@@ -199,3 +199,123 @@ F : {tau_C,i, x, signal class, deployment state} -> {tau_E-observable relations}
 
 subject to causal-order preservation, cross-messenger consistency, spectral/energy constraints, geometric consistency, and a single synchronization/commissioning boundary.
 
+
+
+## Transformation Architecture v0.1
+
+### Design objective
+
+The first mathematical model should preserve the observed causal DAG with the fewest independent temporal degrees of freedom. It should not begin by assigning an acceleration factor to every process.
+
+Define a deployment manifold/domain `D`, Earth-local reference process `E`, and ordinary-runtime region `R`. For an event `p` on a physical worldline `gamma_i`:
+
+```text
+tau_i[p_a,p_b] = integral_gamma_i sqrt(-g_mu_nu dx^mu dx^nu) / c
+```
+
+where this relativistic proper-time expression is used as a baseline physical constraint, not yet as the DFM mechanism.
+
+A candidate creation-deployment model introduces a constrained mapping:
+
+```text
+M_D : (D, g_D, gamma_i, boundary data) -> observable relations at E
+```
+
+with commissioning boundary:
+
+```text
+Sigma_sync : D -> R(L_R)
+```
+
+The architecture must explain `g_D`, or an alternative physical structure performing the same work, rather than merely stipulating arbitrary `tau_C/tau_E` ratios.
+
+### Required invariants
+
+For causally related events `p -> q`:
+
+**I1. Causal-order preservation**
+
+```text
+p -> q  =>  M_D(p) does not require q to cause p
+```
+
+**I2. Event-identity preservation**
+
+Signals assigned to one collapse/explosion must remain products of the same causal event unless evidence independently warrants multiple events.
+
+**I3. Cross-messenger coherence**
+
+```text
+collapse -> {neutrinos, photons, ejecta dynamics, nucleosynthetic products}
+```
+
+must remain one coupled causal family. Messenger-specific mappings may occur only if derived from a common physical architecture.
+
+**I4. Local-process integrity**
+
+Processes observed after the event under ordinary runtime, such as shock evolution and remnant development, must join continuously to the deployed state at `Sigma_sync`.
+
+**I5. Spectral/energy integrity**
+
+Any temporal or metric transformation must derive its consequences for frequency, energy, line width, redshift/blueshift, and decay/process rates. These quantities cannot be independently reset at observation.
+
+**I6. Geometric integrity**
+
+Source, ring, ejecta, scattering material, shock fronts, and observer must retain a mutually consistent spacetime geometry sufficient to generate observed interactions and echoes.
+
+### Minimality criterion
+
+Prefer a candidate with a small set of globally applicable parameters/functions:
+
+```text
+Theta_D = {metric/deployment field parameters, coupling law, synchronization condition}
+```
+
+over:
+
+```text
+Theta_patch = {factor_photon, factor_neutrino, factor_decay, factor_shock, factor_ring, ...}
+```
+
+The latter is presumptively degenerative unless the separate factors are derived from one deeper law.
+
+### First no-go screen
+
+A candidate fails before detailed fitting if it requires any of the following:
+
+1. reversal of an independently established causal order;
+2. unrelated transformations for observations belonging to the same event family;
+3. arbitrary recreation of spectral lines after propagation;
+4. discontinuous reset of remnant state at commissioning;
+5. independent temporal tuning for each observation;
+6. a synchronization surface that destroys causal continuity into ordinary runtime.
+
+### Candidate families after formalization
+
+**Family A: single deployment metric**
+
+One spacetime/metric structure generates differential proper-time accumulation and all messenger propagation. This has the strongest economy if a workable metric can be found.
+
+**Family B: preferred creation foliation with covariant local physics**
+
+A physically privileged deployment slicing coordinates the terrestrial creation sequence while local fields/worldlines obey specified dynamical laws. This must demonstrate how the preferred structure becomes empirically compatible with ordinary runtime.
+
+**Family C: coupled-domain architecture**
+
+Several process domains possess different effective temporal behavior but couple through a common law. This is more flexible than A but pays a parameter/coupling cost and therefore needs stronger cross-domain predictions.
+
+**Family D: propagation-dominant architecture**
+
+Most source history is genuine while extraordinary behavior is concentrated in propagation/synchronization. SN 1987A already pressures this family because circumstellar and remnant causal depth must also be accounted for, not merely source-to-Earth photon travel.
+
+### First research priority
+
+Attempt Family A first because it is the most constrained. If no single physically coherent deployment metric can preserve the SN 1987A invariant set while satisfying the terrestrial-day boundary, document the failure before increasing model freedom.
+
+Then test Family B, followed by C. Family D should be treated as a limited auxiliary rather than the default architecture.
+
+### Anti-overfitting rule
+
+> **Additional temporal freedom must be purchased with additional independent empirical constraint.**
+
+A new function, domain, transformation, or free parameter is acceptable when it yields explanatory integration or a new discriminator. It is not acceptable merely because an existing candidate failed on one datum.
