@@ -146,6 +146,141 @@ Recovered auxiliary hypothesis:
 
 The specific physical implementation is not hard core.
 
+## Layered Hypothesis Architecture
+
+WP-028 governs a **layered hypothesis stack**. Claims at different layers must not be assigned equal epistemic status. Failure of an upper layer does not automatically defeat a lower layer, and success of a lower layer does not establish an upper layer.
+
+### Layer 0: Canonical constraints
+
+Claims treated as governing theological/exegetical constraints for this programme:
+
+- God is the intentional Creator and creation is not an unguided self-originating event.
+- Genesis 1 presents a real ordered creation sequence.
+- The creation days establish a terrestrial evening-morning chronology.
+- Day 1 establishes a substantive created boundary rather than a null state.
+- Day 4 has a real role in the deployment and governance of the luminaries.
+- Scripture does not require a universal synchronous clock across every physical process during supernatural creation.
+
+Layer 0 constrains model construction but does not itself specify a physical mechanism.
+
+### Layer 1: DFM architectural hypotheses
+
+These claims define the present DFM systems architecture:
+
+- creation begins from a coherently initialized state;
+- initialized states may possess Designed Functional Maturity;
+- initialization and genuine process execution are complementary;
+- creation-process causation need not reproduce ordinary post-commissioning runtime trajectories;
+- extraordinary deployment transitions into ordinary runtime;
+- present state plus an ordinary process model does not uniquely entail the actual pathway by which that state obtained.
+
+This layer is the principal subject of the DFM programme and should change only when the programme-level argument requires revision.
+
+### Layer 2: LPI asynchronous-deployment auxiliary
+
+The recovered LPI hypothesis proposes that Day 4 includes genuine cosmic process execution under differential temporal conditions:
+
+```text
+Delta tau_E ~ one terrestrial day
+Delta tau_C,i need not equal Delta tau_E
+```
+
+A stronger candidate form is:
+
+```text
+Delta tau_C,i >> Delta tau_E
+```
+
+The weaker non-equality claim and the stronger large-differential claim must be tested separately. Day 4 asynchronous deployment is an auxiliary hypothesis, not revealed doctrine and not yet an established physical model.
+
+### Layer 3: Candidate physical implementations
+
+Possible mechanisms capable of realizing Layer 2 belong here. Examples include:
+
+- relativistic differential proper-time architectures;
+- gravitational or cosmological time-dilation models;
+- preferred-foliation or creation-boundary metric models;
+- anisotropic synchronization proposals;
+- multiple coupled temporal domains;
+- temporal-domain translation or frequency-scaling mechanisms.
+
+These are competing candidate implementations. No item in this layer is presently canonical DFM. The computer metaphor of asynchronous threads is an analogy, not a mechanism.
+
+### Layer 4: Observation-specific research hypotheses
+
+Claims assigning particular observations to initialization, asynchronous deployment, or their interaction belong at the highest and most defeasible layer. Current examples for investigation include:
+
+- dark-matter phenomenology as partly related to initialized structural conditions;
+- dark-energy phenomenology as partly related to initialized metric/boundary conditions;
+- the CMB as potentially containing initialization or deployment-regime signatures;
+- stellar populations as mixtures of initialized macrostate and genuine deployment history;
+- supernovae, remnants, nucleosynthetic products, photons, neutrinos, and gravitational signals as causally coupled allocation problems;
+- redshift or spectral effects as possible constraints on any temporal-domain transition.
+
+These are research hypotheses, not DFM conclusions.
+
+### Layered Dependency Rule
+
+```text
+canonical constraint
+    -> architectural hypothesis
+        -> deployment auxiliary
+            -> candidate physical mechanism
+                -> observation-specific hypothesis
+```
+
+Evidence may propagate upward only when the relevant inferential bridge is independently warranted. Falsification propagates downward only when the failed claim is logically required by the lower layer.
+
+Thus:
+
+- failure of a CMB deployment-residual hypothesis does not defeat asynchronous Day 4;
+- failure of one time-dilation mechanism does not defeat the general asynchronous auxiliary;
+- failure of asynchronous Day 4 does not by itself defeat Designed Functional Maturity or coherent initialization;
+- failure of a DFM initialization auxiliary does not by itself overturn the canonical Genesis constraints.
+
+Conversely, the truth of Genesis does not establish a particular CMB, dark-matter, or relativistic mechanism.
+
+## Test Everything, Keep the Good
+
+WP-028 adopts the following research rule:
+
+> **Retain what the architecture requires. Explore what the architecture permits. Assert only what Scripture, observation, or a developed physical model warrants.**
+
+Each hypothesis is to be independently registered, constrained, tested, revised, retained, demoted, or rejected. Failed upper-layer hypotheses remain part of the audit trail rather than being silently absorbed into a revised narrative.
+
+The programme should preferentially attempt to break the stronger auxiliary claims. In particular, the Day 4 asynchronous hypothesis gains explanatory value only if a common constrained architecture can preserve multiple independent causal relationships without observation-specific clock tuning.
+
+## Architectural Genesis narrative: disposition
+
+The Architectural Genesis narrative is retained as a **model narrative and hypothesis generator**, not as a canonical specification.
+
+Current disposition:
+
+| Narrative claim | Layer | Disposition |
+|---|---:|---|
+| substantive Day 1 initialization boundary | 0-1 | retain |
+| Earth-local Genesis chronology | 0 | retain |
+| Earth as literal spacetime root node | 3 | test; soften in public language |
+| Day 4 genuine cosmic deployment | 1-2 | retain |
+| universal synchrony not required | 1-2 | retain |
+| tau_E != tau_C | 2 | retain as formal auxiliary |
+| tau_C >> tau_E | 2 | severe-test candidate |
+| genuine stellar/supernova/propagation history during deployment | 2/4 | retain as candidate allocation |
+| one exponentially accelerated background thread | 3 | analogy/candidate only |
+| temporal-domain frequency translation layer | 3 | research hypothesis |
+| dark matter as initialized structural scaffolding | 4 | research hypothesis |
+| dark energy as initialized metric/boundary condition | 4 | research hypothesis |
+| CMB as deployment residual | 4 | research hypothesis |
+| Day 4 synchronization/commissioning boundary | 1-2 | retain |
+| instantaneous universal global commit | 3 | analogy only pending physical definition |
+| immutable post-Day-4 block universe | outside scope | reject from DFM |
+| fixed physical script determining every future event | outside scope | reject; do not conflate divine decree with physical determinism |
+
+The narrative's strongest retained intuition is:
+
+> **The cosmos was not merely initialized instead of having history. It was initialized with the conditions necessary for genuine creation history to execute.**
+
+
 ## Corpus dependency and propagation matrix
 
 ### DFM repository
@@ -208,4 +343,4 @@ Initialization fails locally where boundary assignments become arbitrary, intern
 
 ## Exit criteria
 
-WP-028 is ready for programme adoption when hard-core versus auxiliary status is unambiguous; WP-027 no longer contradicts the both-and architecture; supernova/starlight treatment supports mixed allocation; public and technical DFM surfaces use the same architecture; BWM dependency changes are identified; legacy LPI claims are dispositioned as recovered, superseded, or open; and at least one severe-test programme for asynchronous Day 4 deployment is specified.
+WP-028 is ready for programme adoption when hard-core versus auxiliary status is unambiguous; the layered-hypothesis registry is applied consistently; current historical-integrity surfaces no longer contradict the both-and architecture; supernova/starlight treatment supports mixed allocation; public and technical DFM surfaces use the same architecture; BWM dependency changes are identified; legacy LPI claims are dispositioned as recovered, superseded, or open; and at least one severe-test programme for asynchronous Day 4 deployment is specified.
