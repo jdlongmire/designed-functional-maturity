@@ -1035,3 +1035,105 @@ Ask whether a natural CMC/York deployment history can produce large J while:
     and preserving the common observable history.
 
 If the required K(s) simply encodes the target hierarchy, demote the CMC realization and move to one alternative foliation architecture.
+
+
+## Global K-evolution test: CMC stop result
+
+The standard CMC lapse-fixing equation has the schematic structure
+
+    Delta N
+      - N [K_ij K^ij + matter terms]
+      = -dK/ds,
+
+up to sign/convention choices.
+
+The important structural fact is that CMC fixes K to be spatially constant on each slice, but does not by itself determine the history K(s). In standard formulations K(s), or equivalently dK/ds, may be prescribed as part of the slicing choice; alternatively an additional lapse boundary condition or evolution rule may determine it.
+
+Therefore the global source term J in the dimensionless screen is not automatically a physical prediction of CMC.
+
+### Reparameterization issue
+
+If K is monotonic one may choose K itself, or a York-like function of K, as the time label. This is mathematically useful but does not create physical elapsed time.
+
+A reparameterization of the slice label changes quantities such as dK/ds and the coordinate lapse together while leaving the underlying spacetime geometry unchanged.
+
+Consequently:
+
+> A numerically huge dK/ds cannot by itself explain a huge physical proper-time hierarchy.
+
+The hierarchy must be encoded in invariant geometry and the resulting proper-time integrals, not merely in the speed at which the chosen coordinate parameter moves through the foliation.
+
+### CMC source test
+
+The previous operator sweep showed that large J can force large N.
+
+But if
+
+    J ~ -dK/ds
+
+and dK/ds is freely prescribed, then choosing J to obtain
+
+    Delta tau_C / Delta tau_E ~ 5.04 x 10^12
+
+is simply another form of stipulating the target.
+
+To avoid that conclusion, a CMC realization would need an independently motivated condition that determines K(s) and produces the hierarchy as a consequence.
+
+Candidate additional conditions exist mathematically, including lapse boundary conditions, conformal thin-sandwich data, or dynamical gauge drivers. But adding one now solely to recover the target would be an additional auxiliary and must earn independent motivation.
+
+### York-time limitation
+
+York time remains useful as:
+
+- a global ordering variable on suitable CMC foliations;
+- a way to formulate constrained initial data;
+- a possible language for a preferred deployment ordering.
+
+It does not, by itself, supply the physical relation
+
+    Delta tau_C / Delta tau_E.
+
+Thus York-time ordering and Day-4 proper-time accumulation must not be conflated.
+
+## CMC disposition
+
+**Demote CMC/York slicing as the current physical realization of Family B.**
+
+Reasons:
+
+1. ordinary-sign CMC lapse potentials do not naturally generate the required large interior lapse hierarchy;
+2. the common K^2/3 contribution creates a positive floor;
+3. generic positive-potential elliptic/domain-scale amplification failed the numerical screen;
+4. a large global source J can generate large N only by placing the hierarchy into dK/ds unless an additional principle determines it;
+5. K(s) is ordinarily slicing/gauge data, so a large coordinate evolution rate is not itself a physical proper-time explanation;
+6. further CMC-specific additions at this point would violate the programme stop rule unless independently motivated.
+
+This is a realization-level demotion, not a rejection of preferred creation foliation.
+
+## What CMC taught Family B
+
+Retain the following results:
+
+- preferred slicing can constrain lapse through an elliptic equation;
+- a lapse must be derived from common geometry/boundary data, not observation-specific clock factors;
+- slice-label time must be distinguished from invariant proper time;
+- large lapse ratios must survive reparameterization/gauge scrutiny;
+- one geometry must govern all messengers and coupled observables;
+- synchronization must be a geometric matching problem, not a state reset.
+
+These become requirements for the next Family B realization.
+
+## Next foliation candidate selection criteria
+
+Before selecting another candidate, require that it improve specifically on CMC by supplying a physical structure that determines the preferred temporal direction/rate rather than merely choosing a coordinate slicing.
+
+A candidate should provide:
+
+1. a covariantly identifiable timelike field, scalar clock, or dynamical foliation structure;
+2. equations of motion or constraints that determine that structure;
+3. a derived relation to local proper-time accumulation;
+4. common coupling to photons, neutrinos, matter, and gravity;
+5. a mechanism for becoming ordinary-runtime-inert or observationally acceptable after synchronization;
+6. fewer effective free functions than simply stipulating alpha(x,s).
+
+This points the next search toward dynamical preferred-foliation frameworks rather than another pure gauge condition.
