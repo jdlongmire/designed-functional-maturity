@@ -1,6 +1,6 @@
 # WP-031 — DFM Evidence Registry
 
-**Status:** Active / evidence appraisal  
+**Status:** Active — evidence appraisal  
 **Programme:** Designed Functional Maturity (DFM)
 
 ## Core research question

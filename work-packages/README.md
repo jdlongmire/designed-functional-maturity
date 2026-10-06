@@ -33,6 +33,7 @@ Systematic development track for the Designed Functional Maturity (DFM) research
 | [WP-028](WP-028-initialization-asynchronous-deployment-refactor.md) | Initialization + Asynchronous Deployment Refactor | DFM hard-core clarification + corpus propagation (README, charter, roadmap) | Proposed — programme refactor |
 | [WP-029](WP-029-day4-causal-architecture-severe-test-programme.md) | Day 4 Causal Architecture and Severe-Test Programme | Day 4 layered hypothesis registry (WP-028-HR) + severe tests | Active — design |
 | [WP-030](WP-030-minimum-required-cosmic-process-depth.md) | Minimum Required Cosmic Process Depth | Closed branch of inquiry (retained for provenance) | Superseded — mistaken branch, see WP-029 |
+| [WP-031](WP-031-dfm-evidence-registry.md) | DFM Evidence Registry | Biblical, theoretical, and physical evidence registry + appraisal discipline | Active — evidence appraisal |
 
 WP-021 is unassigned: no file, branch, or commit in the repository history ever used that number (the sequence skipped from WP-020 to WP-022).
 
