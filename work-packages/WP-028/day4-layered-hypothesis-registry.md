@@ -60,7 +60,9 @@ Each hypothesis records: ID, layer, proposition, motivation, dependencies, free 
 
 **Proposition:** A physically explicit spacetime architecture can produce the required differential elapsed times using relativistic proper-time relations.
 
-**Status:** Candidate.
+**Disposition note:** Single-metric Family A tests established mathematical feasibility but exposed coupled propagation, spectral, spatial-geometry, source, and matching costs. Homogeneous conformal and single-field non-conformal realizations did not provide a parsimonious mechanism under the WP-029 stop rule. Retain as a control/feasibility family and reopen only on new independently motivated structure.
+
+**Status:** Demoted to constrained feasibility/control family.
 
 ### D4-H3-002: Creation-specific metric or foliation implementation
 
