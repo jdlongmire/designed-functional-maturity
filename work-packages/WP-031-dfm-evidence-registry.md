@@ -757,3 +757,95 @@ BTP-O1 becomes positive physical evidence for H_TP only if research can establis
 ### Sources to maintain in the evidence file
 
 The supporting literature set should include, at minimum, peer-reviewed reviews on multidimensional habitability, terrestrial-planet geological evolution, magnetic-field/habitability interactions, exoplanet characterization limits, and long-term climate/geological cycling. Individual claims should be rechecked against primary or review literature before quantitative weighting.
+
+
+---
+
+## Track 2 — Observational Test 2: Terrestrial Observational Suitability
+
+**Test ID:** BTP-O2  
+**Derived from:** BTP-B1, BTP-B3, BTP-B5, RO-EARTH-001  
+**Question:** Is the terrestrial habitation/reference domain also configured unusually well for its inhabitants to observe, measure, and reconstruct the wider creation?
+
+### O2-A — Atmospheric transparency and protection coexist
+
+Earth's atmosphere is not transparent across the electromagnetic spectrum. It strongly attenuates biologically damaging high-energy radiation while preserving important surface-accessible windows, especially visible and radio wavelengths. Space-based instruments extend observation into wavelengths blocked at the surface.
+
+This establishes a genuine conjunction:
+
+```text
+life-protective atmospheric filtering
++
+substantial astronomical information channels
+```
+
+The conjunction is observationally real. Its rarity among inhabited worlds is unknown.
+
+**Initial appraisal:** **Potentially supporting / presently nondiscriminating.**
+
+### O2-B — Multimessenger observability
+
+Human observers in the terrestrial domain can investigate the cosmos through electromagnetic radiation across many bands, particles, neutrinos, gravitational waves, meteoritic material, and in-system spacecraft sampling. Some channels require technology above the atmosphere or away from the surface.
+
+The relevant privilege claim must therefore be **overall scientific accessibility**, not the stronger and false claim that Earth's surface is optimal for every individual astronomical measurement.
+
+**Initial appraisal:** **Strong observation; comparative rarity unresolved.**
+
+### O2-C — The Moon as an observational instrument and geometry
+
+The Earth-Moon-Sun system provides scientifically useful geometries, including eclipses. Lunar eclipses can be used to observe sunlight filtered through Earth's atmosphere in a geometry analogous to exoplanet transit spectroscopy; NASA/Hubble observations have explicitly used this configuration to study terrestrial ozone as a proxy for future exoplanet observations.
+
+Total solar eclipses have historically enabled observations of the solar corona and tests/measurements difficult under ordinary photospheric glare. The stronger claim that the near angular size match of Sun and Moon is itself evidence of privilege requires an independent rarity and information-value analysis.
+
+**Initial appraisal:** **Demonstrated scientific utility; privilege weight unresolved.**
+
+### O2-D — Habitability–measurability correlation hypothesis
+
+A design-oriented literature has proposed that conditions permitting complex observers correlate with conditions permitting unusually rich scientific measurement. This is a legitimate hypothesis but cannot be entered as evidence merely because individual examples can be identified.
+
+Define:
+
+> **BTP-O2-H1 — Habitability–Measurability Correlation Hypothesis:** The physical conditions that make the terrestrial domain suitable for sustained embodied observers also jointly provide an unusually information-rich platform from which those observers can discover the structure, laws, and history of the wider creation.
+
+This requires testing against alternatives and counterexamples.
+
+### O2-E — Countervailing observations
+
+Earth is not observationally optimal in every respect:
+
+- the atmosphere blocks most ultraviolet, X-ray, gamma-ray, and substantial infrared radiation;
+- atmospheric turbulence, weather, water vapor, and absorption impair ground-based observations;
+- artificial light and radio interference now further degrade some observations;
+- many measurements improve substantially in orbit, on the Moon, or in other locations.
+
+These are not peripheral objections. Any privilege hypothesis claiming universal observational optimality is falsified by them.
+
+Accordingly, the viable hypothesis is constrained to **integrated or overall observational suitability compatible with habitability**, not maximal access to every signal.
+
+### Competing explanations
+
+**H_TP:** A purposeful habitation/reference domain is expected to combine survivability with unusually broad access to information about the wider creation.
+
+**H_NP:** Observers require an environment permitting sensory access and technological development; some observational accessibility therefore follows from observer selection, while advanced technology can overcome local observational limitations.
+
+Neither hypothesis currently supplies a well-constrained probability distribution for overall measurability.
+
+### Required discriminator
+
+BTP-O2 should be promoted to positive evidence only if the programme can:
+
+1. define a non-post-hoc metric of astronomical/scientific measurability;
+2. identify which measurability properties are independent of basic habitability requirements;
+3. compare Earth's score with physically plausible observer-bearing environments rather than arbitrary planets;
+4. show that the habitability–measurability conjunction is materially more expected under H_TP than H_NP;
+5. derive at least one observation not selected merely because Earth happens to possess it.
+
+### Current verdict
+
+> **Earth is demonstrably an information-rich observing platform whose atmosphere simultaneously protects surface life and admits important astronomical windows, while technology provides access to many additional channels. The Earth-Moon system supplies scientifically useful observing geometries. These facts make terrestrial observational suitability a legitimate privilege test, but current evidence does not establish that the conjunction is rare among observer-bearing worlds or substantially more likely under terrestrial privilege than under observer selection and technological adaptation.**
+
+**Classification:** **Strong observation / plausible convergence candidate / unresolved discriminator.**
+
+### Relationship to D3
+
+BTP-O2 is not D3. General observability can strengthen a convergent terrestrial-privilege case, but the decisive DFM test remains a deployment-specific observable expected under the Earth-reference-domain Day 4 architecture and not equally expected under standard FLRW plus terrestrial nonprivilege.
