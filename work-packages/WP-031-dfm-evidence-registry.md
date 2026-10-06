@@ -336,7 +336,7 @@ This ledger begins the research phase for Convergent Terrestrial Privilege. It i
 | TP-BIB-002 | Biblical | Joshua 10:12–14 and 2 Kings 20:9–11 / Isaiah 38:7–8 provide canonical examples of extraordinary alteration of ordinary terrestrial/astronomical temporal coordination. | Supporting as possibility warrant | Moderate for possibility, not mechanism | Does not establish that Day 4 used the same kind of intervention. |
 | TP-HAB-001 | Habitability | Earth sustains known life through a coupled stellar, planetary, atmospheric, hydrological, geochemical, and geophysical system. | Potentially supporting | Unresolved | Observer-selection effects and covariance among habitability parameters must be controlled. |
 | TP-HAB-002 | Habitability | Long-term complex habitability may depend on a conjunction of properties rather than circumstellar habitable-zone location alone. | Potentially supporting | Unresolved | Individual claimed prerequisites vary substantially in evidential strength; exoplanet characterization remains incomplete. |
-| TP-HAB-003 | Habitability | Earth is presently the only known inhabited world and the only empirical template for complex-life habitability. | Neutral / opportunity-generating | Low as discriminator | Strong selection effect: observers necessarily find themselves in an observer-permitting environment. |
+| TP-HAB-003 | Habitability | Earth is presently the only empirically confirmed inhabited and life-sustaining planetary environment. Exoplanet habitability is inferred from more limited observations interpreted through habitability models. | Neutral / opportunity-generating | High epistemic importance; low current discrimination | The sample problem cuts both ways: this establishes neither terrestrial uniqueness nor the abundance of Earth-comparable inhabited environments. |
 | TP-OBS-001 | Observability | Earth permits high-information astronomical observation across multiple messenger and electromagnetic channels. | Potentially supporting | Unresolved | Must establish rarity and independence from habitability rather than simply noting compatibility. |
 | TP-ISO-001 | Isotropy | The large-scale cosmos observed from the terrestrial domain is highly isotropic, most strikingly in the CMB after local-motion corrections. | Dual-use constraint | Strong observation; unresolved interpretation | FLRW + Copernican/homogeneity assumptions also expect approximate isotropy for typical comoving observers. |
 | TP-COP-001 | Copernican inference | Universal observer equivalence is not itself the same observation as terrestrial isotropy; it is inferred within a broader cosmological model and tested indirectly. | Research opportunity | High conceptual relevance | Standard cosmology has nontrivial indirect tests of homogeneity and the Copernican principle; these must be represented at full strength. |
@@ -349,6 +349,70 @@ This ledger begins the research phase for Convergent Terrestrial Privilege. It i
 The habitability literature does not currently justify a simple “Earth is uniquely habitable” premise. Rocky planets appear common, and habitability is an evolving multidimensional concept. At the same time, current exo-geoscience work emphasizes substantial planetary diversity and potentially uncommon combinations relevant to long-term habitability. The correct DFM target is therefore **integrated complex-life habitability and stability**, not merely rocky-planet occurrence or habitable-zone membership.
 
 The terrestrial-isotropy stream must likewise distinguish a very strong observation from its interpretation. Approximate isotropy about Earth is observationally well established; extending this to statistical equivalence of distant comoving observers invokes the wider FLRW/Copernican framework and indirect empirical tests. RO-EARTH-001 should catalogue those tests rather than dismiss them.
+
+
+
+### Exoplanet and astrobiology epistemic guardrail
+
+RO-EARTH-001 must not collapse observationally supported planetary abundance into empirically established habitability or inhabited-world abundance.
+
+The relevant inference ladder is:
+
+```text
+observed planetary abundance
+        ↓
+inferred rocky-planet abundance
+        ↓
+inferred candidate habitability
+        ↓
+unknown frequency of integrated Earth-comparable environments
+        ↓
+unknown probability of abiogenesis
+        ↓
+unknown probability of complex life given life
+        ↓
+unknown probability of technological intelligence given complex life
+```
+
+These levels do not presently carry equal empirical warrant.
+
+**Observed:** planets are abundant, and selected properties of many exoplanet systems can be measured or constrained through transit, radial-velocity, stellar, spectral, and related observations.
+
+**Inferred:** some planets satisfy selected model-dependent criteria associated with potential habitability, such as size, irradiation, orbit, density, or atmospheric properties where measurable.
+
+**Not directly established:** that candidate planets possess an integrated, persistent, genuinely life-supporting environment comparable to Earth's terrestrial system.
+
+**Empirically underdetermined:** the frequency of inhabited worlds, the probability of abiogenesis, the probability of complex multicellular life conditional on life, and the probability of technological intelligence conditional on complex life.
+
+Therefore:
+
+> **Observed planetary abundance ≠ observed Earth-analogue abundance ≠ observed habitability abundance ≠ observed biosphere abundance ≠ observed intelligent-life abundance.**
+
+And:
+
+> **Planetary abundance does not entail habitable-world abundance, and habitable-world abundance does not entail inhabited-world abundance.**
+
+The programme should likewise reject the inverse overclaim. Present observations do not establish that Earth is unique. The evidentially warranted position is:
+
+> **The prevalence of planets is observationally supported. The prevalence of genuinely Earth-comparable environments, inhabited worlds, complex biospheres, and technological intelligence remains empirically underdetermined.**
+
+### Copernican ordinary-Earth caution
+
+The existence of many planetary systems cannot by itself support the stronger conclusion that Earth is ordinary in the dimensions relevant to DFM. An inference of the form
+
+```text
+many planets exist
+    therefore
+Earth-comparable environments should be common
+    therefore
+Earth's integrated life-permitting state is probably ordinary
+```
+
+contains additional probabilistic premises that require independent evidential support.
+
+Likewise, large-number or Drake-style reasoning is useful for exposing variables but cannot determine the abundance of life or intelligence while key transition probabilities remain poorly constrained or unconstrained.
+
+Accordingly, **“life should be common” and “Earth should be ordinary” must be registered as hypotheses/inferences where used, not as observations.** The same evidential standard applies to terrestrial privilege: DFM may investigate whether Earth is privileged but may not promote terrestrial uniqueness from the absence of confirmed extraterrestrial life alone.
 
 ### New discriminator programme
 
