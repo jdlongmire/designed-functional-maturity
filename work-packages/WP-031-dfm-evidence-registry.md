@@ -240,3 +240,85 @@ Before promotion from research opportunity to evidence candidate, record:
 No unexplained observation may be entered as positive DFM evidence solely because the standard account has an unresolved burden.
 
 Conversely, DFM is not prohibited from treating unresolved observations as genuine research opportunities. The same methodological freedom to develop constrained auxiliaries applies here as in other research programmes, subject to symmetric standards of motivation, integration, prediction, and severe testing.
+
+
+### RO-EARTH-001 — Convergent Terrestrial Privilege
+
+**Class:** Research opportunity  
+**Status:** Open  
+**Evidential status:** Unresolved
+
+#### Provisional hypothesis
+
+> **Terrestrial Privilege Hypothesis:** Earth occupies a privileged role in the creation architecture, functioning as the terrestrial reference domain for the Genesis creation sequence and potentially for the extraordinary deployment and subsequent synchronization of the external cosmos.
+
+This hypothesis does **not** presently assert that Earth is the geometric center of the universe. Terrestrial privilege, observational privilege, geometric centrality, and deployment/temporal privilege are distinct propositions and must not be conflated.
+
+#### Core research question
+
+> **Do independent biblical, planetary, astronomical, and cosmological lines of evidence converge upon a privileged terrestrial reference-domain interpretation strongly enough to warrant preferring it over the nonprivileged terrestrial assumption?**
+
+#### Candidate convergence streams
+
+1. **Biblical reference-domain warrant** — assess the extent to which Genesis presents terrestrial days, Earth, and the terrestrial observer domain as the chronological/reference frame for the creation sequence, including Day 4.
+2. **Life-permitting terrestrial configuration** — incorporate E-EARTH-001 while controlling for covariance among habitability parameters.
+3. **Terrestrial stability** — test whether Earth exhibits an integrated configuration particularly suited to sustained complex-life function rather than transient habitability alone.
+4. **Observational suitability** — investigate whether Earth's environment is unusually suited not only for habitation but for discovering and measuring the wider cosmos.
+5. **Terrestrial observational isotropy** — quantify how nearly isotropic the large-scale universe appears from the terrestrial observational domain.
+6. **Copernican inference** — distinguish what is directly observed from Earth from what is inferred by assuming terrestrial nonprivilege, statistical homogeneity, and observer equivalence.
+7. **Remote-observer isotropy tests** — identify indirect observations capable of testing whether sufficiently remote comoving observers would recover the same large-scale isotropy attributed to our domain.
+8. **DFM/UTE deployment architecture** — determine whether terrestrial privilege is independently required by the creation/deployment architecture and whether that architecture predicts any of the foregoing observations.
+
+#### Hypothesis separation
+
+The programme must preserve:
+
+```text
+life-permitting privilege
+        ≠
+observational privilege
+        ≠
+geometric centrality
+        ≠
+temporal / deployment privilege
+```
+
+Evidence for one proposition may motivate investigation of another but does not establish it.
+
+#### Comparative appraisal
+
+The relevant comparison is not “consensus versus contrarianism.” It is whether the observations are differently expected under competing hypotheses:
+
+```text
+H_TP = terrestrial privilege / reference-domain hypothesis
+H_NP = terrestrial nonprivilege hypothesis
+
+Compare:
+P(E₁, E₂, ... Eₙ | H_TP)
+versus
+P(E₁, E₂, ... Eₙ | H_NP)
+```
+
+The analysis must account for dependence among evidence streams. Goldilocks parameters, for example, cannot be multiplied as independent probabilities when they share physical causes or selection effects.
+
+#### Copernican-principle guardrail
+
+“Earth is not privileged” is not itself a direct observation. It is an interpretive proposition embedded in a broader cosmological framework and supported by empirical and theoretical considerations. The programme should therefore document those considerations rather than treating terrestrial nonprivilege as an untouchable premise.
+
+Likewise, terrestrial isotropy is not by itself evidence of geometric centrality. Standard homogeneous/isotropic cosmologies predict approximately isotropic observations for typical comoving observers. DFM must therefore identify what additional observation would discriminate a privileged terrestrial domain from that standard explanation.
+
+#### Severe-test requirement
+
+RO-EARTH-001 must actively search for observations that reduce the probability of terrestrial privilege. Candidate failure conditions include:
+
+- independent remote-observer tests strongly establishing observational equivalence across widely separated domains;
+- a demonstrated absence of any DFM-predicted terrestrial/reference-domain signature;
+- derivation showing that DFM deployment architecture has no need for, or is inconsistent with, terrestrial privilege;
+- apparent convergence collapsing into correlated selection effects or model-dependent restatements of the same datum;
+- biblical analysis failing to warrant the proposed reference-domain interpretation.
+
+The opportunity should be promoted to an evidence entry only when specific, sufficiently independent convergence streams have survived these controls.
+
+#### Research objective
+
+The objective is not to accumulate “remarkable coincidences.” It is to determine whether a set of independently motivated observations becomes more coherent under terrestrial privilege and whether that interpretation produces risky, discriminating consequences that terrestrial nonprivilege does not equally predict.
