@@ -215,3 +215,132 @@ Construct the homogeneous/isotropic khronon/æther background and determine:
 5. whether a deployment-to-runtime relaxation can occur dynamically.
 
 If the homogeneous solution merely supplies one common cosmic clock, then spatial structure or a phase boundary is essential and must be justified before further elaboration.
+
+
+## Homogeneous/isotropic severe test
+
+Take a spatially homogeneous and isotropic background
+
+    ds^2 = -N(t)^2 c^2 dt^2 + a(t)^2 gamma_ij dx^i dx^j.
+
+FLRW symmetry forbids a homogeneous preferred vector with a nonzero spatial component: such a component would select a spatial direction and break isotropy.
+
+Therefore the homogeneous æther/khronon must align with the cosmological normal congruence,
+
+    u^mu = n^mu = (1/N, 0, 0, 0)
+
+in adapted coordinates.
+
+For a homogeneous khronon T=T(t), normalization removes the magnitude of T_dot:
+
+    u_mu = -partial_mu T /
+           sqrt[-g^ab partial_a T partial_b T]
+
+so monotonic changes in T(t) leave the physical u^mu aligned with the same normal direction.
+
+### Result B2-H1: no second physical clock from a homogeneous khronon
+
+A comoving cosmic observer has
+
+    d tau = N dt.
+
+The aligned homogeneous khronon does not supply an independent invariant proper-time accumulation. It defines the same timelike congruence already selected by FLRW symmetry.
+
+Consequently a homogeneous/isotropic khronon cannot by itself produce
+
+    Delta tau_C >> Delta tau_E
+
+between two comoving domains of one homogeneous FLRW solution.
+
+Changing T_dot cannot solve this because normalization and T-reparameterization remove that quantity from the physical timelike direction.
+
+### Result B2-H2: background effect is dynamical renormalization, not clock bifurcation
+
+The æther sector can contribute to the cosmological field equations through expansion/derivative terms and thereby modify the relation among matter density, Hubble expansion, and gravitational couplings.
+
+That is a genuine physical effect.
+
+But in a homogeneous isotropic background it modifies the common cosmological evolution; it does not create an Earth-local clock and a separate cosmic clock with a 10^12-10^13 integrated hierarchy.
+
+Thus changing æther couplings to alter the Friedmann equation is not equivalent to deriving the synchronized-lapse target.
+
+### Result B2-H3: the synchronized-lapse architecture requires broken homogeneity during deployment
+
+To obtain distinct invariant accumulations, Family B2 must contain genuine domain structure, for example:
+
+    Earth/reference domain E,
+    cosmic fast domain C,
+    transition region B,
+
+with the solved fields satisfying different invariant geometry in E and C.
+
+The preferred field may help define and dynamically support that structure, but it cannot remain exactly homogeneous.
+
+This is a useful constraint rather than a defect: the synchronized-lapse proposal itself already distinguishes a terrestrial contour from an extraterrestrial fast region.
+
+### Domain-wall / phase-boundary opportunity
+
+The minimal next architecture is therefore not arbitrary radial lapse assignment but a dynamical phase profile.
+
+Introduce a scalar deployment phase Phi(r,t) with two regimes:
+
+    Phi_E : terrestrial/reference phase
+    Phi_C : cosmic/deployment phase.
+
+The khronon/æther sector couples through one function F(Phi), while Phi obeys its own field equation derived from a potential and kinetic term.
+
+Schematic action:
+
+    S = S_EH
+        + S_Phi[g,Phi]
+        + F(Phi) S_u[g,u]
+        + S_m[g,psi].
+
+A regular interpolating solution could then define E, C, and the transition region dynamically.
+
+The important distinction from a hand-drawn lapse is:
+
+    Phi profile + u field + metric
+
+must be a joint solution of one boundary-value problem.
+
+### New danger: moving the hierarchy into the phase potential
+
+A two-phase model is explanatory only if the large proper-time contrast follows from a structurally motivated difference between phases.
+
+If the potential V(Phi), coupling F(Phi), or vacuum values are chosen so that their ratio is 5.04 x 10^12 solely to reproduce the target, the model fails KB-2.
+
+The hierarchy must emerge from equations, critical behavior, exponential dependence with moderate parameters, topological/boundary structure, or another independently motivated mechanism.
+
+### Common-history requirement
+
+The cosmic phase must contain the genuine thermal/stellar history.
+
+The transition region must transmit photons, neutrinos, and gravitational effects through one solved geometry.
+
+No messenger-specific matching rule is allowed at the phase boundary.
+
+### Homogeneous-screen verdict
+
+**The homogeneous/isotropic khronon realization fails as a synchronized-lapse mechanism but passes as a useful control.**
+
+It confirms that a dynamical preferred foliation is not enough. The required clock hierarchy demands physical spatial/domain structure.
+
+This result strengthens rather than weakens the methodological distinction from CMC: the khronon remains a dynamical field, but symmetry shows exactly what it cannot accomplish.
+
+## Family B2 next test
+
+Test a minimal two-phase spherical configuration before introducing full cosmology.
+
+Requirements:
+
+1. one scalar Phi with a simple two-regime potential;
+2. one hypersurface-orthogonal u^a;
+3. one common metric;
+4. regular Earth/cosmic/transition domains;
+5. no target-ratio parameter inserted initially;
+6. derive whether invariant lapse/proper-time contrast can become parametrically large;
+7. determine transition stress-energy and stability;
+8. only then overlay R_target ~= 5.04 x 10^12.
+
+A particularly valuable outcome would be a hierarchy generated exponentially from order-unity or moderately separated field parameters. A merely linear transfer of a 10^12 input into a 10^12 clock ratio would not improve on the stipulated-lapse model.
