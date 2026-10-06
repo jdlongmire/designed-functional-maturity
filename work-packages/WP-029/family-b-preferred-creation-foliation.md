@@ -929,3 +929,109 @@ Sweep physically generic U amplitude and transition-width classes and determine 
 Only after mapping that response should the 5.04 x 10^12 target be overlaid.
 
 This preserves the distinction between prediction and fitting.
+
+
+## Dimensionless spherical operator sweep: H4 screen
+
+A numerical first-pass screen was performed on
+
+    -(1/x^2) d/dx [x^2 dN/dx] + U(x) N = J,
+
+with:
+
+    N'(0)=0,
+    N(1)=1,
+
+and a generic smooth nonnegative profile
+
+    U(x) = U_0 + A W(x),
+
+where W is a single logistic transition. The sweep was deliberately performed before imposing the synchronized-lapse target.
+
+### Result 1: nonnegative U does not generically amplify the interior lapse
+
+For J=1 and U=0, the regular spherical solution gives
+
+    N(0) ~= 1.167.
+
+Increasing a positive transition amplitude suppresses rather than amplifies the interior solution. Representative results:
+
+| A | transition width | N(0) |
+| ---: | ---: | ---: |
+| 0 | any | 1.167 |
+| 0.01 | 0.1 | 1.166 |
+| 0.1 | 0.1 | 1.158 |
+| 1 | 0.1 | 1.081 |
+| 1000 | 0.1 | 0.016 |
+
+The precise numbers are toy-model dependent. The robust qualitative result is the important one: ordinary-sign positive U acts as an elliptic restoring/suppressing potential. Large domain scale by itself does not create a huge positive lapse amplification when it enters through positive U=L^2 V.
+
+Thus the H4 opportunity is substantially narrowed.
+
+### Result 2: the global source J can generate large lapse, but only by carrying the hierarchy
+
+Holding a representative A=1 profile fixed and varying J gives approximately:
+
+| J | N(0) |
+| ---: | ---: |
+| 0 | 0.922 |
+| 0.1 | 0.937 |
+| 1 | 1.081 |
+| 10 | 2.516 |
+| 100 | 16.87 |
+| 1000 | 160.4 |
+| 10^6 | 1.59 x 10^5 |
+
+At large J the response is approximately linear.
+
+Therefore a very large lapse hierarchy can be produced by a very large global CMC source term, but this does not explain the hierarchy. In the CMC preservation equation J is tied schematically to the prescribed global evolution of K, including K_dot(s) and convention-dependent shift terms.
+
+If J must itself be of order the desired temporal hierarchy in dimensionless units, the problem has been relocated from N to the global slicing history K(s).
+
+### Result 3: domain scale is not an automatic amplifier
+
+The earlier dimensionless observation
+
+    U=L^2 V
+
+identified domain scale as a possible source of strong elliptic structure.
+
+The numerical screen shows that for nonnegative V, increasing L increases positive U and generally strengthens suppression. Therefore:
+
+> **Large spatial scale is not, by itself, a mechanism for producing N_C >> N_E in ordinary-sign CMC data.**
+
+A useful amplification mechanism would require different sign structure, boundary forcing, a large global source J, or a more complex geometry.
+
+### H4 disposition
+
+**Demote generic positive-potential elliptic amplification.**
+
+The global elliptic operator remains important, but the simple hope that a large creation-domain length scale could turn moderate positive source contrast into a 10^12-10^13 lapse hierarchy is not supported by this screen.
+
+Retain only more specific variants with independently motivated boundary forcing or sign structure.
+
+### CMC realization status
+
+The CMC realization is now under substantial pressure.
+
+Its remaining routes are:
+
+1. **Global K-evolution route:** derive a large J from an independently motivated K(s), rather than choosing K_dot to generate the lapse.
+2. **Terrestrial boundary/localization route:** derive strong lapse structure from a physically motivated Earth-reference boundary condition.
+3. **Nonstandard sign/source route:** identify a physically warranted stress/geometric term that changes the effective elliptic sign structure.
+4. **Abandon CMC:** test one alternative preferred-foliation principle before adding more CMC auxiliaries.
+
+The stop rule prohibits fitting J, K_dot, or a boundary value to 5.04 x 10^12 merely to reproduce the target.
+
+## Next decision test
+
+Before introducing unusual matter or boundary conditions, test the global K-evolution route analytically.
+
+Ask whether a natural CMC/York deployment history can produce large J while:
+
+    keeping the intrinsic/extrinsic geometry regular,
+    avoiding a hidden 10^12-10^13 input,
+    satisfying commissioning conditions,
+    and preserving the common observable history.
+
+If the required K(s) simply encodes the target hierarchy, demote the CMC realization and move to one alternative foliation architecture.
