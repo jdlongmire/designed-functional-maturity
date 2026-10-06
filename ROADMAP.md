@@ -79,8 +79,8 @@ Priority tasks:
 2. Formalize the transition `S_{i-1} -> S_i` for each creation day at the level warranted by the text.
 3. Define terrestrial-day continuity without assuming universal synchronous process-time.
 4. Formalize Initialization-Deployment Complementarity and the recovered LPI Day 4 asynchronous auxiliary.
-4. Distinguish supernatural deployment transitions from ordinary designed operation.
-5. Build the coherent pre-seeding model and its consilience/provenance implications.
-6. Re-enter radiogenic WP-012 only when the programme-level architecture requires the formal identifiability result.
+5. Distinguish supernatural deployment transitions from ordinary designed operation.
+6. Build the coherent pre-seeding model and its consilience/provenance implications.
+7. Re-enter radiogenic WP-012 only when the programme-level architecture requires the formal identifiability result.
 
 The radiometric workstream remains a severe-test track, but it is no longer the immediate driver of DFM development.

@@ -1,6 +1,6 @@
 # WP-030: Minimum Required Cosmic Process Depth
 
-**Status:** Closed / superseded as a mistaken branch of inquiry  
+**Status:** Superseded — mistaken branch, see WP-029  
 **Parents:** WP-028, WP-029  
 **Superseded by:** WP-029 frozen asynchronous Day 4 hypothesis boundary
 

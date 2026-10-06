@@ -1,6 +1,6 @@
 # WP-020: Public Pages QA Gate
 
-**Status:** Executed
+**Status:** Executed  
 **Type:** Public presentation / quality assurance
 
 ## Objective

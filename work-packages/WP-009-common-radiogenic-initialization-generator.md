@@ -1,6 +1,6 @@
 # WP-009: Common Radiogenic Initialization Generator
 
-**Status:** Executed baseline  
+**Status:** Executed — baseline  
 **Parent:** DFM Research Programme  
 **Depends on:** WP-004, WP-007, WP-008
 

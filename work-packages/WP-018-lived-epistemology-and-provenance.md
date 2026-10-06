@@ -1,6 +1,6 @@
 # WP-018: Lived Epistemology and Provenance
 
-**Status:** Executed
+**Status:** Executed  
 **Type:** Programme epistemology / public communication
 **Depends on:** WP-015, WP-016, WP-017
 
