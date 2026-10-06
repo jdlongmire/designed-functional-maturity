@@ -179,6 +179,12 @@ ordinary post-deployment processes
 
 and then identify which observations discriminate among those allocations.
 
+## First exemplar result
+
+The first controlled competition is recorded in [`WP-029A: SN 1987A Causal Ledger and First Hypothesis Competition`](WP-029/sn1987a-causal-ledger.md).
+
+Initial result: no Layer 3 candidate yet earns a severe-test pass. Coupled temporal domains currently provide the strongest architectural representation of the problem, with relativistic proper-time and creation-specific metric/foliation models retained as candidate implementation families. This is a research prioritization, not a DFM conclusion.
+
 ## Success criterion
 
 WP-029 succeeds if it produces at least one quantitatively constrained candidate architecture that simultaneously addresses multiple independent severe-test domains and exposes itself to meaningful failure.
