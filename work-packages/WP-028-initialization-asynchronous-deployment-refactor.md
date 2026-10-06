@@ -391,6 +391,11 @@ This WP does not restore accelerated nuclear decay, every earlier LPI Flood mech
 
 Each requires independent appraisal.
 
+## Operational research artifacts
+
+- [`WP-028-HR: Day 4 Layered Hypothesis Registry`](WP-028/day4-layered-hypothesis-registry.md) controls Layer 2-4 candidate hypotheses and their dispositions.
+- [`WP-029: Day 4 Causal Architecture and Severe-Test Programme`](WP-029-day4-causal-architecture-severe-test-programme.md) develops causal graphs, synchronization requirements, cross-domain tests, and explicit loss conditions.
+
 ## Research tasks
 
 1. Formalize A(tau_E, tau_Cn) without implying a preferred physical mechanism.
