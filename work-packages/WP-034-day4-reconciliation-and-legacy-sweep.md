@@ -33,7 +33,7 @@ Every hit was reviewed. Results:
 | File | Hits | Disposition |
 |---|---:|---|
 | `drafts/foundations-actualization-agency-intelligibility.md` | 10 | Revised (section 1 above) |
-| `work-packages/WP-032-historical-integrity-macro-state-initialization.md` | 19 | **Conflict, decision required** (below) |
+| `work-packages/WP-032-historical-integrity-macro-state-initialization.md` | 19 | Conflict, **resolved**: allocation deferred to Day 4 (below) |
 | `work-packages/WP-003-supernova-functional-state-hypothesis.md` | 3 | **Conflict, already scheduled**: WP-028's propagation table lists "WP-003 supernova: convert initialization-vs-history framing to mixed allocation", not yet done. Reconciliation note added at the head of WP-003; full conversion remains open. |
 | `drafts/designed-functional-maturity.md` | 4 | Consistent. Line ~400 already states WP-028 replaces "starlight in transit" with mixed allocation; the appearance-of-age passages are generic. |
 | `work-packages/WP-028-…`, `WP-028/day4-layered-hypothesis-registry.md` | 4 | Consistent (they disclaim white-hole / anisotropic-synchrony mechanisms). |
@@ -46,7 +46,7 @@ WP-032 §"Supernova application" allows a named supernova to be classified as "(
 
 For phenomena in the external cosmos this conflicts with the frozen Day 4 boundary: WP-029 places genuine stellar evolution and supernovae in the deployment payload, and WP-030 was closed precisely because reallocating observed external states to initialization "changed the hypothesis rather than testing it." Left as written, category (3) reopens the WP-030 move for supernovae.
 
-Proposed resolution (not applied; for the Principal Investigator's decision): append to WP-032 §"Supernova application":
+**Resolved 2026-10-06 (JD: "move to Day 4").** External-cosmos allocation is deferred to the Day 4 architecture; a "Day 4 deferral" paragraph was added to WP-032 §"Supernova application" in this WP. The originally proposed wording was:
 
 > Under the frozen asynchronous Day 4 hypothesis (WP-029), category (3) is not available for external-cosmos supernovae: their events belong to the genuinely executed deployment payload. Category (3) remains a terrestrial- or boundary-domain category and may be applied to external phenomena only through a recorded revision of the WP-029 boundary, not case by case.
 
