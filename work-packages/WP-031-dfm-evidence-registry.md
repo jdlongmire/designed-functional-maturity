@@ -616,3 +616,144 @@ Failure of a **physical** terrestrial-privilege prediction, by contrast, need no
 **Initial canonical result:** Scripture gives substantial warrant for investigating **functional, habitation, vocational, chronological/reference-domain, and creation-historical terrestrial privilege**. It does not presently establish **geometric centrality**, **terrestrial uniqueness as the only inhabited world**, or a **specific Day 4 physical mechanism**.
 
 The next research task is to test the derived expectations independently against the observational record rather than increasing the biblical claim beyond this warrant.
+
+
+---
+
+## Track 2 — Observational Test 1: Integrated Terrestrial Habitability and Stability
+
+**Test ID:** BTP-O1  
+**Derived from:** BTP-B1, BTP-B3, RO-EARTH-001  
+**Question:** Does Earth observationally exhibit an unusually integrated and persistent life-supporting state of the kind reasonably expected if it has a purposeful habitation/reference-domain role?
+
+### Epistemic baseline
+
+This test begins with the strongest directly established fact:
+
+> **Earth is an inhabited planetary system whose habitability is realized, integrated, and directly observable.**
+
+For exoplanets, measurements constrain selected stellar, orbital, bulk-planet, and increasingly atmospheric properties. “Habitability” beyond Earth remains an inference from models connecting those observables to environmental conditions. Candidate habitability must therefore not be treated as observational parity with Earth's demonstrated biosphere-supporting system.
+
+The comparison is consequently not:
+
+```text
+Earth versus many observed habitable planets
+```
+
+but presently:
+
+```text
+one demonstrated inhabited integrated planetary system
+versus
+many planetary systems with selected measured properties
+and model-inferred habitability potential
+```
+
+This asymmetry does not establish terrestrial uniqueness. It does constrain what may legitimately be claimed about the frequency of Earth-comparable environments.
+
+### O1-A — Coupled habitability architecture
+
+The terrestrial state relevant to sustained complex habitability is not reducible to orbital location. Current geoscience and astrobiology literature treats habitability as dependent on interacting stellar, planetary-interior, atmospheric, hydrological, geochemical, and biological processes.
+
+Candidate coupled dimensions include:
+
+- stellar irradiation and variability;
+- orbital architecture;
+- planetary mass, gravity, rotation, and obliquity;
+- atmospheric inventory and evolution;
+- persistent surface liquid water;
+- internal heat and geological activity;
+- volatile exchange between interior, crust, ocean, and atmosphere;
+- long-term carbon/climate regulation;
+- magnetic-field history and solar-wind interaction;
+- nutrient cycling and accessible chemical disequilibria;
+- biosphere–atmosphere–geosphere feedbacks.
+
+**Initial appraisal:** **Potentially supporting, but not yet discriminating.**
+
+The observation that Earth possesses a deeply coupled life-supporting system is strong. The frequency of comparable integrated systems is not presently established well enough to assign a robust likelihood ratio between H_TP and H_NP.
+
+### O1-B — Long-duration stability
+
+The stronger terrestrial-privilege target is not merely temporary surface permissibility but persistence of a coupled habitable state. Solar-system comparisons provide an important control: rocky bodies with some broadly Earth-like ingredients or evidence of past surface water did not converge on the same persistent present state.
+
+This motivates:
+
+> **BTP-O1-H1:** If purposeful terrestrial habitation is physically expressed, Earth may exhibit an unusually persistent conjunction of climate regulation, water retention, atmospheric maintenance, geological cycling, radiation protection, and biospheric support.
+
+This is a testable research hypothesis, not a current finding of uniqueness.
+
+**Initial appraisal:** **Research opportunity / potentially supporting.**
+
+### O1-C — Magnetic-field contribution
+
+Earth possesses a long-lived geodynamo. Recent paleomagnetic work argues that magnetic shielding has plausibly contributed to preservation of atmosphere/water and has interacted with climatic and biological history, while also acknowledging that the magnitude and even direction of some habitability effects remain debated.
+
+Therefore:
+
+- the magnetic field is a genuine terrestrial-system variable;
+- its habitability role must not be overstated as a simple necessary/sufficient condition;
+- its evidential value lies primarily in the integrated-system question.
+
+**Initial appraisal:** **Relevant system component; individual evidential weight unresolved.**
+
+### O1-D — Geological cycling and climate regulation
+
+Long-lived geological activity, surface–interior exchange, and carbon cycling are widely investigated as contributors to Earth's climatic persistence. The exact necessity of modern plate tectonics for all forms of life remains disputed, and Earth's earliest tectonic regime itself remains an active research problem.
+
+DFM should therefore test the broader proposition of **persistent geological/climate regulation**, rather than make plate tectonics alone a binary fine-tuning requirement.
+
+**Initial appraisal:** **Potentially important integration variable; not independently decisive.**
+
+### O1-E — Solar-system control
+
+The terrestrial planets provide a better-observed comparison set than exoplanets. Mercury, Venus, Earth, Mars, and the Moon exhibit markedly different atmospheric, hydrological, magnetic, tectonic, and surface histories despite broad commonalities as products of one planetary system.
+
+Earth is the only member of this comparison set with a demonstrated complex biosphere and persistent surface habitability.
+
+**Initial appraisal:** **Supporting the claim that integrated realized habitability is nontrivial; insufficient by itself to establish cosmological rarity or design.**
+
+### O1-F — Exoplanet control
+
+Exoplanet discoveries strongly support **planetary abundance** and substantial planetary diversity. They do not presently provide direct observations of inhabited Earth analogues.
+
+Accordingly:
+
+```text
+planet abundance: observationally strong
+rocky-planet abundance: increasingly constrained
+candidate habitability: model-dependent inference
+integrated Earth-comparable habitability: poorly constrained
+inhabited-world abundance: unknown
+complex-life abundance: unknown
+technological-intelligence abundance: unknown
+```
+
+This ordering is a standing control on all terrestrial-privilege likelihood claims.
+
+### Competing explanations
+
+**H_TP — Terrestrial privilege:** Earth's integrated life-supporting configuration is an expected consequence of purposeful terrestrial habitation/reference-domain status.
+
+**H_NP — Terrestrial nonprivilege:** Observers necessarily arise in observer-permitting environments; Earth's configuration is therefore subject to strong selection effects. A sufficiently large planetary population may contain rare combinations without terrestrial privilege.
+
+The existence of selection effects is legitimate and must be included. It does not by itself determine the unknown frequency of integrated Earth-comparable environments.
+
+### Required discriminator
+
+BTP-O1 becomes positive physical evidence for H_TP only if research can establish one or more of the following without naive multiplication of correlated parameters:
+
+1. a demonstrably rare conjunction of substantially independent requirements for sustained complex habitability;
+2. an integrated terrestrial feature predicted from the privilege hypothesis before its observational appraisal;
+3. a property whose likelihood is materially greater under H_TP than under a quantitatively specified H_NP;
+4. convergence with an independent terrestrial-privilege discriminator, especially observational/reference-domain evidence.
+
+### Current verdict
+
+> **The observational record strongly establishes realized, integrated terrestrial habitability and supports treating long-duration Earth-system stability as a serious research target. It does not yet establish that Earth-comparable systems are cosmologically rare, nor does it by itself discriminate terrestrial privilege from observer selection plus planetary diversity.**
+
+**Classification:** **Strong observation / unresolved discriminator / active research opportunity.**
+
+### Sources to maintain in the evidence file
+
+The supporting literature set should include, at minimum, peer-reviewed reviews on multidimensional habitability, terrestrial-planet geological evolution, magnetic-field/habitability interactions, exoplanet characterization limits, and long-term climate/geological cycling. Individual claims should be rechecked against primary or review literature before quantitative weighting.
