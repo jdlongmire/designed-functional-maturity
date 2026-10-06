@@ -541,3 +541,160 @@ Before increasing geometric complexity, compute the effective Einstein tensor fo
 In parallel, derive photon frequency transport through the same Omega(r,t).
 
 If both require independent compensating structure, Family A should be demoted. If one common source geometry controls proper-time depth, propagation, frequency behavior, and smooth commissioning, Family A becomes a serious developed candidate.
+
+
+## Full 3+1 conformal completion: homogeneous screen
+
+Test the maximally economical completion first:
+
+    g_tilde_mu_nu = Omega(t)^2 eta_mu_nu
+
+with
+
+    Omega(t) = exp[beta q(t)]
+
+and the same finite deployment pulse q(t).
+
+This deliberately removes spatial tuning. It asks whether a single homogeneous conformal field can supply the required process-depth ratio while preserving null causal structure, acceptable source behavior, and a smooth exit.
+
+The metric is
+
+    ds^2 = Omega(t)^2[-c^2 dt^2 + dx^2 + dy^2 + dz^2].
+
+This is a spatially flat FLRW geometry written in conformal time, with scale factor a_conf(t)=Omega(t).
+
+### Proper time
+
+For comoving observers:
+
+    d tau = Omega(t) dt
+
+and therefore
+
+    Delta tau / T = exp(z) I_0(z)
+
+for the sin^2 pulse as derived above.
+
+The desired process-depth gain remains available.
+
+### Null propagation
+
+For radial null curves:
+
+    dr/dt = +/- c.
+
+The conformal pulse leaves the unparameterized null paths identical to Minkowski null paths in conformal coordinates.
+
+### Photon frequency
+
+For comoving emitter and observer in a spatially flat conformal metric, photon frequency scales inversely with the conformal scale factor:
+
+    omega_obs / omega_emit = Omega_emit / Omega_obs.
+
+Equivalently,
+
+    1 + z = Omega_obs / Omega_emit.
+
+This produces a sharp result.
+
+If both emission and observation occur on equal-Omega boundary states, especially Omega_emit=Omega_obs=1, the homogeneous conformal pulse leaves no net endpoint cosmological redshift even though the photon propagated through a strongly time-dependent intermediate geometry.
+
+If emission occurs while Omega is large and observation occurs after commissioning with Omega_obs=1, a correspondingly large frequency shift is predicted.
+
+Therefore Family A cannot treat signal emission time as irrelevant. The deployment allocation of source event and propagation becomes observationally consequential.
+
+### Effective Einstein source
+
+For spatially flat FLRW with cosmic proper time tau and scale factor Omega, define
+
+    H = (1/Omega) dOmega/dtau.
+
+Because d tau = Omega dt,
+
+    H = Omega_dot / Omega^2.
+
+For Omega=exp[beta q],
+
+    H = beta q_dot / Omega.
+
+The standard flat-FLRW Einstein equations give
+
+    rho = 3 H^2 / (8 pi G)
+
+and
+
+    p = -(c^2 / 8 pi G) [2 dH/dtau + 3 H^2].
+
+Using the conformal-time pulse,
+
+    rho = (3 beta^2 q_dot^2) / (8 pi G Omega^2).
+
+At the midpoint of the sin^2 pulse q_dot=0 even though Omega is maximal, so the effective density associated with expansion/contraction vanishes there in this simple model. The source burden concentrates in the transition regions where q changes.
+
+At deployment boundaries q=0 and q_dot=0, hence
+
+    H=0
+    rho=0.
+
+However q_ddot is nonzero for the sin^2 pulse at the endpoints, so dH/dtau and therefore pressure need not vanish there. The metric and first derivative match, but the effective pressure can change discontinuously across the boundary.
+
+This confirms the earlier warning: a higher-order smooth bump is preferable if Family A survives.
+
+### Expansion followed by contraction
+
+Because q begins at zero, rises, and returns to zero, Omega does likewise. The homogeneous conformal completion therefore represents an expansion phase followed by contraction back to the original scale factor.
+
+That is a serious physical consequence, not merely a clock transformation.
+
+If Omega must become exponentially large to generate the desired process-depth ratio, the homogeneous model implies an enormous transient change in spatial scale as well.
+
+This is the principal failure of the maximally economical 3+1 conformal completion.
+
+### Energy-condition screen
+
+For flat FLRW,
+
+    rho + p/c^2 = -(1 / 4 pi G) dH/dtau.
+
+During portions of the pulse with dH/dtau > 0, the null energy condition rho + p/c^2 >= 0 is violated.
+
+A pulse that rises from H=0, evolves through expansion, turns around, contracts, and returns to H=0 generally contains intervals in which ordinary energy-condition behavior is nontrivial and can include NEC violation.
+
+Because this is a creation-deployment model, energy-condition violation is not automatically a theological disqualifier. It is, however, a physical cost that must be explicit rather than hidden.
+
+### Homogeneous-screen verdict
+
+The simplest full conformal Family A completion fails as a preferred physical model.
+
+It succeeds mathematically at:
+
+- producing large proper-time accumulation;
+- preserving conformal null paths;
+- allowing zero net endpoint redshift for equal-Omega endpoints;
+- returning metric and first derivative to ordinary values.
+
+But it does so by making the conformal factor the spatial scale factor. Large clock gain therefore entails enormous transient global expansion/contraction, a highly structured effective pressure/source, and possible energy-condition violation.
+
+The model has moved the problem from arbitrary clock factors into an extreme global geometry.
+
+**Disposition: reject the homogeneous 3+1 conformal screen as the default Family A mechanism; retain it as a useful limiting/control model.**
+
+### Consequence for Family A
+
+This failure does not yet reject all single-metric models because the earlier radial ansatz allowed temporal and spatial metric responses to differ:
+
+    lambda != mu
+
+or to vary spatially through f(r).
+
+But the result is instructive: exact 3+1 conformality is too restrictive because it couples the desired clock gain directly to spatial scale.
+
+The next Family A candidate, if pursued, must therefore be **non-conformal in full 3+1 dimensions while remaining tightly constrained**, for example a lapse-dominant or radially structured metric whose propagation behavior is derived rather than independently patched.
+
+### Decision point
+
+Family A has now lost its simplest 3+1 realization.
+
+Before adding further functions, compare the cost of one constrained non-conformal metric against moving to Family B, where a preferred creation foliation is explicit rather than encoded indirectly in an increasingly specialized metric.
+
+The symmetry principle applies here: additional flexibility is allowed, but it must purchase explanatory integration or new discriminators.
