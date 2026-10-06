@@ -698,3 +698,138 @@ Family A has now lost its simplest 3+1 realization.
 Before adding further functions, compare the cost of one constrained non-conformal metric against moving to Family B, where a preferred creation foliation is explicit rather than encoded indirectly in an increasingly specialized metric.
 
 The symmetry principle applies here: additional flexibility is allowed, but it must purchase explanatory integration or new discriminators.
+
+
+## Final Family A attempt: single-field non-conformal metric
+
+Use one deployment scalar psi(r,t) but allow fixed, unequal responses in temporal and spatial sectors:
+
+    ds^2 = -exp[2 lambda psi(r,t)] c^2 dt^2
+           + exp[2 mu psi(r,t)] dr^2
+           + r^2 dOmega^2,
+
+with
+
+    psi(r,t) = f(r) q(t),
+
+and q(t) a single smooth Day-4 pulse.
+
+The constants lambda and mu are global parameters. No second compensating field is permitted.
+
+Earth-local normalization is imposed by choosing f(r_E)=0, so
+
+    d tau_E = dt.
+
+For a comoving cosmic observer at fixed r_C:
+
+    d tau_C = exp[lambda f(r_C) q(t)] dt.
+
+Large process depth remains available through the same exponential integral structure as the previous pulse model.
+
+### Radial null propagation
+
+For radial null curves:
+
+    dr/dt = +/- c exp[(lambda-mu) psi(r,t)].
+
+Three cases follow.
+
+1. lambda = mu: radial null paths retain the conformal cancellation, but radial proper scale changes with the same large factor and the earlier geometric cost reappears locally.
+
+2. mu approximately 0: spatial geometry remains comparatively stable while lapse generates process depth, but radial coordinate propagation acquires the full exponential factor.
+
+3. 0 < mu < lambda: the model trades between spatial deformation and propagation deformation.
+
+This exposes a conservation-of-complexity problem: with one field and fixed coefficients, reducing one burden transfers it to another rather than eliminating it.
+
+### Frequency relation
+
+For the static limit q=constant, the metric has lapse
+
+    N(r)=exp[lambda f(r) q],
+
+and stationary observers measure the standard gravitational frequency ratio
+
+    omega_obs / omega_emit = N_emit / N_obs.
+
+With f(r_E)=0,
+
+    omega_obs / omega_emit = exp[lambda f(r_emit) q]
+
+in the stationary limit.
+
+Therefore a large lapse-derived process-depth contrast generically implies a large instantaneous gravitational frequency contrast.
+
+A time-dependent q(t) can modify the integrated result, but then the same q(t) must simultaneously control process depth, null propagation, and frequency transport. No independent spectral repair is allowed.
+
+### Spatial-gradient cost
+
+Because f(r_E)=0 while f(r_C) must become large enough over cosmic regions to generate the desired effect, the metric necessarily contains spatial lapse gradients.
+
+Those gradients contribute to curvature and effective stress-energy. Sharpening f(r) to localize the effect increases derivative terms; broadening f(r) spreads the altered geometry through the intervening region.
+
+Thus localization is not free.
+
+### Smooth commissioning
+
+Choose q with
+
+    q = q_dot = q_ddot = 0
+
+at deployment boundaries using a higher-order smooth bump rather than the earlier sin^2 control pulse.
+
+This can make the metric and relevant low-order curvature contributions approach ordinary runtime smoothly in time.
+
+However, temporal smoothness does not remove the spatial-gradient or frequency burdens.
+
+### Stop-rule evaluation
+
+The single-field non-conformal model can move the cost among:
+
+    timelike process depth,
+    spatial deformation,
+    radial signal propagation,
+    gravitational frequency shift,
+    curvature/source gradients.
+
+With only lambda, mu, one f(r), and one q(t), no regime identified here independently suppresses all unwanted effects while retaining a very large process-depth ratio.
+
+Achieving that would require at least one of:
+
+- a second field or compensating metric function;
+- specially engineered f(r) tied to source/observer locations;
+- a separate frequency/propagation transformation;
+- non-universal coupling among messengers;
+- an explicit preferred slicing with additional dynamical structure.
+
+The first four violate the present Family A stop rule. The fifth is, in substance, Family B.
+
+## Family A disposition
+
+**Demote Family A from active candidate to constrained feasibility/control family.**
+
+Reason:
+
+Family A demonstrated that differential proper-time architectures are mathematically coherent and yielded useful invariants, but the single-metric implementations tested do not yet provide a parsimonious physical mechanism. The homogeneous conformal model couples clock gain to extreme spatial expansion/contraction. The single-field non-conformal model trades clock gain against spatial deformation, propagation, frequency shift, and source gradients without eliminating the burden.
+
+Further Family A work is not prohibited. Under the Ancillary-Hypothesis Symmetry Principle it may be reopened if a new independently motivated metric solution supplies additional constraint or predictive content. It should not presently receive more free functions merely to preserve the asynchronous auxiliary.
+
+## Transition to Family B
+
+The next programme step is therefore:
+
+**Family B: preferred creation foliation with covariant local physics.**
+
+This is methodologically cleaner than hiding a privileged deployment structure inside increasingly specialized metric coefficients.
+
+Family B must still pay for:
+
+- definition and physical status of the preferred foliation;
+- relation between foliation parameter and local proper time;
+- covariance/local Lorentz behavior after commissioning;
+- photon/neutrino/gravitational propagation;
+- spectral/redshift consequences;
+- synchronization into ordinary runtime;
+- empirical discriminators.
+
+Family A remains the control against which Family B's added structure and explanatory gain will be measured.
