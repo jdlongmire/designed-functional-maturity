@@ -125,3 +125,98 @@ The specification remains internally coherent across the reviewed borderline cas
 - Flood priority is earned by explanatory performance rather than asserted by category.
 
 The principal open burdens remain quantitative: isotope provenance, shock/event discrimination, cosmological propagation/deployment, and severe testing of Flood mechanisms against specific geological/paleontological explananda.
+
+
+## Omphalos comparison: Gosse's prochronism versus DFM
+
+### Primary-source baseline
+
+Philip Henry Gosse's *Omphalos* (1857) does not merely assert that newly created organisms must be functionally mature. Gosse develops **prochronism**: creation may enter an ideally projected life-history at a selected point such that present features correspond to antecedent developmental events that did not occur diachronically.
+
+In his concluding application Gosse explicitly extends this principle to detailed geological and biological traces, including hyena tooth marks, infant and adult fossil skeletons, coprolites, bird and reptile tracks, and glacial scratches. He argues that such evidence may appear exactly as if the antecedent facts had occurred diachronically even when they were instead prochronic.
+
+His 1857 thought experiment generalizes the principle still further: were the world created at that moment, its initialized state could include ruined castles, half-worn clothing, footprints, skeletons, and human bodies in stages of decay. The principle therefore permits specific-event traces without the corresponding events having occurred in actual elapsed history.
+
+Gosse also applies the prochronic framework to astronomical light-travel considerations.
+
+Primary source: Philip Henry Gosse, *Omphalos: An Attempt to Untie the Geological Knot* (London: John Van Voorst, 1857), especially chapters VI and XII. Digital facsimile/text: Project Gutenberg eBook 39910; Biodiversity Heritage Library DOI 10.5962/bhl.title.147051.
+
+### Proposition-by-proposition comparison
+
+| Question | Gosse's Omphalos | DFM WP-027 |
+|---|---|---|
+| Can creation begin mature? | Yes | Yes |
+| Must the creation/deployment process equal ordinary subsequent development? | No | No |
+| Can initialized state correspond to a point within an untraversed developmental history? | Yes | Only insofar as the state itself does not falsely encode specific events |
+| Can a mature organism possess structures ordinarily associated with prior development? | Yes, as prochronic phenomena | Yes where they are functional/creational state and do not constitute fabricated specific-event history |
+| Can a trace represent a specific event that never actually occurred? | Yes. This is an explicit consequence of prochronism | No. Historical Integrity Constraint prohibits it |
+| Can tooth marks exist without the bite having occurred? | Yes, in principle | No |
+| Can trackways exist without locomotion having occurred? | Yes, in principle | No |
+| Can coprolites/fossil traces exist without the represented biological history? | Yes, in principle | No |
+| Can geological event traces be initialized despite the event not occurring? | Yes, in principle | No when the feature is genuinely event-diagnostic |
+| Can light encode a stellar event that never occurred? | Prochronism permits apparent antecedent propagation/history | No. Information representing a particular event requires a real event |
+| Does failure of a historical explanation permit assignment to created pseudo-history? | Potentially yes under the prochronic framework | No. Non-Migration Principle |
+| Must a scripturally warranted catastrophe be tested as a real cause of relevant evidence? | Not a governing allocation rule of Gosse's prochronism | Yes. Historical-Causal Priority |
+| Is initialization empirically constrained? | The present state may be indistinguishable from projected prior history | Yes. Physical coherence, provenance, severe tests, explanatory allocation, and failure criteria constrain it |
+
+### Shared insight
+
+DFM should not deny its genuine point of contact with Gosse:
+
+> A created system need not begin at the beginning of the ordinary developmental trajectory that would be reconstructed from its mature state.
+
+Gosse recognized the **initialization problem**: if God creates an organism or world already capable of performing its intended role, ordinary backward reconstruction need not recover its actual origin.
+
+DFM retains that insight.
+
+### Point of departure
+
+Gosse then generalizes from mature state to **prochronic history**. The projected developmental history can leave detailed present traces even where the corresponding antecedent events never occurred diachronically.
+
+DFM rejects that generalization.
+
+Let `T(e)` denote an information-bearing trace whose evidential content represents specific event `e`.
+
+Gosse's prochronism permits, in principle:
+
+```text
+T(e) AND NOT Actual(e)
+```
+
+DFM requires:
+
+```text
+T(e) -> Actual(e)
+```
+
+The difference is therefore not simply the amount of apparent age admitted. It is an ontological and methodological restriction on **historical reference**.
+
+### Consequence for fossils and catastrophe
+
+Under Gosse's framework, a fossil tooth mark, trackway, coprolite, or other detailed historical trace may belong to a projected prochronic history even if the represented event never occurred.
+
+Under DFM, once such a feature is classified as a specific-event trace, a real causal history is mandatory.
+
+For geological and paleontological evidence plausibly within the causal scope of the scripturally warranted global Flood, WP-027 further requires the Flood and its associated mechanisms to be tested as genuine historical causes. If a proposed Flood mechanism fails, the evidence remains a historical explanandum. It may not migrate into initialization.
+
+### DFM anti-Omphalos discriminator
+
+The clean discriminator is:
+
+> **Could this model preserve itself by asserting that a specific-event trace was created even though the represented event never occurred?**
+
+For Gosse's prochronism, the answer is **yes**.
+
+For DFM under WP-027, the answer is **no**.
+
+If DFM must answer yes in order to explain an observation, that explanation violates the Historical Integrity Constraint and fails on DFM's own terms.
+
+### Appraisal
+
+DFM therefore shares a limited initialization insight with *Omphalos* but rejects the defining explanatory extension that made Gosse's proposal capable of absorbing detailed evidence of nonexistent history.
+
+The relationship is best stated as:
+
+> **Gosse identified a real initialization problem; DFM accepts the initialization insight while rejecting prochronic pseudo-history as its solution.**
+
+This distinction must remain empirically costly. DFM cannot merely relabel inconvenient historical traces as macro-state. The Specific-Event Trace Test, Non-Migration Principle, catastrophe appraisal protocol, and local failure criteria exist precisely to prevent that move.
