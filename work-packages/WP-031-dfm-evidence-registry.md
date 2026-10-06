@@ -131,3 +131,112 @@ The registry should grow around the model rather than around favorable observati
 ```
 
 This structure operationalizes the current research question without assuming in advance that the evidence will favor the model.
+
+
+---
+
+## Research Opportunity Register
+
+The Evidence Registry and Research Opportunity Register serve different epistemic functions.
+
+An observation enters the **Evidence Registry** when its evidential relationship to DFM can be appraised. A phenomenon enters the **Research Opportunity Register** when it identifies a potentially productive line of investigation but has not yet earned evidential weight for or against DFM.
+
+> **Interesting ≠ anomalous ≠ explained ≠ evidence.**
+
+An anomaly is not evidence for DFM merely because it is anomalous. It becomes DFM-relevant when the programme supplies a principled explanation, derives a discriminator, or predicts an observation that competing models do not equally expect.
+
+### Opportunity progression
+
+Each opportunity should progress, where warranted, through:
+
+```text
+observed tension / residual
+        ↓
+characterize the phenomenon
+        ↓
+document standard explanations
+        ↓
+identify possible DFM relevance
+        ↓
+formulate ancillary hypothesis
+        ↓
+derive consequences / predictions
+        ↓
+identify discriminator
+        ↓
+severe test
+        ↓
+evidential appraisal
+```
+
+DFM may propose, test, revise, and reject ancillary hypotheses. Their legitimacy depends on independent motivation, constraint, integration with the wider architecture, empirical consequence, and exposure to severe testing, not on whether they preserve the programme's hard core.
+
+### RO-COSMOS-001 — Residuals, Anomalies, and Compensation Mechanisms
+
+**Class:** Research opportunity  
+**Status:** Open  
+**Evidential status:** None assigned by category membership
+
+#### Research question
+
+> **Could any persistent cosmological residual, inferred effective component, or cross-method discrepancy preserve information about extraordinary creation deployment, initialization, or synchronization conditions that is absent from an ordinary-runtime extrapolation model?**
+
+The working opportunity is deliberately broader than any one anomaly. If the observed cosmos entered ordinary synchronized runtime following an extraordinary asynchronous deployment regime, present observations could in principle retain residual signatures of that deployment or expose effective terms within ordinary-runtime models that compensate for boundary conditions not represented by those models.
+
+A useful bookkeeping relation is:
+
+```text
+observed cosmic state
+    =
+ordinary runtime dynamics
+    + inherited deployment state
+    + possible deployment residuals
+```
+
+This is a research decomposition, not an established physical equation.
+
+#### Candidate opportunity streams
+
+The initial register includes, without assigning DFM evidential weight:
+
+1. **Dark matter inference** — investigate whether the gravitational phenomena attributed to non-luminous matter are fully orthogonal to DFM deployment architecture or could constrain inherited/deployment boundary conditions.
+2. **Dark energy / accelerated-expansion inference** — investigate whether the effective accelerated-expansion term has any principled relationship to deployment or synchronization architecture.
+3. **Hubble-tension measurements** — characterize discrepancies among early- and late-universe inference pathways and test whether any DFM architecture predicts a systematic residual rather than merely accommodating one.
+4. **JWST high-redshift structure** — track robust spectroscopically supported observations of early galaxies, stellar populations, black holes, chemical enrichment, and structural maturity, distinguishing durable tensions from claims resolved by improved redshift, mass, dust, or population modeling.
+5. **Large-scale cosmological anomalies** — admit specific cases only after their statistical robustness, independence, and physical interpretation are established.
+
+These streams are intentionally heterogeneous. Dark matter and dark energy are inferred model components; Hubble tension is a cross-inference discrepancy; JWST supplies an evolving observational data set. They must not be rhetorically collapsed into one class of “failed predictions.”
+
+#### Residual-Deployment Hypothesis
+
+**RO-COSMOS-001-H1, provisional ancillary hypothesis:**
+
+> **If the cosmos underwent extraordinary asynchronous creation deployment followed by synchronization into ordinary runtime, some present cosmological observations may preserve residual signatures of the deployment/synchronization boundary or appear within ordinary-runtime models as effective components or parameter tensions because those models do not represent the extraordinary boundary history.**
+
+This is an opportunity-generating hypothesis, not evidence and not yet a developed physical mechanism.
+
+#### Engineering analogue
+
+A running system observed without knowledge of its initialization and deployment history can exhibit telemetry that a runtime-only model attributes to missing components or adjusted parameters. Sometimes the inferred component is real. In other cases the unexplained state is inherited from initialization, configuration, transition, or boundary conditions outside the runtime model.
+
+The analogy motivates a question. It does not establish that cosmological dark-sector terms or tensions are deployment artifacts.
+
+#### Required appraisal for each stream
+
+Before promotion from research opportunity to evidence candidate, record:
+
+- the observation itself and its uncertainty;
+- whether the phenomenon is robust across independent methods;
+- what the relevant standard model actually predicts;
+- current conventional explanations and active alternatives;
+- whether DFM merely accommodates the observation or explains it;
+- the specific DFM ancillary hypothesis;
+- what new consequence follows from that hypothesis;
+- an observation capable of discriminating it;
+- a failure condition that would demote or reject the ancillary.
+
+#### Guardrail
+
+No unexplained observation may be entered as positive DFM evidence solely because the standard account has an unresolved burden.
+
+Conversely, DFM is not prohibited from treating unresolved observations as genuine research opportunities. The same methodological freedom to develop constrained auxiliaries applies here as in other research programmes, subject to symmetric standards of motivation, integration, prediction, and severe testing.
