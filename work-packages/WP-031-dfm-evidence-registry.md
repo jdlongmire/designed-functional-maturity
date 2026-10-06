@@ -437,3 +437,55 @@ The following should be tested for possible convergence but must not be imported
 - statistically robust large-scale directional or structural anomalies.
 
 These belong first to RO-COSMOS-001. Their relevance to RO-EARTH-001 arises only if a terrestrial-reference or deployment model derives a directional, radial, temporal, or synchronization-related prediction that can be tested.
+
+
+### Terrestrial Nonprivilege Reassessment Principle
+
+> **The historical success of rejecting particular claims of terrestrial geometric centrality does not entail that Earth lacks all forms of privilege. Geometric, biological, observational, functional, temporal/deployment, and creation-historical privilege are distinct hypotheses and must be evaluated independently against the evidence.**
+
+A compact corollary is:
+
+> **Rejecting geocentrism does not entail rejecting terrestrial privilege.**
+
+The programme must therefore avoid treating the following as a valid entailment:
+
+```text
+Earth is not the geometric center of the Solar System
+        ↓
+the Solar System is not uniquely central in the Galaxy
+        ↓
+the Milky Way is not established as a unique geometric center
+        ⇏
+Earth possesses no privileged biological, observational,
+functional, temporal, or creation-historical role
+```
+
+The first propositions may be strongly supported while the final generalized conclusion remains a separate hypothesis.
+
+#### Methodological consequence
+
+RO-EARTH-001 will not begin by assuming either terrestrial privilege or terrestrial nonprivilege. It will instead ask:
+
+```text
+Is Earth privileged in a specified sense?
+        ↓
+define the privilege claim
+        ↓
+identify observations and biblical/theoretical warrants
+        ↓
+compare privilege and nonprivilege hypotheses
+        ↓
+control for selection effects and correlated evidence
+        ↓
+derive discriminators and failure conditions
+        ↓
+appraise the hypothesis
+```
+
+This is not an attempt to restore Ptolemaic astronomy or to infer geometric centrality from terrestrial significance. It reopens forms of terrestrial privilege that do not logically stand or fall with historical geocentrism.
+
+#### Research-programme guardrail
+
+Research programmes such as exoplanet surveys, astrobiology, biosignature searches, and SETI are legitimate empirical investigations. Their existence, scale, or motivating expectations are not themselves evidence that inhabited worlds or technological civilizations are common. Likewise, nondetection does not by itself establish terrestrial uniqueness or DFM.
+
+Where terrestrial nonprivilege functions as a methodological assumption, prior, or model constraint, WP-031 should identify it explicitly rather than recording it as an observation.
