@@ -105,3 +105,115 @@ Test the simplest subfamily in which lapse varies primarily with deployment time
 before adding fields or temporal domains.
 
 If the minimal subfamily fails, record that failure before increasing freedom.
+
+
+## Minimal subfamily calculation: separable lapse screen
+
+To expose the constraints before solving a full field equation, take the restricted ansatz
+
+    ds^2 = -N(r,t)^2 c^2 dt^2 + a(t)^2 [dr^2 + r^2 dOmega^2]
+
+with Earth-local normalization N(r_E,t)=1.
+
+For a comoving timelike observer at fixed r:
+
+    d tau(r) = N(r,t) dt
+
+so over the Day 4 coordinate interval T_E:
+
+    Delta tau_C(r) / Delta tau_E
+      = [integral_0^T_E N(r,t) dt] / T_E
+      = <N(r,t)>_Day4.
+
+Thus a strong LPI requirement Delta tau_C >> Delta tau_E demands a correspondingly large mean lapse in the relevant cosmic domain.
+
+### Radial null propagation
+
+For ds^2=0 and dOmega=0:
+
+    dr/dt = +/- c N(r,t) / a(t).
+
+Therefore the same lapse that increases local cosmic proper-time accumulation also changes radial signal propagation in the common coordinate description. The proper-time effect and the travel-time effect are not independent knobs.
+
+For a source r_s and observer r_E, a radial null ray must satisfy:
+
+    integral_(r_E)^(r_s) dr
+      = integral_(t_emit)^(t_obs) c N[r(t),t] / a(t) dt.
+
+Any proposed N(r,t) must therefore satisfy both the process-depth requirement and the source-observer propagation constraint.
+
+### Frequency constraint
+
+For a photon with wave vector k^mu and an observer with four-velocity u^mu, the measured frequency is
+
+    omega = -k_mu u^mu.
+
+Hence the observable frequency ratio is
+
+    omega_obs / omega_emit
+      = (k_mu u^mu)_obs / (k_mu u^mu)_emit.
+
+In a stationary lapse-dominated limit this reduces to the familiar gravitational clock/frequency linkage, schematically
+
+    omega_obs / omega_emit ~ N_emit / N_obs,
+
+subject to sign/convention and full-metric details.
+
+The consequence is decisive for the toy model: if N_C/N_E is extremely large and the geometry is approximately stationary while the signal traverses it, an equally extreme frequency shift is generically expected. The observed spectrum therefore prevents treating N_C/N_E as a free acceleration factor.
+
+A viable Family A solution must use a genuinely nonstationary deployment geometry, spatial structure, or derived cancellation that jointly produces the desired proper-time depth and acceptable observed spectra. Such a cancellation must emerge from the metric solution, not be imposed as a separate spectral correction.
+
+## Commissioning surface as a junction problem
+
+Let Sigma_sync separate deployment geometry g_D from ordinary-runtime geometry g_R.
+
+For a smooth GR matching without an impulsive surface layer, require at minimum the Darmois-Israel conditions
+
+    [h_ab]_Sigma = 0
+    [K_ab]_Sigma = 0,
+
+where h_ab is the induced metric and K_ab the extrinsic curvature of Sigma_sync.
+
+If [K_ab] != 0, the jump corresponds to a surface stress-energy layer rather than a cost-free synchronization operation.
+
+Accordingly, DFM Family A adopts the following default:
+
+> **No-shell commissioning criterion:** prefer candidate deployment metrics that approach ordinary runtime with continuous induced geometry and extrinsic curvature at Sigma_sync. Any thin-shell or distributional transition must be explicitly modeled and counted as an additional physical auxiliary.
+
+This turns "synchronization" into a genuine matching problem.
+
+## Minimal-subfamily verdict
+
+The separable/lapse-dominated screen yields a useful negative result.
+
+A large N_C/N_E can trivially generate large differential proper time, but the same N enters null propagation and, in simple stationary limits, the frequency relation. Therefore:
+
+    large proper-time gain
+      + acceptable propagation
+      + ordinary-looking spectra
+      + smooth commissioning
+
+cannot be obtained merely by choosing a large lapse.
+
+The minimal lapse-only explanation is **insufficient**.
+
+This does not reject Family A. It rejects the idea that Family A can be reduced to a scalar "cosmic clock multiplier."
+
+## What remains viable inside Family A
+
+A viable single-metric candidate now needs all of:
+
+1. substantial nonstationarity and/or spatial structure;
+2. a metric derived from explicit boundary/stress-energy assumptions;
+3. common geodesic treatment of coupled messengers;
+4. derived, observationally acceptable frequency/redshift behavior;
+5. Darmois-Israel-compatible commissioning, or an explicitly modeled shell;
+6. post-commissioning continuity of deployed causal state.
+
+## Decision gate
+
+**Do not yet move to Family B.**
+
+Family A survives the first screen, but its simplest lapse-only form does not. The next test should attempt a structured nonstationary metric family and ask whether the needed proper-time differential can coexist with acceptable redshift and junction conditions without introducing an equivalent number of hidden free functions.
+
+If that structured Family A attempt also collapses into unconstrained function choice, record the failure and advance to Family B.
