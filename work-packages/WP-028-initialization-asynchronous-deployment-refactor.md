@@ -240,6 +240,78 @@ Thus:
 
 Conversely, the truth of Genesis does not establish a particular CMB, dark-matter, or relativistic mechanism.
 
+## Ancillary-Hypothesis Symmetry Principle
+
+> **DFM retains the same legitimate freedom as competing research programmes to introduce, test, revise, combine, or reject ancillary hypotheses in response to unresolved explanatory burdens and new evidence. An ancillary hypothesis is not rendered ad hoc merely because it preserves the programme's hard core. Its epistemic cost depends on independent motivation, constraint, explanatory integration, predictive or discriminating consequences, and performance under severe testing. The same standards must be applied symmetrically to competing naturalistic auxiliaries.**
+
+Ancillary hypotheses are therefore genuine research opportunities. DFM should actively permit multiple competing implementations beneath the same architectural layer rather than prematurely forcing one mechanism into the hard core.
+
+A healthy programme may contain, for example:
+
+```text
+DFM hard core
+    -> architectural hypotheses
+        -> H1 differential proper-time architecture
+        -> H2 creation-specific metric/foliation architecture
+        -> H3 anisotropic propagation/synchronization
+        -> H4 mixed initialization + temporal deployment
+        -> Hn presently unformulated mechanism
+```
+
+These hypotheses may compete, overlap, combine, or fail independently.
+
+### Ad hoc versus progressive development
+
+Introduction after an anomaly is discovered does not by itself make an auxiliary degenerative. The relevant questions are what constrains the hypothesis and what it does after introduction.
+
+A proposed ancillary is strengthened when it:
+
+- has motivation independent of the datum it was introduced to address;
+- applies across multiple observations rather than one isolated anomaly;
+- reduces rather than multiplies free parameters;
+- integrates previously separate explanatory domains;
+- yields discriminators, novel expectations, or severe tests;
+- survives tests on evidence not used to formulate it;
+- exposes itself to identifiable failure conditions.
+
+It becomes methodologically costly when it:
+
+- is tuned independently for each observation;
+- has no independent rationale;
+- merely restates the observation in model language;
+- generates no consequences beyond the anomaly it protects;
+- migrates whenever a test threatens it;
+- is indefinitely insulated from falsification.
+
+### Symmetry rule
+
+The same accounting applies to DFM, uniformitarian/deep-time models, standard cosmological models, and other competing historical programmes. Terms such as *auxiliary*, *ancillary*, *adjustment*, *new mechanism*, or *model extension* must not carry different evidential standards merely because one programme is naturalistic and another is design-based.
+
+The comparison is not:
+
+```text
+new DFM auxiliary = rescue
+new naturalistic auxiliary = science
+```
+
+The comparison is:
+
+```text
+independent motivation
++ constraint
++ explanatory integration
++ empirical consequence
++ severe-test performance
+= epistemic appraisal
+```
+
+### Opportunity rule
+
+> **Novel ancillary hypotheses are research opportunities, not methodological liabilities merely because they are novel. They become liabilities when they remain unconstrained, observation-specific, non-discriminating, or indefinitely protected from failure.**
+
+Accordingly, WP-028 should maintain an explicit hypothesis registry as Layers 2-4 develop. Candidate mechanisms should be allowed to branch rather than being silently promoted, and rejected branches should remain auditable.
+
+
 ## Test Everything, Keep the Good
 
 WP-028 adopts the following research rule:
