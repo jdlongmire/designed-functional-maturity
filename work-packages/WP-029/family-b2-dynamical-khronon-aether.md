@@ -968,26 +968,17 @@ At this point, repeated attempts to generate the synchronized-lapse ratio throug
 
 ## Programme-level implication
 
-The negative results suggest that the working assumption itself should now be re-examined:
+The negative B2 results constrain **candidate implementations only**.
 
-    tau_thermal ~= 13.8 Gyr
-    must literally accumulate as local cosmic proper time
-    during one Earth-local day.
+They do not reopen the stipulated deployment payload. The asynchronous Day 4 hypothesis retains:
 
-The Synchronized-Lapse preprint chose this deliberately so that the standard thermal history could run unchanged. It is a coherent phenomenological target, but DFM is not required to preserve that exact target if doing so repeatedly creates extreme geometric burdens.
+    stable, encapsulated Earth reference domain;
+    Delta tau_E ~= one ordinary terrestrial day;
+    external standard Big-Bang expansion/thermal history genuinely executes;
+    Delta tau_C ~= 13.8 Gyr;
+    synchronization / commissioning;
+    ordinary common runtime.
 
-Initialization-Deployment Complementarity permits a different allocation:
+Therefore the approximately 5.04 x 10^12 hierarchy remains a target that a successful implementation must account for. Family A, CMC/York, homogeneous khronon, scalar-aether attractor, and simple local-junction failures are retained as negative results about those mechanisms.
 
-    initialize portions of the cosmic macrostate
-    + genuinely execute causally necessary process depth
-    + use asynchronous deployment where warranted
-    + synchronize
-    + ordinary runtime.
-
-The next severe test should therefore compare:
-
-A. **Full-thermal-history lapse:** Delta tau_C ~= 13.8 Gyr.
-
-B. **Minimum-required-process-depth deployment:** execute only the genuine causal histories demanded by coupled observations, while allowing initialized actuality for states whose full conventional antecedent duration is not independently required.
-
-This is not retreat to arbitrary maturity. It is the allocation problem already built into WP-028, now informed by failed physical attempts to realize the maximal lapse target.
+The next candidate must seek a genuinely global creation-deployment architecture rather than reducing the required external process history.
