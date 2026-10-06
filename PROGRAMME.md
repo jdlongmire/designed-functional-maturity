@@ -160,7 +160,7 @@ DFM therefore recognizes:
 
 Initialization becomes methodologically degenerative when it is used to evade a testable historical cause, when a failed historical explanation is migrated into initialization, or when the creation/runtime boundary is changed observation by observation.
 
-See `work-packages/WP-027-historical-integrity-macro-state-initialization.md` for the adversarial case matrix and operating protocol.
+See `work-packages/WP-032-historical-integrity-macro-state-initialization.md` for the adversarial case matrix and operating protocol.
 
 ## 8. Radiogenic architecture
 

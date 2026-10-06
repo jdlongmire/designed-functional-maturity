@@ -1,4 +1,4 @@
-# WP-027: Historical Integrity, Macro-State Initialization, and Explanatory Allocation
+# WP-032: Historical Integrity, Macro-State Initialization, and Explanatory Allocation
 
 **Status:** Executed specification baseline  
 **Target:** `PROGRAMME.md` hard-core/heuristic tuning after adversarial review
@@ -159,7 +159,7 @@ Primary source: Philip Henry Gosse, *Omphalos: An Attempt to Untie the Geologica
 
 ### Proposition-by-proposition comparison
 
-| Question | Gosse's Omphalos | DFM WP-027 |
+| Question | Gosse's Omphalos | DFM WP-032 |
 |---|---|---|
 | Can creation begin mature? | Yes | Yes |
 | Must the creation/deployment process equal ordinary subsequent development? | No | No |
@@ -213,7 +213,7 @@ Under Gosse's framework, a fossil tooth mark, trackway, coprolite, or other deta
 
 Under DFM, once such a feature is classified as a specific-event trace, a real causal history is mandatory.
 
-For geological and paleontological evidence plausibly within the causal scope of the scripturally warranted global Flood, WP-027 further requires the Flood and its associated mechanisms to be tested as genuine historical causes. If a proposed Flood mechanism fails, the evidence remains a historical explanandum. It may not migrate into initialization.
+For geological and paleontological evidence plausibly within the causal scope of the scripturally warranted global Flood, WP-032 further requires the Flood and its associated mechanisms to be tested as genuine historical causes. If a proposed Flood mechanism fails, the evidence remains a historical explanandum. It may not migrate into initialization.
 
 ### DFM anti-Omphalos discriminator
 
@@ -223,7 +223,7 @@ The clean discriminator is:
 
 For Gosse's prochronism, the answer is **yes**.
 
-For DFM under WP-027, the answer is **no**.
+For DFM under WP-032, the answer is **no**.
 
 If DFM must answer yes in order to explain an observation, that explanation violates the Historical Integrity Constraint and fails on DFM's own terms.
 
