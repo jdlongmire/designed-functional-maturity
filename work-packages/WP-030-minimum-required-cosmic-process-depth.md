@@ -214,3 +214,162 @@ Build the Tier-1 clock ledger first.
 Do **not** start with the CMB or global cosmological age.
 
 Begin with stellar and directly observed clocks because they most strongly test whether DFM can reduce process depth without merely changing the cosmological model.
+
+
+## Tier-1 clock ledger: first research pass
+
+### T1-1 Main-sequence turnoff / stellar isochrones
+
+**Observed basis:** cluster color-magnitude distributions, main-sequence turnoff morphology/luminosity, stellar spectra and composition.
+
+**Inference:** stellar structure/evolution models map mass, composition, luminosity, and turnoff state to an elapsed evolutionary age.
+
+**Clock class:** C2 provisionally.
+
+**Why not C0:** the age is not obtained merely by integrating a cosmological expansion history.
+
+**Why not C4:** an old cluster is not watched evolve for billions of years; age is inferred from a physical evolutionary model.
+
+**DFM burden:** a compressed deployment model must either:
+
+1. execute the required stellar evolution under altered but coherent process conditions; or
+2. initialize stellar states in a way that also explains the population-level turnoff morphology and its agreement with other clocks.
+
+Initializing individual stars at arbitrary apparent ages is disallowed by the anti-initialization rule.
+
+### T1-2 White-dwarf cooling
+
+**Observed basis:** white-dwarf luminosities, temperatures, luminosity-function termination, cluster membership, atmospheric/interior properties.
+
+**Physical clock:** after nuclear burning ceases, white dwarfs cool by losing residual thermal energy. Cooling models map state to elapsed cooling time.
+
+**Clock class:** C2, with some population-level differential constraints approaching C3 in strength.
+
+**Independent leverage:** white-dwarf cooling and main-sequence turnoff use substantially different physics and are explicitly used as independent stellar-population clocks.
+
+**Known model burdens:** core composition, envelope structure, crystallization/phase separation, initial-final mass relation, atmospheric evolution, and other cooling microphysics.
+
+These are not arbitrary uncertainties. In some clusters, adding identified microphysics such as phase separation reconciles an apparent discrepancy between white-dwarf and turnoff ages.
+
+**DFM burden:** explaining a cool white dwarf by initialization alone is insufficient when a whole cluster simultaneously exhibits a turnoff age, white-dwarf cooling sequence, progenitor/remnant relation, and coherent population history.
+
+### T1-3 Cross-clock convergence
+
+The strongest datum is not either clock separately but their convergence in common stellar populations.
+
+Represent:
+
+    A_MS = F_MS(observables | stellar-evolution model)
+
+    A_WD = F_WD(observables | cooling/progenitor model).
+
+When
+
+    A_MS ~= A_WD
+
+across clusters despite different dominant microphysics, DFM faces a stronger burden than either age estimator alone.
+
+This is a **consilience constraint**, but not an automatic proof that the conventional elapsed duration is actual history. The models can share assumptions or boundary conditions, and both are still retrodictive.
+
+The proper severe-test question is:
+
+> What common physical quantity or genuine history causes two substantially independent clocks to converge?
+
+A deployment model that changes process rates must explain why both clocks transform coherently.
+
+### T1-4 White-dwarf clock severity
+
+Modern reviews characterize cool white dwarfs as useful cosmic clocks because their post-nuclear evolution is dominated by gravothermal cooling. Typical cooling from very hot to very cool states is modeled on gigayear scales.
+
+This gives DFM a difficult rate problem.
+
+If Day-4 deployment compresses white-dwarf cooling by a factor F while preserving ordinary runtime physics after commissioning, the model must specify what physical parameter changed during deployment:
+
+    thermal transport,
+    heat capacity,
+    crystallization energetics,
+    neutrino losses,
+    envelope opacity,
+    gravitational/temporal geometry,
+    or another registered mechanism.
+
+It cannot simply declare the cooling clock accelerated.
+
+### T1-5 Nuclear chronometers
+
+Long-lived radioactive abundance pairs provide a third, substantially different class of clock. Nucleocosmochronology uses known decay physics plus assumptions about initial production ratios and Galactic nucleosynthetic history.
+
+**Clock class:** C2 provisionally.
+
+**Strength:** decay rates are independently measured local physics.
+
+**Weakness/burden:** inferred ages depend on production ratios, nucleosynthesis history, environmental effects for some nuclides, and chemical-evolution assumptions.
+
+The clock therefore does not directly observe billions of years, but it constrains any deployment model that changes decay history.
+
+Important DFM constraint:
+
+**Accelerated nuclear decay remains rejected.**
+
+WP-030 must not reintroduce accelerated decay merely to compress stellar/cosmic chronometers.
+
+Therefore nuclear-clock accommodation must come from initialization/allocation, ordinary genuine process history, or a broader temporal geometry that preserves locally measured decay physics.
+
+### T1-6 Cosmic chronometers
+
+Passive-galaxy cosmic chronometers use differential stellar aging across redshift to infer H(z).
+
+**Clock class:** C2/C3 depending on the specific observable and calibration.
+
+The method is valuable because it does not simply insert a standard cosmological age-redshift curve. But its ages depend on stellar-population synthesis, metallicity, stellar libraries, star-formation histories, and related systematics.
+
+Published systematic studies find SPS-model choice and metallicity to be significant error sources. This confirms that the method is a serious physical clock while remaining model-mediated.
+
+**DFM burden:** a deployment model cannot dismiss cosmic chronometers as circular ΛCDM ages. It must show how the stellar aging relation itself is preserved or transformed.
+
+## Tier-1 provisional clock matrix
+
+| Clock | Class | Independent local physics? | Major model dependence | DFM pressure |
+| --- | --- | --- | --- | --- |
+| Main-sequence turnoff | C2 | stellar structure/nuclear burning | composition, convection, stellar models | high |
+| White-dwarf cooling | C2 | gravothermal cooling | core/envelope physics, crystallization, progenitor relation | high |
+| MS + WD convergence | cross-clock | two distinct physical pathways | some shared cluster inputs | very high |
+| Nuclear chronometers | C2 | radioactive decay | production ratios, chemical history | high |
+| Cosmic chronometers | C2/C3 | differential stellar aging | SPS, metallicity, SFH | high |
+| SN 1987A short chronology | C4 | multi-messenger event physics | source models for antecedent history | very high locally, weak for Gyr duration |
+
+## First Tier-1 conclusion
+
+The minimum-process-depth programme cannot simply collapse conventional cosmic history to a very short executed interval while leaving local process physics unchanged.
+
+Independent stellar and nuclear clocks would then disagree with their observed states unless one of three things is true:
+
+A. substantial stellar/nuclear history genuinely executed;
+
+B. coherent initialization supplies population states while preserving cross-clock convergence without arbitrary pseudo-history;
+
+C. a common deployment mechanism changes the mapping from local process state to Earth-referenced elapsed time while preserving local physics and the agreement among independent clocks.
+
+Option C returns us toward asynchronous temporal geometry, but WP-029 showed that a 5 x 10^12 universal lapse is physically expensive.
+
+Therefore the key next question is not "Can all stellar history be initialized?" It is:
+
+> **How much of the cross-clock convergence can a coherent initialized stellar population explain without independently fabricating the outputs of multiple physical clocks?**
+
+That is the sharpest current discriminator between DFM initialization and genuine long process depth.
+
+## Next research task
+
+Use coeval star clusters as the first severe-test object.
+
+For a well-studied cluster with both main-sequence turnoff and white-dwarf cooling ages:
+
+1. identify the raw observables;
+2. map the independent model dependencies;
+3. identify shared assumptions;
+4. quantify the age convergence;
+5. determine which features would be jointly present under coherent initialization;
+6. identify which features specifically require genuine elapsed cooling/burning history;
+7. formulate a DFM loss condition.
+
+Prefer a cluster where the two clocks have been studied explicitly against one another, so the severe test is not assembled post hoc.
