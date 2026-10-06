@@ -1,6 +1,6 @@
 # WP-022: Genesis 1 Phased Deployment Architecture
 
-**Status:** Executed
+**Status:** Executed  
 **Type:** Hard-core formalization
 **Depends on:** WP-013, WP-015, WP-019, WP-020
 

@@ -1,6 +1,6 @@
 # WP-011: Rb-Sr Isochron Severe Test
 
-**Status:** Executed baseline  
+**Status:** Executed — baseline  
 **Parent:** DFM Research Programme  
 **Depends on:** WP-007 through WP-010
 

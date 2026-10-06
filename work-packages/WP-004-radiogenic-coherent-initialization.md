@@ -1,6 +1,6 @@
 # WP-004: Radiogenic Coherent Initialization and Orderly-Marker Hypothesis
 
-**Status:** Executed baseline  
+**Status:** Executed — baseline  
 **Parent:** Designed Functional Maturity (DFM) Research Programme  
 **Depends on:** WP-002 Retrodiction, Initialization, and Radiogenic Inference  
 **Target:** Canonical DFM model revision plus testable radiogenic-concordance framework

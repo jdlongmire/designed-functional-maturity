@@ -207,3 +207,7 @@ Correspondence: jdlongmire@outlook.com
 ## Status
 
 Active research programme. The repository is intentionally revision-controlled so that hypotheses, burdens, tests, and model changes remain auditable.
+
+## License and citation
+
+Text in this repository is licensed under CC BY 4.0; see [LICENSE](LICENSE). To cite this programme, use [CITATION.cff](CITATION.cff).

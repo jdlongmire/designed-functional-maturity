@@ -1,6 +1,6 @@
 # WP-007: Primary-Source Literature and Citation Pass
 
-**Status:** Executed baseline  
+**Status:** Executed — baseline  
 **Parent:** WP-006 Flagship DFM Paper Rebuild
 
 ## Purpose

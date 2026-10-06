@@ -1,6 +1,6 @@
 # WP-005: DFM Programme Foundation and Repository Refactor
 
-**Status:** Executed baseline  
+**Status:** Executed — baseline  
 **Purpose:** Convert the repository from a paper staging area into the canonical home of the Designed Functional Maturity research programme.
 
 ## Problem

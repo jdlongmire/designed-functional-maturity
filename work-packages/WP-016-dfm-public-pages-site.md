@@ -1,6 +1,6 @@
 # WP-016: DFM Public Pages Site
 
-**Status:** Executed baseline
+**Status:** Executed — baseline  
 **Type:** Public communication / GitHub Pages
 **Depends on:** WP-013, WP-014, WP-015
 

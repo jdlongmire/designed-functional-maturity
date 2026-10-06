@@ -1,6 +1,6 @@
 # WP-012: Decay-Constant-Indexed Concordance Challenge
 
-**Status:** Captured / not executed  
+**Status:** Deferred — captured, not executed  
 **Parent:** DFM Research Programme  
 **Depends on:** WP-008 through WP-011
 

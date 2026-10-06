@@ -1,6 +1,6 @@
 # WP-025 — Methodological Consolidation, Epistemic Rollback, and Severe-Test Architecture
 
-**Status:** Active / consolidation baseline  
+**Status:** Active — consolidation baseline  
 **Programme:** Designed Functional Maturity (DFM)  
 **Purpose:** Codify methodological gains from the retrodiction/chronology exchange while correcting concessions that improperly collapsed measurement, model-conditioned reconstruction, and historical actuality.
 

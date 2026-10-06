@@ -1,6 +1,6 @@
 # WP-026 — Oklo Natural Reactor Severe Test
 
-**Status:** Active / severe-test initialization  
+**Status:** Active — severe-test initialization  
 **Programme:** Designed Functional Maturity (DFM)  
 **Region:** II — Historical Development  
 **Track:** A and conventional comparator, scored separately  
