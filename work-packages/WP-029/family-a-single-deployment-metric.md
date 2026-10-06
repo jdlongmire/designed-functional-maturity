@@ -217,3 +217,166 @@ A viable single-metric candidate now needs all of:
 Family A survives the first screen, but its simplest lapse-only form does not. The next test should attempt a structured nonstationary metric family and ask whether the needed proper-time differential can coexist with acceptable redshift and junction conditions without introducing an equivalent number of hidden free functions.
 
 If that structured Family A attempt also collapses into unconstrained function choice, record the failure and advance to Family B.
+
+
+## Structured nonstationary test: one-profile Family A
+
+To avoid solving the previous problems by independent tuning, constrain the deployment metric to one temporal deployment profile q(t) and one fixed spatial shape f(r):
+
+    ds^2 = -exp[2 lambda q(t) f(r)] c^2 dt^2
+           + a(t)^2 exp[2 mu q(t) f(r)] dr^2
+           + R(r,t)^2 dOmega^2
+
+with
+
+    q(t_start) = 0
+    q(t) > 0 during deployment
+    q(t_sync) = 0.
+
+The constants lambda and mu set temporal and radial response to one common deployment field. The spatial function f(r) is fixed before fitting individual observations. q(t) is global to the deployment episode.
+
+This deliberately forbids a separate lapse function, propagation function, spectral correction function, and synchronization function.
+
+### Proper-time condition
+
+For approximately comoving observers:
+
+    d tau(r) = exp[lambda q(t) f(r)] dt
+
+and therefore
+
+    Delta tau_C(r)
+      = integral exp[lambda q(t) f(r)] dt.
+
+A large process-depth ratio remains mathematically possible when lambda q f is sufficiently positive over the cosmic deployment region.
+
+### Null propagation condition
+
+For radial null curves in the reduced sector:
+
+    dr/dt
+      = +/- (c/a)
+          exp[(lambda - mu) q(t) f(r)].
+
+Thus the same q(t) controlling proper-time accumulation also controls radial propagation. The special relation
+
+    lambda ~= mu
+
+suppresses direct coordinate propagation enhancement while still allowing local proper-time differences.
+
+This is not yet a solution. It identifies a potentially useful constrained subfamily.
+
+### Important tradeoff
+
+If lambda = mu exactly, the t-r sector receives a common conformal factor:
+
+    ds^2_(t,r)
+      = exp[2 lambda q f]
+        [-c^2 dt^2 + a(t)^2 dr^2].
+
+Null paths in that two-dimensional sector are conformally invariant as unparameterized curves. This helps avoid arbitrary messenger-specific path changes.
+
+However, conformal structure does not make the model free:
+
+- timelike proper times still change;
+- photon frequency measurements still depend on emitter/observer four-velocities and the evolving geometry;
+- curvature and stress-energy requirements remain;
+- angular/areal geometry must be specified consistently;
+- q(t) must return to zero without generating unacceptable junction behavior.
+
+The same feature that makes this subfamily attractive therefore creates a sharp test: can one common deployment field alter timelike process depth substantially while leaving the observed null causal network and spectra acceptable?
+
+### Smooth commissioning profile
+
+Impose
+
+    q(t_sync) = 0
+    q_dot(t_sync) = 0
+
+as a minimal smooth-exit condition.
+
+These conditions make the metric coefficients and their first temporal derivatives approach the ordinary-runtime form at commissioning, improving the prospect of satisfying induced-metric and extrinsic-curvature matching without a thin shell.
+
+A stronger implementation should also constrain higher derivatives if curvature scalars or stress-energy become singular.
+
+### Parameter economy
+
+The admissible freedom in this test is intentionally small:
+
+    Theta_A1 = {lambda, mu, parameters of one q(t), parameters of one f(r), ordinary a(t)/R(r,t) specification}.
+
+The model is not allowed to introduce separate q_photon, q_neutrino, q_decay, q_stellar, or q_sync functions.
+
+### Field-equation burden
+
+Given a candidate g_D, compute
+
+    G_mu_nu[g_D] + Lambda g_mu_nu
+
+and infer the effective source required by
+
+    G_mu_nu + Lambda g_mu_nu = (8 pi G / c^4) T_mu_nu.
+
+This reverses the usual construction initially: rather than guessing exotic matter first, determine what stress-energy or creation-boundary source the proposed geometry would require.
+
+The resulting T_mu_nu becomes a discriminator. If it is singular, observation-specific, internally inconsistent, or requires an unexplained exotic source with no independent role, the metric is penalized.
+
+### Spectral test
+
+For every candidate q(t), calculate photon wave-vector transport
+
+    k^nu nabla_nu k^mu = 0
+
+and observer frequency
+
+    omega = -k_mu u^mu
+
+from emission through observation.
+
+No post hoc spectral correction is permitted.
+
+The same calculation must eventually be compared against redshift/spectral observations and SN 1987A line constraints.
+
+### Cross-messenger test
+
+At first pass, photons, neutrinos, and gravitational disturbances couple to the same g_D. Differences arise only from their physical equations/masses/interactions, not from separate temporal maps.
+
+This is the preferred high-constraint implementation.
+
+### Provisional result
+
+The one-profile construction shows that Family A has a nontrivial constrained research path. In particular, the near-conformal lambda ~= mu subfamily offers a mathematically motivated way to separate large timelike proper-time accumulation from arbitrary changes to radial null paths.
+
+But it has **not** solved the spectral, source, or full matching problem. Those become the decisive tests.
+
+Accordingly:
+
+**Family A remains active, but only in constrained one-profile form.**
+
+The unconstrained statement "cosmic time ran faster" remains rejected as insufficient.
+
+## Family A promotion/demotion gate
+
+Promote Family A from feasibility to developed candidate only if a concrete q(t), f(r), lambda, mu choice can jointly:
+
+1. generate the required process-depth ratio;
+2. preserve the SN 1987A causal DAG;
+3. derive acceptable photon/neutrino propagation;
+4. derive acceptable spectral behavior;
+5. produce a physically interpretable effective T_mu_nu or boundary source;
+6. approach Sigma_sync smoothly;
+7. generate at least one discriminator beyond the observations used to construct it.
+
+Demote Family A if satisfying items 1-6 requires independent compensating functions or observation-by-observation tuning.
+
+## Next computation
+
+Use the near-conformal subfamily lambda = mu as the next severe test. Choose a simple compact-support or smooth pulse q(t) satisfying q=q_dot=0 at both deployment boundaries, then derive:
+
+    Delta tau_C / Delta tau_E
+    radial null relation
+    photon frequency transport
+    effective curvature / T_mu_nu scaling
+    commissioning regularity.
+
+This should determine whether the apparent economy of the conformal subfamily is genuine or merely moves the required complexity into q(t), f(r), and the effective source.
