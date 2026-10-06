@@ -496,3 +496,166 @@ Determine whether the equations contain:
 6. a route to spatial differentiation without species-specific propagation.
 
 If the reduced dynamics only changes a common expansion rate and never generates a relative Earth/cosmic proper-time hierarchy, demote B2-M1/M2 before adding spatial complexity.
+
+
+## Reduced scalar-aether dynamical-system screen: B2-M1/M2
+
+Use the lowest-order expansion-coupled scalar structure studied in Einstein-aether cosmology,
+
+    V(phi,theta) = U(phi) + Y(phi) theta,
+
+where
+
+    theta = nabla_a u^a.
+
+In a homogeneous/isotropic background theta is proportional to the Hubble expansion rate. The reduced equations can be written schematically as
+
+    (1/3) theta^2
+      = (1/2) phi_dot^2 + U(phi),
+
+    (2/3) theta_dot + (1/3) theta^2
+      = -(1/2) phi_dot^2 + U(phi)
+        - phi_dot Y_,phi,
+
+    phi_ddot + theta phi_dot
+      + U_,phi + Y_,phi theta = 0.
+
+The coupling therefore enters the scalar force/pressure sector and can change critical points, attractors, slow-roll behavior, and exit dynamics.
+
+### B2-M1 test: critical/attractor dynamics
+
+The literature establishes that Einstein-aether scalar systems can possess multiple critical points, including power-law and de Sitter-like solutions, and can admit stable/unstable attractor structure.
+
+That is enough to establish the mathematical availability of critical dynamics.
+
+It is not enough to establish the DFM hierarchy.
+
+In the homogeneous reduced system there remains one comoving proper-time congruence. Critical behavior can make
+
+    a(tau)
+
+grow exponentially or make a scalar trajectory linger near an attractor, but it does not create a second invariant clock accumulation against which the Earth contour remains at one day.
+
+Thus an attractor-generated large number such as
+
+    exp(N_e-fold)
+
+is not yet
+
+    Delta tau_C / Delta tau_E.
+
+**Disposition B2-M1 homogeneous:** demote as a direct clock-hierarchy mechanism; retain as a possible engine inside a spatially differentiated phase model.
+
+### B2-M2 test: integrated aether-expansion hierarchy
+
+The natural invariant accumulator supplied by the reduced homogeneous dynamics is
+
+    integral theta d tau.
+
+For FLRW,
+
+    theta = 3H,
+
+so
+
+    integral theta d tau
+      = 3 ln(a_f/a_i).
+
+Exponentiating this integral yields
+
+    exp[(1/3) integral theta d tau]
+      = a_f/a_i.
+
+Therefore the apparent exponential opportunity is real mathematically, but in the homogeneous system it is the ordinary expansion factor.
+
+It does not independently generate a ratio of local proper times.
+
+This sharply distinguishes:
+
+    exponential scale-factor hierarchy
+
+from
+
+    exponential proper-time hierarchy.
+
+Conflating them would reproduce the Family A mistake in a different variable.
+
+**Disposition B2-M2 homogeneous:** reject as a standalone explanation of synchronized lapse.
+
+### What survives from the e^29 observation
+
+The numerical observation
+
+    ln R_target ~= 29.25
+
+remains useful only if a future spatial/domain solution derives an invariant relation of the form
+
+    ln(Delta tau_C/Delta tau_E)
+      = integral_D Q[g,u,Phi] d(lambda)
+
+for a physically defined scalar Q along the solved deployment geometry.
+
+The integral must not merely equal ln a or a coordinate duration.
+
+This becomes a formal requirement for any claimed exponential hierarchy.
+
+## Natural exit result
+
+Expansion-coupled scalar-aether systems can alter slow-roll dynamics while retaining a dynamical end to the modified phase.
+
+This is relevant to the DFM synchronization problem because it demonstrates a class of dynamical systems in which a preferred-frame/scalar interaction need not be permanently active.
+
+But a graceful exit from modified scalar dynamics is not yet a solution of
+
+    alpha_C/alpha_E -> 1
+
+across a spatial Earth/cosmic domain structure.
+
+The latter remains to be derived.
+
+## Reduced-system verdict
+
+The reduced homogeneous scalar-aether system gives a mixed result:
+
+**Pass:**
+- dynamical preferred structure exists;
+- critical points/attractors are available;
+- expansion-coupled scalar dynamics can possess a natural exit;
+- moderate parameters can generate exponentially large scale-factor changes.
+
+**Fail for the central DFM target:**
+- there is only one homogeneous proper-time congruence;
+- the exponential accumulator is expansion, not relative proper time;
+- no Earth/cosmos clock hierarchy is generated.
+
+Therefore neither B2-M1 nor B2-M2 should be promoted on homogeneous dynamics.
+
+## Consequence for Family B2
+
+The research programme has now isolated the missing ingredient more precisely:
+
+> A viable Family B2 realization requires a spatially differentiated dynamical solution in which the same scalar-aether field equations produce two physically distinct proper-time histories and a regular transition between them.
+
+The next model must not infer this from homogeneous e-folding.
+
+## Next severe test: two-domain invariant accumulator
+
+Before solving full PDEs, construct a reduced two-domain model with a common scalar-aether action but domain-dependent solved states:
+
+    E: (Phi_E, u_E, g_E)
+    C: (Phi_C, u_C, g_C)
+    B: dynamical transition.
+
+Define
+
+    R_tau = Delta tau_C / Delta tau_E
+
+directly from metric proper-time integrals.
+
+Then determine whether the field equations imply a relation
+
+    d ln R_tau / d lambda = Q(Phi_E,Phi_C,u,g)
+
+whose integral can become order 29 with moderate couplings.
+
+If no such invariant evolution equation emerges, the exponential-hierarchy opportunity should be closed rather than retained as suggestive numerology.
