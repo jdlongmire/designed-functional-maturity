@@ -659,3 +659,143 @@ Then determine whether the field equations imply a relation
 whose integral can become order 29 with moderate couplings.
 
 If no such invariant evolution equation emerges, the exponential-hierarchy opportunity should be closed rather than retained as suggestive numerology.
+
+
+## Reduced two-domain invariant-accumulator test
+
+Represent the terrestrial and cosmic domains by two timelike congruences in one common solved spacetime:
+
+    E: x_E^mu(lambda)
+    C: x_C^mu(lambda).
+
+Their accumulated proper times are
+
+    tau_E = integral sqrt[-g_mu_nu dx_E^mu dx_E^nu]/c
+    tau_C = integral sqrt[-g_mu_nu dx_C^mu dx_C^nu]/c.
+
+Define the invariant ratio
+
+    R_tau = tau_C/tau_E.
+
+This definition contains no khronon label, coordinate lapse, or scale-factor proxy.
+
+### Differential identity
+
+For any common evolution label lambda,
+
+    d ln R_tau/d lambda
+      = (1/tau_C) d tau_C/d lambda
+        - (1/tau_E) d tau_E/d lambda.
+
+This identity is exact but not yet explanatory. To generate an exponential hierarchy, the field equations must make the right-hand side a derived invariant functional of the domain states rather than an assigned clock-rate difference.
+
+Call that derived quantity
+
+    Q_EC[g,u,Phi] .
+
+Then a genuine hierarchy mechanism would require
+
+    ln R_tau(lambda_f)
+      - ln R_tau(lambda_i)
+      = integral Q_EC d lambda.
+
+The synchronized-lapse target corresponds to an accumulated invariant of order 29.25.
+
+### Two homogeneous patches do not derive Q_EC
+
+Suppose E and C are approximated as separate homogeneous patches, each with its own locally FLRW metric, joined by a transition region.
+
+Within each patch the khronon aligns with the local cosmological congruence. The scalar-aether equations determine each patch's expansion and matter evolution.
+
+But unless the junction/boundary equations determine the relative normalization of the two timelike geometries, the reduced patch equations do not determine Q_EC.
+
+One may write
+
+    d tau_E = N_E d lambda,
+    d tau_C = N_C d lambda,
+
+but the ratio N_C/N_E is then precisely the quantity that must be derived from the common global solution.
+
+Thus merely solving two different homogeneous attractors does not generate the synchronized lapse.
+
+### Junction is the mechanism candidate
+
+The only place a relative clock normalization can become physical in the reduced two-domain picture is the common transition geometry.
+
+A valid mechanism must therefore derive the relation among
+
+    induced metric,
+    extrinsic curvature,
+    scalar profile and normal derivative,
+    aether orientation/derivatives,
+    domain proper times
+
+across B.
+
+This converts the search from "find a fast cosmic attractor" to:
+
+> Can one regular junction solution force a large invariant relative normalization between two domain proper-time histories?
+
+### Thin-wall control
+
+In a thin-wall idealization, standard junction conditions tie discontinuities in extrinsic curvature to surface stress-energy.
+
+A huge static relative lapse generally corresponds to strong gravitational potential/compactness and therefore reintroduces the redshift/horizon burden already identified.
+
+So a static thin wall is retained only as a control.
+
+### Dynamical-wall opportunity
+
+A dynamical transition can, in principle, accumulate different proper times on its two sides even if the final geometry later becomes common.
+
+This is closer to the synchronized-lapse requirement:
+
+    temporary domain differentiation
+      -> differential accumulated tau
+      -> smooth relaxation
+      -> shared ordinary runtime.
+
+But the accumulated ratio must be solved from wall/domain dynamics. A prescribed wall trajectory or prescribed relative lapse would fail the stop rule.
+
+## Exponential-hierarchy verdict
+
+The reduced two-domain analysis does **not** produce a field-derived Q_EC from homogeneous scalar-aether dynamics alone.
+
+Therefore the generic "e^29" opportunity is closed as a standalone mechanism.
+
+Retain only the more specific hypothesis:
+
+**B2-M6: junction-generated differential aging.**
+
+Proposition: a regular dynamical scalar-aether transition solution may force large differential accumulated proper time between E and C before relaxing to a common runtime geometry.
+
+Status: candidate, high burden.
+
+### Promotion criterion
+
+B2-M6 advances only if a solved or analytically constrained junction produces R_tau from moderate boundary/coupling data without:
+
+- inserting the ratio into initial lapse normalization;
+- near-horizon tuning solely to obtain redshift/time dilation;
+- messenger-specific matching;
+- singular wall stress;
+- hand-prescribed wall trajectory;
+- discontinuous synchronization.
+
+## Next computation
+
+Before full PDE integration, derive the spherical junction bookkeeping for a moving boundary R(lambda):
+
+    interior metric g_E,
+    exterior/cosmic metric g_C,
+    wall proper time tau_B.
+
+Use continuity of the induced metric to relate
+
+    dtau_B,
+    dtau_E,
+    dtau_C
+
+along the wall, then use the extrinsic-curvature jump condition to identify what surface stress-energy is required for a large transient differential.
+
+This will determine whether junction-generated differential aging is a genuine new route or merely the static gravitational-lapse problem in dynamical form.
