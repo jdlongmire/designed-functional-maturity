@@ -37,6 +37,8 @@ Systematic development track for the Designed Functional Maturity (DFM) research
 | [WP-032](WP-032-historical-integrity-macro-state-initialization.md) | Historical Integrity, Macro-State Initialization, and Explanatory Allocation | Historical-integrity boundary + adversarial case matrix + catastrophe appraisal protocol | Executed — specification baseline |
 | [WP-033](WP-033-foundations-paper-recovery.md) | Foundations Paper Recovery (Actualization, Agency, and Intelligibility) | `drafts/foundations-actualization-agency-intelligibility.md` | Active — recovered draft, framing refresh pending |
 
+| [WP-034](WP-034-miraculous-causation-divine-deception.md) | Miraculous Causation and the Divine Deception Objection | MCDDT protocol + biblical and empirical case matrix | Proposed — research scoped |
+
 WP-021 is unassigned: no file, branch, or commit in the repository history ever used that number (the sequence skipped from WP-020 to WP-022).
 
 The current programme-level specification is [`PROGRAMME.md`](../PROGRAMME.md). The current development sequence is [`ROADMAP.md`](../ROADMAP.md).
