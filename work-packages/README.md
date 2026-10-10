@@ -36,6 +36,7 @@ Systematic development track for the Designed Functional Maturity (DFM) research
 | [WP-031](WP-031-dfm-evidence-registry.md) | DFM Evidence Registry | Biblical, theoretical, and physical evidence registry + appraisal discipline | Active — evidence appraisal |
 | [WP-032](WP-032-historical-integrity-macro-state-initialization.md) | Historical Integrity, Macro-State Initialization, and Explanatory Allocation | Historical-integrity boundary + adversarial case matrix + catastrophe appraisal protocol | Executed — specification baseline |
 | [WP-033](WP-033-foundations-paper-recovery.md) | Foundations Paper Recovery (Actualization, Agency, and Intelligibility) | `drafts/foundations-actualization-agency-intelligibility.md` | Active — recovered draft, framing refresh pending |
+| [WP-035](WP-035-d3-deployment-signature-discriminator.md) | D3 Deployment-Signature Discriminator | Candidate signatures D3-A to D3-E + preregistration template | Active — candidate generation; no candidate frozen |
 
 | [WP-034](WP-034-miraculous-causation-divine-deception.md) | Miraculous Causation and the Divine Deception Objection | MCDDT protocol + biblical and empirical case matrix | Proposed — research scoped |
 
