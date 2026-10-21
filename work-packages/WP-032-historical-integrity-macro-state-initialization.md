@@ -363,3 +363,5 @@ does not by itself establish:
     retrodicted propagation history = actual pre-boundary elapsed history
 
 The technical burden remains to formulate a unified boundary model that handles such phenomena consistently rather than assigning them ad hoc.
+
+**Day 4 deferral (2026-10-06, WP-034).** For supernovae and other phenomena in the external cosmos, allocation among categories (1) to (3) is governed by the asynchronous Day 4 architecture (WP-028, WP-029), not decided case by case here. Under the frozen WP-029 hypothesis, external stellar evolution and supernovae belong to the genuinely executed deployment payload, so category (3) is not available for them. Category (3) remains available for terrestrial- and boundary-domain states. Changing that allocation for external phenomena requires a recorded revision of the WP-029 boundary.

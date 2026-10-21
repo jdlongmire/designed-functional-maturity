@@ -4,6 +4,8 @@
 
 **Status:** Active — active investigation
 
+> **Reconciliation note (2026-10-06, WP-034).** This WP predates the asynchronous Day 4 architecture. Under WP-028/WP-029, supernovae in the external cosmos belong to the genuinely executed deployment payload, so SFSH is to be read as a claim about the *function* of supernova products within the created system, not as initialization in place of history. Conversion to mixed allocation is scheduled in WP-028's propagation table and remains open.
+
 ## Purpose
 
 Develop and test a Designed Functional Maturity (DFM) hypothesis in which supernova-related states and residual products are not treated merely as problematic "light in transit," but as potentially functional components of the coherently initialized, life-permitting cosmic system.
