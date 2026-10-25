@@ -123,7 +123,30 @@ The ordered succession and nested distribution of fossils present a demanding ch
 
 The creation-to-Fall interval is temporally unspecified by the biblical narrative. DFM provisionally investigates ordinary diversification and speciation, including whether substantial morphological differences can arise from initially created populations under admissible reproductive and ecological constraints. Quantitative population genetics, generation times, dispersal, and observed diversification rates are required. The placement of fossil evidence relative to the Fall and Flood must respect the programme's commitments about death and event provenance. This auxiliary remains open and may need substantial restriction or revision.
 
-## IX. Objections and Responses
+## IX. Comparative Explanatory Burdens: DFM and Naturalistic Reconstructions
+
+### IX.1 The burden is bilateral
+DFM does not claim that unresolved questions in conventional science automatically validate biblical creation. Equally, conventional models cannot be treated as explanatorily complete simply because they presently enjoy greater quantitative success in many domains. The appropriate comparison is between **actual, specified research programmes**, with their respective observational achievements, background assumptions, auxiliary hypotheses, unresolved mechanisms, and testable consequences. Each side must distinguish observations from inferred antecedent history and from metaphysical interpretations of that history.
+
+### IX.2 Methodological versus metaphysical naturalism
+Methodological naturalism ordinarily limits scientific modeling to regular physical causes. As a practical discipline for studying ongoing ordinary processes, this can be productive and is substantially compatible with DFM's expectation of normative post-deployment physics. **Metaphysical naturalism**, by contrast, asserts that reality contains no supernatural cause. That metaphysical assertion is not a measured result of physics. When methodological restrictions are elevated into a rule that excludes divine special action *as a possible historical cause*, the restriction functions as an antecedent philosophical boundary, not an empirical refutation of the biblical account. Conversely, the possibility of divine action does not relieve DFM of demonstrating the physical consequences of its proposed history.
+
+### IX.3 Initial conditions, physical laws, and cosmic provenance
+Standard cosmology successfully models many features of expansion, CMB anisotropies, nucleosynthesis, and structure formation from specified early conditions. Yet the model's empirical success does not by itself establish the ultimate provenance of its initial conditions, why its laws hold, or why the relevant parameters possess their values. Inflationary scenarios, where adopted, introduce their own dynamical and initial-state questions. A naturalistic historical account that purports to explain *ultimate origins* must address these questions or explicitly limit its explanatory claim. DFM has a corresponding obligation to specify a coherent Day 4 terminal state and lawful forward evolution. **Neither programme may treat an unspecified initial boundary as a complete mechanism.**
+
+### IX.4 Dark components, expansion discrepancies, and early structure
+Dark matter and dark energy are empirically motivated components of successful models, not mere inventions; nevertheless, their fundamental physical nature remains unresolved. The Hubble tension is a live discrepancy between inference methods, subject to ongoing systematic and theoretical assessment. Some early-galaxy findings have prompted revisions of astrophysical assumptions, although they do not establish a cosmological crisis. These are **real explanatory and model-selection burdens**, not proofs that the conventional framework is false. PDCR must face equivalent or greater scrutiny: it must predict these observations with defined physical carriers, coupled dynamics, and independent constraints rather than simply reclassify them as deployment signatures.
+
+### IX.5 Geological and chronological reconstruction
+Conventional geology and radiometric geochronology exhibit substantial empirical consilience, including independent relative ordering and multiple isotopic systems. Their historical application nonetheless depends on reconstructing past conditions, event sequences, and system-specific closure or disturbance histories. These assumptions are often independently testable and must not be caricatured as arbitrary. DFM must explain the same detailed patterns under a constrained initialization and Flood history. The comparative question is not whether *either* model uses assumptions, but which assumptions are independently warranted and which framework better predicts the full evidence.
+
+### IX.6 Historical uniqueness and causal inference
+The inability to repeat the origin of the cosmos or an ancient geological catastrophe does not render historical inquiry invalid. Both programmes infer unique events from surviving effects using present observations, physical laws, and boundary assumptions. Naturalistic historical explanations bear the burden of showing that their proposed causal histories adequately explain the evidence, just as DFM bears the burden of showing that its extraordinary deployment and Flood hypotheses generate the claimed effects. A prohibition on supernatural historical causation cannot substitute for an evidentiary comparison.
+
+### IX.7 Symmetric appraisal rule
+The paper adopts the following comparative rule: **No explanatory credit without a specified causal account; no automatic dismissal for an unresolved mechanism; no exemption from independent evidence; and no transfer from methodological convention to metaphysical conclusion without argument.** Record separately (a) established observations, (b) successful quantitative predictions, (c) model-dependent historical inferences, (d) unresolved physical mechanisms, and (e) metaphysical commitments. A serious DFM programme must acknowledge where conventional models currently outperform it, while a fair comparison must also acknowledge conventional models' genuine open problems and explanatory limits.
+
+## X. Objections and Responses
 
 The following replies state the strongest available **positive DFM argument first**, followed by a separate **research obligation**. This is a defense of the proposed framework, not a claim that its auxiliary physical models have already been validated. Empirical observations and reconstructions are not interchangeable, and neither DFM nor a conventional historical model receives exemption from specifying initial conditions, assumptions, causal mechanisms, and independent tests.
 
@@ -211,7 +234,7 @@ The following replies state the strongest available **positive DFM argument firs
 
 **Research obligation.** Identify which dating systems truly provide independent provenance constraints, and derive their covariance without case-by-case tuning. Where DFM cannot do so, the conventional reconstruction retains its evidentiary advantage.
 
-## X. Research Programme Commitments and Falsification
+## XI. Research Programme Commitments and Falsification
 
 The programme shall preserve the following separation: **scriptural historical commitments**, **exegetical or architectural inferences**, **auxiliary physical mechanisms**, **empirical predictions**, and **unresolved obligations**. It shall prefer independently motivated models, record contrary evidence, and reject failed auxiliaries rather than migrate their unexplained observations into unspecified miraculous initialization.
 
