@@ -125,7 +125,7 @@ The creation-to-Fall interval is temporally unspecified by the biblical narrativ
 
 ## IX. Objections and Responses
 
-### Objection 2: Light and terrestrial days before the Sun
+### Objection 1: Light and terrestrial days before the Sun
 
 **Objection:** Genesis 1 places light and the evening–morning cycle on Day 1, while the Sun, Moon, and stars appear in the narrative on Day 4 (Genesis 1:14–19). Ordinary terrestrial daylight and the solar day depend on the Sun. Therefore, six literal days prior to or including Day 4 appear physically impossible or internally inconsistent.
 
