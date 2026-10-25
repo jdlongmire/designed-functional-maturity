@@ -1,5 +1,6 @@
-# Formal Position Statement: A Computational and Catastrophic Framework for Biblical Creation
-## Fully Expanded Edition with Hydrotectonic Clarification, Terrestrial Centrality, and Day 4 Cosmological Residuals
+# A Systematic Framework for Biblical Creation: Phased Deployment, Cosmological Initialization, and Hydrotectonic Catastrophism
+## Formal Position Statement | Fully Expanded Edition
+### Including Terrestrial Centrality, Day 4 Expansion, and Cosmological Residuals
 
 **James D. (JD) Longmire**  
 **Version:** 0.3, expanded working edition | **Date:** 25 October 2026  
