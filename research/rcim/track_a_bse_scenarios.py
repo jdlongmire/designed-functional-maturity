@@ -1,6 +1,6 @@
 """Reproduce published BSE heat scenario estimates with elemental coefficients.
 
-Inputs from Ludhova, Neutrino 2024 slide 11, BSE U/Th/K masses.
+BSE masses from Borexino Collaboration, Phys. Rev. D 101, 012009 (2020),\nTable II; https://arxiv.org/abs/1909.02257\nAlso reproduced in L. Ludhova, Solar & Geo Neutrinos, slide 64.
 Coefficients from Smye & Kelemen (2025) as in track_a_elemental_power.py.
 BSE includes crust + mantle: NEVER add crust heat again.
 """
@@ -8,7 +8,7 @@ from track_a_elemental_power import present_elemental_power_w
 from math import sqrt
 
 # masses in 10^16 kg U/Th, 10^19 kg K; quoted one-sigma-like
-# source uncertainties as presented, not independently verified statistical errors.
+# source uncertainties as presented, not independent statistical errors.\n# Original publication assumes fully correlated U/Th/K abundance errors;\n# independent-error propagation below is diagnostic ONLY, not a valid model CI.
 BSE = {
     "cosmochemical": {"U": (5, 1, 1e16), "Th": (17, 2, 1e16),
                        "K": (59, 12, 1e19), "published_tw": 11.3},
