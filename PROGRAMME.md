@@ -667,6 +667,27 @@ Each CCN shall eventually feed a Bayesian Evidence Ledger containing, at minimum
 The purpose of the ledger is therefore progressive model comparison, not a predetermined numerical proof of DFM.
 
 
+## 13A. Plausible Explanatory Parity (PEP) objective
+
+**Programme objective.** DFM seeks plausible explanatory parity, not a requirement of explanatory superiority over conventional historical reconstructions. PEP means that a *specified*, independently constrained DFM initialization-and-runtime model offers a physically coherent and empirically adequate account of a defined body of observations without materially greater unconstrained accommodation than a *specified* comparator assessed under the same standards.
+
+**PEP is a research target, not a present finding.** Conceptual possibility and heat-budget consistency establish neither full empirical accommodation nor parity of evidential support. Parity of explanatory adequacy also must not be confused with equality of posterior probability, evidential likelihood, or historical acceptance.
+
+**Operational requirements:**
+1. **Scope and comparator:** Name the observational domain, dataset, conventional reconstruction, its boundary conditions, and its relevant auxiliaries. Avoid an undifferentiated appeal to naturalism or consensus.
+2. **Physical coherence:** Enforce conservation, decay kinetics, measured present-day inventories, thermal budgets, and ordinary post-boundary physics. Explicitly inventory short-lived intermediates where chain disequilibrium matters.
+3. **Empirical adequacy:** Account quantitatively for the principal observations and uncertainty, including radiometric concordance, discordance, and cross-system structure where applicable. List residuals and failures.
+4. **Constraint discipline:** State common initialization rules before testing held-out samples. Count sample-specific adjustments, free parameters, calibration dependencies, and auxiliary revisions for both programmes.
+5. **Auxiliary Hypothesis Parity Principle (AHPP):** Apply symmetrical standards to initialization assumptions, inherited initial conditions, closed-system claims, disturbances, calibrations, and retrodictive extrapolation. Symmetry does not automatically vindicate either model.
+6. **Evidence grades:** Distinguish compatibility, post-hoc accommodation, independent derivation, prospective prediction, and severe-test success. PEP does not demand superior prediction, but a flexible after-the-fact fit is not equivalent to a constrained independent account.
+7. **Disconfirming conditions:** Record observations or cross-system constraints that would defeat the *specified auxiliary* or substantially reduce its credibility; revise transparently rather than immunizing it.
+
+**Two-track appraisal.** Track A establishes physical feasibility and explanatory accommodation. Track B evaluates independent constraints, held-out predictions, discriminators, and comparative evidential support. Track B success is not a logical prerequisite for Track A feasibility, but full PEP cannot be declared from Track A's conceptual possibility alone.
+
+**Decision vocabulary:** *Conceptually coherent* → *physically feasible in modeled scope* → *empirically adequate in specified scope* → *plausible explanatory parity in specified scope*. Each designation requires explicit evidence and unresolved-burden disclosure. A model may attain parity in one scope while failing in another.
+
+**Current radiogenic status:** Conceptual coherence and preliminary physical-accounting support; full multi-system radiometric PEP remains unestablished. Neither a comparative advantage nor an empirical tie has been demonstrated.
+
 ## 14. Research outputs
 
 DFM development should produce:

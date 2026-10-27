@@ -1,0 +1,64 @@
+name: DFM Track A radiogenic checks
+
+on:
+  push:
+    branches: [research/latent-isotopic-functionality]
+    paths:
+      - 'research/rcim/**'
+      - '.github/workflows/dfm-track-a-radiogenic.yml'
+  pull_request:
+    paths:
+      - 'research/rcim/**'
+      - '.github/workflows/dfm-track-a-radiogenic.yml'
+  workflow_dispatch:
+
+jobs:
+  radiogenic-baselines:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install numerical solver dependency
+        run: python -m pip install 'numpy>=1.26,<3' 'scipy>=1.11,<2'
+      - name: Compile Python sources
+        run: python -m compileall -q research/rcim
+      - name: U-Pb and heat accounting self-tests
+        run: python research/rcim/track_a_upb_heat.py
+      - name: Four-isotope source and thermal-box self-tests
+        run: python research/rcim/track_a_global_heat.py
+      - name: Existing forward baseline self-tests
+        run: python research/rcim/forward_baseline.py
+      - name: Reservoir inventory self-tests
+        run: python research/rcim/track_a_reservoir_inventory.py
+      - name: Independent elemental power unit checks
+        run: python research/rcim/track_a_elemental_power.py
+      - name: Published BSE scenario arithmetic checks
+        run: python research/rcim/track_a_bse_scenarios.py
+      - name: Isotope versus elemental coefficient audit
+        run: python research/rcim/track_a_coefficient_reconciliation.py
+      - name: BSE crust mantle mass conservation
+        run: python research/rcim/track_a_bse_partition.py
+      - name: Published BSE continental crust mass balance
+        run: python research/rcim/track_a_published_reservoir_balance.py
+      - name: U238 intermediate-chain initialization sensitivity
+        run: python research/rcim/track_a_u238_chain_sensitivity.py
+      - name: U238 activity time-series checks
+        run: python research/rcim/track_a_u238_chain_timeseries.py
+      - name: Generic branched Bateman network conservation
+        run: python research/rcim/track_a_bateman_network.py
+      - name: Analytic Bateman population and heat validation
+        run: python research/rcim/track_a_bateman_analytic_validation.py
+      - name: Stiff Bateman matrix-exponential checks
+        run: python research/rcim/track_a_stiff_bateman.py
+      - name: U238 dominant-path population network checks
+        run: python research/rcim/track_a_u238_dominant_chain.py
+      - name: Stiff Bateman contrast audit
+        run: python research/rcim/track_a_stiff_contrast_audit.py
+      - name: Geochron CSV audit synthetic self-test
+        run: python research/rcim/geochron_csv_audit.py
+      - name: Constrained synthetic U-Pb generator and identifiability
+        run: python research/rcim/synthetic_upb_initialization.py
+      - name: Fixed-proxy synthetic partition holdout
+        run: python research/rcim/synthetic_partition_proxy.py
