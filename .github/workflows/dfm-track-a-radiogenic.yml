@@ -52,3 +52,5 @@ jobs:
         run: python research/rcim/track_a_bateman_analytic_validation.py
       - name: Stiff Bateman matrix-exponential checks
         run: python research/rcim/track_a_stiff_bateman.py
+      - name: U238 dominant-path population network checks
+        run: python research/rcim/track_a_u238_dominant_chain.py
