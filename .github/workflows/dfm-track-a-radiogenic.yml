@@ -46,3 +46,5 @@ jobs:
         run: python research/rcim/track_a_u238_chain_timeseries.py
       - name: Generic branched Bateman network conservation
         run: python research/rcim/track_a_bateman_network.py
+      - name: Analytic Bateman population and heat validation
+        run: python research/rcim/track_a_bateman_analytic_validation.py
