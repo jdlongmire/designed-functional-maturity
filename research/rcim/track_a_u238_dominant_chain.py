@@ -1,7 +1,7 @@
 """U-238 dominant-path nuclear topology for stiff Bateman solver.
 
-Major-path reference half-lives are rounded educational values (Health Canada
-NORM guidelines). Minor branches and Pa-234m isomeric transition are NOT
+Major-path half-lives are rounded provisional reference values, pending
+line-by-line evaluated nuclear-data provenance. Minor branches and Pa-234m isomeric transition are NOT
 fully represented. Every branch deposited energy is ZERO BY DESIGN.
 This module may calculate populations but MUST NOT be used for heat budgets.
 """
