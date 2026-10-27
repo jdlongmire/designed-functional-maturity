@@ -66,3 +66,33 @@ conventional target age -> tuned isotope initialization
 4. K-Ar/Ar-Ar known-age calibration and post-initialization event chronometry.
 5. Lu-Hf and Re-Os severe tests.
 6. Extinct radionuclide systems as a dedicated follow-on work package.
+
+
+## PEP appraisal overlay (v0.2; 2026-10-27)
+
+**Target:** plausible explanatory parity (PEP), not explanatory superiority. **AHPP** requires symmetrical scrutiny of initialized states, conventional initial conditions, closure assumptions, disturbance histories, calibration, and post-hoc tuning. A parity determination is scoped to a named dataset and specified comparator, not to all geochronology at once.
+
+| Evidence domain | Demonstrated Track A accommodation | Remaining constraint for PEP | Track B / parity status |
+|---|---|---|---|
+| U-238 / Pb-206 | Ordinary post-boundary decay and heat-accounting equations; initialized stable Pb does not itself imply past decay heat | Independently constrain initial Pb-206 and intermediate-chain populations, mineral partition, concordia and discordance without using target ages | Not established |
+| U-235 / Pb-207 | Same conceptual boundary and coupled U inventory | Joint U-235/U-238 initial-state generator reproducing two-clock zircon relationships | Not established |
+| Th-232 / Pb-208 | Th contribution to present radiogenic power modeled under explicit chain assumptions | Initial Th/Pb and intermediates plus cross-system U-Th-Pb concordance | Not established |
+| K-40 / Ar-40 / Ca-40 | Heat contribution and ordinary branching can be represented | Quantitative gas retention, degassing, closure, isotope partition and known-event calibrations | Not established |
+| Rb-87 / Sr-87 | Coherent initialization is mathematically possible | Non-thermal initial-state constraints; isochron slope/intercept structure and held-out reservoirs | Not established |
+| Sm-147 / Nd-143 | Coherent initialization is mathematically possible | Independent REE partition constraints and multi-reservoir isotope correlations | Not established |
+| Lu-176 / Hf-176 | Candidate coupling through zircon and geochemical partition | Quantitative isotope generator linked to U-Pb without age-derived tuning | Not established |
+| Re-187 / Os-187 | Candidate reservoir-composition coupling | Mantle/meteorite mass balance and independently constrained correlations | Not established |
+| Extinct radionuclides | No quantitative initialization accommodation established | Parent/daughter excesses and correlated extinct-nuclide signatures in primitive material | Not established |
+
+**Evidence grade:** Current heat-accounting work supports limited physical compatibility and model consistency for specified assumptions, not independent derivation of observed daughter inventories. The entries above are not claims of empirical equivalence. Successful CI tests establish software behavior within tested regimes, not historical provenance.
+
+### Minimum scoped PEP demonstration protocol
+
+1. Register a specific dataset, its uncertainty, provenance, sample selection, and a concrete conventional comparator with disclosed auxiliaries.
+2. Specify one common initial-state generator and a bounded parameter budget *before* examining held-out isotope ratios; list parameters informed by training data.
+3. Propagate both models with ordinary post-boundary decay, relevant intermediate nuclides, partitioning, closure, and documented disturbances. Check mass/energy conservation.
+4. Report fit residuals, uncertainty calibration, sensitivity to auxiliaries, number and scope of adjustable parameters, and performance on held-out data for each model.
+5. Record outcomes as **compatible**, **adequate in scope**, **parity supported in scope**, **parity not established**, or **disfavored in scope**. Do not infer global parity from a single system.
+6. Preserve failed or indeterminate cases. A comparator's shortcomings do not automatically count as positive evidence for DFM.
+
+**Current disposition:** Conceptual coherence and preliminary Track A physical-accounting support. No scoped radiometric PEP determination has yet been earned. The strongest near-term candidate is a preregistered U-Th-Pb mineral-level test, followed by non-thermal Rb-Sr or Sm-Nd cross-checks.
