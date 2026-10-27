@@ -60,3 +60,5 @@ jobs:
         run: python research/rcim/geochron_csv_audit.py
       - name: Constrained synthetic U-Pb generator and identifiability
         run: python research/rcim/synthetic_upb_initialization.py
+      - name: Fixed-proxy synthetic partition holdout
+        run: python research/rcim/synthetic_partition_proxy.py
