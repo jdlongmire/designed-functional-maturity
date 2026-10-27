@@ -30,3 +30,5 @@ jobs:
         run: python research/rcim/forward_baseline.py
       - name: Reservoir inventory self-tests
         run: python research/rcim/track_a_reservoir_inventory.py
+      - name: Independent elemental power unit checks
+        run: python research/rcim/track_a_elemental_power.py
