@@ -58,3 +58,5 @@ jobs:
         run: python research/rcim/track_a_stiff_contrast_audit.py
       - name: Geochron CSV audit synthetic self-test
         run: python research/rcim/geochron_csv_audit.py
+      - name: Constrained synthetic U-Pb generator and identifiability
+        run: python research/rcim/synthetic_upb_initialization.py
