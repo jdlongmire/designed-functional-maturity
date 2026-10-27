@@ -3,6 +3,8 @@
 **Status:** Draft protocol; no empirical result claimed. **Date:** 2026-10-27.  
 **Depends on:** WP-002, WP-004, WP-005, RCIM-001.
 
+> **Assessment hierarchy (2026-10-27):** This protocol governs **Track B, discriminatory and comparative testing**. Track A, plausibility and explanatory accommodation, is governed by [DFM-PAM-001](DFM-PAM-001-plausibility-programme-symmetry.md). Track B superiority is **not** a prerequisite for a provisional Track A plausibility finding. Both tracks retain independent physical constraints and explicit anomaly accounting.
+
 ## Objective
 Determine whether a low-dimensional, independently constrained initialization generator predicts observed radiogenic isotope structure across held-out samples more successfully than unconstrained initialization and competitively with conventional geological models. This is a comparative test of explanatory auxiliaries, not a direct experiment on creation.
 
