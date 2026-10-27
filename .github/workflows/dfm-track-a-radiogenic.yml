@@ -36,3 +36,5 @@ jobs:
         run: python research/rcim/track_a_bse_scenarios.py
       - name: Isotope versus elemental coefficient audit
         run: python research/rcim/track_a_coefficient_reconciliation.py
+      - name: BSE crust mantle mass conservation
+        run: python research/rcim/track_a_bse_partition.py
