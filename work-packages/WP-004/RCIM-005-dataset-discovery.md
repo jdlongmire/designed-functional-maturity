@@ -58,3 +58,7 @@ USGS Data Report 1227 (https://doi.org/10.3133/dr1227), published September 2026
 - **Freeze gate remains OPEN.** No checksum, data version hash, or observed sample subset is claimed. Next authorized action is retrieval of the official ScienceBase CSV archive in a network-enabled environment or through a supplied local copy; then run a field-completeness audit before freezing the split.
 
 Official release: https://www.usgs.gov/data/usgs-geochron-a-database-geochronological-and-thermochronological-dates-and-data-ver-40-may
+
+## Reproducible offline field audit
+
+Run `python research/rcim/geochron_csv_audit.py /path/to/official-export.csv` against a downloaded official CSV. The script reports SHA-256, row count, presence and nonempty counts for the preliminary U-Pb, Th-Pb, uncertainty, correlation and correction fields. It does not select geological units, assess value validity, freeze a dataset or calculate parity. Running without a file invokes a synthetic self-test. Header names and coverage must be checked against the actual release; additional aliases may be necessary.
