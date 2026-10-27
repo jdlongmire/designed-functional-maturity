@@ -9,14 +9,12 @@ SECONDS_PER_YEAR = 365.25 * 86400
 AVOGADRO = 6.02214076e23
 MEV_J = 1.602176634e-13
 LN2 = log(2)
-# Approximate net heat per parent transformation, excluding neutrino losses.
-# K-40 includes an UNVERIFIED branching-averaged heat placeholder; all values require independent
-# source validation before quantitative geological interpretation.
+# Heat energies based on Dye (2012), Reviews of Geophysics Table 1, Q_h (pJ).\n# https://doi.org/10.1029/2012RG000400\n# U/Th values are equilibrium full-chain yields; for short post-boundary\n# histories they require an explicit initialized intermediate-chain inventory.
 ISOTOPES = {
-    "U238": {"half_y": 4.468e9, "heat_mev": 47.7, "molar_g": 238.0508},
-    "U235": {"half_y": 7.038e8, "heat_mev": 44.4, "molar_g": 235.0439},
-    "Th232": {"half_y": 1.405e10, "heat_mev": 40.4, "molar_g": 232.0381},
-    "K40": {"half_y": 1.248e9, "heat_mev": 0.65, "molar_g": 39.9640},  # NOT CALIBRATED
+    "U238": {"half_y": 4.468e9, "heat_mev": 7.648e-12 / MEV_J, "molar_g": 238.0508},
+    "U235": {"half_y": 7.038e8, "heat_mev": 7.108e-12 / MEV_J, "molar_g": 235.0439},
+    "Th232": {"half_y": 1.405e10, "heat_mev": 6.475e-12 / MEV_J, "molar_g": 232.0381},
+    "K40": {"half_y": 1.248e9, "heat_mev": 0.110e-12 / MEV_J, "molar_g": 39.9640},  # NOT CALIBRATED
 }
 
 def parent_atoms(mass_kg, isotope):
@@ -31,8 +29,7 @@ def decay_fraction(years, isotope):
 
 def source_budget(mass_kg, isotope, years=0):
     """mass_kg is the INITIAL isotope mass at the boundary, not current mass."""
-    p = ISOTOPES[isotope]
-    n0 = parent_atoms(mass_kg, isotope)
+    if years < 0:\n        raise ValueError("Negative duration")\n    p = ISOTOPES[isotope]\n    n0 = parent_atoms(mass_kg, isotope)
     lam_s = LN2 / (p["half_y"] * SECONDS_PER_YEAR)
     remaining = n0 * exp(-lam_s * years * SECONDS_PER_YEAR)
     power_w = remaining * lam_s * p["heat_mev"] * MEV_J
