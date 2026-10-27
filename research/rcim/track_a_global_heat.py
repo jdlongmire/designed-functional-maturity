@@ -10,13 +10,13 @@ AVOGADRO = 6.02214076e23
 MEV_J = 1.602176634e-13
 LN2 = log(2)
 # Approximate net heat per parent transformation, excluding neutrino losses.
-# K-40 includes branching-averaged heat; all values require independent
+# K-40 includes an UNVERIFIED branching-averaged heat placeholder; all values require independent
 # source validation before quantitative geological interpretation.
 ISOTOPES = {
     "U238": {"half_y": 4.468e9, "heat_mev": 47.7, "molar_g": 238.0508},
     "U235": {"half_y": 7.038e8, "heat_mev": 44.4, "molar_g": 235.0439},
     "Th232": {"half_y": 1.405e10, "heat_mev": 40.4, "molar_g": 232.0381},
-    "K40": {"half_y": 1.248e9, "heat_mev": 0.65, "molar_g": 39.9640},
+    "K40": {"half_y": 1.248e9, "heat_mev": 0.65, "molar_g": 39.9640},  # NOT CALIBRATED
 }
 
 def parent_atoms(mass_kg, isotope):
