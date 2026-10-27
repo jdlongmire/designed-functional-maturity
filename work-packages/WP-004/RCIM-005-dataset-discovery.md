@@ -3,7 +3,7 @@
 **Date:** 2026-10-27. **Status:** Source candidates identified; dataset NOT frozen; no fit executed.
 **Parent:** [RCIM-004](RCIM-004-pep-u-th-pb-pilot.md).
 
-## Primary candidate: USGS Geochron v4.0
+## Primary candidate: USGS Geochron v4.0 (May 2025)
 - Data release: https://www.usgs.gov/data/usgs-geochron-a-database-geochronological-and-thermochronological-dates-and-data-ver-40-may
 - DOI: https://doi.org/10.5066/P9RZNPIF
 - Technical dictionary: https://pubs.usgs.gov/publication/dr1227/full
@@ -49,3 +49,12 @@ USGS Data Report 1227 (https://doi.org/10.3133/dr1227), published September 2026
 **Updated gate:** Prefer the published *analytical ratio* columns with declared correction states, sigma levels, and correlation. Reject an age-only dataset for the forward isotope-ratio comparison. Check field coverage by geological unit and laboratory method before selecting a freeze subset. No unit or sample has been selected and no dataset downloaded, hashed, or frozen.
 
 **Sources:** USGS Geochron v4.0 release (https://doi.org/10.5066/P9RZNPIF); Thomson et al., USGS Data Report 1227 (https://doi.org/10.3133/dr1227).
+
+## Access and freeze attempt, 2026-10-27
+
+- Verified the official USGS release explicitly labels v4.0 **May 2025** (with a June 2025 revision); the September 2026 technical report is a separate publication.
+- Resolved the release DOI to ScienceBase item `63345053d34e900e86c69f1a` through the official USGS page.
+- Direct ScienceBase catalog access was blocked in the available web retrieval environment; container HTTP requests also failed DNS resolution. No CSV content was downloaded, and no row-level field coverage or geological-unit selection was performed.
+- **Freeze gate remains OPEN.** No checksum, data version hash, or observed sample subset is claimed. Next authorized action is retrieval of the official ScienceBase CSV archive in a network-enabled environment or through a supplied local copy; then run a field-completeness audit before freezing the split.
+
+Official release: https://www.usgs.gov/data/usgs-geochron-a-database-geochronological-and-thermochronological-dates-and-data-ver-40-may
