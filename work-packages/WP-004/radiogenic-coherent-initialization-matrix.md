@@ -100,3 +100,7 @@ conventional target age -> tuned isotope initialization
 ## Preregistered pilot
 
 The first scoped PEP protocol is [RCIM-004: U-Th-Pb parity pilot](RCIM-004-pep-u-th-pb-pilot.md). It defines comparator symmetry, dataset gates, a constrained parameter budget, held-out testing, and explicit blockers. It is a proposed protocol, not an executed empirical result.
+
+## Alternative evidence acquisition
+
+[RCIM-006](RCIM-006-alternative-data-and-parallel-plan.md) ranks smaller primary-source zircon isotope datasets and defines parallel synthetic, nuclear-data and observational work. The USGS Geochron bulk export is not a mandatory prerequisite; reproducible isotope measurements and a defensible grouped holdout remain mandatory for empirical PEP.
