@@ -32,3 +32,5 @@ jobs:
         run: python research/rcim/track_a_reservoir_inventory.py
       - name: Independent elemental power unit checks
         run: python research/rcim/track_a_elemental_power.py
+      - name: Published BSE scenario arithmetic checks
+        run: python research/rcim/track_a_bse_scenarios.py
