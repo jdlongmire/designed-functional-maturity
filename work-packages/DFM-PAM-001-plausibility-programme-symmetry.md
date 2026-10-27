@@ -73,3 +73,41 @@ Each proposed accommodation must document:
 3. Establish explicit bounded parameter families and the conditions under which each observation can be accommodated.
 4. Issue a *conditional Track A assessment* identifying supported and unresolved dimensions.
 5. Advance selected models into Track B only when sufficient empirical datasets and frozen parameters exist.
+
+## Auxiliary Hypothesis Parity Principle (AHPP)
+
+> Competing historical research programmes should be evaluated under equivalent methodological standards for initial conditions, auxiliary hypotheses, physical coherence, explanatory coverage, and empirical accountability. Differences in independent evidential support must be assessed rather than presumed from philosophical commitments.
+
+**Interpretive distinction:** Measured parent/daughter ratios, analytical uncertainties, mineral chemistry, field relationships and laboratory observations are data. Assigned crystallization ages, thermal histories, inheritance events, reservoir corrections and DFM initialization accounts are historical interpretations or model components constrained by those data. This does not mean interpretations are arbitrary: many conventional reconstructions have independent empirical corroboration.
+
+**Legitimate accommodations in radiometric inference:**
+- Initial daughter composition, including common Pb and initial Sr.
+- Inheritance, xenocrysts, detrital populations and mixing.
+- Open-system parent/daughter mobility, metamorphic alteration and partial loss.
+- Thermal closure, partial resetting and diffusion histories.
+- Isochron intercepts, concordia/discordia, calibration and reservoir effects.
+
+These are neither automatically invalidating nor automatically justified. Their credibility depends on geological context, independent constraints, reproducibility, uncertainty and cross-system consistency. In particular, conventional geochronology does not universally assume pristine closed systems or zero initial daughter inventory.
+
+**DFM parity:** Coherent initialization of parent and daughter inventories is admissible as a boundary hypothesis for Track A. It must be specified with physically coherent, bounded initial-state families and subsequent ordinary decay and transport. It is not automatically corroborated merely because some daughter inventory can be stipulated, and it is not automatically disqualified merely because the boundary is special creation.
+
+**Accommodation versus ad hoc rescue rubric:**
+
+| Criterion | Strong accommodation | Weak or ad hoc rescue |
+|---|---|---|
+| Independent rationale | Supported by separate mineral, thermal, chemical, geological or functional evidence | Introduced only after conflicting isotope results |
+| Constraint | Bounded parameters and mass/heat balance | Arbitrary sample-specific assignments |
+| Scope | Explains multiple related observations with reusable rules | Explains only the anomalous sample |
+| Uncertainty | Reports measurement and model uncertainty | Hides uncertainty or selectively excludes discordance |
+| Exposure to failure | Identifies observations it cannot accommodate | Flexible enough to fit every outcome |
+| Programme comparison | Applies the same rubric to both accounts | Grants one programme an automatic exception |
+
+**Observation-first protocol:** For each radiometric case, document (1) raw and corrected measured ratios, (2) analytical uncertainty and geological context, (3) published conventional reconstruction and its independently evidenced auxiliaries, (4) DFM initialization and post-boundary account, (5) each model's additional assumptions and adjustable parameters, (6) residual anomalies and unresolved constraints, and (7) Track A plausibility status. Do not require DFM to assume the conventional reconstructed history as a premise, but do require it to account for the observations that history explains.
+
+**Important limitation:** Equal methodological standards do not mean equal explanatory success or equal prior evidential credibility. A well-corroborated conventional auxiliary and an untested DFM auxiliary receive the same *type* of scrutiny but may properly receive different assessments.
+
+**Application to U-Pb:** Evaluate common Pb, inheritance, discordia, Pb loss, and mineral context alongside a coherent initial daughter inventory. Paired U decay chains, concordance, cross-mineral relationships, and known-event controls remain observational obligations.
+
+**Application to K-Ar:** Evaluate initial trapped or excess Ar, diffusion, degassing, heating and reservoir exchange alongside initialized Ar inventories. Post-initialization known-age calibration and mass balance remain observational obligations.
+
+**Track A gate:** An accommodation is provisionally plausible only when its relevant physical constraints and observations are addressed with a specified model and transparently bounded unresolved conditions. Mere logical possibility or absence of demonstrated impossibility is insufficient. Track B comparative predictive superiority is not required for Track A.
