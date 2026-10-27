@@ -70,3 +70,42 @@ The historical treatment of noncoding DNA supplies a *methodological analogy*, n
 5. **Sm-Nd/Lu-Hf:** evaluate isotope-sensitive mineral effects and cross-system concordance with independent constraints.
 
 **First quantitative gates:** For K-Ar, calculate pressure and composition counterfactuals with equal-mole Ar isotope replacement as a control. For U-Pb, specify an independently constrained initial mineral composition, derive predicted isotope ratios and concordance behavior, and compare with a held-out mineral dataset. Document negative outcomes and uncertainty rather than assigning unexplained ratios to latent function.
+
+## Quantitative gate 0: transparent benchmark calculations (2026-10-27)
+
+**Status:** Analytical benchmark only; no empirical validation, literature-derived parameter calibration, or numerical simulation has been completed. All numerical examples below use explicitly declared illustrative inputs.
+
+### K-Ar atmospheric substitution benchmark
+Assume dry atmospheric argon mole fraction x_Ar = 0.00934 and Ar-40 fraction f40 = 0.996 (rounded standard approximate values; verify primary data before publication). Ideal-gas partial pressure at 1 atm:
+- p(Ar-40) = x_Ar * f40 * 101325 Pa = approximately **943 Pa**.
+- Removing Ar-40 alone without compensating other gases reduces total dry atmospheric pressure by about **0.930%**, under fixed temperature, volume, and remaining gas inventories. This is a perturbation, not an established habitability threshold.
+- Replacing each removed Ar-40 atom with Ar-36 at equal mole count preserves ideal-gas total pressure and the elemental argon mole fraction. Mean argon isotopic mass and mass-dependent transport properties change. The atomic mass contrast is approximately 10%; this is *not* a 10% change in atmospheric pressure or mass.
+- Neither calculation establishes that atmospheric Ar-40 was present at initialization. Dynamic models must add mantle degassing, radiogenic production, escape, atmospheric evolution, and independently selected functional thresholds.
+
+**Decision rule:** If isotope substitution leaves the proposed functional criterion satisfied across justified uncertainties, reject that particular Ar-40-specific necessity claim. If removal changes pressure but substitution restores function, the result supports an elemental-gas effect, not isotope-specific necessity.
+
+### U-Pb analytical concordance gate
+For a closed system after initialization, let P238(0), P235(0), D206*(0), D207*(0) be initial parent and radiogenic-daughter inventories. With ordinary decay:
+- P238(t) = P238(0) exp(-lambda238 t)
+- D206*(t) = D206*(0) + P238(0)[1-exp(-lambda238 t)]
+- P235(t) = P235(0) exp(-lambda235 t)
+- D207*(t) = D207*(0) + P235(0)[1-exp(-lambda235 t)]
+
+For present parent-normalized daughter ratios, these become:
+- D206*(t)/P238(t) = [D206*(0)/P238(0)] exp(lambda238 t) + exp(lambda238 t)-1
+- D207*(t)/P235(t) = [D207*(0)/P235(0)] exp(lambda235 t) + exp(lambda235 t)-1
+
+With illustrative half-lives 4.468 billion years (U-238) and 703.8 million years (U-235), ordinary decay over an illustrative 6,000-year interval produces daughter-to-initial-parent increments of approximately 9.31e-7 and 5.91e-6, respectively. These values are benchmarks, not fitted terrestrial age claims.
+
+**Severe test:** A nonzero initialized D206*/D207* inventory can mathematically reproduce many observed final ratios, but doing so is not an explanation. Specify a common mineralogical/functional generative rule for initial daughter inventories *without* using the target U-Pb ratios or inferred ages. Then predict held-out zircon measurements, including concordia geometry, common-Pb corrections, and discordance patterns. If the rule cannot predict those measurements with independently justified parameters, WP-005 fails this gate.
+
+### Gate ledger
+| Gate | Result | Epistemic status |
+|---|---|---|
+| K-Ar removal | ~0.930% dry-air partial-pressure contribution from Ar-40 at illustrative present composition | Derived from declared assumptions |
+| K-Ar equal-mole isotope replacement | Ideal-gas pressure preserved; mass-dependent properties may differ | Derived qualitatively; quantitative transport effects pending |
+| U-Pb short-interval decay | Very small new daughter fractions under ordinary decay | Derived analytical benchmark |
+| Isotope-specific initial necessity | Not demonstrated | Open |
+| Independent prediction of concordia/isochrons | Not demonstrated | Severe outstanding obligation |
+
+**Next implementation:** source and freeze parameter tables; define atmospheric functional threshold(s) and realistic controls; obtain a publicly documented U-Pb zircon dataset; preregister a low-dimensional initial-state generative model; separate fitting and held-out samples. Do not use absence of known function as positive evidence of necessity.
