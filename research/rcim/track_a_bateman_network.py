@@ -78,10 +78,10 @@ def self_test():
     nodes = {"A": Nuclide("A", 10, (("B", .7, 2), ("C", .3, 3))),
              "B": Nuclide("B", 5, (("C", 1.0, 4),)),
              "C": Nuclide("C", None, ())}
-    x = evolve(nodes, {"A": 1, "B": 0, "C": 0}, 100, .01)
+    x = evolve(nodes, {"A": 1, "B": 0, "C": 0}, 250, .01)
     assert isclose(sum(x["populations"].values()), 1, abs_tol=1e-10)
-    assert isclose(x["populations"]["C"], 1, abs_tol=1e-6)
-    assert 4.8 < x["deposited_heat_j"] < 5.1  # .7*(2+4)+.3*3 = 5.1
+    assert isclose(x["populations"]["C"], 1, abs_tol=1e-7)
+    assert isclose(x["deposited_heat_j"], 5.1, abs_tol=1e-6)  # .7*(2+4)+.3*3 = 5.1
     z = evolve(nodes, {"A": 1, "B": 0, "C": 0}, 0, 1)
     assert z["deposited_heat_j"] == 0
     try:
