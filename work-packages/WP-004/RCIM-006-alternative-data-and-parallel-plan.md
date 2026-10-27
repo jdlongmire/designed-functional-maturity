@@ -37,3 +37,7 @@
 - https://www.usgs.gov/data/u-pb-isotopic-data-and-ages-zircon-manzano-mountains-new-mexico
 - https://zenodo.org/records/8303076
 - https://essd.copernicus.org/articles/18/3671/2026/
+
+## Synthetic Track A implementation (2026-10-27)
+
+`research/rcim/synthetic_upb_initialization.py` implements a deliberately simplified two-parent/two-stable-daughter generator, with shared initial daughter ratios and externally supplied mineral partition coefficients. It checks parent-plus-daughter conservation, training recovery, synthetic held-out predictions, and the structural non-identifiability between unknown daughter ratios and partition coefficients. It uses illustrative half-lives and a fixed 6000-year duration, not evaluated full-chain nuclear data or real zircon observations. Its fit assumes the synthetic duration and partition coefficients are already known; therefore it is a software/identifiability benchmark, not an independent initialization derivation or PEP result.
