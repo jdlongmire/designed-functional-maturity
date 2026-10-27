@@ -96,3 +96,7 @@ conventional target age -> tuned isotope initialization
 6. Preserve failed or indeterminate cases. A comparator's shortcomings do not automatically count as positive evidence for DFM.
 
 **Current disposition:** Conceptual coherence and preliminary Track A physical-accounting support. No scoped radiometric PEP determination has yet been earned. The strongest near-term candidate is a preregistered U-Th-Pb mineral-level test, followed by non-thermal Rb-Sr or Sm-Nd cross-checks.
+
+## Preregistered pilot
+
+The first scoped PEP protocol is [RCIM-004: U-Th-Pb parity pilot](RCIM-004-pep-u-th-pb-pilot.md). It defines comparator symmetry, dataset gates, a constrained parameter budget, held-out testing, and explicit blockers. It is a proposed protocol, not an executed empirical result.
