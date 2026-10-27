@@ -20,6 +20,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Install numerical solver dependency
+        run: python -m pip install 'numpy>=1.26,<3' 'scipy>=1.11,<2'
       - name: Compile Python sources
         run: python -m compileall -q research/rcim
       - name: U-Pb and heat accounting self-tests
@@ -48,3 +50,5 @@ jobs:
         run: python research/rcim/track_a_bateman_network.py
       - name: Analytic Bateman population and heat validation
         run: python research/rcim/track_a_bateman_analytic_validation.py
+      - name: Stiff Bateman matrix-exponential checks
+        run: python research/rcim/track_a_stiff_bateman.py
