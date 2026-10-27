@@ -28,3 +28,5 @@ jobs:
         run: python research/rcim/track_a_global_heat.py
       - name: Existing forward baseline self-tests
         run: python research/rcim/forward_baseline.py
+      - name: Reservoir inventory self-tests
+        run: python research/rcim/track_a_reservoir_inventory.py
