@@ -58,7 +58,8 @@ def self_test():
     result = propagate(nodes, initial, 1e5)
     assert isclose(result["populations"]["A"], 2**-10, rel_tol=1e-7)
     assert isclose(result["deposited_heat_j"], 5*(1-2**-10), rel_tol=1e-7)
-    # This fixture does not certify numerical stability at 10^15 contrast.\n    # Compare against analytic two-stage solution on ordinary time scales.
+    # This fixture does not certify numerical stability at 10^15 contrast.
+    # Compare against analytic two-stage solution on ordinary time scales.
     from track_a_bateman_analytic_validation import analytic
     ordinary = {"A": Nuclide("A", 10., (("B", 1., 2.),)),
                 "B": Nuclide("B", 2., (("C", 1., 3.),)),
