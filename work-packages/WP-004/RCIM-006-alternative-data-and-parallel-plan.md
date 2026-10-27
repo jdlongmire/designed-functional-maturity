@@ -41,3 +41,7 @@
 ## Synthetic Track A implementation (2026-10-27)
 
 `research/rcim/synthetic_upb_initialization.py` implements a deliberately simplified two-parent/two-stable-daughter generator, with shared initial daughter ratios and externally supplied mineral partition coefficients. It checks parent-plus-daughter conservation, training recovery, synthetic held-out predictions, and the structural non-identifiability between unknown daughter ratios and partition coefficients. It uses illustrative half-lives and a fixed 6000-year duration, not evaluated full-chain nuclear data or real zircon observations. Its fit assumes the synthetic duration and partition coefficients are already known; therefore it is a software/identifiability benchmark, not an independent initialization derivation or PEP result.
+
+## Fixed-proxy partition benchmark
+
+`research/rcim/synthetic_partition_proxy.py` adds a shared dimensionless proxy-to-partition operator, with coefficients fixed before generating synthetic isotope observations. The held-out test uses a new proxy value rather than a freely fitted mineral coefficient. This removes a specimen-specific degree of freedom *conditional on independent proxy measurement and independently calibrated operator coefficients*. The coefficients in this fixture are illustrative; the physical/geochemical derivation and calibration remain unresolved. Passing the synthetic test is not empirical PEP.
