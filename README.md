@@ -187,6 +187,10 @@ A mobile-first public presentation layer is maintained in [`docs/`](docs/). The 
 5. [WP-004: Radiogenic Coherent Initialization and Orderly-Marker Hypothesis](work-packages/WP-004-radiogenic-coherent-initialization.md)
 6. [Radiogenic Coherent Initialization Matrix](work-packages/WP-004/radiogenic-coherent-initialization-matrix.md)
 
+## Evaluation objective: plausible explanatory parity
+
+DFM seeks **plausible explanatory parity (PEP)**, not necessarily explanatory superiority. A specified initialization-and-runtime model must account for the relevant observations under constraints and auxiliary-hypothesis scrutiny comparable to those applied to a specified conventional historical model. The **Auxiliary Hypothesis Parity Principle (AHPP)** governs methodological symmetry; PEP assesses explanatory adequacy under that symmetry. Physical possibility alone does not establish empirical parity, and a post-hoc fit is not equivalent to a constrained independent account. See [Programme Charter, §13A](PROGRAMME.md#13a-plausible-explanatory-parity-pep-objective).
+
 ## Epistemic status
 
 DFM is a developing research programme, not a completed physical theory. Several of its strongest claims currently function as constrained hypotheses requiring quantitative development.
