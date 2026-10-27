@@ -1,0 +1,30 @@
+name: DFM Track A radiogenic checks
+
+on:
+  push:
+    branches: [research/latent-isotopic-functionality]
+    paths:
+      - 'research/rcim/**'
+      - '.github/workflows/dfm-track-a-radiogenic.yml'
+  pull_request:
+    paths:
+      - 'research/rcim/**'
+      - '.github/workflows/dfm-track-a-radiogenic.yml'
+  workflow_dispatch:
+
+jobs:
+  radiogenic-baselines:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Compile Python sources
+        run: python -m compileall -q research/rcim
+      - name: U-Pb and heat accounting self-tests
+        run: python research/rcim/track_a_upb_heat.py
+      - name: Four-isotope source and thermal-box self-tests
+        run: python research/rcim/track_a_global_heat.py
+      - name: Existing forward baseline self-tests
+        run: python research/rcim/forward_baseline.py
