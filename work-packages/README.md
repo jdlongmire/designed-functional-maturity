@@ -39,6 +39,8 @@ Systematic development track for the Designed Functional Maturity (DFM) research
 
 | [WP-034](WP-034-miraculous-causation-divine-deception.md) | Miraculous Causation and the Divine Deception Objection | MCDDT protocol + biblical and empirical case matrix | Proposed — research scoped |
 
-| [WP-035](WP-035-latent-isotopic-functionality.md) | Latent Isotopic Functionality and Daughter-Product Necessity | Functional isotope hypothesis and empirical controls | Proposed — ancillary hypothesis |\n\nWP-021 is unassigned: no file, branch, or commit in the repository history ever used that number (the sequence skipped from WP-020 to WP-022).
+| [WP-035](WP-035-latent-isotopic-functionality.md) | Latent Isotopic Functionality and Daughter-Product Necessity | Functional isotope hypothesis and empirical controls | Proposed — ancillary hypothesis |
+
+WP-021 is unassigned: no file, branch, or commit in the repository history ever used that number (the sequence skipped from WP-020 to WP-022).
 
 The current programme-level specification is [`PROGRAMME.md`](../PROGRAMME.md). The current development sequence is [`ROADMAP.md`](../ROADMAP.md).
