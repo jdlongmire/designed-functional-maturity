@@ -42,3 +42,5 @@ jobs:
         run: python research/rcim/track_a_published_reservoir_balance.py
       - name: U238 intermediate-chain initialization sensitivity
         run: python research/rcim/track_a_u238_chain_sensitivity.py
+      - name: U238 activity time-series checks
+        run: python research/rcim/track_a_u238_chain_timeseries.py
