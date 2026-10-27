@@ -56,3 +56,17 @@ This is a hypothesis specification and candidate inventory, not a completed quan
 
 ## Governance
 Ancillary/protective-belt hypothesis only. No changes to hard core, chronology, decay constants, or accepted observations. Preserve the WP-002 no-smuggling rule and WP-004 quantitative concordance obligations.
+
+## Research prioritization and junk-DNA analogy (2026-10-27)
+The historical treatment of noncoding DNA supplies a *methodological analogy*, not empirical support for isotope-specific design. Failure to identify function does not entail nonfunctionality; equally, discovering some functions does not entail universal function. Noncoding DNA and isotopic distributions have different physical mechanisms, and any claim of overlooked isotope functionality must be substantiated against existing geochemical research.
+
+**Prioritization rubric:** score each candidate separately on (a) physically plausible mechanism, (b) independent functional metric, (c) feasible counterfactual/isotope substitution, (d) capacity to predict held-out observations, and (e) relevance to cross-system radiometric structure. Do not conflate ease of modeling with evidential strength.
+
+**Ranked starting sequence:**
+1. **U-Th-Pb:** test whether independently specified mineralogical and thermodynamic constraints predict lead isotope distributions and U-Pb concordia without age-target fitting. High discrimination value, low presently established isotope-specific functional necessity.
+2. **K-Ar:** establish atmospheric mass-balance and isotope-substitution controls; model degassing, atmospheric escape, and pressure effects. High tractability, limited initial-necessity inference.
+3. **Rb-Sr:** assess mineral partitioning and isotope effects under fixed total strontium, including isochron structure.
+4. **U-Th-He:** quantify mineral retention, fluid transport, and degassing; explicitly separate tracer usefulness from physical necessity.
+5. **Sm-Nd/Lu-Hf:** evaluate isotope-sensitive mineral effects and cross-system concordance with independent constraints.
+
+**First quantitative gates:** For K-Ar, calculate pressure and composition counterfactuals with equal-mole Ar isotope replacement as a control. For U-Pb, specify an independently constrained initial mineral composition, derive predicted isotope ratios and concordance behavior, and compare with a held-out mineral dataset. Document negative outcomes and uncertainty rather than assigning unexplained ratios to latent function.
