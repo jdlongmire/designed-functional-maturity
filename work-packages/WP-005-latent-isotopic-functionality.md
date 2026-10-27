@@ -9,13 +9,13 @@ Could the initial inventory of selected radiogenic daughter isotopes be function
 
 ## Three claims, kept separate
 - **H1, present participation:** Selected daughter products participate in present terrestrial atmospheric, mineralogical, geochemical, and physical systems. This is demonstrable in particular cases.
-- **H2, functional necessity:** At least one daughter isotope's abundance, ratio, or spatial distribution is required to satisfy an independently specified terrestrial functional constraint. This is unproven.
-- **H3, initialization necessity:** That required inventory had to be present at functional commissioning rather than accumulated by ordinary post-initialization decay. This is unproven and requires an explicit time-dependent model.
+- **H2, functional constraint:** At least one daughter inventory, ratio, or distribution may be constrained by independently specified terrestrial functionality. This is unproven; it does not require that the observed configuration be unique.
+- **H3, initialization provenance:** A coordinated initial daughter inventory may have been present at functional commissioning rather than entirely accumulated by ordinary post-initialization decay. Whether any amount was required at commissioning is a separate, unproven time-dependent claim.
 
 **LIFH:** An initialized, life-friendly terrestrial state may require coordinated parent and daughter inventories whose functional effects include presently unknown isotope-specific or coupled-system relationships. Unknown functions are candidates for discovery, not evidence by themselves.
 
 ## Model
-Let R0 = (P0, D0, X0, T0, A0), representing initial parent and daughter nuclide inventories, spatial/mineral distribution, thermal state, and atmosphere. After initialization, ordinary measured decay and geochemical transport govern evolution. Define independently measured functional constraints C_j(R(t)) >= threshold_j over specified time intervals. An isotope is *initially necessary* only if admissible alternatives with D0,i = 0 (or an isotope-substituted control) cannot satisfy the constraints while holding all other independently justified assumptions fixed. Account for mass balance, decay branching, isotope effects, toxicity, and transport.
+Let R0 = (P0, D0, X0, T0, A0), representing initial parent and daughter nuclide inventories, spatial/mineral distribution, thermal state, and atmosphere. After initialization, ordinary measured decay and geochemical transport govern evolution. Define independently measured functional constraints C_j(R(t)) >= threshold_j over specified time intervals. Evaluate (i) sufficiency of the actual state, (ii) functional constraints on admissible states, (iii) uniqueness only where specifically asserted, and (iv) provenance separately. Deletion and isotope-substitution controls measure sensitivities for specified functions; neither is a universal test of coherent initialization. Account for mass balance, decay branching, isotope effects, toxicity, and transport.
 
 ## Candidate evidence matrix
 | Daughter isotope/system | Established present contribution | Unproven necessity claim | Primary test |
@@ -38,9 +38,9 @@ An isotope's *measurement usefulness* as a tracer is not evidence of necessity f
 5. **Coupled effects:** Evaluate atmospheric-geochemical-thermal interactions rather than inferring system-level necessity from one element.
 6. **Adversarial cross-system test:** Derive predicted isotopic correlations from functional constraints *before* fitting measured ratios, including U-Pb concordia, Rb-Sr isochrons, Sm-Nd, and independently dated post-initialization events.
 
-## Failure criteria
-- The claimed function is preserved by isotope substitution, defeating isotope-specific necessity.
-- The function is preserved by post-initialization accumulation, defeating initialization necessity.
+## Claim-specific failure criteria
+- If isotope substitution preserves a specified function, this challenges **only the claim of unique isotope-specific necessity for that function**, not coordinated initialization.
+- If post-initialization accumulation meets the same independently specified functional requirements, this challenges **only a claim that the inventory had to be present at commissioning**; it does not establish the actual provenance.
 - Claimed constraints are chosen only after observing target isotope ratios.
 - Each sample requires an unconstrained, separately tuned D0.
 - Predicted isotopic distributions or concordance patterns fail independently held-out tests.
@@ -69,7 +69,7 @@ The historical treatment of noncoding DNA supplies a *methodological analogy*, n
 4. **U-Th-He:** quantify mineral retention, fluid transport, and degassing; explicitly separate tracer usefulness from physical necessity.
 5. **Sm-Nd/Lu-Hf:** evaluate isotope-sensitive mineral effects and cross-system concordance with independent constraints.
 
-**First quantitative gates:** For K-Ar, calculate pressure and composition counterfactuals with equal-mole Ar isotope replacement as a control. For U-Pb, specify an independently constrained initial mineral composition, derive predicted isotope ratios and concordance behavior, and compare with a held-out mineral dataset. Document negative outcomes and uncertainty rather than assigning unexplained ratios to latent function.
+**First quantitative gates:** For K-Ar, calculate pressure and composition counterfactuals, including equal-mole Ar isotope replacement as a sensitivity control, not as a universal discriminator. For U-Pb, specify an independently constrained initial mineral composition, derive predicted isotope ratios and concordance behavior, and compare with a held-out mineral dataset. Document negative outcomes and uncertainty rather than assigning unexplained ratios to latent function.
 
 ## Quantitative gate 0: transparent benchmark calculations (2026-10-27)
 
@@ -82,7 +82,7 @@ Assume dry atmospheric argon mole fraction x_Ar = 0.00934 and Ar-40 fraction f40
 - Replacing each removed Ar-40 atom with Ar-36 at equal mole count preserves ideal-gas total pressure and the elemental argon mole fraction. Mean argon isotopic mass and mass-dependent transport properties change. The atomic mass contrast is approximately 10%; this is *not* a 10% change in atmospheric pressure or mass.
 - Neither calculation establishes that atmospheric Ar-40 was present at initialization. Dynamic models must add mantle degassing, radiogenic production, escape, atmospheric evolution, and independently selected functional thresholds.
 
-**Decision rule:** If isotope substitution leaves the proposed functional criterion satisfied across justified uncertainties, reject that particular Ar-40-specific necessity claim. If removal changes pressure but substitution restores function, the result supports an elemental-gas effect, not isotope-specific necessity.
+**Claim-specific interpretation:** If substitution preserves the specified functional criterion, the criterion does not establish Ar-40 uniqueness. This does not falsify a coherently initialized atmospheric inventory, nor demonstrate historical provenance. Removal and substitution are sensitivity controls, not decisive discriminators for DFM.
 
 ### U-Pb analytical concordance gate
 For a closed system after initialization, let P238(0), P235(0), D206*(0), D207*(0) be initial parent and radiogenic-daughter inventories. With ordinary decay:
@@ -109,3 +109,18 @@ With illustrative half-lives 4.468 billion years (U-238) and 703.8 million years
 | Independent prediction of concordia/isochrons | Not demonstrated | Severe outstanding obligation |
 
 **Next implementation:** source and freeze parameter tables; define atmospheric functional threshold(s) and realistic controls; obtain a publicly documented U-Pb zircon dataset; preregister a low-dimensional initial-state generative model; separate fitting and held-out samples. Do not use absence of known function as positive evidence of necessity.
+
+## Methodological correction: sufficiency, constraint, uniqueness, provenance
+
+**Status:** Governing clarification; supersedes earlier wording wherever substitution was treated as a general falsifier.
+
+1. **Functional sufficiency:** The actual isotopic configuration can support an independently specified function.
+2. **Functional constraint:** The function restricts a family of admissible isotopic configurations; no uniqueness is presumed.
+3. **Functional uniqueness:** Only one configuration satisfies the requirement, a stronger optional claim not entailed by DFM.
+4. **Historical provenance:** Whether the observed inventory was initialized or produced by subsequent processes is a separate historical inference, not established by present utility.
+
+The admissible functional state set can be represented as **A_F = {R : C_j(R) meets independently defined functional requirements for all j}**. A demonstration that R_actual belongs to A_F establishes sufficiency; showing A_F is restricted establishes constraint. A_F need not contain only R_actual. To make DFM predictive, its generative initialization model must specify a narrower, independently constrained distribution over A_F and yield held-out observational consequences without target-age fitting.
+
+**Substitution policy:** Substitution is an optional sensitivity probe that may isolate mass-dependent or isotope-specific effects for a chosen functional metric. It is not a default requirement, a test of historical origin, or a general falsification criterion. Equally, successful substitution cannot establish that the original state was purposeless; failed substitution cannot establish that the original state was specially created.
+
+**Revised gate logic:** (a) Specify physical and functional constraints independently; (b) derive an admissible configuration family; (c) evaluate the observed configuration against it; (d) derive cross-system predictions; (e) compare against conventional historical models using common observations, complexity penalties, and held-out data. If the initialized-state model has no predictive restrictions beyond arbitrary isotope assignments, that is a failure of its proposed *explanatory auxiliary*, not a logical disproof of divine creation.
