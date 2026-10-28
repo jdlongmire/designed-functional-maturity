@@ -60,3 +60,40 @@ F. Publish reproducible code, machine-readable inputs, negative results and a ga
 
 ## Open scientific obligations
 No independently validated function has yet been shown to determine specific daughter-isotope inventories. A proposed functional constraint cannot be inferred from its ability to fit target isotope ratios. Any short-history initialized-daughter account must also explain multi-system concordance, cross-cutting geological relationships, and independent known-age calibration rather than simply labeling radiometric ages retrodictive.
+
+## Amendment 2026-10-28: scope narrowing for the first U-Pb evaluation
+
+The first U-Pb evaluation in this program proceeds in a narrowed form, as
+recorded in section 1A (narrowing record) of the ratified evaluation
+predeclare, research/upb-validation/EVALUATION_PREDECLARE_v1.md, filed
+with this amendment. The narrowing items that touch this document are:
+
+- The generator is absent (predeclare item N1). This protocol's model M2
+  is a constrained functional initialization generator, G(Phi, L, B;
+  theta). The narrowed evaluation tests a concordia-family
+  parameterization with shared initial ratios, not the M2 generator.
+- The initials are fitted to ratios, not externally constrained (item
+  N2). This protocol fixes M2's parameters from non-target observations
+  before isotope outcomes are revealed; in the narrowed evaluation the
+  shared initials are fitted to the calibration cohort's ratios and
+  frozen. Under this protocol's assessment hierarchy, the narrowed
+  evaluation is Track A plausibility work, not a Track B discriminatory
+  or comparative test.
+- The holdout is from the same laboratory (item N5). This protocol's
+  holdout design avoids train/test leakage from shared inheritance, lab
+  calibration, or mineral origin; the narrowed holdout comes from the
+  same laboratory and method (Stanford-USGS SHRIMP-RG) as the calibration
+  cohort, so the narrowed evaluation tests geological generalization
+  only.
+- Gate position (item N7). The narrowed evaluation sits between G1-grade
+  diagnostics and the preregistered held-out evaluation; it is not the
+  discriminatory test this protocol governs.
+
+The original requirements of this document remain in force, unamended in
+substance, for the full preregistered PEP evaluation; that evaluation
+remains contingent on the independent-constraint work package named in
+the predeclare. This amendment was ratified by the Principal Operator on
+2026-10-28 ("Ratify v2 with the rubric-vocabulary fix") as part (b) of
+the three-part ratification of the predeclare.
+
+Human-Curated, AI-Enabled (HCAE)

@@ -54,3 +54,40 @@ Report for each: dataset coverage, normalized residuals, uncertainty calibration
 4. Execute preregistered forward predictions, held-out scoring, and AHPP audit.
 
 **Baseline verdict (2026-10-27): PEP not established.** Current heat models provide preliminary Track A consistency, not a demonstrated U-Th-Pb isotopic fit. No claim of superiority is required or made.
+
+## Amendment 2026-10-28: scope narrowing for the first U-Pb evaluation
+
+The first U-Pb evaluation in this program proceeds in a narrowed form, as
+recorded in section 1A (narrowing record) of the ratified evaluation
+predeclare, research/upb-validation/EVALUATION_PREDECLARE_v1.md, filed
+with this amendment. The narrowing items that touch this document are:
+
+- The generator is absent and the initials are fitted to ratios (items
+  N1, N2). Model D as specified here is a shared initialized reservoir
+  state with geochemical partition rules and inventories specified before
+  scoring; the narrowed evaluation instead fits shared initial ratios on
+  the calibration cohort under a concordia-family parameterization.
+- The comparator is narrower than specified (item N3). Comparator C as
+  specified here carries common-Pb treatment, mineral
+  crystallization/closure, and Pb-loss or mixing events where
+  independently warranted. The narrowed comparator is a per-sample
+  concordia age fit; neither side models common Pb beyond the source's
+  correction of the admitted ratios, U-series disequilibrium, or Pb loss.
+- The Th-Pb chain is out of scope (item N4). Test T3 of this pilot
+  (Th-232/Pb-208 joint consistency) is not run in the narrowed
+  evaluation; the frozen admission schema carries only the Wetherill pair
+  (r68, r75).
+- Outcome rubric. Under this pilot's outcome rubric, the narrowed
+  evaluation's outcome is capped at "adequate in scope" for a positive
+  result, with a negative result labeled "disfavored in scope" and an
+  undistinguished result reported as indistinguishability, not parity.
+  "PEP supported in scope" is not reachable by the narrowed evaluation.
+
+The original requirements of this document remain in force, unamended in
+substance, for the full preregistered PEP evaluation; that evaluation
+remains contingent on the independent-constraint work package named in
+the predeclare. This amendment was ratified by the Principal Operator on
+2026-10-28 ("Ratify v2 with the rubric-vocabulary fix") as part (b) of
+the three-part ratification of the predeclare.
+
+Human-Curated, AI-Enabled (HCAE)
