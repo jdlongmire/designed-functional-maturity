@@ -1,0 +1,53 @@
+{
+  "release": "sierra-nevada",
+  "title": "Tabular uranium-lead and trace-element compositional data of zircons and whole-rock geochemistry of plutonic rocks in the Sierra Nevada, California",
+  "authors": "Langenheim et al. (2025)",
+  "doi": "10.5066/P13LKC5C",
+  "sciencebase_item": "67d5cd7ed34e1acf3979e1a3",
+  "sciencebase_item_url": "https://www.sciencebase.gov/catalog/item/67d5cd7ed34e1acf3979e1a3",
+  "publication_date": "2025-04-23",
+  "retrieved_utc": "2026-10-28 07:38-07:40 UTC",
+  "retrieval_route": "Live browser session from the official ScienceBase item page after the item bot block cleared in a fresh browser environment; no sign-in, payment, or terms click-through. Direct API access from this VM returns HTTP 403.",
+  "license": "USGS public data release",
+  "inventory_method": "Equivalent record produced for this release. acquisition_inventory.py was NOT run: it is Manzano-specific (hardcoded DOI 10.5066/P9U0P2ZY and Manzano filenames).",
+  "attached_files_expected": [
+    {
+      "filename": "UPb_dates_zircon_trace_elements_final.csv",
+      "status": "PRESENT_UNVERIFIED",
+      "size_bytes": 206916,
+      "sha256": "74f5cd1c65f15cefc6b18ab3a28a01e952c865dbbf3ac8ac3ce94a66dd7fb310",
+      "note": "Zircon U-Pb and trace-element analytical table (downloaded)"
+    },
+    {
+      "filename": "DataDictionary_final.csv",
+      "status": "PRESENT_UNVERIFIED",
+      "size_bytes": 5047,
+      "sha256": "317d6b57c550c609352e5d00c51ceec00c9921c91afc5970ae5a02b03c6f16a5",
+      "note": "Data dictionary for the analytical table (downloaded)"
+    },
+    {
+      "filename": "sierra_igneous_sample_localities_into_review.csv",
+      "status": "PRESENT_UNVERIFIED",
+      "size_bytes": 8817,
+      "sha256": "858e49cb3a8d0342dbfefd22719772012f8e2139db628d68c522015d1772b4b5",
+      "note": "Sample locality table; attached on ScienceBase under the spaced name \"sierra igneous sample localities_into_review.csv\" (downloaded)"
+    },
+    {
+      "filename": "sierra_nevada_geochron_geochem_final.xml",
+      "status": "NOT_DOWNLOADED",
+      "note": "FGDC metadata record; not required for the admission audit"
+    },
+    {
+      "filename": "sndesa-zircons-chemistry.jpg",
+      "status": "NOT_DOWNLOADED",
+      "note": "Map image; not tabular data"
+    },
+    {
+      "filename": "sierra_chemistry_2024_final.csv",
+      "status": "NOT_DOWNLOADED",
+      "note": "Whole-rock geochemistry for 93 samples; deliberately out of scope for the zircon U-Pb admission audit"
+    }
+  ],
+  "status": "AWAITING_PROVENANCE",
+  "note": "Hashes describe local bytes; they do not independently authenticate source provenance. Provenance comparison is performed separately by source_provenance.py."
+}

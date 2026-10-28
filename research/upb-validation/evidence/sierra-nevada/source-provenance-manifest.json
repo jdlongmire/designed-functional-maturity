@@ -1,0 +1,29 @@
+[
+  {
+    "doi": "10.5066/P13LKC5C",
+    "source_url": "https://www.sciencebase.gov/catalog/item/67d5cd7ed34e1acf3979e1a3",
+    "filename": "UPb_dates_zircon_trace_elements_final.csv",
+    "sha256": "74f5cd1c65f15cefc6b18ab3a28a01e952c865dbbf3ac8ac3ce94a66dd7fb310",
+    "retrieved_utc": "2026-10-28 07:38-07:40 UTC",
+    "license": "USGS public data release",
+    "source_type": "Original USGS ScienceBase data file acquired via live browser session"
+  },
+  {
+    "doi": "10.5066/P13LKC5C",
+    "source_url": "https://www.sciencebase.gov/catalog/item/67d5cd7ed34e1acf3979e1a3",
+    "filename": "DataDictionary_final.csv",
+    "sha256": "317d6b57c550c609352e5d00c51ceec00c9921c91afc5970ae5a02b03c6f16a5",
+    "retrieved_utc": "2026-10-28 07:38-07:40 UTC",
+    "license": "USGS public data release",
+    "source_type": "Original USGS ScienceBase data file acquired via live browser session"
+  },
+  {
+    "doi": "10.5066/P13LKC5C",
+    "source_url": "https://www.sciencebase.gov/catalog/item/67d5cd7ed34e1acf3979e1a3",
+    "filename": "sierra_igneous_sample_localities_into_review.csv",
+    "sha256": "858e49cb3a8d0342dbfefd22719772012f8e2139db628d68c522015d1772b4b5",
+    "retrieved_utc": "2026-10-28 07:38-07:40 UTC",
+    "license": "USGS public data release",
+    "source_type": "Original USGS ScienceBase data file acquired via live browser session"
+  }
+]

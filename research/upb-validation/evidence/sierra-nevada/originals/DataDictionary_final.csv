@@ -1,0 +1,42 @@
+Table,Attribute_Definition,Description,Minimum,Maximum,Units
+UPb_dates_zircon_trace_elements_into_review,Sample_ID,Sample number as collected in the field,NA,NA,NA
+UPb_dates_zircon_trace_elements_into_review,Analysis_ID ,Laboratory run identifier assigned by analyst,NA,NA,NA
+UPb_dates_zircon_trace_elements_into_review,Pb207Pb206,Ratio of 207Pb to 206Pb,0.034,0.165,NA
+UPb_dates_zircon_trace_elements_into_review,Pb207Pb206UncPct1s,One sigma uncertainty (percent) for final ratio of 207Pb to 206Pb,0.5,218,percent
+UPb_dates_zircon_trace_elements_into_review,Pb208Pb206,Ratio of 208Pb to 206Pb,-0.0746,0.5063,NA
+UPb_dates_zircon_trace_elements_into_review,Pb208Pb206UncPct1s,One sigma uncertainty (percent) for final ratio of 208Pb to 206Pb,0.5256,537.0167,percent
+UPb_dates_zircon_trace_elements_into_review,Pb206U238 ,Ratio of 206Pb to 238U,0.0124,0.3672,NA
+UPb_dates_zircon_trace_elements_into_review,Pb206U238UncPct1S,One sigma (percent) error for ratio of 206Pb to 238U,0.9,59.6,percent
+UPb_dates_zircon_trace_elements_into_review,Pb208Th232,Ratio of 208Pb to 232Th,-0.0016,0.1044,NA
+UPb_dates_zircon_trace_elements_into_review,Pb208Th232UncPct1s,One sigma (percent) error for ratio of 208Pb to 232Th,1.9,540.4,percent
+UPb_dates_zircon_trace_elements_into_review,Pb207corr_Pb206U238Age,207Pb corrected age calculated using ratio of 206Pb to 238U in Mega annum (Ma),79.5,2043.2,Ma
+UPb_dates_zircon_trace_elements_into_review,Pb207corr_Pb206U238AgeUnc1S,One sigma uncertainty for 207Pb corrected age calculated using ratio of 206Pb to 238U in Mega annum (Ma),0.9,64.4,Ma
+UPb_dates_zircon_trace_elements_into_review,U,U concentration in parts per million,28,10300,parts per million (ppm)
+UPb_dates_zircon_trace_elements_into_review,Th,Th concentration in parts per million,10,5102,parts per million (ppm)
+UPb_dates_zircon_trace_elements_into_review,Ti49,Concentration of 49Ti in parts per million,0.7,218.7,parts per million (ppm)
+UPb_dates_zircon_trace_elements_into_review,Y,Y concentration in parts per million,57,7073,parts per million (ppm)
+UPb_dates_zircon_trace_elements_into_review,La,La concentration in parts per million,0.0001,30.6,parts per million (ppm)
+UPb_dates_zircon_trace_elements_into_review,Ce,Ce concentration in parts per million,0.2,203.4,parts per million (ppm)
+UPb_dates_zircon_trace_elements_into_review,Nd,Nd concentration in parts per million,0.017,65.974,parts per million (ppm)
+UPb_dates_zircon_trace_elements_into_review,Sm,Sm concentration in parts per million,0.1,30.45,parts per million (ppm)
+UPb_dates_zircon_trace_elements_into_review,Eu,Eu concentration in parts per million,-1.04,10.19,parts per million (ppm)
+UPb_dates_zircon_trace_elements_into_review,Gd,Gd concentration in parts per million,-7.5,146.6,parts per million (ppm)
+UPb_dates_zircon_trace_elements_into_review,Dy,Dy concentration in parts per million,3,804.2,parts per million (ppm)
+UPb_dates_zircon_trace_elements_into_review,Er,Er concentration in parts per million,8,1051,parts per million (ppm)
+UPb_dates_zircon_trace_elements_into_review,Yb,Yb concentration in parts per million,26,1927,parts per million (ppm)
+UPb_dates_zircon_trace_elements_into_review,Hf,Hf concentration in parts per million,6100,15002,parts per million (ppm)
+UPb_dates_zircon_trace_elements_into_review,TiZrnT,Calculated Ti-in-zircon temperature in degrees Celcius using the calibration of Ferry and Watson (2007) with a model activity of TiO2 of 0.7,565,1218,celsius
+UPb_dates_zircon_trace_elements_into_review,Age,Preferred age estimate in Mega annum (Ma),85,203,Ma
+UPb_dates_zircon_trace_elements_into_review,AgeUnc,Two sigma (absolute) for Preferred Age in Mega annum (Ma),1.2,3.4,Ma
+UPb_dates_zircon_trace_elements_into_review,NofAnalyses,Number of analyses included in preferred age,11,30,NA
+UPb_dates_zircon_trace_elements_into_review,MSWD,Mean square of weighted deviates for analyses included in preferred age,0.4,1.9,NA
+UPb_dates_zircon_trace_elements_into_review,SampleMaterial,Material or mineral analyzed,NA,NA,NA
+UPb_dates_zircon_trace_elements_into_review,AnalysisType ,Type of analysis,NA,NA,NA
+UPb_dates_zircon_trace_elements_into_review,Lab_ID,Laboratory name where analysis was carried out,NA,NA,NA
+UPb_dates_zircon_trace_elements_into_review,InstrumentMethod,Type of instrumental analysis,NA,NA,NA
+UPb_dates_zircon_trace_elements_into_review,Standard_Composition,Composition standard used on zircon mount,NA,NA,NA
+UPb_dates_zircon_trace_elements_into_review,Standard_Age,Age standard used on zircon mount,416.8,416.8,Ma
+UPb_dates_zircon_trace_elements_into_review,Conc_Std,Concentration standard used to calculate zircon trace element concentrations,NA,NA,NA
+UPb_dates_zircon_trace_elements_into_review,AgeIntpnType,Type of interpretation on the preferred age,NA,NA,NA
+UPb_dates_zircon_trace_elements_into_review,AgeIntpnClass,Class of interpretation on the preferred age,NA,NA,NA
+UPb_dates_zircon_trace_elements_into_review,AnalysisInc,Was the analyses included in the interpreted age? yes or no,NA,NA,NA

@@ -1,0 +1,95 @@
+Sample,Lithology (after Middlemarsh 1994),Latitude (NAD27),Longitude (NAD27),Collection Date,U-Pb date/zircon trace chemistry (this study),whole-rock chemistry,U-Pb date (Ma),U-Pb uncertainty (Ma),,Comment
+19pl104a,granodiorite,38.795667,-120.774667,4/17/19,yes,yes,138.5,1.4,,
+19pl170,granodiorite,38.820833,-120.924667,5/22/19,yes,yes,141.2,2.9,,Coloma pluton
+19pl166r,diorite,38.762667,-120.8785,5/22/19,yes,yes,146.1,2.4,,Coloma pluton
+20VEL13,diorite,39.058333,-120.405333,8/11/20,yes,yes,162.3,3.2,,
+20VEL14A,granodiorite,39.1155,-120.4725,8/11/20,yes,yes,164.6,2.7,,
+20VEL09,granodiorite,39.139167,-120.410667,8/11/20,yes,yes,108.9,2.1,,
+19poc051b,diorite,40.031833,-120.2265,7/30/19,yes,yes,106.1,1.7,,
+21pob100rA,granodiorite,40.1312677,-120.527609,6/24/21,yes,yes,121,2.2,,
+22sva024,monzonite,40.30816667,-120.761,9/20/22,yes,yes,162,2.9,,
+22sva066,granodiorite,40.0705,-120.048667,9/21/22,yes,yes,95.2,1.8,,
+20-R-61,quartz monzonite,38.987437,-121.052064,11/10/20,yes,yes,158.3,3.1,,Sugar Pine Mountain pluton
+20-R-57B,gabbroic diorite,39.109516,-120.963314,11/10/20,yes,yes,203,3.2,,Lake Combie Complex
+23rca082,granodiorite,35.266667,-118.049833,4/4/23,yes,yes,88.3,1.7,,near Garlock fault
+23rca088,granodiorite,35.248,-118.068167,4/4/23,yes,yes,85,1.3,,near Garlock fault
+23rca155,granodiorite,35.268333,-117.883,4/6/23,yes,yes,89.4,1.5,,upper-plate Rand thrust
+18qub139a,diorite,39.679333,-120.547333,7/26/18,yes,yes,166.1,3.4,,Haypress Creek pluton (Yuba Pass granodiorite)
+18pob055a,diorite,39.817,-120.5555,8/22/18,yes,yes,114.4,1.2,,
+18pob102b,granodiorite,39.733333,-120.5375,8/23/18,yes,yes,167,1.6,,"Haypress Creek pluton, undifferentiated"
+19poc026b,monzonite,39.873333,-120.176833,7/29/19,yes,yes,163.1,2.7,,
+19poc035r,granodiorite,39.826167,-120.113167,7/30/19,yes,yes,94.6,1.4,,
+19pob046,monzonite,39.623667,-120.470667,7/30/19,yes,yes,169.4,2.4,,Haypress Creek pluton (Yuba Pass granodiorite)
+19pob067,gabbroic diorite,39.6,-120.497667,7/31/19,yes,yes,167.3,2.5,,Haypress Creek pluton (Dead Horse Canyon gabbro and quartz monzonite)
+19pob126r,monzogabbro,39.5485,-120.5215,8/1/20,yes,yes,165.2,2.5,,Haypress Creek pluton (Dead Horse Canyon gabbro and quartz monzonite)
+BECKW,quartz monzonite,39.791167,-120.107667,8/30/20,yes,yes,93.7,2,,near Evernden and Kistler K-Ar locality
+20poc118,granodiorite,39.516833,-120.985333,8/29/20,yes,yes,155.3,3.1,,near Bohlke & McKee hornblende K-Ar locality (Indian Valley pluton)
+21poc077r,granodiorite,39.590167,-120.075,6/23/21,yes,yes,92,1.3,,
+21poc078,diorite,39.617,-120.008667,6/23/21,yes,yes,97,1.9,,
+MAR22-9,granodiorite,39.874696,-120.628363,6/14/22,yes,yes,108.1,2,,
+21pob052,granite,39.935,-120.152667,6/23/21,yes,yes,107.1,2.2,,
+AH-1133,granodiorite,40.00335,-121.31229,1970,yes,yes,140.2,2.5,,"Oliver Lake pluton, sample collected by Anna Hietanen (exact collection date unknown)"
+23sva011r,granodiorite,40.51364,-120.71455,8/8/23,yes,yes,128.3,1.6,,
+22rcb011R,monzogabbro,35.60133333,-117.0543333,4/5/22,yes,yes,156.9,2,,just north of Garlock fault
+23SVBS5A,granodiorite,40.17082,-120.679238,10/24/23,yes,yes,121.5,2.5,,"whole-rock chemistry id is 23SVBS5B, same location in outcrop"
+23SVBS6A,granodiorite,40.23135,-120.6440997,10/25/23,yes,yes,106.5,2.4,,"whole-rock chemistry id is 23SVBS6B, same location in outcrop"
+23svb340,granitoid,40.14066667,-120.6713333,10/24/23,yes,no,150.2,2.7,,dike/hypabyssal rock
+17qub060r,granodiorite,39.78166667,-121.3443333,7/25/17,no,yes,,,,"Merrimac pluton, U-Pb date and zircon chemistry in Langenheim et al. (2021)"
+17chb135r,diorite,39.70283333,-121.3843333,9/26/17,no,yes,,,,"Merrimac pluton, U-Pb date and zircon chemistry in Langenheim et al. (2021)"
+16qui103,granodiorite,39.83916667,-121.241,8/10/16,no,yes,,,,Granite Basin pluton; U-Pb date and zircon chemistry in Langenheim et al. (2021)
+20poc073,diorite,39.6455,-120.5736667,8/28/20,no,yes,,,,Haypress Creek pluton (Yuba Pass granodiorite)
+20poc73r,diorite,39.65016667,-120.5725,8/28/20,no,yes,,,,Haypress Creek pluton (Yuba Pass granodiorite)
+20poc077,diorite,39.66183333,-120.5073333,8/28/20,no,yes,,,,Haypress Creek pluton (Yuba Pass granodiorite)
+20poc135r,granodiorite,39.516,-120.4808333,8/30/20,no,yes,,,,Haypress Creek pluton (Southern granodiorite)
+20poc143r,monzonite,39.53383333,-120.551,8/30/20,no,yes,,,,Haypress Creek pluton (Bald Ridge monzodiorite gabbro)
+20VEL01,granodiorite,39.13116667,-120.4143333,8/11/20,no,yes,,,,
+20VEL02,granodiorite,39.12816667,-120.412,8/11/20,no,yes,,,,
+20VEL03,granodiorite,39.12283333,-120.4205,8/11/20,no,yes,,,,
+20VEL04,granodiorite,39.123,-120.4261667,8/11/20,no,yes,,,,
+20VEL12,gabbroic diorite,39.07216667,-120.4193333,8/11/20,no,yes,,,,
+FF1,granodiorite,39.62816667,-121.2703333,7/1/18,no,yes,,,,"Bald Rock pluton, U-Pb date and zircon chemistry in Langenheim et al. (2021)"
+BBR,granite,39.6465,-121.3418333,7/1/18,no,yes,,,,"Bald Rock pluton, U-Pb date and zircon chemistry in Langenheim et al. (2021)"
+19pl14r,gabbroic diorite,38.8005,-120.8826667,4/15/19,no,yes,,,,margin of Coloma pluton
+190613-r,granite,38.6395,-120.8695,6/13/19,no,yes,,,,porphyry or hypabyssal rock
+19poc26A,monzonite,39.87333333,-120.1768333,7/29/19,no,yes,,,,same outcrop as 19poc026b
+18qub139b,diorite,39.679333,-120.547333,7/26/18,no,yes,,,,Haypress Creek pluton (same outcrop as 18qub139a)
+19poc21,granite,39.83666667,-120.1551667,7/29/19,no,yes,,,,
+18pob102a,granodiorite,39.73333333,-120.5375,8/23/18,no,yes,,,,Haypress Creek pluton (undifferentiated)
+18pob136c,diorite,39.83933333,-120.4936667,8/24/18,no,yes,,,,
+18pob104rsA,granodiorite,39.735,-120.5225,8/23/18,no,yes,,,,Haypress Creek pluton (undifferentiated)
+19poc49,diorite,40.04333333,-120.2341667,7/30/19,no,yes,,,,
+19poc51A,diorite,40.03183333,-120.2265,7/30/19,no,yes,,,,
+19poc56A,diorite,40.02233333,-120.1576667,7/30/19,no,yes,,,,
+19poc62,quartz monzonite,40.01383333,-120.0686667,7/30/19,no,yes,,,,float
+19poc89,granite,39.93416667,-120.1288333,7/31/19,no,yes,,,,
+17qub076r,gabbroic diorite,39.92166667,-121.1896667,7/26/17,no,yes,,,,"Bucks Lake pluton, U-Pb date and zircon chemistry in Langenheim et al. (2021)"
+17qub109,gabbroic diorite,39.87116667,-121.0806667,7/27/17,no,yes,,,,"Bucks Lake pluton, U-Pb date and zircon chemistry in Langenheim et al. (2021)"
+17qud011r,granodiorite,39.71283333,-121.205,7/24/17,no,yes,,,,"Cascade pluton, U-Pb date and zircon chemistry in Langenheim et al. (2021)"
+17qud069,diorite,39.70816667,-121.1431667,7/26/17,no,yes,,,,"Cascade pluton, U-Pb date and zircon chemistry in Langenheim et al. (2021)"
+MAR21-11,peridogabbro,39.87758126,-120.6428186,6/22/21,no,yes,,,,highly magnetic
+20R-59A,peridogabbro,39.1068097,-120.9631196,11/10/20,no,yes,,,,Lake Combie Complex
+20R-59B,peridogabbro,39.1068097,-120.9631196,11/10/20,no,yes,,,,Lake Combie Complex
+20R-59C,gabbro ,39.1068097,-120.9631196,11/10/20,no,yes,,,,Lake Combie Complex
+18qub109b,granodiorite,39.677,-120.5791667,7/26/18,no,yes,,,,Haypress Creek pluton (Yuba Pass granodiorite)
+18qub131b,diorite,39.68333333,-120.5678333,7/26/18,no,yes,,,,Haypress Creek pluton (Yuba Pass granodiorite)
+18yb117a,granodiorite,39.39516667,-121.0836667,6/14/18,no,yes,,,,Yuba Rivers pluton
+18yb117c,granodiorite,39.39516667,-121.0836667,6/14/18,no,yes,,,,Yuba Rivers pluton
+15DS69,gabbro,39.52633333,-121.3136667,10/17/15,no,yes,,,,mafic pluton within Smartville complex
+16qui004,diorite,39.9638,-121.2737,8/15/16,no,yes,,,,Bucks Lake pluton
+16qui006,diorite,39.954,-121.2985,8/15/16,no,yes,,,,Bucks Lake pluton
+16qui007,diorite,39.926,-121.314333,8/15/16,no,yes,,,,Bucks Lake pluton
+16qui009,diorite,39.91,-121.3301667,8/15/16,no,yes,,,,Grizzly pluton
+16qui011,diorite,39.87283333,-121.3725,8/15/16,no,yes,,,,Grizzly pluton
+16qui085a,quartz diorite,39.74183333,-121.2323333,8/16/16,no,yes,,,,Casacde pluton
+16qui085b,quartz diorite,39.74183333,-121.2323333,8/16/16,no,yes,,,,Casacde pluton
+17DS01,quartz diorite,39.586,-121.302,5/7/17,no,yes,,,,Bald Rock pluton
+17DS03,quartz diorite,39.58233333,-121.3051667,5/7/17,no,yes,,,,Bald Rock pluton
+17DS04,quartz diorite,39.503,-121.4256667,5/7/17,no,yes,,,,Swedes Flat pluton
+17DS05,quartz diorite,39.51416667,-121.4371667,5/7/17,no,yes,,,,Swedes Flat pluton; mafic border
+16chd093,quartz diorite,39.8845,-121.4576667,8/8/17,no,yes,,,,Grizzly pluton
+16qui134,quartz diorite,39.89116667,-121.2885,8/8/17,no,yes,,,,Bucks Lake pluton
+16qui136a,quartz diorite,39.8965,-121.3256667,8/8/17,no,yes,,,,Grizzly pluton
+16qui136b,quartz diorite,39.8965,-121.3256667,8/8/17,no,yes,,,,Grizzly pluton
+16qui138,quartz diorite,39.8795,-121.3251667,8/8/17,no,yes,,,,Grizzly pluton
+16qui140,quartz diorite,39.87416667,-121.3506667,8/8/17,no,yes,,,,Grizzly pluton
+16qui148,quartz diorite,39.87866667,-121.1825,8/8/17,no,yes,,,,Bucks Lake pluton
