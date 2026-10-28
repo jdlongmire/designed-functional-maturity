@@ -1,0 +1,26 @@
+{
+  "release": "manzano",
+  "doi": "10.5066/P9U0P2ZY",
+  "status": "AWAITING_PROVENANCE",
+  "files": [
+    {
+      "filename": "geochronology_SHRIMP-RG_manzanoMtns_jones.csv",
+      "status": "PRESENT_UNVERIFIED",
+      "size_bytes": 8608,
+      "sha256": "5fff6ae27388471313004c97d8894dbfd98045699f68fe63461e6a73f7eea4ce"
+    },
+    {
+      "filename": "geochronology_sampleSummary_manzanoMtns_jones.csv",
+      "status": "PRESENT_UNVERIFIED",
+      "size_bytes": 416,
+      "sha256": "89b04e95b5db51e615b3c521f6252ed02c9c8f973bc0d13b82523086661b6fc0"
+    },
+    {
+      "filename": "geochronology_dataDictionary_manzanoMtns_jones.csv",
+      "status": "PRESENT_UNVERIFIED",
+      "size_bytes": 8749,
+      "sha256": "0a22434070f4ab30f69afe957b6ae8b65d7e71ff156d55b1a5c294f474a6cb03"
+    }
+  ],
+  "note": "Hashes describe local bytes; they do not independently authenticate source provenance."
+}

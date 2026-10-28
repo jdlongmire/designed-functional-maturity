@@ -1,0 +1,69 @@
+Table,Field,Description,Units
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,Sample,Sample number as collected in the field; internal USGS identifier.,n/a
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,Mineral,Mineral analyzed,n/a
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,Mount,Internal laboratory ID number for sample mount,n/a
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,Standard,Age reference material used on mount,n/a
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,Standard_Age,"Assumed age of age reference material for data reduction, in million years before present (mega-annum)",Ma
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,Conc_Std,Concentration standard used to calibrate trace element concentrations,n/a
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,Analysis_Spot,Internal ID number of individual analysis spot,n/a
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,AnalysisSpot_Mount,Concatenation of Analysis_Spot and Mount,n/a
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,Analysis_Date_Time,Date and time of analysis for individual analysis spot,n/a
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,U_conc_ppm,"Uranium concentration, in parts per million",ppm
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,Th_conc_ppm,"Thorium concentration, in parts per million",ppm
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,comm_206Pb_perc,"207Pb corrected common 206Pb, in percent",%
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,238U_206Pb_Ratio,Total ratio of 238U to 206Pb,n/a
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,238U_206Pb_Ratio_Unc_1sig_perc,"Uncertainty (1-sigma) on total ratio of 238U to 206Pb, in percent",%
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,207Pb_206Pb_Ratio,Total ratio of 207Pb to 206Pb,n/a
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,207Pb_206Pb_Ratio_Unc_1sig_perc,"Uncertainty (1-sigma) on total ratio of 207Pb to 206Pb, in percent",%
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,204Pbcorr_238U_206Pb_Ratio,204Pb-corrected ratio of 238U to 206Pb,n/a
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,204Pbcorr_238U_206Pb_Ratio_Unc_1sig_perc,"Uncertainty (1-sigma) on 204Pb-corrected ratio of 238U to 206Pb, in percent",%
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,204Pbcorr_207Pb_206Pb_Ratio,204Pb-corrected ratio of 207Pb to 206Pb,n/a
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,204Pbcorr_207Pb_206Pb_Ratio_Unc_1sig_perc,"Uncertainty (1-sigma) on 204Pb-corrected ratio of 207Pb to 206Pb, in percent",%
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,204Pbcorr_207Pb_235U_Ratio,204Pb-corrected ratio of 207Pb to 235U.,n/a
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,204Pbcorr_207Pb_235U_Ratio_Unc_1sig_perc,"Uncertainty (1-sigma) on 204Pb-corrected ratio of 207Pb to 235U, in percent",%
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,204Pbcorr_206Pb_238U_Ratio,204Pb-corrected ratio of 206Pb to 238U.,n/a
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,204Pbcorr_206Pb_238U_Ratio_Unc_1sig_perc,"Uncertainty (1-sigma) on 204Pb-corrected ratio of 206Pb to 238U, in percent",%
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,Error_Correlation,Error correlation of the 207Pb/235U and 206Pb/238U ratios.,n/a
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,207Pbcorr_206Pb_238U_Age,"207Pb-corrected 206Pb/238U age, in millions of years before present (mega-annum)",Ma
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,207Pbcorr_206Pb_238U_Age_Unc_1sig,"Uncertainty (1-sigma) 207Pb-corrected 206Pb/238U age, in millions of years before present (mega-annum)",Ma
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,204Pbcorr_207Pb_206Pb_Age,"204Pb-corrected 207Pb/206Pb age, in millions of year before present (mega-annum)",Ma
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,204Pbcorr_207Pb_206Pb_Age_Unc_1sig,"Uncertainty (1-sigma) on 204Pb-corrected 207Pb/206Pb age, in millions of year before present (mega-annum)",Ma
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,Preferred_SHRIMP_Age,"Preferred grain age for calculation of sample age (in millions of years, or Ma), selected from one of two following fields containing corrected ages for each grain:  ""207Pbcorr_206Pb_over_238U_Age"" or ""204Pbcorr_207Pb_over_206Pb_Age""",Ma
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,Preferred_SHRIMP_Age_Unc_1sig,Uncertainty (1-sigma) on preferred grain age,Ma
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,Preferred_SHRIMP_Age_Type,"Method used to calculate the values in the ""Preferred_SHRIMP_Age"" field for each individual analysis that yielded a valid result.  ",n/a
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,Interpreted_Age_Included,Indication of whether or not analysis was used in calculation of 'UPb_Age_Ma' in the Sample Summary table.,n/a
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,Percent_Discordant,"Discordance of 206Pb/238U age versus 207Pb/206Pb age, in percent",%
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,Y_ppm,"Yttrium concentration, in parts per million",ppm
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,Nb_ppm,"Niobium concentration, in parts per million",ppm
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,La_ppm,"Lanthanum concentration, in parts per million",ppm
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,Ce_ppm,"Cerium concentration, in parts per million",ppm
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,Pr_ppm,"Praseodymium concentration, in parts per million",ppm
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,Nd_ppm,"Neodymium concentration, in parts per million",ppm
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,Sm_ppm,"Samarium concentration, in parts per million",ppm
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,Eu_ppm,"Europium concentration, in parts per million",ppm
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,Gd_ppm,"Gadolinium concentration, in parts per million",ppm
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,Dy_ppm,"Dysprosium concentration, in parts per million",ppm
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,Er_ppm,"Erbium concentration, in parts per million",ppm
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,Yb_ppm,"Ytterbium concentration, in parts per million",ppm
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,Hf_ppm,"Hafnium concentration, in parts per million",ppm
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,48Ti_ppm,"Titanium (from mass 48) concentration, in parts per million",ppm
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,49Ti_ppm,"Titanium (from mass 49) concentration, in parts per million",ppm
+geochronology_SHRIMP-RG_manzanoMtns_jones.csv,Fe_ppm,"Iron concentration, in parts per million",ppm
+geochronology_sampleSummary_manzanoMtns_jones.csv,Sample,Sample number as collected in the field; internal USGS identifier.,n/a
+geochronology_sampleSummary_manzanoMtns_jones.csv,Lab_Sample,Sample name assigned by laboratory corresponding directly to the internal USGS identifier Sample.,n/a
+geochronology_sampleSummary_manzanoMtns_jones.csv,Latitude,Latitude of sample field location in NAD83,degree
+geochronology_sampleSummary_manzanoMtns_jones.csv,Longitude,Longitude of sample field location in NAD83,degree
+geochronology_sampleSummary_manzanoMtns_jones.csv,Rock_Class,Sample rock classification,n/a
+geochronology_sampleSummary_manzanoMtns_jones.csv,Rock_Type,Sample rock type,n/a
+geochronology_sampleSummary_manzanoMtns_jones.csv,Rock_Comment,Sample rock comment,n/a
+geochronology_sampleSummary_manzanoMtns_jones.csv,Analysis_Type,Type of geochronologic analysis,n/a
+geochronology_sampleSummary_manzanoMtns_jones.csv,Analysis_Lab,Laboratory or contractor where data were collected,n/a
+geochronology_sampleSummary_manzanoMtns_jones.csv,Analysis_Method,Laboratory equipment and methodology used to collect data,n/a
+geochronology_sampleSummary_manzanoMtns_jones.csv,UPb_Age_N_Grains_Total,Total number of grains analyzed,n/a
+geochronology_sampleSummary_manzanoMtns_jones.csv,UPb_Age_Ma,"Weighted average age calculated for sample (in millions of years, or Ma)",Ma
+geochronology_sampleSummary_manzanoMtns_jones.csv,UPb_Age_Unc_Ma,Uncertainty (2-sigma) of weighted average age calculated for sample in millions of years (Ma),Ma
+geochronology_sampleSummary_manzanoMtns_jones.csv,UPb_Age_Method,Method used to calculate the value in the UPb_Age_Ma field ,n/a
+geochronology_sampleSummary_manzanoMtns_jones.csv,UPb_Age_N_Grains,Number of analyses used to calculate the value in the UPb_Age_Ma field ,n/a
+geochronology_sampleSummary_manzanoMtns_jones.csv,UPb_Age_MSWD,Mean square of weighted deviates for calculated value in UPb_Age_Ma field,n/a
+geochronology_sampleSummary_manzanoMtns_jones.csv,UPb_Age_Comment,Comments on sample age or analytical observations,n/a
+geochronology_sampleSummary_manzanoMtns_jones.csv,UPb_Age_Interpretation,Geological significance of interpreted age,n/a
