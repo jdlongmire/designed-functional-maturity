@@ -63,3 +63,41 @@ D5 Epistemic assessment: consistency, plausibility, PEP, discriminators, limitat
 
 ## Immediate decisions
 Select first geological/mineral cohort and define independent calibration sources. Avoid using published model-derived 'ages' as the only response variable; prioritize measured ratios and covariance. No repository mutations or cross-agent handoffs are implied by this draft.
+
+## Amendment 2026-10-28: scope narrowing for the first U-Pb evaluation
+
+The first U-Pb evaluation in this program proceeds in a narrowed form, as
+recorded in section 1A (narrowing record) of the ratified evaluation
+predeclare, research/upb-validation/EVALUATION_PREDECLARE_v1.md, filed
+with this amendment. The narrowing items that touch this document are:
+
+- Externally constrained parameters have not been frozen (item N2).
+  Gate G2 of this protocol (externally constrained RCI parameters frozen
+  before held-out evaluation) has not occurred as specified: no
+  independent constraint set exists in the record, and the shared
+  initials are fitted to the calibration cohort's ratios and frozen.
+  Hypothesis H1 is addressed only in weakened form, and H2 is not
+  addressed at all.
+- The split and context design is narrowed (items N5, N6). This protocol
+  calls for multiple geological contexts and laboratories, grouped splits
+  by geological unit and laboratory, and an external laboratory dataset
+  where eligible data exist. The narrowed evaluation calibrates on a
+  single sample from one unit and one laboratory, and its holdout is
+  from the same laboratory and method, so it tests geological
+  generalization only.
+- The comparator is run in closed-system concordia form only (item N3).
+  The initial disequilibrium and Pb-loss treatments this protocol
+  contemplates for the conventional model are not modeled on either
+  side; the absence is symmetric.
+- Gate position (item N7). The narrowed evaluation sits between gates G1
+  and G3 of this protocol. It is not the G3 preregistered held-out
+  evaluation, and G4 is untouched.
+
+The original requirements of this document remain in force, unamended in
+substance, for the full preregistered PEP evaluation; that evaluation
+remains contingent on the independent-constraint work package named in
+the predeclare. This amendment was ratified by the Principal Operator on
+2026-10-28 ("Ratify v2 with the rubric-vocabulary fix") as part (b) of
+the three-part ratification of the predeclare.
+
+Human-Curated, AI-Enabled (HCAE)
