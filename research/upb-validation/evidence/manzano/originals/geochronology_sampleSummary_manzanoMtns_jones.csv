@@ -1,0 +1,2 @@
+Sample,Latitude,Longitude,Rock_Class,Rock_Type,Rock_Comment,Analysis_Type,Analysis_Lab,Analysis_Method,UPb_Age_N_Grains_Total,UPb_Age_Ma,UPb_Age_Unc_Ma,UPb_Age_Method,UPb_Age_N_Grains,UPb_Age_MSWD,UPb_Age_Interpretation
+K05-ABO-1r,34.4212,-106.5174,metamorphic,metarhyolite,Blue Springs metarhyolite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,24,1588,7,weighted average 206Pb/238U age,23,1.56,crystallization

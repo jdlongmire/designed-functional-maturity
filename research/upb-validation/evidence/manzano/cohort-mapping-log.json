@@ -1,0 +1,198 @@
+{
+  "source_files": {
+    "analytical_csv": "geochronology_SHRIMP-RG_manzanoMtns_jones.csv",
+    "analytical_sha256": "5fff6ae27388471313004c97d8894dbfd98045699f68fe63461e6a73f7eea4ce",
+    "sample_summary_csv": "geochronology_sampleSummary_manzanoMtns_jones.csv"
+  },
+  "source_rows": 24,
+  "rows_mapped_to_cohort": 24,
+  "rows_excluded_before_audit": 0,
+  "cohort_csv": "manzano-admission-cohort.csv",
+  "cohort_sha256": "8bf4ebbea63ea2c99f9304bc66e0f54b5912a029438b3dbe50de4cae259f9b65",
+  "field_mapping": {
+    "source_doi": "Release DOI 10.5066/P9U0P2ZY",
+    "source_sha256": "SHA-256 of the original analytical CSV bytes",
+    "analysis_id": "AnalysisSpot_Mount",
+    "rock_unit": "Sample summary Rock_Comment",
+    "laboratory": "Sample summary Analysis_Lab",
+    "method": "Sample summary Analysis_Method",
+    "r68": "204Pbcorr_206Pb_238U_Ratio",
+    "r75": "204Pbcorr_207Pb_235U_Ratio",
+    "sigma68_abs_1s": "r68 * 204Pbcorr_206Pb_238U_Ratio_Unc_1sig_perc / 100",
+    "sigma75_abs_1s": "r75 * 204Pbcorr_207Pb_235U_Ratio_Unc_1sig_perc / 100",
+    "rho_wetherill": "Error_Correlation",
+    "common_pb_method": "204Pb correction, from the 204Pbcorr_ source fields",
+    "correction_status": "corrected_radiogenic",
+    "measurement_basis": "wetherill_absolute_1sigma after percent-to-absolute conversion"
+  },
+  "records": [
+    {
+      "source_line": 2,
+      "analysis_id": "K05ABO1R-5.1_AJJ46",
+      "status": "MAPPED_TO_COHORT",
+      "interpreted_age_included_source_value": "N",
+      "selection_note": "Retained regardless of Interpreted_Age_Included."
+    },
+    {
+      "source_line": 3,
+      "analysis_id": "K05ABO1R-7.1_AJJ46",
+      "status": "MAPPED_TO_COHORT",
+      "interpreted_age_included_source_value": "Y",
+      "selection_note": "Retained regardless of Interpreted_Age_Included."
+    },
+    {
+      "source_line": 4,
+      "analysis_id": "K05ABO1R-2.1_AJJ46",
+      "status": "MAPPED_TO_COHORT",
+      "interpreted_age_included_source_value": "Y",
+      "selection_note": "Retained regardless of Interpreted_Age_Included."
+    },
+    {
+      "source_line": 5,
+      "analysis_id": "K05ABO1R-17.1_AJJ46",
+      "status": "MAPPED_TO_COHORT",
+      "interpreted_age_included_source_value": "Y",
+      "selection_note": "Retained regardless of Interpreted_Age_Included."
+    },
+    {
+      "source_line": 6,
+      "analysis_id": "K05ABO1R-9.1_AJJ46",
+      "status": "MAPPED_TO_COHORT",
+      "interpreted_age_included_source_value": "Y",
+      "selection_note": "Retained regardless of Interpreted_Age_Included."
+    },
+    {
+      "source_line": 7,
+      "analysis_id": "K05ABO1R-24.1_AJJ46",
+      "status": "MAPPED_TO_COHORT",
+      "interpreted_age_included_source_value": "Y",
+      "selection_note": "Retained regardless of Interpreted_Age_Included."
+    },
+    {
+      "source_line": 8,
+      "analysis_id": "K05ABO1R-11.1_AJJ46",
+      "status": "MAPPED_TO_COHORT",
+      "interpreted_age_included_source_value": "Y",
+      "selection_note": "Retained regardless of Interpreted_Age_Included."
+    },
+    {
+      "source_line": 9,
+      "analysis_id": "K05ABO1R-15.1_AJJ46",
+      "status": "MAPPED_TO_COHORT",
+      "interpreted_age_included_source_value": "Y",
+      "selection_note": "Retained regardless of Interpreted_Age_Included."
+    },
+    {
+      "source_line": 10,
+      "analysis_id": "K05ABO1R-10.1_AJJ46",
+      "status": "MAPPED_TO_COHORT",
+      "interpreted_age_included_source_value": "Y",
+      "selection_note": "Retained regardless of Interpreted_Age_Included."
+    },
+    {
+      "source_line": 11,
+      "analysis_id": "K05ABO1R-6.1_AJJ46",
+      "status": "MAPPED_TO_COHORT",
+      "interpreted_age_included_source_value": "Y",
+      "selection_note": "Retained regardless of Interpreted_Age_Included."
+    },
+    {
+      "source_line": 12,
+      "analysis_id": "K05ABO1R-22.1_AJJ46",
+      "status": "MAPPED_TO_COHORT",
+      "interpreted_age_included_source_value": "Y",
+      "selection_note": "Retained regardless of Interpreted_Age_Included."
+    },
+    {
+      "source_line": 13,
+      "analysis_id": "K05ABO1R-21.1_AJJ46",
+      "status": "MAPPED_TO_COHORT",
+      "interpreted_age_included_source_value": "Y",
+      "selection_note": "Retained regardless of Interpreted_Age_Included."
+    },
+    {
+      "source_line": 14,
+      "analysis_id": "K05ABO1R-16.1_AJJ46",
+      "status": "MAPPED_TO_COHORT",
+      "interpreted_age_included_source_value": "Y",
+      "selection_note": "Retained regardless of Interpreted_Age_Included."
+    },
+    {
+      "source_line": 15,
+      "analysis_id": "K05ABO1R-1.1_AJJ46",
+      "status": "MAPPED_TO_COHORT",
+      "interpreted_age_included_source_value": "Y",
+      "selection_note": "Retained regardless of Interpreted_Age_Included."
+    },
+    {
+      "source_line": 16,
+      "analysis_id": "K05ABO1R-18.1_AJJ46",
+      "status": "MAPPED_TO_COHORT",
+      "interpreted_age_included_source_value": "Y",
+      "selection_note": "Retained regardless of Interpreted_Age_Included."
+    },
+    {
+      "source_line": 17,
+      "analysis_id": "K05ABO1R-4.1_AJJ46",
+      "status": "MAPPED_TO_COHORT",
+      "interpreted_age_included_source_value": "Y",
+      "selection_note": "Retained regardless of Interpreted_Age_Included."
+    },
+    {
+      "source_line": 18,
+      "analysis_id": "K05ABO1R-3.1_AJJ46",
+      "status": "MAPPED_TO_COHORT",
+      "interpreted_age_included_source_value": "Y",
+      "selection_note": "Retained regardless of Interpreted_Age_Included."
+    },
+    {
+      "source_line": 19,
+      "analysis_id": "K05ABO1R-14.1_AJJ46",
+      "status": "MAPPED_TO_COHORT",
+      "interpreted_age_included_source_value": "Y",
+      "selection_note": "Retained regardless of Interpreted_Age_Included."
+    },
+    {
+      "source_line": 20,
+      "analysis_id": "K05ABO1R-13.1_AJJ46",
+      "status": "MAPPED_TO_COHORT",
+      "interpreted_age_included_source_value": "Y",
+      "selection_note": "Retained regardless of Interpreted_Age_Included."
+    },
+    {
+      "source_line": 21,
+      "analysis_id": "K05ABO1R-19.1_AJJ46",
+      "status": "MAPPED_TO_COHORT",
+      "interpreted_age_included_source_value": "Y",
+      "selection_note": "Retained regardless of Interpreted_Age_Included."
+    },
+    {
+      "source_line": 22,
+      "analysis_id": "K05ABO1R-8.1_AJJ46",
+      "status": "MAPPED_TO_COHORT",
+      "interpreted_age_included_source_value": "Y",
+      "selection_note": "Retained regardless of Interpreted_Age_Included."
+    },
+    {
+      "source_line": 23,
+      "analysis_id": "K05ABO1R-12.1_AJJ46",
+      "status": "MAPPED_TO_COHORT",
+      "interpreted_age_included_source_value": "Y",
+      "selection_note": "Retained regardless of Interpreted_Age_Included."
+    },
+    {
+      "source_line": 24,
+      "analysis_id": "K05ABO1R-20.1_AJJ46",
+      "status": "MAPPED_TO_COHORT",
+      "interpreted_age_included_source_value": "Y",
+      "selection_note": "Retained regardless of Interpreted_Age_Included."
+    },
+    {
+      "source_line": 25,
+      "analysis_id": "K05ABO1R-23.1_AJJ46",
+      "status": "MAPPED_TO_COHORT",
+      "interpreted_age_included_source_value": "Y",
+      "selection_note": "Retained regardless of Interpreted_Age_Included."
+    }
+  ]
+}
