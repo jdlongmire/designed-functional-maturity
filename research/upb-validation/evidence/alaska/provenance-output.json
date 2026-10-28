@@ -1,0 +1,20 @@
+{
+  "status": "VERIFIED",
+  "sources": [
+    {
+      "filename": "geochronology_SHRIMP-RG_swAlaskaMts_jones.csv",
+      "status": "VERIFIED",
+      "sha256": "c891fff4a4454c40377de2288e6e1d47b970e6ee6ac08e8712a42e746d4b186d"
+    },
+    {
+      "filename": "geochronology_sampleSummary_swAlaskaMts_jones.csv",
+      "status": "VERIFIED",
+      "sha256": "189e32c39a9ab8b87c9c9e027f3547aed425320a28744142d7228e6bd2a2a7f0"
+    },
+    {
+      "filename": "geochronology_dataDictionary_swAlaskaMts_jones.csv",
+      "status": "VERIFIED",
+      "sha256": "93716a490f6cde071957814e6771d51c2f65e3cfcbf0e3d0ae22b2f4c9a8aa6b"
+    }
+  ]
+}
