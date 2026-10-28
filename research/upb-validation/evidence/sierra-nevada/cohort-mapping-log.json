@@ -1,0 +1,25 @@
+{
+  "source_files": {
+    "analytical_csv": "UPb_dates_zircon_trace_elements_final.csv",
+    "analytical_sha256": "74f5cd1c65f15cefc6b18ab3a28a01e952c865dbbf3ac8ac3ce94a66dd7fb310",
+    "dictionary_csv": "DataDictionary_final.csv",
+    "locality_csv": "sierra_igneous_sample_localities_into_review.csv"
+  },
+  "file_records_total": 741,
+  "sample_summary_records_not_analyses": 35,
+  "spot_analyses": 706,
+  "rows_mapped_to_cohort": 706,
+  "rows_excluded_before_audit": 0,
+  "cohort_csv": "sierra-nevada-admission-cohort.csv",
+  "cohort_sha256": "83532a6793b1c16631bb44846e0f0277f0ad9af6f75ebfecec2e3b0b02f8653d",
+  "field_populatability": {
+    "r68": "populated from Pb206U238 (published ratio; radiogenic basis NOT confirmed by dictionary)",
+    "r75": "NOT populated: no 207Pb/235U published; derivation rejected (unverified radiogenic basis; sigma75 and rho require unpublished covariance)",
+    "sigma68_abs_1s": "populated: r68 * Pb206U238UncPct1S / 100 (dictionary: one sigma, percent)",
+    "sigma75_abs_1s": "NOT populated: no r75 and no published covariance",
+    "rho_wetherill": "NOT populated: no error-correlation field published anywhere in the release",
+    "common_pb_method": "NOT populated: no correction of the tabulated ratios is documented; the documented 207Pb correction produces a derived age, not corrected ratios",
+    "correction_status": "NOT populated: corrected_radiogenic cannot be honestly asserted for the tabulated ratios",
+    "measurement_basis": "NOT populated: wetherill_absolute_1sigma cannot be asserted without the Wetherill pair"
+  }
+}
