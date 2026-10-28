@@ -1,0 +1,94 @@
+Table,Field,Description,Units
+geochronology_SHRIMP-RG_swAlaskaMts_jones,Sample,Sample number as collected in the field; internal USGS identifier.,n/a
+geochronology_SHRIMP-RG_swAlaskaMts_jones,Mineral,Mineral analyzed,n/a
+geochronology_SHRIMP-RG_swAlaskaMts_jones,Mount,Internal laboratory ID number for sample mount,n/a
+geochronology_SHRIMP-RG_swAlaskaMts_jones,Standard,Age reference material used on mount,n/a
+geochronology_SHRIMP-RG_swAlaskaMts_jones,Standard_Age,"Assumed age of age reference material for data reduction, in million years before present (mega-annum)",Ma
+geochronology_SHRIMP-RG_swAlaskaMts_jones,Conc_Std,Concentration standard used to calibrate trace element concentrations,n/a
+geochronology_SHRIMP-RG_swAlaskaMts_jones,Analysis_Spot,Internal ID number of individual analysis spot,n/a
+geochronology_SHRIMP-RG_swAlaskaMts_jones,AnalysisSpot_Mount,Concatenation of Analysis_Spot and Mount; unique identifier,n/a
+geochronology_SHRIMP-RG_swAlaskaMts_jones,Analysis_Date_Time,Date and time of analysis for individual analysis spot,n/a
+geochronology_SHRIMP-RG_swAlaskaMts_jones,U_conc_ppm,"Uranium concentration, in parts per million",ppm
+geochronology_SHRIMP-RG_swAlaskaMts_jones,Th_conc_ppm,"Thorium concentration, in parts per million",ppm
+geochronology_SHRIMP-RG_swAlaskaMts_jones,comm_206Pb,"207Pb corrected common 206Pb, in percent",%
+geochronology_SHRIMP-RG_swAlaskaMts_jones,238U_206Pb_Ratio,Total ratio of 238U to 206Pb,n/a
+geochronology_SHRIMP-RG_swAlaskaMts_jones,238U_206Pb_Ratio_Unc_1sig_perc,"Uncertainty (1-sigma) on total ratio of 238U to 206Pb, in percent",%
+geochronology_SHRIMP-RG_swAlaskaMts_jones,207Pb_206Pb_Ratio,Total ratio of 207Pb to 206Pb,n/a
+geochronology_SHRIMP-RG_swAlaskaMts_jones,207Pb_206Pb_Ratio_Unc_1sig_perc,"Uncertainty (1-sigma) on total ratio of 207Pb to 206Pb, in percent",%
+geochronology_SHRIMP-RG_swAlaskaMts_jones,204Pbcorr_238U_206Pb_Ratio,204Pb-corrected ratio of 238U to 206Pb,n/a
+geochronology_SHRIMP-RG_swAlaskaMts_jones,204Pbcorr_238U_206Pb_Ratio_Unc_1sig_perc,"Uncertainty (1-sigma) on 204Pb-corrected ratio of 238U to 206Pb, in percent",%
+geochronology_SHRIMP-RG_swAlaskaMts_jones,204Pbcorr_207Pb_206Pb_Ratio,204Pb-corrected ratio of 207Pb to 206Pb,n/a
+geochronology_SHRIMP-RG_swAlaskaMts_jones,204Pbcorr_207Pb_206Pb_Ratio_Unc_1sig_perc,"Uncertainty (1-sigma) on 204Pb-corrected ratio of 207Pb to 206Pb, in percent",%
+geochronology_SHRIMP-RG_swAlaskaMts_jones,204Pbcorr_207Pb_235U_Ratio,204Pb-corrected ratio of 207Pb to 235U.,n/a
+geochronology_SHRIMP-RG_swAlaskaMts_jones,204Pbcorr_207Pb_235U_Ratio_Unc_1sig_perc,"Uncertainty (1-sigma) on 204Pb-corrected ratio of 207Pb to 235U, in percent",%
+geochronology_SHRIMP-RG_swAlaskaMts_jones,204Pbcorr_206Pb_238U_Ratio,204Pb-corrected ratio of 206Pb to 238U.,n/a
+geochronology_SHRIMP-RG_swAlaskaMts_jones,204Pbcorr_206Pb_238U_Ratio_Unc_1sig_perc,"Uncertainty (1-sigma) on 204Pb-corrected ratio of 206Pb to 238U, in percent",%
+geochronology_SHRIMP-RG_swAlaskaMts_jones,Error_Correlation,Error correlation of the 207Pb/235U and 206Pb/238U ratios.,n/a
+geochronology_SHRIMP-RG_swAlaskaMts_jones,207Pbcorr_206Pb_238U_Age,"207Pb-corrected 206Pb/238U age, in millions of years before present (mega-annum)",Ma
+geochronology_SHRIMP-RG_swAlaskaMts_jones,207Pbcorr_206Pb_238U_Age_Unc_1sig,"Uncertainty (1-sigma) 207Pb-corrected 206Pb/238U age, in millions of years before present (mega-annum)",Ma
+geochronology_SHRIMP-RG_swAlaskaMts_jones,204Pbcorr_207Pb_206Pb_Age,"204Pb-corrected 207Pb/206Pb age, in millions of year before present (mega-annum)",Ma
+geochronology_SHRIMP-RG_swAlaskaMts_jones,204Pbcorr_207Pb_206Pb_Age_Unc_1sig,"Uncertainty (1-sigma) on 204Pb-corrected 207Pb/206Pb age, in millions of year before present (mega-annum)",Ma
+geochronology_SHRIMP-RG_swAlaskaMts_jones,Preferred_SHRIMP_Age,"Preferred grain age for calculation of sample age (in millions of years, or Ma), selected from one of two following fields containing corrected ages for each grain:  ""207Pbcorr_206Pb_over_238U_Age"" or ""204Pbcorr_207Pb_over_206Pb_Age""",Ma
+geochronology_SHRIMP-RG_swAlaskaMts_jones,Preferred_SHRIMP_Age_Unc_1sig,Uncertainty (1-sigma) on preferred grain age,Ma
+geochronology_SHRIMP-RG_swAlaskaMts_jones,Preferred_SHRIMP_Age_Type,"Method used to calculate the values in the ""Preferred_SHRIMP_Age"" field for each individual analysis that yielded a valid result.  ",n/a
+geochronology_SHRIMP-RG_swAlaskaMts_jones,Interpreted_Age_Included,Indication of whether or not analysis was used in calculation of 'UPb_Age_Ma' in the Sample Summary table.,n/a
+geochronology_SHRIMP-RG_swAlaskaMts_jones,Percent_Discordant,"Discordance of 206Pb/238U age versus 207Pb/206Pb age, in percent",%
+geochronology_SHRIMP-RG_swAlaskaMts_jones,Y_ppm,"Yttrium concentration, in parts per million",ppm
+geochronology_SHRIMP-RG_swAlaskaMts_jones,Nb_ppm,"Niobium concentration, in parts per million",ppm
+geochronology_SHRIMP-RG_swAlaskaMts_jones,La_ppm,"Lanthanum concentration, in parts per million",ppm
+geochronology_SHRIMP-RG_swAlaskaMts_jones,Ce_ppm,"Cerium concentration, in parts per million",ppm
+geochronology_SHRIMP-RG_swAlaskaMts_jones,Pr_ppm,"Praseodymium concentration, in parts per million",ppm
+geochronology_SHRIMP-RG_swAlaskaMts_jones,Nd_ppm,"Neodymium concentration, in parts per million",ppm
+geochronology_SHRIMP-RG_swAlaskaMts_jones,Sm_ppm,"Samarium concentration, in parts per million",ppm
+geochronology_SHRIMP-RG_swAlaskaMts_jones,Eu_ppm,"Europium concentration, in parts per million",ppm
+geochronology_SHRIMP-RG_swAlaskaMts_jones,Gd_ppm,"Gadolinium concentration, in parts per million",ppm
+geochronology_SHRIMP-RG_swAlaskaMts_jones,Dy_ppm,"Dysprosium concentration, in parts per million",ppm
+geochronology_SHRIMP-RG_swAlaskaMts_jones,Er_ppm,"Erbium concentration, in parts per million",ppm
+geochronology_SHRIMP-RG_swAlaskaMts_jones,Yb_ppm,"Ytterbium concentration, in parts per million",ppm
+geochronology_SHRIMP-RG_swAlaskaMts_jones,Hf_ppm,"Hafnium concentration, in parts per million",ppm
+geochronology_SHRIMP-RG_swAlaskaMts_jones,48Ti_ppm,"Titanium (from mass 48) concentration, in parts per million",ppm
+geochronology_SHRIMP-RG_swAlaskaMts_jones,49Ti_ppm,"Titanium (from mass 49) concentration, in parts per million",ppm
+geochronology_SHRIMP-RG_swAlaskaMts_jones,Fe_ppm,"Iron concentration, in parts per million",ppm
+geochronology_detritalZircon_swAlaskaMts_jones,Sample,Sample number as collected in the field; internal USGS identifier.,n/a
+geochronology_detritalZircon_swAlaskaMts_jones,Analysis_Lab,Laboratory where analysis was done,n/a
+geochronology_detritalZircon_swAlaskaMts_jones,Lab_Sample,Sample name assigned by laboratory corresponding directly to the USGS identifier Sample.,n/a
+geochronology_detritalZircon_swAlaskaMts_jones,Mineral,Material analyzed (DZ=detrital zircon),n/a
+geochronology_detritalZircon_swAlaskaMts_jones,Analysis_Name,Laboratory assigned ID number of individual analysis spot,n/a
+geochronology_detritalZircon_swAlaskaMts_jones,U_conc_ppm,"Concentration of uranium (U), in parts per million (ppm).",ppm
+geochronology_detritalZircon_swAlaskaMts_jones,Th_conc_ppm,"Concentration of thorium (Th), in parts per million (ppm).",ppm
+geochronology_detritalZircon_swAlaskaMts_jones,U_Th_Ratio,Ratio of the concentration of uranium (U) divided by the concentration of thorium (Th). ,n/a
+geochronology_detritalZircon_swAlaskaMts_jones,207Pb_235U_Ratio,Total ratio of 207Pb to 235U. ,n/a
+geochronology_detritalZircon_swAlaskaMts_jones,207Pb_235U_Ratio_Unc_1sig_abs,Uncertainty (1-sigma) for the total ratio of 207Pb to 235U.,n/a
+geochronology_detritalZircon_swAlaskaMts_jones,206Pb_238U_Ratio,Total ratio of 206Pb to 238U.,n/a
+geochronology_detritalZircon_swAlaskaMts_jones,206Pb_238U_Ratio_Unc_1sig_abs,Uncertainty (1-sigma) for the total ratio of 206Pb to 238U.,n/a
+geochronology_detritalZircon_swAlaskaMts_jones,Error_Correlation,Error correlation of the 207Pb/235U and 206Pb/238U ratios.,n/a
+geochronology_detritalZircon_swAlaskaMts_jones,207Pb_206Pb_Ratio,Total ratio of 207Pb to 206Pb.,n/a
+geochronology_detritalZircon_swAlaskaMts_jones,207Pb_206Pb_Ratio_Unc_1sig_abs,Uncertainty (1-sigma) for the total ratio of 207Pb to 206Pb.,n/a
+geochronology_detritalZircon_swAlaskaMts_jones,207Pb_235U_Age,Age in millions of years (Ma) calculated from the ratio of 207Pb to 235U.,Ma
+geochronology_detritalZircon_swAlaskaMts_jones,207Pb_235U_Age_Unc_1sig,Uncertainty (1-sigma) in millions of years (Ma) for the age calculated from the ratio of 207Pb to 235U.,Ma
+geochronology_detritalZircon_swAlaskaMts_jones,206Pb_238U_Age,Age in million years (Ma) calculated from the ratio of 206Pb to 238U.,Ma
+geochronology_detritalZircon_swAlaskaMts_jones,206Pb_238U_Age_Unc_1sig,Uncertainty (1-sigma) in millions of years (Ma) for the age calculated from the ratio of206Pb to 238U.,Ma
+geochronology_detritalZircon_swAlaskaMts_jones,207Pb_206Pb_Age,Age in million years (Ma) calculated from the ratio of 207Pb to 206Pb.,Ma
+geochronology_detritalZircon_swAlaskaMts_jones,207Pb_206Pb_Age_Unc_1sig,Uncertainty (1-sigma) in millions of years (Ma) for the age calculated from the ratio of 207Pb to 206Pb.,Ma
+geochronology_detritalZircon_swAlaskaMts_jones,Preferred_Age,"Preferred age in millions of years (Ma) selected from one of three following fields containing calculated ages for each grain:  ""207Pb_235U_Age"" or ""206Pb_238U_Age"" or ""207Pb_206Pb_ Age."" Zero values indicate an analysis that failed to yield an age.  ",Ma
+geochronology_detritalZircon_swAlaskaMts_jones,Preferred_Age_Unc_1sig,Uncertainty (1-sigma) in millions of years (Ma) for the preferred age. ,Ma
+geochronology_detritalZircon_swAlaskaMts_jones,Preferred_Age_Type,"Method used to calculate the values in the ""Preferred_Age"" field for each individual analysis that yielded a valid result.  ",Ma
+geochronology_detritalZircon_swAlaskaMts_jones,Percent_Discordant,"Discordance of 206Pb/238U age versus 207Pb/206Pb age, in percent.",%
+geochronology_sampleSummary_swAlaskaMts_jones,Sample,Sample number as collected in the field; internal USGS identifier.,n/a
+geochronology_sampleSummary_swAlaskaMts_jones,Lab_Sample,Sample name assigned by laboratory corresponding directly to the internal USGS identifier Sample.,n/a
+geochronology_sampleSummary_swAlaskaMts_jones,Latitude,Latitude of sample field location in NAD83,degree
+geochronology_sampleSummary_swAlaskaMts_jones,Longitude,Longitude of sample field location in NAD83,degree
+geochronology_sampleSummary_swAlaskaMts_jones,Rock_Class,Sample rock classification,n/a
+geochronology_sampleSummary_swAlaskaMts_jones,Rock_Type,Sample rock type,n/a
+geochronology_sampleSummary_swAlaskaMts_jones,Rock_Comment,Sample rock comment,n/a
+geochronology_sampleSummary_swAlaskaMts_jones,Analysis_Type,Type of geochronologic analysis,n/a
+geochronology_sampleSummary_swAlaskaMts_jones,Analysis_Lab,Laboratory or contractor where data were collected,N/A
+geochronology_sampleSummary_swAlaskaMts_jones,Analysis_Method,Laboratory equipment and methodology used to collect data,N/A
+geochronology_sampleSummary_swAlaskaMts_jones,UPb_Age_N_Grains_Total,Total number of grains analyzed,n/a
+geochronology_sampleSummary_swAlaskaMts_jones,UPb_Age_Ma,"Weighted average age calculated for sample (in millions of years, or Ma)",Ma
+geochronology_sampleSummary_swAlaskaMts_jones,UPb_Age_Unc_Ma,Uncertainty (2-sigma) of weighted average age calculated for sample in millions of years (Ma),Ma
+geochronology_sampleSummary_swAlaskaMts_jones,UPb_Age_Method,Method used to calculate the value in the UPb_Age_Ma field ,n/a
+geochronology_sampleSummary_swAlaskaMts_jones,UPb_Age_N_Grains,Number of analyses used to calculate the value in the UPb_Age_Ma field ,n/a
+geochronology_sampleSummary_swAlaskaMts_jones,UPb_Age_MSWD,Mean square of weighted deviates for calculated value in UPb_Age_Ma field,n/a
+geochronology_sampleSummary_swAlaskaMts_jones,UPb_Age_Comment,Comments on sample age or analytical observations,n/a
+geochronology_sampleSummary_swAlaskaMts_jones,UPb_Age_Interpretation,Geological significance of interpreted age,n/a

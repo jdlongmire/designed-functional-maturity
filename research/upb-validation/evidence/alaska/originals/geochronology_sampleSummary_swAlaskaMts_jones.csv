@@ -1,0 +1,191 @@
+Sample,Lab_Sample,Latitude,Longitude,Rock_Class,Rock_Type,Rock_Comment,Analysis_Type,Analysis_Lab,Analysis_Method,UPb_Age_N_Grains_Total,UPb_Age_Ma,UPb_Age_Unc_Ma,UPb_Age_Method,UPb_Age_N_Grains,UPb_Age_MSWD,UPb_Age_Comment,UPb_Age_Interpretation
+04AM61Z,,60.799,-156.1781,sedimentary,sandstone,Kuskokwim Formation sandstone,U-Pb detrital zircon,UBC,LA-ICP-MS U-Pb,,,,,,,,detrital
+04SK251a,,60.8923,-156.608,sedimentary,sandstone,Kuskokwim Formation sandstone,U-Pb detrital zircon,UBC,LA-ICP-MS U-Pb,,,,,,,,detrital
+05ADw101A,,60.6253,-158.3618,sedimentary,sandstone,Kuskokwim Formation sandstone,U-Pb detrital zircon,UBC,LA-ICP-MS U-Pb,,,,,,,,detrital
+05ADw117a,,60.9125,-158.3154,sedimentary,sandstone,Kuskokwim Formation sandstone,U-Pb detrital zircon,UBC,LA-ICP-MS U-Pb,,,,,,,,detrital
+05ADW124B,,60.9836,-158.5921,sedimentary,grit,Kuskokwim Formation sandstone,U-Pb detrital zircon,UBC,LA-ICP-MS U-Pb,,,,,,,,detrital
+05ADW129A,,60.9959,-158.715,sedimentary,sandstone,Gemuk Group sandstone,U-Pb detrital zircon,UBC,LA-ICP-MS U-Pb,,,,,,,,detrital
+05ADW44A,,60.5051,-158.7682,sedimentary,sandstone,Kuskokwim Formation sandstone,U-Pb detrital zircon,UBC,LA-ICP-MS U-Pb,,,,,,,,detrital
+05AM244A,,60.821,-158.9798,sedimentary,sandstone,Gemuk Group sandstone,U-Pb detrital zircon,UBC,LA-ICP-MS U-Pb,,,,,,,,detrital
+05AM262B,,60.5332,-158.9446,sedimentary,limey grit,limey grit,U-Pb detrital zircon,UBC,LA-ICP-MS U-Pb,,,,,,,,detrital
+05SK006A,,60.3927,-158.9766,sedimentary,graywacke,graywacke,U-Pb detrital zircon,UBC,LA-ICP-MS U-Pb,,,,,,,,detrital
+05SK016A,,60.3742,-158.9328,sedimentary,sandstone,sandstone,U-Pb detrital zircon,UBC,LA-ICP-MS U-Pb,,,,,,,,detrital
+05SK020A,,60.3691,-158.9886,sedimentary,graywacke,graywacke,U-Pb detrital zircon,UBC,LA-ICP-MS U-Pb,,,,,,,,detrital
+05SK037A,,60.2829,-158.8333,sedimentary,sandstone,Kuskokwim Formation sandstone,U-Pb detrital zircon,UBC,LA-ICP-MS U-Pb,,,,,,,,detrital
+05SK052A,,60.2086,-158.9198,sedimentary,graywacke,graywacke,U-Pb detrital zircon,UBC,LA-ICP-MS U-Pb,,,,,,,,detrital
+05SK068B,,60.0129,-159.0756,sedimentary,graywacke,graywacke,U-Pb detrital zircon,UBC,LA-ICP-MS U-Pb,,,,,,,,detrital
+05SK079A,,60.0249,-158.988,sedimentary,graywacke,graywacke,U-Pb detrital zircon,UBC,LA-ICP-MS U-Pb,,,,,,,,detrital
+05SK117A,,59.8974,-159.0648,sedimentary,graywacke,graywacke,U-Pb detrital zircon,UBC,LA-ICP-MS U-Pb,,,,,,,,detrital
+05SK130B,,59.8874,-158.9592,sedimentary,sandstone,sandstone,U-Pb detrital zircon,UBC,LA-ICP-MS U-Pb,,,,,,,,detrital
+05SK140A,,59.9184,-158.9548,sedimentary,grit,grit,U-Pb detrital zircon,UBC,LA-ICP-MS U-Pb,,,,,,,,detrital
+06ADW565B,794-01,60.079,-156.0153,sedimentary,sandstone (reworked tuff),Kuskokwim Formation sandstone,U-Pb detrital zircon,A2Z,LA-ICP-MS U-Pb,,,,,,,,detrital
+06ADW576A,794-02,60.407,-156.4178,sedimentary,sandstone,Kuskokwim Formation sandstone,U-Pb detrital zircon,A2Z,LA-ICP-MS U-Pb,,,,,,,,detrital
+06ADW584,794-03,60.027,-157.159,sedimentary,"sandstone, thermally altered",Kuskokwim Formation sandstone,U-Pb detrital zircon,A2Z,LA-ICP-MS U-Pb,,,,,,,,detrital
+06AJ074A,794-05,60.4516,-156.5917,sedimentary,pebbly sandstone,Kuskokwim Formation pebbly sandstone,U-Pb detrital zircon,A2Z,LA-ICP-MS U-Pb,,,,,,,,detrital
+06AJ60Z,980-01,60.3013,-156.0274,sedimentary,sandstone,Kuskokwim Formation sandstone,U-Pb detrital zircon,A2Z,LA-ICP-MS U-Pb,,,,,,,,detrital
+06AM426A,794-06,60.468,-157.55,sedimentary,sandstone,Kuskokwim Formation sandstone,U-Pb detrital zircon,A2Z,LA-ICP-MS U-Pb,,,,,,,,detrital
+06AM450Z,980-02,60.403,-156.0004,sedimentary,sandstone,Kuskokwim Formation sandstone,U-Pb detrital zircon,A2Z,LA-ICP-MS U-Pb,,,,,,,,detrital
+08ADw107,950-07,60.3175,-154.5888,sedimentary,sandstone,Koksetna River Fm.,U-Pb detrital zircon,A2Z,LA-ICP-MS U-Pb,,,,,,,,detrital
+08ADw111,950-64,60.3096,-154.5459,sedimentary,sandstone,sandstone,U-Pb detrital zircon,A2Z,LA-ICP-MS U-Pb,,,,,,,,detrital
+08ADw112,950-65,60.3162,-154.5439,sedimentary,sandstone,sandstone west of Kijik Lake,U-Pb detrital zircon,A2Z,LA-ICP-MS U-Pb,,,,,,,,detrital
+08ADw126,950-67,60.4113,-153.8751,sedimentary,sandstone,sandstone near Little Lake Clark,U-Pb detrital zircon,A2Z,LA-ICP-MS U-Pb,,,,,,,,detrital
+08ADw129,950-33,60.1931,-155.2811,sedimentary,sandstone,Koksetna River Formation sandstone from near Long Lake,U-Pb detrital zircon,A2Z,LA-ICP-MS U-Pb,,,,,,,,detrital
+08ADw131,950-35,60.2089,-155.013,sedimentary,sandstone,Koksetna River Formation sandstone from near Joe Nort Lake,U-Pb detrital zircon,A2Z,LA-ICP-MS U-Pb,,,,,,,,detrital
+08ADW805A,1212-5,60.3796,-158.9731,sedimentary,sandstone,sandstone,U-Pb detrital zircon,A2Z,LA-ICP-MS U-Pb,,,,,,,,detrital
+08ADw809A,980-04,60.1099,-158.6292,sedimentary,sandy limestone,sandy limestone,U-Pb detrital zircon,A2Z,LA-ICP-MS U-Pb,,,,,,,,detrital
+08ADw815A,1121-02,60.0429,-158.6972,metamorphic,quartzite,quartzite,U-Pb detrital zircon,A2Z,LA-ICP-MS U-Pb,,,,,,,,detrital
+08ADw821C,980-05,60.0224,-158.139,sedimentary,hornfels sandstone,hornfels sandstone,U-Pb detrital zircon,A2Z,LA-ICP-MS U-Pb,,,,,,,,detrital
+08ADw823A,980-06,60.2278,-158.4929,sedimentary,sandstone,Kuskokwim Formation sandstone,U-Pb detrital zircon,A2Z,LA-ICP-MS U-Pb,,,,,,,,detrital
+08AM600A,1212-1,60.4353,-158.9236,sedimentary,sandstone,sandstone,U-Pb detrital zircon,A2Z,LA-ICP-MS U-Pb,,,,,,,,detrital
+08AM613A,1212-2,60.0569,-158.5417,sedimentary,hornfels sandstone,hornfels sandstone,U-Pb detrital zircon,A2Z,LA-ICP-MS U-Pb,,,,,,,,detrital
+08AM615A,1212-3,60.064,-159.1764,sedimentary,grit,grit,U-Pb detrital zircon,A2Z,LA-ICP-MS U-Pb,,,,,,,,detrital
+08AM688A,980-03,60.027,-156.2699,sedimentary,hornfels sandstone,hornfels sandstone,U-Pb detrital zircon,A2Z,LA-ICP-MS U-Pb,,,,,,,,detrital
+08SB102A,1212-7,60.4988,-158.9046,sedimentary,sandstone,sandstone,U-Pb detrital zircon,A2Z,LA-ICP-MS U-Pb,,,,,,,,detrital
+08SB110C,1121-01,60.1247,-158.8488,sedimentary,sandstone,sandstone,U-Pb detrital zircon,A2Z,LA-ICP-MS U-Pb,,,,,,,,detrital
+08SK203A,1121-04,60.4961,-158.8772,sedimentary,sandstone,Kuskokwim Formation sandstone,U-Pb detrital zircon,A2Z,LA-ICP-MS U-Pb,,,,,,,,detrital
+08SK208A,980-07,60.3837,-158.9494,sedimentary,siltstone,siltstone,U-Pb detrital zircon,A2Z,LA-ICP-MS U-Pb,,,,,,,,detrital
+08SK209A,1212-8,60.3889,-158.9727,sedimentary,calcarenite,calcarenite,U-Pb detrital zircon,A2Z,LA-ICP-MS U-Pb,,,,,,,,detrital
+08SK212A,980-08,60.3294,-158.9079,sedimentary,sandstone,sandstone,U-Pb detrital zircon,A2Z,LA-ICP-MS U-Pb,,,,,,,,detrital
+08SK213C,1047-3,60.3275,-158.9094,sedimentary,sandstone,sandstone,U-Pb detrital zircon,A2Z,LA-ICP-MS U-Pb,,,,,,,,detrital
+08SK219B,1121-03,60.0666,-159.1274,sedimentary,conglomerate,conglomerate,U-Pb detrital zircon,A2Z,LA-ICP-MS U-Pb,,,,,,,,detrital
+08SK219C,1121-05,60.0666,-159.1274,sedimentary,siltstone,siltstone,U-Pb detrital zircon,A2Z,LA-ICP-MS U-Pb,,,,,,,,detrital
+08SK220A,1047-4,59.986,-159.0056,sedimentary,quartzite,quartzite,U-Pb detrital zircon,A2Z,LA-ICP-MS U-Pb,,,,,,,,detrital
+08SK223A,1047-5,60.0251,-158.7062,sedimentary,sandstone,sandstone,U-Pb detrital zircon,A2Z,LA-ICP-MS U-Pb,,,,,,,,detrital
+08SK324A,980-09,60.1103,-156.8425,sedimentary,sandstone,Kuskokwim Formation sandstone,U-Pb detrital zircon,A2Z,LA-ICP-MS U-Pb,,,,,,,,detrital
+15AJJ017D,151-09,61.1503,-153.0473,metamorphic,gneiss,gneiss,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+15AJJ029,094-02,60.957,-155.144,sedimentary,sandstone,fine grained sandstone,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+15AJJ030,094-03,61.118,-155.632,sedimentary,conglomerate,pebble conglomerate,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+15AJJ033,094-04,61.033,-155.33,sedimentary,sandstone,fine grained sandstone,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+15AJJ038,094-05,60.898,-154.938,sedimentary,sandstone,dark gray med to cg sandstone w/ grains up to 3-4 cm locally,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+15DL001518A,151-01,59.897,-153.1148,sedimentary,sandstone,Talkeetna Fm. (Horn Mtn Mbr.),U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+15SB03A,094-06,60.2053,-154.1639,sedimentary,sandstone,coarse qtzose sandstone; Tlikakila complex -- overlies limestone,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+15SB18B,094-07,60.7003,-154.609,sedimentary,sandstone,sandstone,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+15SB22A,094-08,60.6957,-154.5402,sedimentary,sandstone,med-fine gr micaceous qtz sandstone; Kuskokwim-6 m flaggy qtz ss interval with mica. bl shale,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+15SK104A,094-09,60.754,-152.3929,sedimentary,sandstone,"qtzose calcareous ss;  Khakonak? Kamishak? Hostrock to Jqd, Big River area",U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+15SK153A,094-11,60.6981,-154.596,sedimentary,sandstone,sandstone,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+15SK156A,094-12,60.6884,-154.5248,sedimentary,sandstone,volcaniclastic ss,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+15SK174A,090-06,60.4817,-154.8157,sedimentary,sandstone,med-crs ss; Koksetna Upper Jurassic ss at fossil locality,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+15SK179A,105-01,60.4643,-154.8205,sedimentary,sandstone,sandstone,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+15SK182A,090-07,60.4031,-155.0873,sedimentary,sandstone,Koksetna River Formation Valanginian ss at fossil locality,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+15SK183D,105-03,60.325,-154.0626,sedimentary,sandstone,sandstone,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+15SK184C,151-08,60.3257,-154.0607,sedimentary,sandstone,Tlikakila Formation,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+15SK186A,094-13,60.2705,-154.0931,metamorphic,schist,Tlikakila Formation quartz-biotite schist,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+16AJJ101A,151-12,60.5986,-152.5016,sedimentary,sandstone,Talkeetna Formation,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+16AJJ101B,151-13,60.5986,-152.5016,sedimentary,sandstone,Talkeetna Formation,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+16AJJ103B,151-14,60.3562,-152.6014,sedimentary,sandstone,Talkeetna Formation,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+16PH100A,151-11,60.1802,-153.7427,sedimentary,sandstone,sandstone,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+16SB120D,151-15,60.6973,-153.4919,sedimentary,sandstone,sandstone near Glacier Fork of Tlikakila River,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+16SB121A,151-16,60.6057,-154.5475,sedimentary,sandstone,Chilikadrotna Formation,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+16SB134C,151-05,60.3601,-153.7865,sedimentary,sandstone,sandstone from Lake Clark Narrows,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+16SK125A,151-02,60.7206,-154.4508,sedimentary,sandstone,Koksetna River Formation?,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+16SK130C,151-03,60.7564,-153.6329,sedimentary,sandstone,Tertiary,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+16SK133C,151-04,60.5134,-153.7887,sedimentary,sandstone,Tlikakila Formation,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+16SK146C,151-06,61.1445,-153.3478,sedimentary,sandstone,sandstone from south side of Merrill Pass,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+16SK152A,151-07,60.2586,-154.0538,sedimentary,sandstone,Tlikakila Formation,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+17SB210A,236-01,60.4275,-153.8916,sedimentary,sandstone,m.g. ss in metachert section-Tlikakila Formation,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+17SB211C,236-10,60.1801,-153.7461,sedimentary,sandstone,"basal med crs ss, pl-rich volclastic; Tlikakila Formation",U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+17SB220A,236-02,60.1346,-155.4667,sedimentary,sandstone,"crs pl-rich ss w/pyr - near Lake Nikabuna, Koksetna River Formation",U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+17SK200C,236-03,60.2554,-154.0824,metamorphic,quartzite,quartzite; Tlikakila Formation,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+17SK225A,236-05,60.0984,-153.85,sedimentary,sandstone,hf sandstone; Tlikakila Formation,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+17SK227A,236-11,60.1374,-153.8191,sedimentary,sandstone,hf sandstone; Tlikakila Formation,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+17SK233A,236-06,60.0595,-155.3741,sedimentary,sandstone,volcaniclastic rock; Lake Nikabuna; Koksetna River Fm.,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+17SK235A,236-07,60.2046,-155.3121,sedimentary,sandstone,volcaniclastic rock; Lake Nikabuna; Koksetna River Fm.,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+17SK237A,236-08,60.2227,-155.1103,sedimentary,sandstone,lithic ss; Joe Nort Lake; Koksetna River Fm.,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+17SK238A,236-12,60.2261,-155.1097,sedimentary,sandstone,lithic ss; Joe Nort Lake; Koksetna River Fm.,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+17SK247B,236-09,59.6773,-153.8888,metamorphic,gneiss,Q-bio-gneiss; Kakhonak complex in  Pile Bay,U-Pb detrital zircon,GSS,LA-ICP-MS U-Pb,,,,,,,,detrital
+950-46,950-46,59.98,-156.33,sedimentary,sandstone,"Kuskokwim Fm.; Jack Rabbit Hills, Dillingham quad",U-Pb detrital zircon,A2Z,LA-ICP-MS U-Pb,,,,,,,,detrital
+11AJJ008,,61.475,-150.7431,igneous,granodiorite,foliated granodiorite,U-Pb titanite,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,15,71.7,1,weighted average 206Pb/238U age,12,1.07,,metamorphism
+11AJJ008,,61.475,-150.7431,igneous,granodiorite,foliated granodiorite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,24,78.2,1.2,weighted average 206Pb/238U age,20,1.5,,crystallization
+12AJJ37A,,61.5757,-151.7667,igneous,andesite,andesitic volcanic rk,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,10,60.1,0.9,weighted average 206Pb/238U age,10,1.5,,crystallization
+12AJJ39E,,61.5551,-151.8969,igneous,rhyolite,xl-rich rhyolite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,9,60.2,0.9,weighted average 206Pb/238U age,8,1.26,,crystallization
+12AJJ42C,,61.2112,-152.677,igneous,mafic dike,mylonitic mafic layer in orthogneiss,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,8,59.1,1.3,weighted average 206Pb/238U age,3,2.58,"preliminary age, 3/8 grains",crystallization
+12AJJ42D,,61.2112,-152.677,igneous,orthogneiss,mylonitic orthogneiss,U-Pb titanite,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,14,56.5,0.6,weighted average 206Pb/238U age,13,1.37,,metamorphism
+12AJJ42D,,61.2112,-152.677,igneous,orthogneiss,mylonitic orthogneiss,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,16,98.1,1.2,weighted average 206Pb/238U age,14,1.31,,crystallization
+12AJJ43B,,61.2225,-152.6328,igneous,granodiorite,foliated granodiorite,U-Pb titanite,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,17,59.6,0.8,weighted average 206Pb/238U age,17,0.97,,metamorphism
+12AJJ43B,,61.2225,-152.6328,igneous,granodiorite,foliated granodiorite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,16,98.1,1.1,weighted average 206Pb/238U age,16,1.12,,crystallization
+12AJJ47A,,61.3255,-152.6638,igneous,gabbro,coarse-grained gabbro,U-Pb titanite,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,16,59.8,0.1,weighted average 206Pb/238U age,16,1.59,,metamorphism
+12AJJ47B,,61.326,-152.664,igneous,granite,bt granite in contact w/ gabbro,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,15,60.8,0.8,weighted average 206Pb/238U age,9,1.24,,crystallization
+12AJJ309,,61.9258,-151.4308,igneous,granite,Shell Hills granite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,18,99.4,1.3,weighted average 206Pb/238U age,18,1.38,,crystallization
+12AJJ310,,61.4628,-151.3519,igneous,granite,Kitty Ridge granite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,19,73.6,1,weighted average 206Pb/238U age,19,1.37,,crystallization
+12SB110A,,62.1493,-153.4115,igneous,andesite,pl-bt+/-qtz xl tuff(?),U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,12,37.6,0.4,weighted average 206Pb/238U age,12,1.49,,crystallization
+12SB112Z,,62.1544,-153.5659,igneous,diabase,microgabbro dike,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,15,96.4,1.6,weighted average 206Pb/238U age,12,1.66,,metamorphism
+12SB135A,,62.3702,-153.6636,igneous,dacite,dacite (Veleska Lake),U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,12,40.9,0.7,weighted average 206Pb/238U age,8,1.76,,crystallization
+12SB141E,,61.8954,-151.8686,igneous,rhyolite,pl-bt-qz rhyolite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,10,67.5,0.5,weighted average 206Pb/238U age,10,0.91,,crystallization
+12SB144A,,61.5524,-151.8852,igneous,andesite,qt-pl-hb ashflow-tuff,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,9,60.1,0.9,weighted average 206Pb/238U age,8,1.61,,crystallization
+12SB148A,,61.1821,-152.6155,igneous,granodiorite,unfoliated granodiorite,U-Pb titanite,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,13,77.4,0.9,weighted average 206Pb/238U age,13,1.08,,cooling
+12SB148A,,61.1821,-152.6155,igneous,granodiorite,unfoliated granodiorite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,13,84.9,1.1,weighted average 206Pb/238U age,13,1.41,,crystallization
+12SB149A,,61.1844,-152.7454,igneous,diorite,unfoliated diorite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,10,85.7,1.4,weighted average 206Pb/238U age,8,0.81,,crystallization
+12SB161A,,61.9993,-152.576,igneous,andesite,hb-pl lava,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,4,,,,,,"no age determination; low yield, no coherent population",
+13AJJ200A,,62.368,-153.229,igneous,andesite,plag-phyryic andesite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,5,,,,,,"no age determination; low yield, no coherent population",
+13AJJ211,,62.5143,-153.2152,igneous,monzonite,fine- to medium-grained bt hbl monzonite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,8,68.3,1.9,weighted average 206Pb/238U age,8,1.58,,crystallization
+13AJJ213,,62.0889,-153.6705,igneous,monzonite,porphyritic qtz monzonite w/ 7 cm ksp megacrysts ,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,16,62.9,1.3,weighted average 206Pb/238U age,16,0.67,,crystallization
+13AJJ214,,62.1942,-153.7159,igneous,granite,"qtz porphyry, bt hbl granite",U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,16,44.1,0.8,weighted average 206Pb/238U age,15,1.26,,crystallization
+13AJJ224,,61.3919,-153.5994,igneous,granodiorite,med-grained bt hbl granodiorite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,16,67.9,1.4,weighted average 206Pb/238U age,16,0.76,,crystallization
+13AJJ225,,61.4163,-153.6793,igneous,monzonite,med-grained equigranular qtz monzonite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,20,36.7,0.8,weighted average 206Pb/238U age,17,0.62,,crystallization
+13AJJ226,,61.4867,-153.8897,igneous,granite,granite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,12,37.7,0.4,weighted average 206Pb/238U age,10,1.77,,crystallization
+13AJJ227A,,61.7105,-154.2852,igneous,granite,porphyritic plag megacrystic biotite granite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,24,59.3,1.2,weighted average 206Pb/238U age,21,1.06,,crystallization
+13AJJ227B,,61.7105,-154.2852,igneous,gabbro,gabbro sheets that appear intruded by sheet-like granite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,16,58.4,1.1,weighted average 206Pb/238U age,16,1.14,,crystallization
+13AJJ228A,,61.5377,-154.1671,igneous,granite,bt granite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,13,59.1,0.7,weighted average 206Pb/238U age,12,1.24,,crystallization
+13AJJ231B,,61.6215,-153.6742,igneous,granodiorite,foliated and locally sheared hbl granodiorite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,11,57.2,0.7,weighted average 206Pb/238U age,9,1.46,,crystallization
+13AJJ232A,,61.671,-153.766,igneous,gabbro,boitite-bearing gabbro,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,15,28.5,0.5,weighted average 206Pb/238U age,15,0.83,,crystallization
+13AJJ233,,62.1006,-154.2944,igneous,monzonite,"Middle Fork pluton, quartz monzonite phase ",U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,16,59.3,0.8,weighted average 206Pb/238U age,16,0.79,,crystallization
+13AJJ236,,62.1507,-154.463,igneous,gabbro,"Middle Fork pluton, alkali gabbro phase ",U-Pb titanite,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,6,57,6.4,weighted average 206Pb/238U age,4,1.17,"preliminary age, 4/6 grains",metamorphism
+13AJJ239,,61.9449,-154.3575,igneous,granite,fine-grained biotite granite ,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,22,66.5,1.3,weighted average 206Pb/238U age,22,0.48,,crystallization
+13ALR111,,62.0014,-152.1988,igneous,granodiorite,biotite hbl granodiorite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,29,68.5,1.3,weighted average 206Pb/238U age,24,1.7,,crystallization
+13ATE310A,,61.2556,-154.2562,igneous,granite,granite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,10,59.9,0.5,weighted average 206Pb/238U age,10,1.35,,crystallization
+13SB35A,,61.2076,-152.375,igneous,diorite,"Tertiary, Cretaceous quartz diorite",U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,12,66.9,0.9,weighted average 206Pb/238U age,11,1.53,,crystallization
+13SB44A,,61.3233,-153.5982,igneous,rhyolite,Lower flow_bt-pl porph,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,18,41.4,0.5,weighted average 206Pb/238U age,8,0.79,,crystallization
+13SB45B,,61.3479,-153.4971,igneous,rhyolite,Upper  flow,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,9,41.4,0.6,weighted average 206Pb/238U age,8,0.75,,crystallization
+15AJJ001B,,60.8287,-152.4237,igneous,granodiorite,coarse-grained granodiorite,U-Pb titanite,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,16,152.2,2.8,weighted average 206Pb/238U age,11,1.44,,metamorphism
+15AJJ001B,,60.8287,-152.4237,igneous,granodiorite,coarse-grained granodiorite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,14,169.5,3.2,weighted average 206Pb/238U age,14,1.48,,crystallization
+15AJJ001C,,60.8291,-152.4229,metamorphic,amphibolite,folded amphibolite,U-Pb titanite,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,18,143.5,2.5,weighted average 206Pb/238U age,17,1.64,,metamorphism
+15AJJ001C,,60.8291,-152.4229,metamorphic,amphibolite,folded amphibolite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,12,158.3,3,weighted average 206Pb/238U age,12,0.55,,metamorphism
+15AJJ017A,,61.152,-153.0487,metamorphic,orthogneiss,bt orthogneiss,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,14,62.4,1.2,weighted average 206Pb/238U age,14,1.56,avg Th/U=0.005,metamorphism
+15AJJ017C,,61.152,-153.0495,metamorphic,orthogneiss,micaceous mylonite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,14,61.1,1.5,weighted average 206Pb/238U age,11,1.8,avg Th/U=0.005,metamorphism
+15AJJ017Dg,,61.1503,-153.0473,metamorphic,orthogneiss,bt orthogneiss,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,16,61.5,1.3,weighted average 206Pb/238U age,14,1.57,avg Th/U=0.005,metamorphism
+15AJJ017F1,,61.1526,-153.0467,metamorphic,orthogneiss,mylonitic orthogneiss,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,32,63.3,1.4,weighted average 206Pb/238U age,19,2.2,avg Th/U=0.007,metamorphism
+15AJJ018,,61.1513,-153.0404,igneous,orthogneiss,bt-musc granite lozenges in orthogneiss,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,3,53.8,2.1,weighted average 206Pb/238U age,3,0.72,"preliminary, only 3 grains analyzed; Th/U ratios=0.001",metamorphism
+15AJJ020A,,61.1321,-153.0701,igneous,granite,musc-bt granite cutting orthogneiss,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,12,58,1.7,weighted average 206Pb/238U age,5,1.64,avg Th/U=0.016,metamorphism
+15AJJ020B,,61.1321,-153.0701,metamorphic,orthogneiss,bt orthogniess,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,33,59.6,1.2,weighted average 206Pb/238U age,24,1.4,avg Th/U=0.018,metamorphism
+15AJJ023B,,60.9225,-152.3042,metamorphic,amphibolite,coarse-grained amphibolite,U-Pb titanite,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,16,147.2,2.9,weighted average 206Pb/238U age,16,1.33,,metamorphism
+15AJJ023B,,60.9225,-152.3042,metamorphic,amphibolite,coarse-grained amphibolite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,32,172.7,6.9,weighted average 206Pb/238U age,12,1.8,Ca. 217 Ma inherited component?,crystallization
+15AJJ023e,,60.9196,-152.3032,igneous,granite,fg bt granite cutting foliation,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,4,160,6.9,weighted average 206Pb/238U age,2,0.54,"preliminary, 2/4 grains analyzed",crystallization
+15ALR118A,,60.8296,-152.5814,igneous,granite,,U-Pb titanite,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,16,73.3,1.5,weighted average 206Pb/238U age,14,0.82,,metamorphism
+15ALR118A,,60.8296,-152.5814,igneous,granite,,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,6,79.6,2.5,weighted average 206Pb/238U age,5,1.93,"preliminary, 5/6 grains analyzed",crystallization
+15ALR137,,61.0688,-153.1182,igneous,granite,,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,4,37.6,1.1,weighted average 206Pb/238U age,4,1.61,"preliminary, only 4 grains analyzed",crystallization
+15ALR138,,61.0279,-153.2937,igneous,granite,,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,4,38.5,1.3,weighted average 206Pb/238U age,3,1.06,"preliminary, 3/4 grains analyzed",crystallization
+15ALR141,,61.1541,-152.9675,igneous,granite,,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,12,46.6,1,weighted average 206Pb/238U age,12,0.49,,crystallization
+15ALR142,,61.0929,-152.9905,igneous,granite,,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,4,101.1,3.6,weighted average 206Pb/238U age,3,1.36,"preliminary, 3/4 grains analyzed",crystallization
+15ALR159,,60.6261,-153.3973,igneous,granite,,U-Pb titanite,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,16,86.8,1.5,weighted average 206Pb/238U age,16,1.41,,crystallization
+15ALR159,,60.6261,-153.3973,igneous,granite,,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,10,88.8,2,weighted average 206Pb/238U age,8,0.99,,crystallization
+16AJJ102a,,60.3292,-153.3205,igneous,granite,granite cut by mylonite,U-Pb titanite,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,26,83.3,1.8,weighted average 206Pb/238U age,26,2.48,,crystallization
+16AJJ102a,,60.3292,-153.3205,igneous,granite,granite cut by mylonite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,24,76.5,0.9,weighted average 206Pb/238U age,14,1.48,,crystallization
+16AJJ107A,,60.4721,-153.0482,metamorphic,mafic gneiss,mafic gneiss; strongly folded,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,20,169.4,2.5,weighted average 206Pb/238U age,10,1.43,,crystallization
+16ATe018A,,60.4986,-152.9327,igneous,diorite,gneissic diorite/tonalite; hbl lineation,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,16,166.2,1.9,weighted average 206Pb/238U age,10,1.9,,crystallization
+16ATe019a,,60.5444,-153.0858,igneous,granodiorite,foliated bt granodiorite,U-Pb titanite,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,34,84.3,1.3,weighted average 206Pb/238U age,32,2.44,,metamorphism
+16ATe019a,,60.5444,-153.0858,igneous,granodiorite,foliated bt granodiorite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,20,148.8,1.9,weighted average 206Pb/238U age,10,1.29,,metamorphism
+16ATe021C,,60.4996,-153.1165,metamorphic,amphibolite,amphibolite enclave inside weakly foliated bt-hbl granodiorite,U-Pb titanite,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,18,80.6,1.5,weighted average 206Pb/238U age,15,1.5,,crystallization
+16ATe021C,,60.4996,-153.1165,metamorphic,amphibolite,amphibolite enclave inside weakly foliated bt-hbl granodiorite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,11,78,2.7,weighted average 206Pb/238U age,11,1.84,,crystallization
+16ATe027e,,60.3288,-153.4149,metamorphic,amphibolite,"dark band in granodiorite, strongly sheared",U-Pb titanite,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,20,85.3,1.7,weighted average 206Pb/238U age,17,2,,crystallization
+16ATe027e,,60.3288,-153.4149,metamorphic,amphibolite,"dark band in granodiorite, strongly sheared",U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,12,90.4,2,weighted average 206Pb/238U age,12,1.3,,crystallization
+16ATe028S1,,60.31,-153.3196,metamorphic,amphibolite,"dark layer (mafic?) in granitoid, strongly sheared w/ ultramylonite locally",U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,18,585.9,1,weighted average 206Pb/238U age,12,1.63,,crystallization
+16ATe030s,,60.2381,-153.409,metamorphic,orthogneiss,mylonitic granite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,23,88.1,1,weighted average 206Pb/238U age,16,1.41,,crystallization
+16ATe048b,,60.4518,-153.5183,metamorphic,amphibolite,amphibolite screen in bt-hbl granitoid,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,10,89.2,2.2,weighted average 206Pb/238U age,10,0.9,,crystallization
+17ATe004S,,60.366,-153.121,igneous,monzonite,foliated monzonite cut by cataclastic zones,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,30,165.8,2.1,weighted average 206Pb/238U age,30,0.89,,crystallization
+17ATe005ms,,60.347,-153.193,metamorphic,mafic gneiss,mylonitic mafic gneiss,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,13,174.7,3.4,weighted average 206Pb/238U age,8,1.24,,crystallization
+17ATe022a,,60.602,-152.749,metamorphic,amphibolite,foliated amphibolite and mafic gneiss,U-Pb titanite,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,33,152.7,1.5,weighted average 206Pb/238U age,14,1.49,,metamorphism
+17ATe022a,,60.602,-152.749,metamorphic,amphibolite,foliated amphibolite and mafic gneiss,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,28,167.3,2.5,weighted average 206Pb/238U age,16,1.53,younger population at ca. 156 Ma,crystallization
+68AR262,,61.0466,-153.0687,igneous,granodiorite,,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,4,60.3,0.9,weighted average 206Pb/238U age,4,0.46,"preliminary age, only 4 grains analyzed",crystallization
+70AR165,,60.8677,-153.415,igneous,granodiorite,granodiorite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,8,39.5,0.6,weighted average 206Pb/238U age,8,1.8,,crystallization
+79AR010,,61.4329,-153.885,igneous,granite,Tired Pup pluton granite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,5,36.9,0.6,weighted average 206Pb/238U age,4,0.56,"preliminary age, 4/5 grains",crystallization
+79AR028,,61.7482,-154.185,igneous,granite,Tired Pup pluton granite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,8,59.3,1,weighted average 206Pb/238U age,8,1.61,,crystallization
+81AR142,,61.0755,-152.9026,igneous,granodiorite,granodiorite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,12,96.9,1.6,weighted average 206Pb/238U age,11,1.71,,crystallization
+85AR30,,61.0116,-153.377,igneous,granodiorite,Telaquana pass pluton,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,4,36.6,0.8,weighted average 206Pb/238U age,4,0.41,"preliminary age, only 4 grains analyzed",crystallization
+85AR31,,61.0241,-153.361,igneous,trondhjemite,Merrill Pass pluton,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,5,63.2,1.2,weighted average 206Pb/238U age,3,1.6,"preliminary, 3/5 grains analyzed",crystallization
+87AR108,,61.1043,-153.0405,metamorphic,orthogneiss,gneissic granodiorite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,10,68.4,1.1,weighted average 206Pb/238U age,4,2.04,"preliminary age, 4/10 grains",crystallization
+88AR183,,61.3938,-153.93,igneous,granodiorite,granodiorite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,4,63.6,1.2,weighted average 206Pb/238U age,4,1.1,"preliminary age, only 4 grains analyzed",crystallization
+88AR198,,61.6744,-154.1561,igneous,granite,granite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,8,60.5,0.8,weighted average 206Pb/238U age,7,0.74,,crystallization
+92AR621,,61.55,-154.076,igneous,granodiorite,granodiorite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,8,63.2,0.8,weighted average 206Pb/238U age,7,1.43,,crystallization
+92AR630,,61.4791,-154.054,igneous,granite,granite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,9,60.8,0.8,weighted average 206Pb/238U age,6,2.02,,crystallization
+92AR651,,61.5569,-154.137,igneous,granodiorite,Tired Pup pluton granodiorite,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,4,61.5,1.1,weighted average 206Pb/238U age,4,0.22,"preliminary age, only 4 grains analyzed",crystallization
+RAAK-13-6,,61.2431,-152.511,igneous,granite,granite cut by cataclastic zones,U-Pb zircon,Stanford-USGS SHRIMP-RG,SHRIMP U-Pb,20,99.2,1.3,weighted average 206Pb/238U age,16,1.07,,crystallization

@@ -1,0 +1,3467 @@
+{
+  "source_files": {
+    "analytical_csv": "geochronology_SHRIMP-RG_swAlaskaMts_jones.csv",
+    "analytical_sha256": "c891fff4a4454c40377de2288e6e1d47b970e6ee6ac08e8712a42e746d4b186d",
+    "sample_summary_csv": "geochronology_sampleSummary_swAlaskaMts_jones.csv",
+    "sample_summary_sha256": "189e32c39a9ab8b87c9c9e027f3547aed425320a28744142d7228e6bd2a2a7f0"
+  },
+  "table_rows_total": 1344,
+  "table_rows_by_mineral": {
+    "zircon": 1036,
+    "titanite": 308
+  },
+  "subset_rule": "summary row for (sample, mineral-mapped Analysis_Type) with Analysis_Type 'U-Pb zircon' (zircon rows), Analysis_Method 'SHRIMP U-Pb', Rock_Class in {igneous, metamorphic}, UPb_Age_Interpretation 'crystallization'; titanite rows excluded as outside the zircon U-Pb gate program",
+  "rows_excluded_by_rule": {
+    "no_matching_summary_row_for_sample_and_mineral_type": 35,
+    "interpretation_not_crystallization_blank": 9,
+    "titanite_analysis_outside_zircon_program": 293,
+    "interpretation_not_crystallization_metamorphism": 156
+  },
+  "rows_excluded_total": 493,
+  "rows_in_scope_mapped_to_cohort": 851,
+  "cohort_csv": "alaska-admission-cohort.csv",
+  "cohort_sha256": "9c9bef2d48af043a339e37bf86d211796f2269df637461462c7bc346555f74ef",
+  "in_scope_samples": 65,
+  "analyses_per_sample": {
+    "11AJJ008": 24,
+    "12AJJ309": 18,
+    "12AJJ310": 19,
+    "12AJJ37A": 11,
+    "12AJJ42C": 8,
+    "12AJJ42D": 16,
+    "12AJJ43B": 16,
+    "12AJJ47B": 15,
+    "12SB110A": 12,
+    "12SB135A": 12,
+    "12SB141E": 12,
+    "12SB144A": 10,
+    "12SB148A": 13,
+    "12SB149A": 10,
+    "13AJJ211": 8,
+    "13AJJ213": 16,
+    "13AJJ214": 16,
+    "13AJJ224": 16,
+    "13AJJ225": 20,
+    "13AJJ226": 12,
+    "13AJJ227A": 23,
+    "13AJJ227B": 16,
+    "13AJJ228A": 13,
+    "13AJJ231B": 11,
+    "13AJJ232A": 12,
+    "13AJJ233": 16,
+    "13AJJ239": 22,
+    "13ALR111": 29,
+    "13SB35A": 12,
+    "13SB44A": 9,
+    "13SB45B": 9,
+    "15AJJ001B": 14,
+    "15AJJ023B": 32,
+    "15AJJ023e": 4,
+    "15ALR118A": 6,
+    "15ALR137": 4,
+    "15ALR138": 4,
+    "15ALR141": 12,
+    "15ALR142": 4,
+    "15ALR159": 10,
+    "16AJJ102a": 24,
+    "16AJJ107A": 20,
+    "16ATe018A": 17,
+    "16ATe021C": 11,
+    "16ATe027e": 12,
+    "16ATe028S1": 18,
+    "16ATe030s": 23,
+    "16ATe048b": 10,
+    "17ATe004S": 19,
+    "17ATe005ms": 13,
+    "17ATe022a": 28,
+    "68AR262": 4,
+    "70AR165": 8,
+    "79AR010": 5,
+    "79AR028": 8,
+    "81AR142": 12,
+    "85AR30": 4,
+    "85AR31": 5,
+    "87AR108": 11,
+    "88AR183": 4,
+    "88AR198": 8,
+    "92AR621": 8,
+    "92AR630": 9,
+    "92AR651": 4,
+    "RAAK-13-6": 20
+  },
+  "rho_wetherill_in_scope": {
+    "n": 851,
+    "min": 0.0,
+    "max": 0.99,
+    "exactly_zero": 12,
+    "missing_or_blank": 0
+  },
+  "field_mapping": {
+    "source_doi": "Release DOI 10.5066/P9K5NFKN",
+    "source_sha256": "SHA-256 of original analytical CSV",
+    "analysis_id": "AnalysisSpot_Mount (verbatim; table decoded as cp1252 for six 0x85 ellipsis bytes in spot names)",
+    "rock_unit": "Sample-summary Sample code (one bedrock sample = one unit at this granularity)",
+    "laboratory": "Sample-summary Analysis_Lab",
+    "method": "Sample-summary Analysis_Method",
+    "r68": "204Pbcorr_206Pb_238U_Ratio",
+    "r75": "204Pbcorr_207Pb_235U_Ratio",
+    "sigma68_abs_1s": "r68 * 204Pbcorr_206Pb_238U_Ratio_Unc_1sig_perc / 100",
+    "sigma75_abs_1s": "r75 * 204Pbcorr_207Pb_235U_Ratio_Unc_1sig_perc / 100",
+    "rho_wetherill": "Error_Correlation, copied directly",
+    "common_pb_method": "204Pb correction (from the 204Pbcorr_ field definitions)",
+    "correction_status": "corrected_radiogenic (encoded from the 204Pb-corrected field selection; no per-row status column exists)",
+    "measurement_basis": "wetherill_absolute_1sigma after percent-to-absolute conversion"
+  },
+  "excluded_detail": [
+    {
+      "analysis_id": "12AJJ39A-1.1_AJJ03",
+      "sample": "12AJJ039A",
+      "mineral": "zircon",
+      "reason": "no_matching_summary_row_for_sample_and_mineral_type"
+    },
+    {
+      "analysis_id": "12AJJ39A-10.1_AJJ03",
+      "sample": "12AJJ039A",
+      "mineral": "zircon",
+      "reason": "no_matching_summary_row_for_sample_and_mineral_type"
+    },
+    {
+      "analysis_id": "12AJJ39A-2.1_AJJ03",
+      "sample": "12AJJ039A",
+      "mineral": "zircon",
+      "reason": "no_matching_summary_row_for_sample_and_mineral_type"
+    },
+    {
+      "analysis_id": "12AJJ39A-3.1_AJJ03",
+      "sample": "12AJJ039A",
+      "mineral": "zircon",
+      "reason": "no_matching_summary_row_for_sample_and_mineral_type"
+    },
+    {
+      "analysis_id": "12AJJ39A-4.1_AJJ03",
+      "sample": "12AJJ039A",
+      "mineral": "zircon",
+      "reason": "no_matching_summary_row_for_sample_and_mineral_type"
+    },
+    {
+      "analysis_id": "12AJJ39A-5.1_AJJ03",
+      "sample": "12AJJ039A",
+      "mineral": "zircon",
+      "reason": "no_matching_summary_row_for_sample_and_mineral_type"
+    },
+    {
+      "analysis_id": "12AJJ39A-6.1_AJJ03",
+      "sample": "12AJJ039A",
+      "mineral": "zircon",
+      "reason": "no_matching_summary_row_for_sample_and_mineral_type"
+    },
+    {
+      "analysis_id": "12AJJ39A-7.1_AJJ03",
+      "sample": "12AJJ039A",
+      "mineral": "zircon",
+      "reason": "no_matching_summary_row_for_sample_and_mineral_type"
+    },
+    {
+      "analysis_id": "12AJJ39A-8.1_AJJ03",
+      "sample": "12AJJ039A",
+      "mineral": "zircon",
+      "reason": "no_matching_summary_row_for_sample_and_mineral_type"
+    },
+    {
+      "analysis_id": "12AJJ39A-9.1_AJJ03",
+      "sample": "12AJJ039A",
+      "mineral": "zircon",
+      "reason": "no_matching_summary_row_for_sample_and_mineral_type"
+    },
+    {
+      "analysis_id": "12SB161A-1.1_AJJ03",
+      "sample": "12SB161A",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_blank"
+    },
+    {
+      "analysis_id": "12SB161A-2.1_AJJ03",
+      "sample": "12SB161A",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_blank"
+    },
+    {
+      "analysis_id": "12SB161A-3.1_AJJ03",
+      "sample": "12SB161A",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_blank"
+    },
+    {
+      "analysis_id": "12SB161A-4.1_AJJ03",
+      "sample": "12SB161A",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_blank"
+    },
+    {
+      "analysis_id": "12AJJ42D-1.1_AJJ04",
+      "sample": "12AJJ042D",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ42D-10.1_AJJ04",
+      "sample": "12AJJ042D",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ42D-11.1_AJJ04",
+      "sample": "12AJJ042D",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ42D-13.1_AJJ04",
+      "sample": "12AJJ042D",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ42D-14.1_AJJ04",
+      "sample": "12AJJ042D",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ42D-15.1_AJJ04",
+      "sample": "12AJJ042D",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ42D-2.1_AJJ04",
+      "sample": "12AJJ042D",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ42D-3.1_AJJ04",
+      "sample": "12AJJ042D",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ42D-4.1_AJJ04",
+      "sample": "12AJJ042D",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ42D-5.1_AJJ04",
+      "sample": "12AJJ042D",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ42D-6.1_AJJ04",
+      "sample": "12AJJ042D",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ42D-7.1_AJJ04",
+      "sample": "12AJJ042D",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ42D-8.1_AJJ04",
+      "sample": "12AJJ042D",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ42D-9.1_AJJ04",
+      "sample": "12AJJ042D",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ43B-1.1_AJJ04",
+      "sample": "12AJJ043B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ43B-2.1_AJJ04",
+      "sample": "12AJJ043B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ43B-3.1_AJJ04",
+      "sample": "12AJJ043B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ43B-5.1_AJJ04",
+      "sample": "12AJJ043B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ43B-7.1_AJJ04",
+      "sample": "12AJJ043B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ43B-8.1_AJJ04",
+      "sample": "12AJJ043B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ47A-1.1_AJJ04",
+      "sample": "12AJJ047A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ47A-2.1_AJJ04",
+      "sample": "12AJJ047A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ47A-3.1_AJJ04",
+      "sample": "12AJJ047A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ47A-4.1_AJJ04",
+      "sample": "12AJJ047A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12SB148A-1.1_AJJ04",
+      "sample": "12SB148A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12SB148A-10.1_AJJ04",
+      "sample": "12SB148A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12SB148A-11.1_AJJ04",
+      "sample": "12SB148A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12SB148A-12.1_AJJ04",
+      "sample": "12SB148A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12SB148A-13.1_AJJ04",
+      "sample": "12SB148A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12SB148A-2.1_AJJ04",
+      "sample": "12SB148A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12SB148A-3.1_AJJ04",
+      "sample": "12SB148A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12SB148A-4.1_AJJ04",
+      "sample": "12SB148A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12SB148A-5.1_AJJ04",
+      "sample": "12SB148A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12SB148A-6.1_AJJ04",
+      "sample": "12SB148A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12SB148A-7.1_AJJ04",
+      "sample": "12SB148A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12SB148A-8.1_AJJ04",
+      "sample": "12SB148A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12SB148A-9.1_AJJ04",
+      "sample": "12SB148A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "13ATE310-1.1_AJJ07",
+      "sample": "13ATE310",
+      "mineral": "zircon",
+      "reason": "no_matching_summary_row_for_sample_and_mineral_type"
+    },
+    {
+      "analysis_id": "13ATE310-1.2_AJJ07",
+      "sample": "13ATE310",
+      "mineral": "zircon",
+      "reason": "no_matching_summary_row_for_sample_and_mineral_type"
+    },
+    {
+      "analysis_id": "13ATE310-2.1_AJJ07",
+      "sample": "13ATE310",
+      "mineral": "zircon",
+      "reason": "no_matching_summary_row_for_sample_and_mineral_type"
+    },
+    {
+      "analysis_id": "13ATE310-3.1_AJJ07",
+      "sample": "13ATE310",
+      "mineral": "zircon",
+      "reason": "no_matching_summary_row_for_sample_and_mineral_type"
+    },
+    {
+      "analysis_id": "13ATE310-4.1_AJJ07",
+      "sample": "13ATE310",
+      "mineral": "zircon",
+      "reason": "no_matching_summary_row_for_sample_and_mineral_type"
+    },
+    {
+      "analysis_id": "13ATE310-5.1_AJJ07",
+      "sample": "13ATE310",
+      "mineral": "zircon",
+      "reason": "no_matching_summary_row_for_sample_and_mineral_type"
+    },
+    {
+      "analysis_id": "13ATE310-6.1_AJJ07",
+      "sample": "13ATE310",
+      "mineral": "zircon",
+      "reason": "no_matching_summary_row_for_sample_and_mineral_type"
+    },
+    {
+      "analysis_id": "13ATE310-7.1_AJJ07",
+      "sample": "13ATE310",
+      "mineral": "zircon",
+      "reason": "no_matching_summary_row_for_sample_and_mineral_type"
+    },
+    {
+      "analysis_id": "13ATE310-8.1_AJJ07",
+      "sample": "13ATE310",
+      "mineral": "zircon",
+      "reason": "no_matching_summary_row_for_sample_and_mineral_type"
+    },
+    {
+      "analysis_id": "13ATE310-9.1_AJJ07",
+      "sample": "13ATE310",
+      "mineral": "zircon",
+      "reason": "no_matching_summary_row_for_sample_and_mineral_type"
+    },
+    {
+      "analysis_id": "11AJJ008-1.1_AJJ10",
+      "sample": "11AJJ008",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "11AJJ008-10.1_AJJ10",
+      "sample": "11AJJ008",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "11AJJ008-10.1\u2026dup1_AJJ10",
+      "sample": "11AJJ008",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "11AJJ008-11.1_AJJ10",
+      "sample": "11AJJ008",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "11AJJ008-12.1_AJJ10",
+      "sample": "11AJJ008",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "11AJJ008-13.1_AJJ10",
+      "sample": "11AJJ008",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "11AJJ008-14.1_AJJ10",
+      "sample": "11AJJ008",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "11AJJ008-2.1_AJJ10",
+      "sample": "11AJJ008",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "11AJJ008-3.1_AJJ10",
+      "sample": "11AJJ008",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "11AJJ008-4.1_AJJ10",
+      "sample": "11AJJ008",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "11AJJ008-5.1_AJJ10",
+      "sample": "11AJJ008",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "11AJJ008-6.1_AJJ10",
+      "sample": "11AJJ008",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "11AJJ008-7.1_AJJ10",
+      "sample": "11AJJ008",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "11AJJ008-8.1_AJJ10",
+      "sample": "11AJJ008",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "11AJJ008-9.1_AJJ10",
+      "sample": "11AJJ008",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ43B-1.1_AJJ10",
+      "sample": "12AJJ043B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ43B-10.1_AJJ10",
+      "sample": "12AJJ043B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ43B-11.1_AJJ10",
+      "sample": "12AJJ043B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ43B-2.1_AJJ10",
+      "sample": "12AJJ043B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ43B-3.1_AJJ10",
+      "sample": "12AJJ043B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ43B-4.1_AJJ10",
+      "sample": "12AJJ043B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ43B-5.1_AJJ10",
+      "sample": "12AJJ043B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ43B-6.1_AJJ10",
+      "sample": "12AJJ043B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ43B-7.1_AJJ10",
+      "sample": "12AJJ043B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ43B-8.1_AJJ10",
+      "sample": "12AJJ043B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ43B-9.1_AJJ10",
+      "sample": "12AJJ043B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ47A-1.1_AJJ10",
+      "sample": "12AJJ047A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ47A-10.1_AJJ10",
+      "sample": "12AJJ047A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ47A-11.1_AJJ10",
+      "sample": "12AJJ047A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ47A-12.1_AJJ10",
+      "sample": "12AJJ047A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ47A-2.1_AJJ10",
+      "sample": "12AJJ047A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ47A-3.1_AJJ10",
+      "sample": "12AJJ047A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ47A-4.1_AJJ10",
+      "sample": "12AJJ047A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ47A-5.1_AJJ10",
+      "sample": "12AJJ047A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ47A-6.1_AJJ10",
+      "sample": "12AJJ047A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ47A-7.1_AJJ10",
+      "sample": "12AJJ047A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ47A-8.1_AJJ10",
+      "sample": "12AJJ047A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12AJJ47A-9.1_AJJ10",
+      "sample": "12AJJ047A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "12SB112Z-1.1_AJJ10",
+      "sample": "12SB112Z",
+      "mineral": "titanite",
+      "reason": "no_matching_summary_row_for_sample_and_mineral_type"
+    },
+    {
+      "analysis_id": "12SB112Z-10.1_AJJ10",
+      "sample": "12SB112Z",
+      "mineral": "titanite",
+      "reason": "no_matching_summary_row_for_sample_and_mineral_type"
+    },
+    {
+      "analysis_id": "12SB112Z-11.1_AJJ10",
+      "sample": "12SB112Z",
+      "mineral": "titanite",
+      "reason": "no_matching_summary_row_for_sample_and_mineral_type"
+    },
+    {
+      "analysis_id": "12SB112Z-12.1_AJJ10",
+      "sample": "12SB112Z",
+      "mineral": "titanite",
+      "reason": "no_matching_summary_row_for_sample_and_mineral_type"
+    },
+    {
+      "analysis_id": "12SB112Z-13.1_AJJ10",
+      "sample": "12SB112Z",
+      "mineral": "titanite",
+      "reason": "no_matching_summary_row_for_sample_and_mineral_type"
+    },
+    {
+      "analysis_id": "12SB112Z-14.1_AJJ10",
+      "sample": "12SB112Z",
+      "mineral": "titanite",
+      "reason": "no_matching_summary_row_for_sample_and_mineral_type"
+    },
+    {
+      "analysis_id": "12SB112Z-2.1_AJJ10",
+      "sample": "12SB112Z",
+      "mineral": "titanite",
+      "reason": "no_matching_summary_row_for_sample_and_mineral_type"
+    },
+    {
+      "analysis_id": "12SB112Z-3.1_AJJ10",
+      "sample": "12SB112Z",
+      "mineral": "titanite",
+      "reason": "no_matching_summary_row_for_sample_and_mineral_type"
+    },
+    {
+      "analysis_id": "12SB112Z-4.1_AJJ10",
+      "sample": "12SB112Z",
+      "mineral": "titanite",
+      "reason": "no_matching_summary_row_for_sample_and_mineral_type"
+    },
+    {
+      "analysis_id": "12SB112Z-5.1_AJJ10",
+      "sample": "12SB112Z",
+      "mineral": "titanite",
+      "reason": "no_matching_summary_row_for_sample_and_mineral_type"
+    },
+    {
+      "analysis_id": "12SB112Z-6.1_AJJ10",
+      "sample": "12SB112Z",
+      "mineral": "titanite",
+      "reason": "no_matching_summary_row_for_sample_and_mineral_type"
+    },
+    {
+      "analysis_id": "12SB112Z-7.1_AJJ10",
+      "sample": "12SB112Z",
+      "mineral": "titanite",
+      "reason": "no_matching_summary_row_for_sample_and_mineral_type"
+    },
+    {
+      "analysis_id": "12SB112Z-8.1_AJJ10",
+      "sample": "12SB112Z",
+      "mineral": "titanite",
+      "reason": "no_matching_summary_row_for_sample_and_mineral_type"
+    },
+    {
+      "analysis_id": "12SB112Z-8.1\u2026dup1_AJJ10",
+      "sample": "12SB112Z",
+      "mineral": "titanite",
+      "reason": "no_matching_summary_row_for_sample_and_mineral_type"
+    },
+    {
+      "analysis_id": "12SB112Z-9.1_AJJ10",
+      "sample": "12SB112Z",
+      "mineral": "titanite",
+      "reason": "no_matching_summary_row_for_sample_and_mineral_type"
+    },
+    {
+      "analysis_id": "13AJJ236-1.1_AJJ10",
+      "sample": "13AJJ236",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "13AJJ236-2.1_AJJ10",
+      "sample": "13AJJ236",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "13AJJ236-3.1_AJJ10",
+      "sample": "13AJJ236",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "13AJJ236-4.1_AJJ10",
+      "sample": "13AJJ236",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "13AJJ236-5.1_AJJ10",
+      "sample": "13AJJ236",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "13AJJ236-6.1_AJJ10",
+      "sample": "13AJJ236",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "200A-1_AJJ11",
+      "sample": "13AJJ200A",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_blank"
+    },
+    {
+      "analysis_id": "200A-2_AJJ11",
+      "sample": "13AJJ200A",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_blank"
+    },
+    {
+      "analysis_id": "200A-3_AJJ11",
+      "sample": "13AJJ200A",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_blank"
+    },
+    {
+      "analysis_id": "200A-4_AJJ11",
+      "sample": "13AJJ200A",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_blank"
+    },
+    {
+      "analysis_id": "200A-5_AJJ11",
+      "sample": "13AJJ200A",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_blank"
+    },
+    {
+      "analysis_id": "15ALR118A-1.1_AJJ22",
+      "sample": "15ALR118A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15ALR118A-10.1_AJJ22",
+      "sample": "15ALR118A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15ALR118A-11.1_AJJ22",
+      "sample": "15ALR118A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15ALR118A-12.1_AJJ22",
+      "sample": "15ALR118A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15ALR118A-13.1_AJJ22",
+      "sample": "15ALR118A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15ALR118A-14.1_AJJ22",
+      "sample": "15ALR118A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15ALR118A-15.1_AJJ22",
+      "sample": "15ALR118A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15ALR118A-16.1_AJJ22",
+      "sample": "15ALR118A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15ALR118A-2.1_AJJ22",
+      "sample": "15ALR118A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15ALR118A-3.1_AJJ22",
+      "sample": "15ALR118A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15ALR118A-4.1_AJJ22",
+      "sample": "15ALR118A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15ALR118A-5.1_AJJ22",
+      "sample": "15ALR118A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15ALR118A-6.1_AJJ22",
+      "sample": "15ALR118A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15ALR118A-7.1_AJJ22",
+      "sample": "15ALR118A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15ALR118A-8.1_AJJ22",
+      "sample": "15ALR118A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15ALR118A-9.1_AJJ22",
+      "sample": "15ALR118A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ001B-1.1_AJJ23",
+      "sample": "15AJJ001B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ001B-11.1_AJJ23",
+      "sample": "15AJJ001B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ001B-13.1_AJJ23",
+      "sample": "15AJJ001B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ001B-14.1_AJJ23",
+      "sample": "15AJJ001B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ001B-15.1_AJJ23",
+      "sample": "15AJJ001B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ001B-16.1_AJJ23",
+      "sample": "15AJJ001B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ001B-17.1_AJJ23",
+      "sample": "15AJJ001B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ001B-2.1_AJJ23",
+      "sample": "15AJJ001B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ001B-3.1_AJJ23",
+      "sample": "15AJJ001B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ001B-4.1_AJJ23",
+      "sample": "15AJJ001B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ001B-5.1_AJJ23",
+      "sample": "15AJJ001B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ001B-6.1_AJJ23",
+      "sample": "15AJJ001B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ001B-7.1_AJJ23",
+      "sample": "15AJJ001B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ001B-8.1_AJJ23",
+      "sample": "15AJJ001B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ001B-9.1_AJJ23",
+      "sample": "15AJJ001B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ001C-1.1_AJJ23",
+      "sample": "15AJJ001C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ001C-10.1_AJJ23",
+      "sample": "15AJJ001C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ001C-11.1_AJJ23",
+      "sample": "15AJJ001C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ001C-12.1_AJJ23",
+      "sample": "15AJJ001C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ001C-13.1_AJJ23",
+      "sample": "15AJJ001C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ001C-14.1_AJJ23",
+      "sample": "15AJJ001C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ001C-15.1_AJJ23",
+      "sample": "15AJJ001C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ001C-16.1_AJJ23",
+      "sample": "15AJJ001C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ001C-17.1_AJJ23",
+      "sample": "15AJJ001C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ001C-18.1_AJJ23",
+      "sample": "15AJJ001C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ001C-2.1_AJJ23",
+      "sample": "15AJJ001C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ001C-3.1_AJJ23",
+      "sample": "15AJJ001C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ001C-4.1_AJJ23",
+      "sample": "15AJJ001C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ001C-5.1_AJJ23",
+      "sample": "15AJJ001C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ001C-6.1_AJJ23",
+      "sample": "15AJJ001C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ001C-7.1_AJJ23",
+      "sample": "15AJJ001C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ001C-8.1_AJJ23",
+      "sample": "15AJJ001C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ001C-9.1_AJJ23",
+      "sample": "15AJJ001C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ023B-1.1_AJJ23",
+      "sample": "15AJJ023B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ023B-10.1_AJJ23",
+      "sample": "15AJJ023B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ023B-11.1_AJJ23",
+      "sample": "15AJJ023B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ023B-12.1_AJJ23",
+      "sample": "15AJJ023B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ023B-13.1_AJJ23",
+      "sample": "15AJJ023B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ023B-14.1_AJJ23",
+      "sample": "15AJJ023B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ023B-15.1_AJJ23",
+      "sample": "15AJJ023B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ023B-16.1_AJJ23",
+      "sample": "15AJJ023B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ023B-2.1_AJJ23",
+      "sample": "15AJJ023B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ023B-3.1_AJJ23",
+      "sample": "15AJJ023B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ023B-4.1_AJJ23",
+      "sample": "15AJJ023B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ023B-5.1_AJJ23",
+      "sample": "15AJJ023B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ023B-6.1_AJJ23",
+      "sample": "15AJJ023B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ023B-7.1_AJJ23",
+      "sample": "15AJJ023B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ023B-8.1_AJJ23",
+      "sample": "15AJJ023B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ023B-9.1_AJJ23",
+      "sample": "15AJJ023B",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15ALR159-1.1_AJJ23",
+      "sample": "15ALR159",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15ALR159-10.1_AJJ23",
+      "sample": "15ALR159",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15ALR159-11.1_AJJ23",
+      "sample": "15ALR159",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15ALR159-12.1_AJJ23",
+      "sample": "15ALR159",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15ALR159-13.1_AJJ23",
+      "sample": "15ALR159",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15ALR159-14.1_AJJ23",
+      "sample": "15ALR159",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15ALR159-15.1_AJJ23",
+      "sample": "15ALR159",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15ALR159-16.1_AJJ23",
+      "sample": "15ALR159",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15ALR159-2.1_AJJ23",
+      "sample": "15ALR159",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15ALR159-3.1_AJJ23",
+      "sample": "15ALR159",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15ALR159-4.1_AJJ23",
+      "sample": "15ALR159",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15ALR159-5.1_AJJ23",
+      "sample": "15ALR159",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15ALR159-6.1_AJJ23",
+      "sample": "15ALR159",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15ALR159-7.1_AJJ23",
+      "sample": "15ALR159",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15ALR159-8.1_AJJ23",
+      "sample": "15ALR159",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15ALR159-9.1_AJJ23",
+      "sample": "15ALR159",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "15AJJ001C-1.1_AJJ24",
+      "sample": "15AJJ001C",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ001C-10.1_AJJ24",
+      "sample": "15AJJ001C",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ001C-11.1_AJJ24",
+      "sample": "15AJJ001C",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ001C-12.1_AJJ24",
+      "sample": "15AJJ001C",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ001C-2.1_AJJ24",
+      "sample": "15AJJ001C",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ001C-3.1_AJJ24",
+      "sample": "15AJJ001C",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ001C-4.1_AJJ24",
+      "sample": "15AJJ001C",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ001C-5.1_AJJ24",
+      "sample": "15AJJ001C",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ001C-6.1_AJJ24",
+      "sample": "15AJJ001C",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ001C-7.1_AJJ24",
+      "sample": "15AJJ001C",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ001C-8.1_AJJ24",
+      "sample": "15AJJ001C",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ001C-9.1_AJJ24",
+      "sample": "15AJJ001C",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017F1-1.1_AJJ24",
+      "sample": "15AJJ017F1",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017F1-10.1_AJJ24",
+      "sample": "15AJJ017F1",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017F1-11.1_AJJ24",
+      "sample": "15AJJ017F1",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017F1-12.1_AJJ24",
+      "sample": "15AJJ017F1",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017F1-13.1_AJJ24",
+      "sample": "15AJJ017F1",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017F1-13.2_AJJ24",
+      "sample": "15AJJ017F1",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017F1-14.1_AJJ24",
+      "sample": "15AJJ017F1",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017F1-14.2_AJJ24",
+      "sample": "15AJJ017F1",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017F1-2.1_AJJ24",
+      "sample": "15AJJ017F1",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017F1-20.1_AJJ24",
+      "sample": "15AJJ017F1",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017F1-21.1_AJJ24",
+      "sample": "15AJJ017F1",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017F1-22.1_AJJ24",
+      "sample": "15AJJ017F1",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017F1-23.1_AJJ24",
+      "sample": "15AJJ017F1",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017F1-24.1_AJJ24",
+      "sample": "15AJJ017F1",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017F1-25.1_AJJ24",
+      "sample": "15AJJ017F1",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017F1-26.1_AJJ24",
+      "sample": "15AJJ017F1",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017F1-27.1_AJJ24",
+      "sample": "15AJJ017F1",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017F1-28.1_AJJ24",
+      "sample": "15AJJ017F1",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017F1-29.1_AJJ24",
+      "sample": "15AJJ017F1",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017F1-3.1_AJJ24",
+      "sample": "15AJJ017F1",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017F1-30.1_AJJ24",
+      "sample": "15AJJ017F1",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017F1-31.1_AJJ24",
+      "sample": "15AJJ017F1",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017F1-32.1_AJJ24",
+      "sample": "15AJJ017F1",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017F1-33.1_AJJ24",
+      "sample": "15AJJ017F1",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017F1-34.1_AJJ24",
+      "sample": "15AJJ017F1",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017F1-4.1_AJJ24",
+      "sample": "15AJJ017F1",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017F1-5.1_AJJ24",
+      "sample": "15AJJ017F1",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017F1-6.1_AJJ24",
+      "sample": "15AJJ017F1",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017F1-7.1_AJJ24",
+      "sample": "15AJJ017F1",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017F1-7.2_AJJ24",
+      "sample": "15AJJ017F1",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017F1-8.1_AJJ24",
+      "sample": "15AJJ017F1",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017F1-9.1_AJJ24",
+      "sample": "15AJJ017F1",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ018-1.1_AJJ24",
+      "sample": "15AJJ018",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ018-2.1_AJJ24",
+      "sample": "15AJJ018",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ018-3.1_AJJ24",
+      "sample": "15AJJ018",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020-1.1_AJJ25",
+      "sample": "15AJJ020A",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020-10.1_AJJ25",
+      "sample": "15AJJ020A",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020-11.1_AJJ25",
+      "sample": "15AJJ020A",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020-12.1_AJJ25",
+      "sample": "15AJJ020A",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020-2.1_AJJ25",
+      "sample": "15AJJ020A",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020-3.1_AJJ25",
+      "sample": "15AJJ020A",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020-4.1_AJJ25",
+      "sample": "15AJJ020A",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020-5.1_AJJ25",
+      "sample": "15AJJ020A",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020-6.1_AJJ25",
+      "sample": "15AJJ020A",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020-7.1_AJJ25",
+      "sample": "15AJJ020A",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020-8.1_AJJ25",
+      "sample": "15AJJ020A",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020-9.1_AJJ25",
+      "sample": "15AJJ020A",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017A-1.1_AJJ27",
+      "sample": "15AJJ017A",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017A-10.1_AJJ27",
+      "sample": "15AJJ017A",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017A-11.1_AJJ27",
+      "sample": "15AJJ017A",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017A-12.1_AJJ27",
+      "sample": "15AJJ017A",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017A-13.1_AJJ27",
+      "sample": "15AJJ017A",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017A-14.1_AJJ27",
+      "sample": "15AJJ017A",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017A-2.1_AJJ27",
+      "sample": "15AJJ017A",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017A-3.1_AJJ27",
+      "sample": "15AJJ017A",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017A-4.1_AJJ27",
+      "sample": "15AJJ017A",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017A-5.1_AJJ27",
+      "sample": "15AJJ017A",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017A-6.1_AJJ27",
+      "sample": "15AJJ017A",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017A-7.1_AJJ27",
+      "sample": "15AJJ017A",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017A-8.1_AJJ27",
+      "sample": "15AJJ017A",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017A-9.1_AJJ27",
+      "sample": "15AJJ017A",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017C-1.1_AJJ27",
+      "sample": "15AJJ017C",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017C-10.1_AJJ27",
+      "sample": "15AJJ017C",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017C-11.1_AJJ27",
+      "sample": "15AJJ017C",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017C-12.1_AJJ27",
+      "sample": "15AJJ017C",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017C-13.1_AJJ27",
+      "sample": "15AJJ017C",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017C-14.1_AJJ27",
+      "sample": "15AJJ017C",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017C-2.1_AJJ27",
+      "sample": "15AJJ017C",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017C-3.1_AJJ27",
+      "sample": "15AJJ017C",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017C-4.1_AJJ27",
+      "sample": "15AJJ017C",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017C-5.1_AJJ27",
+      "sample": "15AJJ017C",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017C-6.1_AJJ27",
+      "sample": "15AJJ017C",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017C-7.1_AJJ27",
+      "sample": "15AJJ017C",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017C-8.1_AJJ27",
+      "sample": "15AJJ017C",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017C-9.1_AJJ27",
+      "sample": "15AJJ017C",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017Dg-1.1_AJJ27",
+      "sample": "15AJJ017Dg",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017Dg-10.1_AJJ27",
+      "sample": "15AJJ017Dg",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017Dg-11.1_AJJ27",
+      "sample": "15AJJ017Dg",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017Dg-12.1_AJJ27",
+      "sample": "15AJJ017Dg",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017Dg-13.1_AJJ27",
+      "sample": "15AJJ017Dg",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017Dg-14.1_AJJ27",
+      "sample": "15AJJ017Dg",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017Dg-15.1_AJJ27",
+      "sample": "15AJJ017Dg",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017Dg-16.1_AJJ27",
+      "sample": "15AJJ017Dg",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017Dg-2.1_AJJ27",
+      "sample": "15AJJ017Dg",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017Dg-3.1_AJJ27",
+      "sample": "15AJJ017Dg",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017Dg-4.1_AJJ27",
+      "sample": "15AJJ017Dg",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017Dg-5.1_AJJ27",
+      "sample": "15AJJ017Dg",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017Dg-6.1_AJJ27",
+      "sample": "15AJJ017Dg",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017Dg-7.1_AJJ27",
+      "sample": "15AJJ017Dg",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017Dg-8.1_AJJ27",
+      "sample": "15AJJ017Dg",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ017Dg-9.1_AJJ27",
+      "sample": "15AJJ017Dg",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020B-1.1_AJJ27",
+      "sample": "15AJJ020B",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020B-10.1_AJJ27",
+      "sample": "15AJJ020B",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020B-11.1_AJJ27",
+      "sample": "15AJJ020B",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020B-12.1_AJJ27",
+      "sample": "15AJJ020B",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020B-13.1_AJJ27",
+      "sample": "15AJJ020B",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020B-14.1_AJJ27",
+      "sample": "15AJJ020B",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020B-15.1_AJJ27",
+      "sample": "15AJJ020B",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020B-16.1_AJJ27",
+      "sample": "15AJJ020B",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020B-17.1_AJJ27",
+      "sample": "15AJJ020B",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020B-18.1_AJJ27",
+      "sample": "15AJJ020B",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020B-19.1_AJJ27",
+      "sample": "15AJJ020B",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020B-2.1_AJJ27",
+      "sample": "15AJJ020B",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020B-20.1_AJJ27",
+      "sample": "15AJJ020B",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020B-21.1_AJJ27",
+      "sample": "15AJJ020B",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020B-22.1_AJJ27",
+      "sample": "15AJJ020B",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020B-23.1_AJJ27",
+      "sample": "15AJJ020B",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020B-24.1_AJJ27",
+      "sample": "15AJJ020B",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020B-25.1_AJJ27",
+      "sample": "15AJJ020B",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020B-26.1_AJJ27",
+      "sample": "15AJJ020B",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020B-27.1_AJJ27",
+      "sample": "15AJJ020B",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020B-28.1_AJJ27",
+      "sample": "15AJJ020B",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020B-29.1_AJJ27",
+      "sample": "15AJJ020B",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020B-3.1_AJJ27",
+      "sample": "15AJJ020B",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020B-30.1_AJJ27",
+      "sample": "15AJJ020B",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020B-31.1_AJJ27",
+      "sample": "15AJJ020B",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020B-32.1_AJJ27",
+      "sample": "15AJJ020B",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020B-33.1_AJJ27",
+      "sample": "15AJJ020B",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020B-4.1_AJJ27",
+      "sample": "15AJJ020B",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020B-5.1_AJJ27",
+      "sample": "15AJJ020B",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020B-6.1_AJJ27",
+      "sample": "15AJJ020B",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020B-7.1_AJJ27",
+      "sample": "15AJJ020B",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020B-8.1_AJJ27",
+      "sample": "15AJJ020B",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "15AJJ020B-9.1_AJJ27",
+      "sample": "15AJJ020B",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "16ATe019-1.2_AJJ30",
+      "sample": "16ATe019a",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "16ATe019-10.1_AJJ30",
+      "sample": "16ATe019a",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "16ATe019-12.1_AJJ30",
+      "sample": "16ATe019a",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "16ATe019-14.1_AJJ30",
+      "sample": "16ATe019a",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "16ATe019-15.1_AJJ30",
+      "sample": "16ATe019a",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "16ATe019-16.1_AJJ30",
+      "sample": "16ATe019a",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "16ATe019-17.1_AJJ30",
+      "sample": "16ATe019a",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "16ATe019-18.1_AJJ30",
+      "sample": "16ATe019a",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "16ATe019-19.1_AJJ30",
+      "sample": "16ATe019a",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "16ATe019-2.1_AJJ30",
+      "sample": "16ATe019a",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "16ATe019-20.1_AJJ30",
+      "sample": "16ATe019a",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "16ATe019-21.1_AJJ30",
+      "sample": "16ATe019a",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "16ATe019-22.1_AJJ30",
+      "sample": "16ATe019a",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "16ATe019-3.1_AJJ30",
+      "sample": "16ATe019a",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "16ATe019-4.1_AJJ30",
+      "sample": "16ATe019a",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "16ATe019-5.1_AJJ30",
+      "sample": "16ATe019a",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "16ATe019-6.1_AJJ30",
+      "sample": "16ATe019a",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "16ATe019-7.1_AJJ30",
+      "sample": "16ATe019a",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "16ATe019-8.1_AJJ30",
+      "sample": "16ATe019a",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "16ATe019-9.1_AJJ30",
+      "sample": "16ATe019a",
+      "mineral": "zircon",
+      "reason": "interpretation_not_crystallization_metamorphism"
+    },
+    {
+      "analysis_id": "16ATe019a-32.1_AJJ34",
+      "sample": "16ATe019a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe021c-1.1_AJJ34",
+      "sample": "16ATe021C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe021c-10.1_AJJ34",
+      "sample": "16ATe021C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe021c-11.1_AJJ34",
+      "sample": "16ATe021C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe021c-12.1_AJJ34",
+      "sample": "16ATe021C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe021c-13.1_AJJ34",
+      "sample": "16ATe021C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe021c-14.1_AJJ34",
+      "sample": "16ATe021C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe021c-15.1_AJJ34",
+      "sample": "16ATe021C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe021c-16.1_AJJ34",
+      "sample": "16ATe021C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe021c-17.1_AJJ34",
+      "sample": "16ATe021C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe021c-18.1_AJJ34",
+      "sample": "16ATe021C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe021c-2.1_AJJ34",
+      "sample": "16ATe021C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe021c-3.1_AJJ34",
+      "sample": "16ATe021C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe021c-4.1_AJJ34",
+      "sample": "16ATe021C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe021c-5.1_AJJ34",
+      "sample": "16ATe021C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe021c-6.1_AJJ34",
+      "sample": "16ATe021C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe021c-7.1_AJJ34",
+      "sample": "16ATe021C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe021c-8.1_AJJ34",
+      "sample": "16ATe021C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe021c-9.1_AJJ34",
+      "sample": "16ATe021C",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe027e-1.1_AJJ34",
+      "sample": "16ATe027e",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe027e-10.1_AJJ34",
+      "sample": "16ATe027e",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe027e-11.1_AJJ34",
+      "sample": "16ATe027e",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe027e-12.1_AJJ34",
+      "sample": "16ATe027e",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe027e-13.1_AJJ34",
+      "sample": "16ATe027e",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe027e-14.1_AJJ34",
+      "sample": "16ATe027e",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe027e-15.1_AJJ34",
+      "sample": "16ATe027e",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe027e-16.1_AJJ34",
+      "sample": "16ATe027e",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe027e-17.1_AJJ34",
+      "sample": "16ATe027e",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe027e-18.1_AJJ34",
+      "sample": "16ATe027e",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe027e-19.1_AJJ34",
+      "sample": "16ATe027e",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe027e-2.1_AJJ34",
+      "sample": "16ATe027e",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe027e-3.1_AJJ34",
+      "sample": "16ATe027e",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe027e-3.2_AJJ34",
+      "sample": "16ATe027e",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe027e-4.1_AJJ34",
+      "sample": "16ATe027e",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe027e-5.1_AJJ34",
+      "sample": "16ATe027e",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe027e-6.1_AJJ34",
+      "sample": "16ATe027e",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe027e-7.1_AJJ34",
+      "sample": "16ATe027e",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe027e-8.1_AJJ34",
+      "sample": "16ATe027e",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe027e-9.1_AJJ34",
+      "sample": "16ATe027e",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16AJJ102a-1.1_AJJ35",
+      "sample": "16AJJ102a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16AJJ102a-10.1_AJJ35",
+      "sample": "16AJJ102a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16AJJ102a-11.1_AJJ35",
+      "sample": "16AJJ102a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16AJJ102a-12.1_AJJ35",
+      "sample": "16AJJ102a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16AJJ102a-13.1_AJJ35",
+      "sample": "16AJJ102a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16AJJ102a-14.1_AJJ35",
+      "sample": "16AJJ102a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16AJJ102a-15.1_AJJ35",
+      "sample": "16AJJ102a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16AJJ102a-16.1_AJJ35",
+      "sample": "16AJJ102a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16AJJ102a-17.1_AJJ35",
+      "sample": "16AJJ102a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16AJJ102a-18.1_AJJ35",
+      "sample": "16AJJ102a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16AJJ102a-19.1_AJJ35",
+      "sample": "16AJJ102a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16AJJ102a-2.1_AJJ35",
+      "sample": "16AJJ102a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16AJJ102a-20.1_AJJ35",
+      "sample": "16AJJ102a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16AJJ102a-21.1_AJJ35",
+      "sample": "16AJJ102a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16AJJ102a-22.1_AJJ35",
+      "sample": "16AJJ102a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16AJJ102a-23.1_AJJ35",
+      "sample": "16AJJ102a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16AJJ102a-24.1_AJJ35",
+      "sample": "16AJJ102a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16AJJ102a-25.1_AJJ35",
+      "sample": "16AJJ102a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16AJJ102a-26.1_AJJ35",
+      "sample": "16AJJ102a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16AJJ102a-3.1_AJJ35",
+      "sample": "16AJJ102a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16AJJ102a-4.1_AJJ35",
+      "sample": "16AJJ102a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16AJJ102a-5.1_AJJ35",
+      "sample": "16AJJ102a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16AJJ102a-6.1_AJJ35",
+      "sample": "16AJJ102a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16AJJ102a-7.1_AJJ35",
+      "sample": "16AJJ102a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16AJJ102a-8.1_AJJ35",
+      "sample": "16AJJ102a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16AJJ102a-9.1_AJJ35",
+      "sample": "16AJJ102a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe019a-1.1_AJJ35",
+      "sample": "16ATe019a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe019a-10.1_AJJ35",
+      "sample": "16ATe019a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe019a-11.1_AJJ35",
+      "sample": "16ATe019a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe019a-12.1_AJJ35",
+      "sample": "16ATe019a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe019a-13.1_AJJ35",
+      "sample": "16ATe019a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe019a-14.1_AJJ35",
+      "sample": "16ATe019a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe019a-15.1_AJJ35",
+      "sample": "16ATe019a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe019a-16.1_AJJ35",
+      "sample": "16ATe019a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe019a-17.1_AJJ35",
+      "sample": "16ATe019a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe019a-18.1_AJJ35",
+      "sample": "16ATe019a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe019a-19.1_AJJ35",
+      "sample": "16ATe019a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe019a-2.1_AJJ35",
+      "sample": "16ATe019a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe019a-20.1_AJJ35",
+      "sample": "16ATe019a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe019a-21.1_AJJ35",
+      "sample": "16ATe019a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe019a-22.1_AJJ35",
+      "sample": "16ATe019a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe019a-23.1_AJJ35",
+      "sample": "16ATe019a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe019a-24.1_AJJ35",
+      "sample": "16ATe019a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe019a-25.1_AJJ35",
+      "sample": "16ATe019a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe019a-26.1_AJJ35",
+      "sample": "16ATe019a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe019a-27.1_AJJ35",
+      "sample": "16ATe019a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe019a-28.1_AJJ35",
+      "sample": "16ATe019a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe019a-29.1_AJJ35",
+      "sample": "16ATe019a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe019a-3.1_AJJ35",
+      "sample": "16ATe019a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe019a-30.1_AJJ35",
+      "sample": "16ATe019a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe019a-31.1_AJJ35",
+      "sample": "16ATe019a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe019a-33.1_AJJ35",
+      "sample": "16ATe019a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe019a-34.1_AJJ35",
+      "sample": "16ATe019a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe019a-4.1_AJJ35",
+      "sample": "16ATe019a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe019a-5.1_AJJ35",
+      "sample": "16ATe019a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe019a-6.1_AJJ35",
+      "sample": "16ATe019a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe019a-7.1_AJJ35",
+      "sample": "16ATe019a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe019a-8.1_AJJ35",
+      "sample": "16ATe019a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "16ATe019a-9.1_AJJ35",
+      "sample": "16ATe019a",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "17ATe022A-1.1_AJJ40",
+      "sample": "17ATe022A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "17ATe022A-10.1_AJJ40",
+      "sample": "17ATe022A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "17ATe022A-11.1_AJJ40",
+      "sample": "17ATe022A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "17ATe022A-12.1_AJJ40",
+      "sample": "17ATe022A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "17ATe022A-13.1_AJJ40",
+      "sample": "17ATe022A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "17ATe022A-14.1_AJJ40",
+      "sample": "17ATe022A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "17ATe022A-15.1_AJJ40",
+      "sample": "17ATe022A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "17ATe022A-16.1_AJJ40",
+      "sample": "17ATe022A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "17ATe022A-17.1_AJJ40",
+      "sample": "17ATe022A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "17ATe022A-18.1_AJJ40",
+      "sample": "17ATe022A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "17ATe022A-19.1_AJJ40",
+      "sample": "17ATe022A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "17ATe022A-2.1_AJJ40",
+      "sample": "17ATe022A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "17ATe022A-20.1_AJJ40",
+      "sample": "17ATe022A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "17ATe022A-21.1_AJJ40",
+      "sample": "17ATe022A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "17ATe022A-22.1_AJJ40",
+      "sample": "17ATe022A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "17ATe022A-23.1_AJJ40",
+      "sample": "17ATe022A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "17ATe022A-24.1_AJJ40",
+      "sample": "17ATe022A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "17ATe022A-25.1_AJJ40",
+      "sample": "17ATe022A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "17ATe022A-26.1_AJJ40",
+      "sample": "17ATe022A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "17ATe022A-26.2_AJJ40",
+      "sample": "17ATe022A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "17ATe022A-27.1_AJJ40",
+      "sample": "17ATe022A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "17ATe022A-28.1_AJJ40",
+      "sample": "17ATe022A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "17ATe022A-29.1_AJJ40",
+      "sample": "17ATe022A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "17ATe022A-3.1_AJJ40",
+      "sample": "17ATe022A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "17ATe022A-30.1_AJJ40",
+      "sample": "17ATe022A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "17ATe022A-31.1_AJJ40",
+      "sample": "17ATe022A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "17ATe022A-32.1_AJJ40",
+      "sample": "17ATe022A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "17ATe022A-33.1_AJJ40",
+      "sample": "17ATe022A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "17ATe022A-4.1_AJJ40",
+      "sample": "17ATe022A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "17ATe022A-5.1_AJJ40",
+      "sample": "17ATe022A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "17ATe022A-6.1_AJJ40",
+      "sample": "17ATe022A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "17ATe022A-7.1_AJJ40",
+      "sample": "17ATe022A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    },
+    {
+      "analysis_id": "17ATe022A-8.1_AJJ40",
+      "sample": "17ATe022A",
+      "mineral": "titanite",
+      "reason": "titanite_analysis_outside_zircon_program"
+    }
+  ],
+  "grouping_by_sample": {
+    "11AJJ008": {
+      "rock_class": "igneous",
+      "rock_type": "granodiorite",
+      "rock_comment": "foliated granodiorite",
+      "analyses": 24
+    },
+    "12AJJ309": {
+      "rock_class": "igneous",
+      "rock_type": "granite",
+      "rock_comment": "Shell Hills granite",
+      "analyses": 18
+    },
+    "12AJJ310": {
+      "rock_class": "igneous",
+      "rock_type": "granite",
+      "rock_comment": "Kitty Ridge granite",
+      "analyses": 19
+    },
+    "12AJJ37A": {
+      "rock_class": "igneous",
+      "rock_type": "andesite",
+      "rock_comment": "andesitic volcanic rk",
+      "analyses": 11
+    },
+    "12AJJ42C": {
+      "rock_class": "igneous",
+      "rock_type": "mafic dike",
+      "rock_comment": "mylonitic mafic layer in orthogneiss",
+      "analyses": 8
+    },
+    "12AJJ42D": {
+      "rock_class": "igneous",
+      "rock_type": "orthogneiss",
+      "rock_comment": "mylonitic orthogneiss",
+      "analyses": 16
+    },
+    "12AJJ43B": {
+      "rock_class": "igneous",
+      "rock_type": "granodiorite",
+      "rock_comment": "foliated granodiorite",
+      "analyses": 16
+    },
+    "12AJJ47B": {
+      "rock_class": "igneous",
+      "rock_type": "granite",
+      "rock_comment": "bt granite in contact w/ gabbro",
+      "analyses": 15
+    },
+    "12SB110A": {
+      "rock_class": "igneous",
+      "rock_type": "andesite",
+      "rock_comment": "pl-bt+/-qtz xl tuff(?)",
+      "analyses": 12
+    },
+    "12SB135A": {
+      "rock_class": "igneous",
+      "rock_type": "dacite",
+      "rock_comment": "dacite (Veleska Lake)",
+      "analyses": 12
+    },
+    "12SB141E": {
+      "rock_class": "igneous",
+      "rock_type": "rhyolite",
+      "rock_comment": "pl-bt-qz rhyolite",
+      "analyses": 12
+    },
+    "12SB144A": {
+      "rock_class": "igneous",
+      "rock_type": "andesite",
+      "rock_comment": "qt-pl-hb ashflow-tuff",
+      "analyses": 10
+    },
+    "12SB148A": {
+      "rock_class": "igneous",
+      "rock_type": "granodiorite",
+      "rock_comment": "unfoliated granodiorite",
+      "analyses": 13
+    },
+    "12SB149A": {
+      "rock_class": "igneous",
+      "rock_type": "diorite",
+      "rock_comment": "unfoliated diorite",
+      "analyses": 10
+    },
+    "13AJJ211": {
+      "rock_class": "igneous",
+      "rock_type": "monzonite",
+      "rock_comment": "fine- to medium-grained bt hbl monzonite",
+      "analyses": 8
+    },
+    "13AJJ213": {
+      "rock_class": "igneous",
+      "rock_type": "monzonite",
+      "rock_comment": "porphyritic qtz monzonite w/ 7 cm ksp megacrysts ",
+      "analyses": 16
+    },
+    "13AJJ214": {
+      "rock_class": "igneous",
+      "rock_type": "granite",
+      "rock_comment": "qtz porphyry, bt hbl granite",
+      "analyses": 16
+    },
+    "13AJJ224": {
+      "rock_class": "igneous",
+      "rock_type": "granodiorite",
+      "rock_comment": "med-grained bt hbl granodiorite",
+      "analyses": 16
+    },
+    "13AJJ225": {
+      "rock_class": "igneous",
+      "rock_type": "monzonite",
+      "rock_comment": "med-grained equigranular qtz monzonite",
+      "analyses": 20
+    },
+    "13AJJ226": {
+      "rock_class": "igneous",
+      "rock_type": "granite",
+      "rock_comment": "granite",
+      "analyses": 12
+    },
+    "13AJJ227A": {
+      "rock_class": "igneous",
+      "rock_type": "granite",
+      "rock_comment": "porphyritic plag megacrystic biotite granite",
+      "analyses": 23
+    },
+    "13AJJ227B": {
+      "rock_class": "igneous",
+      "rock_type": "gabbro",
+      "rock_comment": "gabbro sheets that appear intruded by sheet-like granite",
+      "analyses": 16
+    },
+    "13AJJ228A": {
+      "rock_class": "igneous",
+      "rock_type": "granite",
+      "rock_comment": "bt granite",
+      "analyses": 13
+    },
+    "13AJJ231B": {
+      "rock_class": "igneous",
+      "rock_type": "granodiorite",
+      "rock_comment": "foliated and locally sheared hbl granodiorite",
+      "analyses": 11
+    },
+    "13AJJ232A": {
+      "rock_class": "igneous",
+      "rock_type": "gabbro",
+      "rock_comment": "boitite-bearing gabbro",
+      "analyses": 12
+    },
+    "13AJJ233": {
+      "rock_class": "igneous",
+      "rock_type": "monzonite",
+      "rock_comment": "Middle Fork pluton, quartz monzonite phase ",
+      "analyses": 16
+    },
+    "13AJJ239": {
+      "rock_class": "igneous",
+      "rock_type": "granite",
+      "rock_comment": "fine-grained biotite granite ",
+      "analyses": 22
+    },
+    "13ALR111": {
+      "rock_class": "igneous",
+      "rock_type": "granodiorite",
+      "rock_comment": "biotite hbl granodiorite",
+      "analyses": 29
+    },
+    "13SB35A": {
+      "rock_class": "igneous",
+      "rock_type": "diorite",
+      "rock_comment": "Tertiary, Cretaceous quartz diorite",
+      "analyses": 12
+    },
+    "13SB44A": {
+      "rock_class": "igneous",
+      "rock_type": "rhyolite",
+      "rock_comment": "Lower flow_bt-pl porph",
+      "analyses": 9
+    },
+    "13SB45B": {
+      "rock_class": "igneous",
+      "rock_type": "rhyolite",
+      "rock_comment": "Upper  flow",
+      "analyses": 9
+    },
+    "15AJJ001B": {
+      "rock_class": "igneous",
+      "rock_type": "granodiorite",
+      "rock_comment": "coarse-grained granodiorite",
+      "analyses": 14
+    },
+    "15AJJ023B": {
+      "rock_class": "metamorphic",
+      "rock_type": "amphibolite",
+      "rock_comment": "coarse-grained amphibolite",
+      "analyses": 32
+    },
+    "15AJJ023e": {
+      "rock_class": "igneous",
+      "rock_type": "granite",
+      "rock_comment": "fg bt granite cutting foliation",
+      "analyses": 4
+    },
+    "15ALR118A": {
+      "rock_class": "igneous",
+      "rock_type": "granite",
+      "rock_comment": "",
+      "analyses": 6
+    },
+    "15ALR137": {
+      "rock_class": "igneous",
+      "rock_type": "granite",
+      "rock_comment": "",
+      "analyses": 4
+    },
+    "15ALR138": {
+      "rock_class": "igneous",
+      "rock_type": "granite",
+      "rock_comment": "",
+      "analyses": 4
+    },
+    "15ALR141": {
+      "rock_class": "igneous",
+      "rock_type": "granite",
+      "rock_comment": "",
+      "analyses": 12
+    },
+    "15ALR142": {
+      "rock_class": "igneous",
+      "rock_type": "granite",
+      "rock_comment": "",
+      "analyses": 4
+    },
+    "15ALR159": {
+      "rock_class": "igneous",
+      "rock_type": "granite",
+      "rock_comment": "",
+      "analyses": 10
+    },
+    "16AJJ102a": {
+      "rock_class": "igneous",
+      "rock_type": "granite",
+      "rock_comment": "granite cut by mylonite",
+      "analyses": 24
+    },
+    "16AJJ107A": {
+      "rock_class": "metamorphic",
+      "rock_type": "mafic gneiss",
+      "rock_comment": "mafic gneiss; strongly folded",
+      "analyses": 20
+    },
+    "16ATe018A": {
+      "rock_class": "igneous",
+      "rock_type": "diorite",
+      "rock_comment": "gneissic diorite/tonalite; hbl lineation",
+      "analyses": 17
+    },
+    "16ATe021C": {
+      "rock_class": "metamorphic",
+      "rock_type": "amphibolite",
+      "rock_comment": "amphibolite enclave inside weakly foliated bt-hbl granodiorite",
+      "analyses": 11
+    },
+    "16ATe027e": {
+      "rock_class": "metamorphic",
+      "rock_type": "amphibolite",
+      "rock_comment": "dark band in granodiorite, strongly sheared",
+      "analyses": 12
+    },
+    "16ATe028S1": {
+      "rock_class": "metamorphic",
+      "rock_type": "amphibolite",
+      "rock_comment": "dark layer (mafic?) in granitoid, strongly sheared w/ ultramylonite locally",
+      "analyses": 18
+    },
+    "16ATe030s": {
+      "rock_class": "metamorphic",
+      "rock_type": "orthogneiss",
+      "rock_comment": "mylonitic granite",
+      "analyses": 23
+    },
+    "16ATe048b": {
+      "rock_class": "metamorphic",
+      "rock_type": "amphibolite",
+      "rock_comment": "amphibolite screen in bt-hbl granitoid",
+      "analyses": 10
+    },
+    "17ATe004S": {
+      "rock_class": "igneous",
+      "rock_type": "monzonite",
+      "rock_comment": "foliated monzonite cut by cataclastic zones",
+      "analyses": 19
+    },
+    "17ATe005ms": {
+      "rock_class": "metamorphic",
+      "rock_type": "mafic gneiss",
+      "rock_comment": "mylonitic mafic gneiss",
+      "analyses": 13
+    },
+    "17ATe022a": {
+      "rock_class": "metamorphic",
+      "rock_type": "amphibolite",
+      "rock_comment": "foliated amphibolite and mafic gneiss",
+      "analyses": 28
+    },
+    "68AR262": {
+      "rock_class": "igneous",
+      "rock_type": "granodiorite",
+      "rock_comment": "",
+      "analyses": 4
+    },
+    "70AR165": {
+      "rock_class": "igneous",
+      "rock_type": "granodiorite",
+      "rock_comment": "granodiorite",
+      "analyses": 8
+    },
+    "79AR010": {
+      "rock_class": "igneous",
+      "rock_type": "granite",
+      "rock_comment": "Tired Pup pluton granite",
+      "analyses": 5
+    },
+    "79AR028": {
+      "rock_class": "igneous",
+      "rock_type": "granite",
+      "rock_comment": "Tired Pup pluton granite",
+      "analyses": 8
+    },
+    "81AR142": {
+      "rock_class": "igneous",
+      "rock_type": "granodiorite",
+      "rock_comment": "granodiorite",
+      "analyses": 12
+    },
+    "85AR30": {
+      "rock_class": "igneous",
+      "rock_type": "granodiorite",
+      "rock_comment": "Telaquana pass pluton",
+      "analyses": 4
+    },
+    "85AR31": {
+      "rock_class": "igneous",
+      "rock_type": "trondhjemite",
+      "rock_comment": "Merrill Pass pluton",
+      "analyses": 5
+    },
+    "87AR108": {
+      "rock_class": "metamorphic",
+      "rock_type": "orthogneiss",
+      "rock_comment": "gneissic granodiorite",
+      "analyses": 11
+    },
+    "88AR183": {
+      "rock_class": "igneous",
+      "rock_type": "granodiorite",
+      "rock_comment": "granodiorite",
+      "analyses": 4
+    },
+    "88AR198": {
+      "rock_class": "igneous",
+      "rock_type": "granite",
+      "rock_comment": "granite",
+      "analyses": 8
+    },
+    "92AR621": {
+      "rock_class": "igneous",
+      "rock_type": "granodiorite",
+      "rock_comment": "granodiorite",
+      "analyses": 8
+    },
+    "92AR630": {
+      "rock_class": "igneous",
+      "rock_type": "granite",
+      "rock_comment": "granite",
+      "analyses": 9
+    },
+    "92AR651": {
+      "rock_class": "igneous",
+      "rock_type": "granodiorite",
+      "rock_comment": "Tired Pup pluton granodiorite",
+      "analyses": 4
+    },
+    "RAAK-13-6": {
+      "rock_class": "igneous",
+      "rock_type": "granite",
+      "rock_comment": "granite cut by cataclastic zones",
+      "analyses": 20
+    }
+  }
+}
