@@ -1,4 +1,4 @@
-# WP-034: Miraculous Causation and the Divine Deception Objection
+# WP-036: Miraculous Causation and the Divine Deception Objection
 
 **Status:** Proposed
 

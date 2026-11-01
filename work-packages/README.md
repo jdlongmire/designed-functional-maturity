@@ -38,7 +38,7 @@ Systematic development track for the Designed Functional Maturity (DFM) research
 | [WP-033](WP-033-foundations-paper-recovery.md) | Foundations Paper Recovery (Actualization, Agency, and Intelligibility) | `drafts/foundations-actualization-agency-intelligibility.md` | Active — recovered draft, framing refresh pending |
 | [WP-034](WP-034-day4-reconciliation-and-legacy-sweep.md) | Day 4 Reconciliation and Legacy-Framing Sweep | Foundations paper §8 revision + legacy-conflict sweep report | Active — pending Principal Investigator review |
 
-| [WP-034](WP-034-miraculous-causation-divine-deception.md) | Miraculous Causation and the Divine Deception Objection | MCDDT protocol + biblical and empirical case matrix | Proposed — research scoped |
+| [WP-036](WP-036-miraculous-causation-divine-deception.md) | Miraculous Causation and the Divine Deception Objection | MCDDT protocol + biblical and empirical case matrix | Proposed — research scoped |
 
 | [WP-035](WP-035-latent-isotopic-functionality.md) | Latent Isotopic Functionality and Daughter-Product Necessity | Functional isotope hypothesis and empirical controls | Proposed — ancillary hypothesis |
 
