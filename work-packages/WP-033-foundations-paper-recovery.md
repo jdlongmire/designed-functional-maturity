@@ -17,7 +17,7 @@ The paper was written in August 2026 on branch `wp-002-foundations-paper` as "WP
 ## Open work
 
 1. **Framing refresh.** The draft presents itself as companion to the earlier comparative paper ("ten foundational features"), which WP-006 replaced. Re-anchor it to the current flagship paper and hard core, or reframe it as standalone.
-2. **Reconcile with WP-028/WP-029.** The light-in-transit residual (§8) predates the asynchronous Day 4 hypothesis; state how the two relate.
+2. **Reconcile with WP-028/WP-029.** Done in WP-034 (2026-10-06). The light-in-transit residual (§8) predates the asynchronous Day 4 hypothesis; state how the two relate.
 3. **Primary-source verification.** Four references carry outstanding verification tasks noted in the draft's reference list; fold them into the WP-007 evidence ledger.
 4. **Citation harvest.** The superseded citation pass preserved at tag `archive/wp-001-flesh-out-original-artifact` contains references (Barrow and Tipler 1986, Albert 2000, Callender 2004, Chalmers 1995, and others) not present in the current flagship draft; review for reuse.
 
