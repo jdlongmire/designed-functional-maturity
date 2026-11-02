@@ -1,6 +1,6 @@
 # WP-037: Creation Time Coordinates and DFM Day Four Integration
 
-**Status:** Proposed, pending PI review. **Date:** 2026-11-01.  
+**Status:** Proposed — pending PI review. **Date:** 2026-11-01.  
 **Parents:** WP-028, WP-029, WP-031, WP-032, WP-034.  
 **Epistemic classification:** Layer 3 candidate implementation, not accepted physical mechanism.
 
