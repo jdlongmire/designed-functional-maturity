@@ -21,6 +21,8 @@ D4 (exogenization within a compressed post-creation timeline) must fit these div
 | 100,000 yr | 3.3e-7 | about 325x | 6.2e-7 | about 620x |
 | 1,000,000 yr | 3.3e-8 | about 33x | 6.2e-8 | about 62x |
 
+Epistemic labelling (per the WP-038 DFM context section): the ages and required rates in this section are retrodictive quantities. The measured quantities are the divergence percentages; every age stated is a retrodictive age T_R conditioned on the stated rate regime, not a measured historical elapsed time T_H. The table compares what each chronology must assume; it does not, by itself, establish either chronology.
+
 This table is the instrument, not a verdict. Under the auxiliary-symmetry section, D4 may invoke accelerated rates, but it must state them numerically, hold them consistently across loci (a single rate regime must fit the whole distribution, including the 0.025 minimum and the cross-species concordance), and carry the AHPP charge for the invocation. A rate regime fitted per-locus would be a degenerative modification under the programme's rules. The same instrument, read the other way, is what any mainstream reading uses to date the integrations; the numbers are common property.
 
 ## Limits
