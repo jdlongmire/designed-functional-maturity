@@ -8,9 +8,11 @@
 ## Research question
 Can DFM explain orthologous ERV insertion boundaries, shared sequence changes, nested phylogenetic distributions, and lineage-specific insertions without inventing nonexistent event histories or unrestricted locus-by-locus initial states?
 
-## Objective and success criteria (JD clarification, 2026-11-15)
+## Objective and success criteria (JD clarifications, 2026-11-15)
 
-The objective is **explanatory parity** with the common-descent programme on the ERV evidence class. Explanatory superiority is a welcome outcome if the evidence produces it, but it is not the objective and is not required for success.
+The objective of this programme is to **establish a plausible, abductive explanatory model of the ERV evidence within the designist framework**: a model that explains the observed orthology, distribution and sequence patterns as the best available inference to the best explanation from the designist starting point, and that is offered as a serious explanatory contender rather than as a proof, a refutation of the rival programme, or a merely defensive accommodation.
+
+**Explanatory parity** with the common-descent programme on the ERV evidence class is the operational standard by which 'plausible' is judged, not the objective itself. Explanatory superiority is a welcome outcome if the evidence produces it, but it is not the objective and is not required for success.
 
 Parity is operational, not rhetorical. A DFM-compatible model set stands at parity when, on the preregistered benchmark:
 1. Its held-out predictive performance on orthologous-locus patterns is comparable to C0's within the declared uncertainty, on the same loci, under the same orthology rule.
@@ -19,7 +21,7 @@ Parity is operational, not rhetorical. A DFM-compatible model set stands at pari
 
 Superiority, if it emerges, means strictly better held-out performance, or equal performance at materially lower auxiliary burden, sustained across successive programme versions (a progressive problemshift relative to the rival programme). A single-version edge is recorded as a result, not as superiority.
 
-The decision gate is keyed to parity: supported means parity demonstrated on the benchmark as specified; unresolved means the benchmark ran and parity was neither demonstrated nor excluded within its power; failed means the D models could not reach parity without hard-core violations or degenerating modifications. Claims in any later public material may not exceed the gate outcome.
+The decision gate is keyed to the objective through the parity standard: supported means a plausible abductive model is established, operationalized as parity demonstrated on the benchmark as specified; unresolved means the benchmark ran and parity was neither demonstrated nor excluded within its power, so plausibility remains open; failed means the D models could not reach parity without hard-core violations or degenerating modifications, so the abductive claim fails on this evidence class. Claims in any later public material may not exceed the gate outcome, and in particular may not present the model as proven or the rival programme as refuted.
 
 ## Nonnegotiable constraints
 1. Preserve the Historical Integrity Constraint of PROGRAMME.md §7.1. An event-diagnostic integration scar is presumptively evidence of a real event; an initialized false infection record is prohibited.
