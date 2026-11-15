@@ -8,6 +8,6 @@
 | Lineage-specific ERVs | Later infections | Later infections | Later infections | Later infections |
 | Historical integrity | Satisfied by real events | No invented event traces permitted | No invented event traces permitted | Requires real independent events |
 | Auxiliary burden | Count ancestral events, losses, ILS | Count initialization constraints and infections | Count historical and creation-boundary assumptions | Count hotspots and coincident events |
-| Current empirical standing | Strong established baseline | Hypothesis untested | Hypothesis untested | Partial mechanism, full explanation untested |
+| Current empirical standing | Comparator model; scored, not presupposed | Hypothesis untested | Hypothesis untested | Partial mechanism, full explanation untested |
 
 **Evaluation:** Do not equate the existence of insertion preferences with evidence of independently repeated identical integrations. Compare joint patterns, not isolated similarities.
