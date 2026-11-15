@@ -1,0 +1,31 @@
+pair_id,human_ltr,gorilla_ltr,human_ltr_identity,gorilla_ltr_identity
+RV15-0056,"offset 4184, LTR span 5119-5549 (430bp detected), identity 0.970 over 430bp","offset 4184, LTR span 5130-5561 (431bp detected), identity 0.977 over 431bp",0.97,0.977
+RV15-0059,"offset 6080, LTR span 3468-3894 (426bp detected), identity 0.925 over 426bp",short seq 1985,0.925,
+RV15-0075,"offset 7329, LTR span 3287-3398 (111bp detected), identity 0.991 over 111bp","offset 7313, LTR span 3288-3401 (113bp detected), identity 0.991 over 113bp",0.991,0.991
+RV15-0086,"offset 5281, LTR span 5565-5753 (188bp detected), identity 0.984 over 188bp","offset 5575, LTR span 5562-5730 (168bp detected), identity 0.988 over 168bp",0.984,0.988
+RV15-0130,"offset 5674, LTR span 5051-5494 (443bp detected), identity 0.731 over 443bp","offset 4133, LTR span 5058-5501 (443bp detected), identity 0.693 over 443bp",0.731,0.693
+RV15-0168,"offset 9029, LTR span 2333-2608 (275bp detected), identity 0.604 over 275bp",short seq 1997,0.604,
+RV15-0188,"offset 8960, LTR span 2294-3171 (877bp detected), identity 0.656 over 877bp","offset 8942, LTR span 2293-3232 (939bp detected), identity 0.858 over 939bp",0.656,0.858
+RV15-0195,"offset 7317, LTR span 3395-3471 (76bp detected), identity 1.000 over 76bp","offset 7320, LTR span 3360-3411 (51bp detected), identity 1.000 over 51bp",1.0,1.0
+RV15-0203,"offset 8327, LTR span 4253-4579 (326bp detected), identity 0.942 over 326bp","offset 8333, LTR span 4259-4584 (325bp detected), identity 0.963 over 325bp",0.942,0.963
+RV15-0277,"offset 5335, LTR span 5034-5462 (428bp detected), identity 0.850 over 428bp","offset 5311, LTR span 5064-5325 (261bp detected), identity 0.973 over 261bp",0.85,0.973
+RV15-0318,"offset 4927, LTR span 4426-4900 (474bp detected), identity 0.736 over 474bp","offset 4953, LTR span 4422-4893 (471bp detected), identity 0.423 over 471bp",0.736,0.423
+RV15-0328,"offset 6389, LTR span 5508-5805 (297bp detected), identity 0.845 over 297bp","offset 6402, LTR span 5850-5994 (144bp detected), identity 0.972 over 144bp",0.845,0.972
+RV15-0333,no pair detected,no pair detected,,
+RV15-0342,"offset 7387, LTR span 3595-4147 (552bp detected), identity 0.748 over 552bp",short seq 7546,0.748,
+RV15-0348,no pair detected,short seq 2001,,
+RV15-0405,no pair detected,"offset 7610, LTR span 4068-4410 (342bp detected), identity 0.816 over 342bp",,0.816
+RV15-0415,"offset 9034, LTR span 2502-2670 (168bp detected), identity 0.970 over 168bp","offset 9038, LTR span 2441-2737 (296bp detected), identity 0.956 over 296bp",0.97,0.956
+RV15-0440,"offset 7563, LTR span 3615-3741 (126bp detected), identity 0.929 over 126bp","offset 7504, LTR span 3627-3701 (74bp detected), identity 1.000 over 74bp",0.929,1.0
+RV15-0441,"offset 8787, LTR span 2554-3053 (499bp detected), identity 0.954 over 499bp",no seq,0.954,
+RV15-0487,"offset 5548, LTR span 5321-5434 (113bp detected), identity 0.982 over 113bp","offset 5553, LTR span 4020-4121 (101bp detected), identity 0.970 over 101bp",0.982,0.97
+RV15-0490,"offset 5622, LTR span 3870-4247 (377bp detected), identity 0.960 over 377bp","offset 6395, LTR span 3901-4258 (357bp detected), identity 0.980 over 357bp",0.96,0.98
+RV15-0494,"offset 6383, LTR span 4604-4755 (151bp detected), identity 0.993 over 151bp","offset 6380, LTR span 4338-4758 (420bp detected), identity 0.955 over 420bp",0.993,0.955
+RV15-0544,"offset 7804, LTR span 4343-4445 (102bp detected), identity 0.971 over 102bp",no seq,0.971,
+RV15-0553,"offset 8290, LTR span 2316-2567 (251bp detected), identity 0.924 over 251bp","offset 8225, LTR span 2433-2549 (116bp detected), identity 0.974 over 116bp",0.924,0.974
+RV15-0591,"offset 8528, LTR span 3977-4155 (178bp detected), identity 0.938 over 178bp",short seq 1999,0.938,
+RV15-0597,"offset 6825, LTR span 5897-5990 (93bp detected), identity 0.989 over 93bp",no pair detected,0.989,
+RV15-0608,"offset 7832, LTR span 3083-3414 (331bp detected), identity 0.719 over 331bp","offset 7820, LTR span 3082-3415 (333bp detected), identity 0.952 over 333bp",0.719,0.952
+RV15-0664,"offset 7984, LTR span 2725-3263 (538bp detected), identity 0.924 over 538bp","offset 7986, LTR span 2840-3386 (546bp detected), identity 0.952 over 546bp",0.924,0.952
+RV15-0798,"offset 6698, LTR span 2304-2394 (90bp detected), identity 1.000 over 90bp","offset 6398, LTR span 2040-2169 (129bp detected), identity 0.961 over 129bp",1.0,0.961
+RV15-0805,no pair detected,no pair detected,,
