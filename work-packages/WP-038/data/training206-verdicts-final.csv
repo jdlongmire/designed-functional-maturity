@@ -1,0 +1,207 @@
+pair_id,family,gorilla,orangutan,macaque
+RV15-0012,HERV-K(HML2),present,absent-supported,absent-supported
+RV15-0022,HERV-K(HML2),present,present,unresolved
+RV15-0026,HERV-K(HML2),present,present,unresolved
+RV15-0031,ERV-9,present,unresolved,unresolved
+RV15-0032,HERV-K(HML2),present,present,present
+RV15-0038,ERV-9,present,present,absent-supported
+RV15-0040,HERV-R,present,unresolved,unresolved
+RV15-0051,ERV-9,present,unresolved,unresolved
+RV15-0054,HERV-H,unresolved,present-provisional,unresolved
+RV15-0056,HERV-K(HML2),present,present,unresolved
+RV15-0059,HERV-K(HML2),unresolved,present,unresolved
+RV15-0060,Unclassified,present,unresolved,unresolved
+RV15-0062,ERV-9,present,present,present
+RV15-0064,HERV-I,present,present,unresolved
+RV15-0069,HERV-W,present,present,unresolved
+RV15-0073,ERV-9,present,unresolved,unresolved
+RV15-0074,HERV-K(HML2),present,present-provisional,unresolved
+RV15-0075,HERV-K(HML2),present,present,present
+RV15-0081,HERV-W,present,present,unresolved
+RV15-0086,HERV-K(HML2),present,present,unresolved
+RV15-0089,HERV-W,present,present,absent-supported
+RV15-0099,HERV-I,present,unresolved,unresolved
+RV15-0103,HERV-I,present,present,present
+RV15-0111,HERV-H,unresolved,present-provisional,unresolved
+RV15-0119,HERV-K(HML2),present,present,unresolved
+RV15-0121,HERV-K(HML2),present,present,unresolved
+RV15-0130,HERV-K(HML2),present,present,present
+RV15-0132,HERV-H,present,unresolved,unresolved
+RV15-0141,HERV-E,present,present-provisional,absent-supported (m70 pass)
+RV15-0142,ERV-9,present,present,present
+RV15-0144,HERV-H,present,present,present
+RV15-0147,HERV-H,present,unresolved,unresolved
+RV15-0148,ERV-9,present,absent-supported,absent-supported
+RV15-0157,HERV-H,present,unresolved,unresolved
+RV15-0168,ERV-9,unresolved,present,unresolved
+RV15-0169,ERV-9,unresolved,present-provisional,unresolved
+RV15-0177,HERV-H,present,unresolved,unresolved
+RV15-0178,HERV-K(HML5),present,present,unresolved
+RV15-0181,HERV-W,present,present,unresolved
+RV15-0184,HERV-K(HML2),present,present,unresolved
+RV15-0188,HERV-K(HML2),present,present,present
+RV15-0195,HERV-W,present,present,unresolved
+RV15-0196,HERV-K(HML2),present,present-provisional,unresolved
+RV15-0202,HERV-H,unresolved,present (m70 pass),unresolved
+RV15-0203,HERV-E,present,present,absent-supported
+RV15-0205,HERV-H,present,unresolved,unresolved
+RV15-0206,HERV-K(HML2),present,present (m70 pass),present
+RV15-0209,HERV-K(HML2),present,unresolved,unresolved
+RV15-0210,HERV-I,present,present,unresolved
+RV15-0230,HERV-K(HML2),present,present,unresolved
+RV15-0236,HERV-U3,present,present,unresolved
+RV15-0237,HERV-K(HML5),unresolved,present,present
+RV15-0242,HERV-K(HML2),present,present,absent-supported
+RV15-0245,HERV-R,present,present,present
+RV15-0247,HERV-H,present,unresolved,unresolved
+RV15-0249,HERV-T,present,absent-supported,absent-supported
+RV15-0258,HERV-K(HML6),present,unresolved,unresolved
+RV15-0264,RRHERV-I,unresolved,unresolved,unresolved
+RV15-0265,ERV-9,present (m70 pass),absent-supported (m70 pass),absent-supported (m70 pass)
+RV15-0268,HERV-H,present,unresolved,unresolved
+RV15-0272,HERV-H,present,present-provisional,unresolved
+RV15-0277,HERV-K(HML2),present,present,unresolved
+RV15-0287,HERV-H,present,unresolved,unresolved
+RV15-0289,HERV-K(HML2),present,present-provisional,unresolved
+RV15-0291,HERV-K(HML2),present (m70 pass),present,unresolved
+RV15-0303,ERV-9,present,present-provisional,unresolved
+RV15-0311,HERV-I,present,present,present
+RV15-0312,HERV-K(HML2),unresolved,unresolved,unresolved
+RV15-0316,HERV-K(HML2),present (m70 pass),present (m70 pass),unresolved
+RV15-0318,HERV-K(HML2),present,present,unresolved
+RV15-0322,HERV-H,unresolved,absent-supported,absent-supported
+RV15-0325,HERV-K(HML6),present,present,unresolved
+RV15-0326,HERV-K(HML2),absent-supported,present,unresolved
+RV15-0328,HERV-K(HML2),present,present,absent-supported
+RV15-0333,HERV-K(HML2),present,present,unresolved
+RV15-0334,ERV-9,unresolved,present,unresolved
+RV15-0336,HERV-K(HML2),present,unresolved,unresolved
+RV15-0340,HERV-K(HML2),present,present-provisional,unresolved
+RV15-0342,ERV-9,present-derived (solo LTR),present,absent-supported (m70 pass)
+RV15-0348,HERV-K(HML2),unresolved,unresolved,unresolved
+RV15-0351,HERV-K(HML5),present,unresolved,unresolved
+RV15-0355,HERV-H,present,present,present
+RV15-0356,HERV-K(HML2),present (m70 pass),unresolved,unresolved
+RV15-0360,ERV-9,present (m70 pass),present (m70 pass),unresolved
+RV15-0362,HERV-K(HML2),present,present,unresolved
+RV15-0366,HERV-K(HML2),present,present,unresolved
+RV15-0367,ERV-9,present,present,unresolved
+RV15-0377,HERV-H,present,present,unresolved
+RV15-0378,ERV-9,unresolved,present,unresolved
+RV15-0379,HERV-K(HML2),present,present-provisional,unresolved
+RV15-0388,HERV-H,present,present,present
+RV15-0405,HERV-K(HML2),present,present,unresolved
+RV15-0410,ERV-9,present,present,present
+RV15-0411,ERV-9,present,present,unresolved
+RV15-0415,HERV-K(HML2),present,present,present
+RV15-0416,HERV-K(HML5),present,present,present
+RV15-0417,HERV-W,present,present,present
+RV15-0421,HERV-R,present,present,present
+RV15-0423,HERV-H,present,present,unresolved
+RV15-0425,HERV-K(HML6),present,present,present
+RV15-0431,HERV-H,present,unresolved,unresolved
+RV15-0436,RRHERV-I,present,unresolved,unresolved
+RV15-0440,ERV-9,present,present,unresolved
+RV15-0441,HERV-K(HML2),unresolved,unresolved,unresolved
+RV15-0457,HERV-H,present (m70 pass),unresolved,unresolved
+RV15-0459,HERV-K(HML2),present,present,absent-supported
+RV15-0465,HERV-K(HML2),present,present,absent-supported
+RV15-0480,HERV-H,present,present,unresolved
+RV15-0485,ERV-9,present,present,absent-supported (m70 pass)
+RV15-0487,HERV-K(HML2),present,present,present
+RV15-0490,HERV-K(HML2),present,present,unresolved
+RV15-0492,HERV-H,present,unresolved,unresolved
+RV15-0494,HERV-K(HML2),present,present,unresolved
+RV15-0496,Unclassified,present,present,unresolved
+RV15-0502,ERV-9,present,present,unresolved
+RV15-0507,HERV-K(HML2),present,present,unresolved
+RV15-0509,HERV-H,present,unresolved,unresolved
+RV15-0514,ERV-9,present,present,present
+RV15-0518,HERV-I,present,unresolved,unresolved
+RV15-0519,HERV-K(HML2),unresolved,present,absent-supported
+RV15-0523,HERV-W,present,absent-supported,absent-supported
+RV15-0525,ERV-9,present,present,present
+RV15-0532,HERV-H,present,unresolved,unresolved
+RV15-0536,ERV-9,unresolved,unresolved,unresolved
+RV15-0544,Unclassified,unresolved,present,unresolved
+RV15-0545,ERV-9,present,present,absent-supported
+RV15-0551,HERV-H,present,unresolved,unresolved
+RV15-0553,HERV-I,present,present (m70 pass),unresolved
+RV15-0558,HERV-K(HML2),present,present-provisional,present
+RV15-0559,HERV-I,present,present,present
+RV15-0560,HERV-XA,present,unresolved,present
+RV15-0568,HERV-E,present,present,unresolved
+RV15-0575,HERV-H,present-provisional,unresolved,unresolved
+RV15-0576,HERV-K(HML2),present,present,unresolved
+RV15-0578,HERV-K(HML2),unresolved,unresolved,unresolved
+RV15-0579,HERV-W,present,present,unresolved
+RV15-0589,HERV-E,present,absent-supported,present (m70 pass)
+RV15-0590,HERV-K(HML5),present,present,present
+RV15-0591,HERV-I,unresolved,present,unresolved
+RV15-0597,ERV-9,present,present,absent-supported
+RV15-0598,HERV-H,present,unresolved,unresolved
+RV15-0599,HERV-K(HML5),present,present,present
+RV15-0601,HERV-K(HML2),present,unresolved,unresolved
+RV15-0608,HERV-K(HML6),present,present,unresolved
+RV15-0618,HERV-K(HML6),present,present,present (m70 pass)
+RV15-0623,HERV-H,present,present,unresolved
+RV15-0624,HERV-L,present,unresolved,unresolved
+RV15-0625,HERV-W,present,present,absent-supported
+RV15-0627,HERV-K(HML2),present,present,unresolved
+RV15-0628,HERV-K(HML6),present,present (m70 pass),unresolved
+RV15-0629,HERV-K(HML6),present,present,unresolved
+RV15-0630,Unclassified,present,unresolved,unresolved
+RV15-0631,HERV-H,present,present-provisional,unresolved
+RV15-0644,HERV-ADP,present,present,present (m70 pass)
+RV15-0646,RRHERV-I,unresolved,unresolved,unresolved
+RV15-0647,HERV-H,present,unresolved,unresolved
+RV15-0648,ERV-9,present,present,present
+RV15-0650,HERV-K(HML9),present,present,present (m70 pass)
+RV15-0652,HERV-K(HML2),present,present,unresolved
+RV15-0654,HERV-H,present,present,unresolved
+RV15-0659,HERV-H,unresolved,unresolved,unresolved
+RV15-0664,HERV-K(HML2),present,present,unresolved
+RV15-0678,ERV-9,present,present,absent-supported
+RV15-0680,HERV-I,present,present,present
+RV15-0684,HERV-K(HML2),present,present,unresolved
+RV15-0696,HERV-H,present,unresolved,unresolved
+RV15-0697,HERV-I,present,present,unresolved
+RV15-0698,ERV-9,present,present,unresolved
+RV15-0703,HERV-H,present,present,unresolved
+RV15-0709,HERV-K(HML2),present,present,unresolved
+RV15-0721,HERV-K(HML2),present,present,unresolved
+RV15-0722,ERV-9,present,present,unresolved
+RV15-0727,HERV-H,present,present,unresolved
+RV15-0732,ERV-9,present,present,present (m70 pass)
+RV15-0734,HERV-P,present,present,unresolved
+RV15-0735,HERV-E,present,present,unresolved
+RV15-0736,HERV-K(HML2),present,present,present (m70 pass)
+RV15-0737,ERV-9,present-provisional,absent-supported,absent-supported
+RV15-0742,HERV-H,present,unresolved,unresolved
+RV15-0746,ERV-9,present,present,absent-supported
+RV15-0747,HERV-K(HML2),present,present,unresolved
+RV15-0748,HERV-K(HML2),present,present,unresolved
+RV15-0750,HERV-W,present,present,absent-supported
+RV15-0751,HERV-H,present,present-provisional,unresolved
+RV15-0757,HERV-H,unresolved,present,unresolved
+RV15-0765,HERV-T,present,present (m70 pass),present
+RV15-0768,HERV-H,present,absent-supported,absent-supported
+RV15-0780,HERV-W,present,present,present
+RV15-0784,HERV-K(HML2),present,present,unresolved
+RV15-0798,HERV-K(HML2),present,present,unresolved
+RV15-0804,HERV-K(HML2),present,present,unresolved
+RV15-0805,RRHERV-I,present,present,present
+RV15-0806,ERV-9,present,present,unresolved
+RV15-0811,ERV-9,present,present,present (m70 pass)
+RV15-0817,HERV-K(HML5),present,present,unresolved
+RV15-0824,HERV-K(HML2),unresolved,unresolved,unresolved
+RV15-0826,HERV-E,present,present,absent-supported
+RV15-0834,HERV-K(HML2),present,present,present
+RV15-0836,HERV-I,present,present,present (m70 pass)
+RV15-0843,HERV-I,unresolved,unresolved,unresolved
+RV15-0846,HERV-K(HML2),present,present,unresolved
+RV15-0848,HERV-K(HML2),unresolved,unresolved,unresolved
+RV15-0851,RRHERV-I,present,unresolved,unresolved
+RV15-0857,HERV-I,present,present,present
+RV15-0859,HERV-F type_b,present,present,unresolved
+RV15-0862,HERV-E,present,present,absent-supported
