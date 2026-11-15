@@ -58,6 +58,14 @@ Orthologous insertion sites with both flanking boundaries, target-site duplicati
 ## Acceptance criteria
 A primary-source-backed evidence ledger; transparent reproducible comparison; predeclared discriminators; results with uncertainty; explicit status against Historical Integrity, AHPP and PEP; independent adversarial review.
 
+## Auxiliary hypothesis symmetry (JD directive, 2026-11-15)
+
+This programme retains the same auxiliary hypothesis opportunities and flexibility that mainstream evolutionary research exercises in its own practice. AHPP symmetry runs in both directions: the designist models are not held to a stricter auxiliary standard than the standard the mainstream programme actually works under, and the mainstream model's auxiliaries are not charged at a harsher rate than the designist models' equivalents.
+
+In practice, both programmes may draw on declared auxiliary catalogues. The mainstream catalogue, as used in the published ERV and primate literature, includes incomplete lineage sorting, introgression and gene flow, convergent integration and homoplasy, lineage-specific loss including recombinational deletion, rate variation across lineages and loci, selection regime changes, endogenization timing variation, and measurement-side auxiliaries such as assembly and annotation error (an auxiliary this programme's own re-extraction work has now vindicated at scale). The designist catalogue includes functional initialization with declared per-element warrant, post-creation diversification and degeneration within created kinds, recombinational deletion and solo-LTR formation, functional redeployment and co-option of integrated elements, created heterozygosity and its sorting, and rate variation in post-creation diversification, including the accelerated-rates auxiliary where D4 requires it, stated with its rates rather than assumed.
+
+The discipline that keeps symmetry from becoming a blank check applies identically to both sides: an auxiliary must be in the declared catalogue or be added by a recorded programme revision; every invocation is charged in the declared AHPP units; an auxiliary invoked to rescue a model from a failed discriminator is recorded as a degenerative modification and triggers fresh held-out evaluation; and an auxiliary that is in principle independently testable earns more standing than one that is not, on both sides equally. What symmetry forbids is the asymmetric audit: counting the mainstream programme's auxiliaries as normal science while counting the designist programme's as admissions of failure, or the reverse.
+
 ## Programme structure (Lakatosian)
 
 This work package is a research programme in Lakatos's sense, not a single hypothesis under test. Its structure is declared here so that appraisal is auditable rather than reconstructed after the fact.
