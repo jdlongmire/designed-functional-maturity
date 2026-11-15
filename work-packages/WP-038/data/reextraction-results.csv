@@ -1,0 +1,31 @@
+pair_id,family,pattern,human_hg38_gap_bp,gorilla_gap_bp,gorilla_verdict,gorilla_span,orangutan_gap_bp,orangutan_verdict,orangutan_span,chimp_gap_bp,chimp_verdict,chimp_span,gorilla_internal_anchor
+RV15-0056,HERV-K(HML2),11010,11000,11002,present-length,chr5:93178408-93193417,11003,present-length,chr5:110647357-110662357,10993,present-length,chr5:91830705-91845703,inside interval
+RV15-0059,HERV-K(HML2),11010,11000,,unmapped,,11044,present-length,chr15:69554616-69569641,11024,present-length,chr15:67787089-67802092,unmapped
+RV15-0075,HERV-K(HML2),11010,11000,10963,present-length,chrX:111831126-111846082,11393,present-length,chrX:112721126-112736526,10983,present-length,chrX:113478415-113493386,inside interval
+RV15-0086,HERV-K(HML2),11010,11000,11289,present-length,chr7:134036452-134051741,10715,present-length,chr7:127736577-127751279,10995,present-length,chr7:138632029-138647012,inside interval
+RV15-0130,HERV-K(HML2),11010,11000,9603,present-length,chr15:2134166-2147761,11105,present-length,chr15:4637046-4652163,11236,present-length,chr15:4776685-4791916,unmapped
+RV15-0168,ERV-9,11010,11000,,unmapped,,,unmapped,,11019,present-length,chr8:105526302-105541321,unmapped
+RV15-0188,HERV-K(HML2),11010,11000,10972,present-length,chr6:43034785-43049774,11509,present-length,chr6:43208073-43223598,10987,present-length,chr6:42415482-42430471,inside interval
+RV15-0195,HERV-W,11010,11000,10976,present-length,chr19:5255636-5270613,10894,present-length,chr19:8341423-8356281,10949,present-length,chr19:8596864-8611827,inside interval
+RV15-0203,HERV-E,11010,11000,11005,present-length,chrX:87147203-87162215,10943,present-length,chrX:87730978-87745914,11009,present-length,chrX:88857071-88872087,inside interval
+RV15-0277,HERV-K(HML2),11010,11000,10984,present-length,chr3:181520325-181535313,12667,present-length,chr3:182783815-182800497,11130,present-length,chr3:183196608-183211756,inside interval
+RV15-0318,HERV-K(HML2),11010,11000,11034,present-length,chr9:101820732-101835768,11042,present-length,chr9:105592357-105607394,11007,present-length,chr9:103940629-103955642,inside interval
+RV15-0328,HERV-K(HML2),11010,11000,11004,present-length,chr6:119469794-119484813,10972,present-length,chr6:119308791-119323781,11001,present-length,chr6:118403896-118418909,inside interval
+RV15-0333,HERV-K(HML2),11010,11000,11002,present-length,chr5:151840570-151855562,10978,present-length,chr5:170081793-170097067,11309,present-length,chr5:150541233-150556495,inside interval
+RV15-0342,ERV-9,11010,11000,3600,collapsed (empty-site-like),chr16:20313350-20320896,10998,present-length,chr16:13017347-13032350,11058,present-length,chr16:22280157-22295213,unmapped
+RV15-0348,HERV-K(HML2),11010,11000,,unmapped,,,unmapped,,,unmapped,,mapped (flanks unresolved)
+RV15-0405,HERV-K(HML2),11010,11000,10762,present-length,chrUn_NW_022154661v1:50326-66935,10960,present-length,chr17:67698554-67715340,10982,present-length,chr17:68125217-68142029,inside interval
+RV15-0415,HERV-K(HML2),11010,11000,11005,present-length,chr11:84276430-84291442,10995,present-length,chr11:93847989-93863000,10993,present-length,chr11:97061304-97076297,inside interval
+RV15-0440,ERV-9,11010,11000,10990,present-length,chr5:137343011-137357978,10989,present-length,chr5:155440386-155455320,10914,present-length,chr5:136020720-136035612,inside interval
+RV15-0441,HERV-K(HML2),11010,11000,,unmapped,,,unmapped,,,unmapped,,unmapped
+RV15-0487,HERV-K(HML2),11010,11000,11019,present-length,chr8:39549484-39564523,10959,present-length,chr8:72787329-72802245,10988,present-length,chr8:73148247-73163211,inside interval
+RV15-0490,HERV-K(HML2),11010,11000,11765,present-length,chr2B:38971678-38987428,11767,present-length,chr2B:38127153-38142901,11775,present-length,chr2B:38838499-38854277,inside interval
+RV15-0494,HERV-K(HML2),11010,11000,10965,present-length,chr6:108891784-108906765,11009,present-length,chr6:108538701-108553690,10986,present-length,chr6:107893433-107908444,inside interval
+RV15-0544,Unclassified,11010,11000,,unmapped,,10952,present-length,chr16:21423201-21438147,11012,present-length,chr16_NW_019932886v1_random:365787-380799,unmapped
+RV15-0553,HERV-I,11010,11000,10930,present-length,chr9:41044648-41059541,,unmapped,,11009,present-length,chr9:56614471-56629448,inside interval
+RV15-0591,HERV-I,11010,11000,,unmapped,,11078,present-length,chr4:106139781-106154841,11151,present-length,chr4:104960239-104975374,mapped (flanks unresolved)
+RV15-0597,ERV-9,11010,11000,10917,present-length,chr6:149229898-149244827,10967,present-length,chr6:149427781-149442752,11106,present-length,chr6:148239197-148254307,inside interval
+RV15-0608,HERV-K(HML6),11010,11000,10994,present-length,chr6:26358603-26373580,10984,present-length,chr6:26339833-26354812,11006,present-length,chr6:18847148-18862163,inside interval
+RV15-0664,HERV-K(HML2),11010,11000,10999,present-length,chr16:17447548-17462648,,unmapped,,11001,present-length,chr16:19352997-19367996,inside interval
+RV15-0798,HERV-K(HML2),11010,11000,10706,present-length,chr6:120937130-120951836,10725,present-length,chr6:120828606-120843308,10686,present-length,chr6:119860093-119874781,inside interval
+RV15-0805,RRHERV-I,11101,11001,11007,present-length,chr19:16567115-16582145,10975,present-length,chr19:21436181-21451145,11001,present-length,chr19:21495968-21510982,inside interval
