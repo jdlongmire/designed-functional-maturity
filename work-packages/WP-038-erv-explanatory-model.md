@@ -1,9 +1,9 @@
 # WP-038: ERV Historical Signatures and Designed Functional Maturity
 
-**Status:** Proposed research baseline; empirical validation pending  
+**Status:** Proposed research package; empirical validation pending  
 **Parent:** DFM Research Programme  
 **Governance:** EBCC-001 v1.0; PROGRAMME.md; WP-032 Historical Integrity  
-**Objective:** Evaluate whether a constrained DFM-compatible account of endogenous retroviral (ERV) distributions can achieve plausible explanatory parity with explicit common-descent models.
+**Objective:** Establish a plausible, abductive explanatory model of endogenous retroviral (ERV) evidence within the designist framework.
 
 ## Research question
 Can DFM explain orthologous ERV insertion boundaries, shared sequence changes, nested phylogenetic distributions, and lineage-specific insertions without inventing nonexistent event histories or unrestricted locus-by-locus initial states?
@@ -23,12 +23,18 @@ Superiority, if it emerges, means strictly better held-out performance, or equal
 
 The decision gate is keyed to the objective through the parity standard: supported means a plausible abductive model is established, operationalized as parity demonstrated on the benchmark as specified; unresolved means the benchmark ran and parity was neither demonstrated nor excluded within its power, so plausibility remains open; failed means the D models could not reach parity without hard-core violations or degenerating modifications, so the abductive claim fails on this evidence class. Claims in any later public material may not exceed the gate outcome, and in particular may not present the model as proven or the rival programme as refuted.
 
+## Comparator neutrality (JD caution, 2026-11-15)
+
+C0 is a comparator model, not the programme's presupposed baseline. It is included because the plausibility standard is comparative and because a serious designist model must be tested against the strongest explicit rival formulation, not against a weak version of it. If any programme document uses the word baseline for C0, it means only a scoring reference. It does not mean default truth, prior privilege, incumbency credit, or a presumption that the designist models must displace an already accepted account.
+
+The programme's own starting commitments are the DFM hard core. C0, D1, D2, D3 and candidate D4 are scored from their declared generative processes, their declared auxiliaries and the evidence patterns. No model receives credit merely for being the mainstream narrative, and no designist model is penalized merely for challenging it. Where a result is reported as favouring C0 on a specified evidence slice, that means only that the stated accounting gives C0 the lower cost or higher predictive score on that slice. It is not an adoption of the evolutionary narrative as the programme's baseline.
+
 ## Nonnegotiable constraints
 1. Preserve the Historical Integrity Constraint of PROGRAMME.md §7.1. An event-diagnostic integration scar is presumptively evidence of a real event; an initialized false infection record is prohibited.
 2. Apply the Auxiliary Hypothesis Parity Principle (AHPP) symmetrically to DFM and competing models. Neither generic design nor generic mutation/selection/drift/convergence can serve as an unlimited rescue mechanism.
 3. Distinguish common ancestry inference from claims about the sufficiency of macroevolutionary mechanisms for all biological innovations.
 4. Preserve empirical findings, uncertainty, and original provenance. No claim of quantitative parity without reproducible results.
-5. Treat common descent as the strong baseline explanation for orthologous insertions and shared disabling mutations, not as a straw man.
+5. Treat common descent as a strong comparator explanation for orthologous insertions and shared disabling mutations, not as a straw man and not as a presupposed baseline.
 
 ## Candidate models
 - **C0: Common ancestral integration and vertical inheritance.** Integration in ancestral population, followed by descent, mutation, lineage sorting, deletions and subsequent lineage-specific integrations.
@@ -85,4 +91,4 @@ This work package is a research programme in Lakatos's sense, not a single hypot
 **Current appraisal status.** Version 1 (planning and formalization). No problemshift has yet occurred and no novel fact has been predicted or corroborated, so no progressiveness verdict is available or claimed. The first appraisable shift is the move from this formalization to the benchmark comparison.
 
 ## Status and next gate
-Planning baseline only. No genomic dataset analyzed, no explanatory parity demonstrated, and no ERV-specific predictions validated.
+Extraction phase complete on the pilot training set; formal model scoring has not yet run. No explanatory parity has been demonstrated, and no ERV-specific prediction has been validated.
