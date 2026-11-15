@@ -26,4 +26,7 @@ It does not yet score the models. Presence patterns, even verified ones, tie bet
 ## Remaining gaps
 77 unresolved training loci (targeted resolution via Compara alignments where chains break); macaque verification (internal-anchor pass against rheMac10); the held-out set, untouched throughout, per the unblinding rule.
 
+## Addendum, 2026-11-15: relaxed-chain pass and macaque verification
+A second pass at reduced chain stringency (liftOver minMatch 0.85, all 206 training loci, with internal anchors now also carried to macaque) is merged with the sequence verdicts in data/training206-verdicts-merged.csv. Resolution rose to 136 of 206 (124 firm, 12 provisional present-length). The firm census: 87 loci pattern 11110, **30 loci pattern 11111 with the macaque presence now verified by flank-bounded internal homology** (the source reported macaque presence at essentially none of these), 6 loci 11100, 1 locus 11010. Combined, 128 of 136 resolved loci (94 percent) are present in all four apes. Macaque verdicts are firm at 58 loci (35 present, 23 absent-supported). About 70 loci remain unresolved, concentrated in orangutan intermediate gaps and repetitive regions; the anchor method is at its limit there, and further resolution needs per-locus alignment inspection rather than more chain passes. The substantive picture from the first census is unchanged and strengthened: within-ape absence is rare and real at a handful of loci; deep presence, including into macaque, is more common than the 2015 matrix reported.
+
 Human-Curated, AI-Enabled (HCAE)
