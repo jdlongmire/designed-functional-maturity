@@ -27,4 +27,7 @@ Both accountings charge one AHPP unit per event, symmetrically, per the formaliz
 ## Next data step
 Full slice 5 re-extraction of the priority subset (the 30 non-nested training loci first) against current assemblies, populating both flanks, TSD, LTR divergence and shared derived marks. That is the first dataset on which the formalized models can actually be compared.
 
+## Addendum (2026-11-15): source presence calls partly superseded
+The first re-extraction pass (reextraction-report.md) tested the 30 priority loci against current assemblies. Of the 29 loci whose patterns depended on a gorilla absence in the source data, 22 have homologous ERV sequence at the orthologous position in gorGor6 and 1 (RV15-0342) retains a supported absence; the rest are unresolved. The event counts in the table above were computed correctly from the source calls, but those calls are legacy-assembly products and the counts are therefore not scoreable evidence for any model. The burden comparison must be rerun on re-extracted patterns. This addendum supersedes any use of the table for model appraisal; the table stands as a record of the accounting method and of why re-extraction gates scoring.
+
 Human-Curated, AI-Enabled (HCAE)
