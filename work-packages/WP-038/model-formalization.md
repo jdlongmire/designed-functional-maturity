@@ -58,6 +58,20 @@ Each model below is stated as a generative process: a declared initial state, a 
 
 **Costs and failure modes.** D3 fails when the measured targeting distribution, applied honestly, cannot produce the joint orthology pattern at rates compatible with the observed counts. Yohn et al. 2005 cuts both ways and is the calibration anchor: PTERV1 shows independent concurrent infection is real and common (about 95.8 percent of sites non-orthologous between chimpanzee and gorilla), which establishes the base rate of independent integration, and by the same token shows that genuinely independent integrations almost never land at orthologous loci, which is the rate D3 must beat for shared loci.
 
+## D4: Exogenization, created mobile elements with post-Fall escape (candidate, added 2026-11-15)
+
+**Provenance.** Added from the creationist-literature considerations supplied by JD on 2026-11-15 (see creationist-literature-map.md, section 2). Candidate status: it enters the comparison set only on JD/GPT review of this formalization.
+
+**Generative process.** Genomes are initialized with beneficial mobile regulatory elements: created transposition-capable elements whose integration machinery, targeting and regulatory roles are designed. In a post-Fall degeneration phase, elements accumulate disabling mutations, and some escape cellular control to become exogenous infectious retroviruses, which then run ordinary infection and endogenization cycles. Direction of derivation is host-to-virus for the exogenous forms.
+
+**Declared degrees of freedom.** The initialized element families and their designed functions (closed list, preregistered, charged per family as in D1); the degeneration timeline and the mutation and transposition rates it requires; escape events (counted per exogenous lineage claimed). Rates assumed to fit LTR divergence and shared-mark patterns inside a compressed timeline are scored quantities: D4 must state the per-generation rates it needs, and AHPP compares them against the rates C0 needs over its timeline.
+
+**Historical Integrity.** Binding in full. Orthologous boundary structure, TSDs, LTR divergence and shared disabling mutations are event traces; D4 must supply real transposition or infection events for them within its own history. It may not initialize a shared disabling mutation as a design feature, because a shared inactivation is the trace of a mutational event or of common inheritance, and claiming it as initialized design is precisely the fabricated-chronicle move the constraint prohibits.
+
+**Discriminating expectations.** Exogenous retrovirus phylogenies root within or beside endogenous element diversity; the least degraded endogenous copies are the oldest families rather than the youngest insertions; element families show design coherence (controlled targeting, regulatory integration) with infectious behaviour as the derived state. LTR divergence at shared loci must be fittable inside the declared degeneration timeline at stated rates.
+
+**Costs and failure modes.** D4 fails if fitting observed LTR divergence and shared derived marks requires per-generation rates far outside measured ranges, if exogenous phylogenies nest inside endogenous diversity in the virus-to-host direction instead, or if its initialized-family list grows locus by locus after seeing the data. Its timeline compression is its most exposed quantity and the benchmark reports it explicitly.
+
 ## Comparative scoring rules
 
 1. Score joint patterns per locus, never isolated similarities.
