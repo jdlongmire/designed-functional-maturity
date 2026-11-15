@@ -1,4 +1,4 @@
-# WP-033 Comparative Model Matrix
+# WP-038 Comparative Model Matrix
 
 | Criterion | C0 Ancestral integration | D1 Functional initialization + real infections | D2 Genuine shared history + creation boundary | D3 Integration targeting convergence |
 |---|---|---|---|---|

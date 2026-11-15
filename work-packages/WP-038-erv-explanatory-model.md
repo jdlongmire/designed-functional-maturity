@@ -1,4 +1,4 @@
-# WP-033: ERV Historical Signatures and Designed Functional Maturity
+# WP-038: ERV Historical Signatures and Designed Functional Maturity
 
 **Status:** Proposed research baseline; empirical validation pending  
 **Parent:** DFM Research Programme  

@@ -1,4 +1,4 @@
-# WP-033 Primary-Source Register
+# WP-038 Primary-Source Register
 
 Status: bibliographic validation pass 1 complete for entries 1-2 (2026-11-15). Dataset and accession validation pending.
 

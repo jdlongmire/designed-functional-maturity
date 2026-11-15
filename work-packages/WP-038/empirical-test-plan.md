@@ -1,4 +1,4 @@
-# WP-033 Empirical Test Plan
+# WP-038 Empirical Test Plan
 
 ## Dataset requirements
 Preselect orthologous human/chimp ERV loci and appropriate gorilla/orangutan/outgroup loci; record build, assembly confidence, coordinates, flanking sequence, target-site duplication, orientation, LTR state and derived substitutions. Reserve a held-out locus set before fitting.
