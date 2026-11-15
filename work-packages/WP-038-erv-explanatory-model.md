@@ -43,5 +43,23 @@ Orthologous insertion sites with both flanking boundaries, target-site duplicati
 ## Acceptance criteria
 A primary-source-backed evidence ledger; transparent reproducible comparison; predeclared discriminators; results with uncertainty; explicit status against Historical Integrity, AHPP and PEP; independent adversarial review.
 
+## Programme structure (Lakatosian)
+
+This work package is a research programme in Lakatos's sense, not a single hypothesis under test. Its structure is declared here so that appraisal is auditable rather than reconstructed after the fact.
+
+**Hard core.** The DFM commitments carried in PROGRAMME.md: designed functional maturity as the explanatory frame, the phased creation/deployment distinction, and, binding on all ERV work, the Historical Integrity Constraint (an information-bearing trace of a specific event represents a real event; fabricated chronicle is prohibited). The hard core is irrefutable by methodological decision within the programme: adverse evidence is directed at the protective belt, never absorbed by quietly revising the core. Revising the core is a programme change, not a problemshift, and requires JD's ruling outside this work package.
+
+**Negative heuristic.** Do not direct refutations at the hard core, and do not protect a model by the forbidden moves: the Non-Migration Principle (failure of a historical explanation does not convert an event trace into initialized state), no unrestricted initialization, no unrestricted evolutionary rescue auxiliaries, and no post-hoc model modification without a recorded degenerative-modification entry and fresh held-out evaluation.
+
+**Protective belt.** The competing models C0, D1, D2, D3 and candidate D4, with their declared auxiliaries: integration and loss event counts, incomplete-lineage-sorting invocations, initialization lists, creation-boundary placements, targeting-distribution parameters, and degeneration rates. Belt elements are individually falsifiable under the downgrade criteria above, and each auxiliary invoked is charged to the model that invokes it under AHPP. Belt refutations (a model failing its severe test) are normal programme operation and are reported as results, not as programme failure.
+
+**Positive heuristic.** The research slices of this package, in order: corpus audit, primary-source ledger, model formalization with declared degrees of freedom, preregistered benchmark with a held-out locus set, quantitative comparison, adversarial review, decision gate. The heuristic also specifies the forward path after the first comparison: extend the locus set, refine the surviving models' event machinery, and re-test on newly reserved held-out loci, so that successive versions of the programme form an appraisable series.
+
+**Appraisal criteria.** A problemshift is theoretically progressive if the revised model set predicts novel facts (held-out locus patterns not used in fitting) and empirically progressive if some of those predictions are corroborated. A shift that only accommodates the anomaly that prompted it, multiplies auxiliaries without held-out improvement, or redefines its terms to evade a failed discriminator is degenerating and is recorded as such. Programme appraisal is comparative and diachronic: WP-038 is appraised against the common-descent programme's trajectory on the same evidence class, over successive versions, not by any single result.
+
+**Method note (Bayes within Lakatos).** Within this governance shell, cross-model scoring at each version is Bayesian in character: likelihood or predictive scores with explicit auxiliary-burden accounting. The Lakatosian layer governs how versions succeed one another and how the programme is appraised over time; the Bayesian layer governs how models are compared at a given version. The two layers are not interchangeable, and results are reported under the layer that produced them.
+
+**Current appraisal status.** Version 1 (planning and formalization). No problemshift has yet occurred and no novel fact has been predicted or corroborated, so no progressiveness verdict is available or claimed. The first appraisable shift is the move from this formalization to the benchmark comparison.
+
 ## Status and next gate
 Planning baseline only. No genomic dataset analyzed, no explanatory parity demonstrated, and no ERV-specific predictions validated.
