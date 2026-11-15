@@ -20,7 +20,11 @@ Benchmark pilot set: the 342 human-chimpanzee pairs. Stratified by ERV family, 6
 3. The source study selected for full-length, alignable proviruses; the pilot is therefore a class 1 (shared-orthologous candidate) sample biased toward intact elements. It does not sample solo LTRs or degraded loci, and rates estimated from it do not generalize to the full ERV complement.
 4. Orthology in the source is alignment-based on excerpts; the benchmark's both-flanks-plus-TSD rule is stricter and will reclassify some pairs at full extraction.
 
-## Source 2 (pending): Grandi et al. HERV-W dataset
-Grandi et al., BMC Evolutionary Biology 2018 (PMC5775608): 211 human HERV-W loci with cross-Catarrhini orthology calls. Supplementary extraction is the next data step; 54 HERV-W pairs are already present in Source 1 and are flagged by family in the matrix.
+## Source 2 (extracted): Grandi et al. HERV-W dataset
+- Publication: Grandi et al., *Identification and characterization of ERV-W sequences in Catarrhini primate genomes*, BMC Evolutionary Biology 2018, DOI 10.1186/s12862-018-1125-1, PMC5775608.
+- File used: Additional file 1 (12862_2018_1125_MOESM1_ESM.xlsx), Table S1, retrieved from the publisher's static content server.
+- Extracted matrix (grandi-herw-matrix.csv): 214 human HERV-W locus rows with ortholog coordinates or absence calls for chimpanzee, gorilla, orangutan, gibbon and rhesus. Coordinate-present counts: chimpanzee 207, gorilla 208, orangutan 207, gibbon 192, rhesus 131.
+- Reconciliation note (open): the paper's categorized summary counts (211 loci after excluding 2 chromosome Y loci; categorized as canonical ortholog, solitary-LTR correspondence, or HERV-W-like element in its Table 2) do not map one-to-one onto a raw coordinate-present count of Table S1 (214 rows, 207 chimpanzee-present). The difference is definitional (category boundaries and the Y loci), not a data error, but the exact category reconciliation, including Tables S2 (solitary-LTR correspondences) and S3 (HERV-W-like elements), is required before HERV-W numbers are quoted at category level. The '205 shared' figure in circulation corresponds to the paper's categorized counting, not to the raw S1 presence count.
+- Genome builds: human GRCh38/hg38 and contemporary ape assemblies as reported in the paper (to be re-confirmed field-by-field at full extraction).
 
 Human-Curated, AI-Enabled (HCAE)
