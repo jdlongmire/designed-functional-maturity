@@ -39,6 +39,10 @@ DFM's own guardrails bind the designist side, and they are recorded here so this
 
 Scoring consequences for this package: (1) every chronological statement is reported as a triple of measurement, assumed rate regime, and resulting T_R; (2) model scoring includes sensitivity analysis across the declared rate regimes rather than a single assumed clock; (3) no model earns credit for reproducing a date it was fitted to; (4) where two models share the same measurements but differ only in chronology, the discriminator must be sought in the pattern evidence and in the stated costs of their respective rate and boundary assumptions, not in the retrodicted dates themselves.
 
+## G1 review and disposition (2026-11-15)
+
+thinx-gpt's G1 adversarial review of this package (PR #53) was received and dispositioned the same day. Gate: conditional research continuation; the parity gate remains HOLD; no parity, superiority, validation or merge claim is made. The full finding-by-finding disposition is filed as g1-disposition.md. Principal consequences: the holdout is now group-aware by ERV family with a disclosed quarantine class (data/pilot-split-v2.csv); the decision procedure is frozen as scoring-protocol.md v1; orthology is graded with verified empty sites required for absence calls; burden is reported as a ledger vector; and D4 (exogenization) is provisionally admitted as a separate candidate under stated conditions, including a rooted phylogenetic direction test, with one of its original expectations downgraded to a hypothesis. Scoring and held-out unblinding await JD's authorization of the scoring phase.
+
 ## Nonnegotiable constraints
 1. Preserve the Historical Integrity Constraint of PROGRAMME.md §7.1. An event-diagnostic integration scar is presumptively evidence of a real event; an initialized false infection record is prohibited.
 2. Apply the Auxiliary Hypothesis Parity Principle (AHPP) symmetrically to DFM and competing models. Neither generic design nor generic mutation/selection/drift/convergence can serve as an unlimited rescue mechanism.
