@@ -20,11 +20,10 @@ Benchmark pilot set: the 342 human-chimpanzee pairs. Stratified by ERV family, 6
 3. The source study selected for full-length, alignable proviruses; the pilot is therefore a class 1 (shared-orthologous candidate) sample biased toward intact elements. It does not sample solo LTRs or degraded loci, and rates estimated from it do not generalize to the full ERV complement.
 4. Orthology in the source is alignment-based on excerpts; the benchmark's both-flanks-plus-TSD rule is stricter and will reclassify some pairs at full extraction.
 
-## Source 2 (extracted): Grandi et al. HERV-W dataset
+## Source 2 (extracted, reconciled): Grandi et al. HERV-W dataset
 - Publication: Grandi et al., *Identification and characterization of ERV-W sequences in Catarrhini primate genomes*, BMC Evolutionary Biology 2018, DOI 10.1186/s12862-018-1125-1, PMC5775608.
-- File used: Additional file 1 (12862_2018_1125_MOESM1_ESM.xlsx), Table S1, retrieved from the publisher's static content server.
-- Extracted matrix (grandi-herw-matrix.csv): 214 human HERV-W locus rows with ortholog coordinates or absence calls for chimpanzee, gorilla, orangutan, gibbon and rhesus. Coordinate-present counts: chimpanzee 207, gorilla 208, orangutan 207, gibbon 192, rhesus 131.
-- Reconciliation note (open): the paper's categorized summary counts (211 loci after excluding 2 chromosome Y loci; categorized as canonical ortholog, solitary-LTR correspondence, or HERV-W-like element in its Table 2) do not map one-to-one onto a raw coordinate-present count of Table S1 (214 rows, 207 chimpanzee-present). The difference is definitional (category boundaries and the Y loci), not a data error, but the exact category reconciliation, including Tables S2 (solitary-LTR correspondences) and S3 (HERV-W-like elements), is required before HERV-W numbers are quoted at category level. The '205 shared' figure in circulation corresponds to the paper's categorized counting, not to the raw S1 presence count.
-- Genome builds: human GRCh38/hg38 and contemporary ape assemblies as reported in the paper (to be re-confirmed field-by-field at full extraction).
+- File used: Additional file 1 (12862_2018_1125_MOESM1_ESM.xlsx), Tables S1 to S4, retrieved from the publisher's static content server.
+- Extracted matrix (grandi-herw-matrix.csv): the 211 human HERV-W loci of Table S1 (213 rows listed, excluding the 2 chromosome Y loci the authors exclude), each with cytogenetic band and ortholog coordinates or absence calls for chimpanzee, gorilla, orangutan, gibbon and rhesus. Coordinate-present counts of 211: chimpanzee 205, gorilla 206, orangutan 205, gibbon 190, rhesus 129. The chimpanzee 205 reproduces the paper's headline figure exactly; full reconciliation, including the three defects found in the first parse and the Tables S2/S3 categories, is documented in grandi-reconciliation.md.
+- Genome builds: human GRCh37/hg19 (per the Table S1 footnote; human coordinates are in the companion paper, Grandi et al. 2016) and the non-human Catarrhini assemblies as reported in the paper.
 
 Human-Curated, AI-Enabled (HCAE)
