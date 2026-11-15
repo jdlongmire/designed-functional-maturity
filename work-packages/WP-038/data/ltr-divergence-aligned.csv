@@ -1,0 +1,117 @@
+pair_id,species,status,offset,aligned_len,divergence
+RV15-0056,human,ok,4184,512,0.0352
+RV15-0056,chimp,ok,4179,512,0.0312
+RV15-0056,gorilla,ok,4184,510,0.0333
+RV15-0056,orangutan,ok,4183,512,0.0449
+RV15-0059,human,ok,6080,507,0.0769
+RV15-0059,chimp,no LTR pair detected,,,
+RV15-0059,gorilla,short interval 1985bp,,,
+RV15-0059,orangutan,ok,6087,509,0.0629
+RV15-0075,human,ok,7329,337,0.0475
+RV15-0075,chimp,ok,7322,337,0.0564
+RV15-0075,gorilla,ok,7313,337,0.0445
+RV15-0075,orangutan,ok,7320,350,0.0714
+RV15-0086,human,ok,5281,266,0.0263
+RV15-0086,chimp,ok,5270,266,0.0263
+RV15-0086,gorilla,ok,5575,266,0.0301
+RV15-0086,orangutan,ok,5293,262,0.0344
+RV15-0130,human,ok,5674,469,0.0405
+RV15-0130,chimp,ok,5662,470,0.0489
+RV15-0130,gorilla,ok,4133,471,0.0594
+RV15-0130,orangutan,ok,5658,472,0.0508
+RV15-0168,human,ok,9029,705,0.0851
+RV15-0168,chimp,no LTR pair detected,,,
+RV15-0168,gorilla,short interval 1997bp,,,
+RV15-0168,orangutan,short interval 2077bp,,,
+RV15-0188,human,ok,8960,992,0.0353
+RV15-0188,chimp,ok,8945,991,0.0252
+RV15-0188,gorilla,ok,8942,993,0.0262
+RV15-0188,orangutan,ok,9519,972,0.0329
+RV15-0195,human,ok,7317,426,0.0751
+RV15-0195,chimp,ok,7122,480,0.0771
+RV15-0195,gorilla,ok,7320,465,0.0796
+RV15-0195,orangutan,ok,7104,554,0.1101
+RV15-0203,human,ok,8327,491,0.057
+RV15-0203,chimp,ok,8334,491,0.0692
+RV15-0203,gorilla,ok,8333,491,0.0468
+RV15-0203,orangutan,ok,8284,487,0.0472
+RV15-0277,human,ok,5335,511,0.0528
+RV15-0277,chimp,ok,5478,501,0.0499
+RV15-0277,gorilla,ok,5311,468,0.0427
+RV15-0277,orangutan,ok,7025,508,0.0531
+RV15-0318,human,ok,4927,531,0.0603
+RV15-0318,chimp,ok,4923,531,0.0678
+RV15-0318,gorilla,ok,4953,546,0.0604
+RV15-0318,orangutan,ok,4932,512,0.0469
+RV15-0328,human,ok,6389,658,0.0608
+RV15-0328,chimp,ok,6403,823,0.0717
+RV15-0328,gorilla,ok,6402,831,0.0614
+RV15-0328,orangutan,ok,6377,779,0.0578
+RV15-0333,human,no LTR pair detected,,,
+RV15-0333,chimp,no LTR pair detected,,,
+RV15-0333,gorilla,no LTR pair detected,,,
+RV15-0333,orangutan,no LTR pair detected,,,
+RV15-0342,human,ok,7387,928,0.1034
+RV15-0342,chimp,ok,7463,743,0.1131
+RV15-0342,gorilla,short interval 7546bp,,,
+RV15-0342,orangutan,ok,7347,757,0.1044
+RV15-0348,human,no LTR pair detected,,,
+RV15-0348,chimp,short interval 1998bp,,,
+RV15-0348,gorilla,short interval 2001bp,,,
+RV15-0348,orangutan,short interval 1998bp,,,
+RV15-0405,human,no LTR pair detected,,,
+RV15-0405,chimp,ok,7572,340,0.0618
+RV15-0405,gorilla,ok,7610,357,0.0728
+RV15-0405,orangutan,no LTR pair detected,,,
+RV15-0415,human,ok,9034,718,0.0794
+RV15-0415,chimp,ok,9032,768,0.0768
+RV15-0415,gorilla,ok,9038,769,0.0754
+RV15-0415,orangutan,ok,9031,987,0.0578
+RV15-0440,human,ok,7563,712,0.1152
+RV15-0440,chimp,ok,7581,660,0.1
+RV15-0440,gorilla,ok,7504,672,0.0908
+RV15-0440,orangutan,ok,7539,712,0.1236
+RV15-0441,human,ok,8787,844,0.0675
+RV15-0487,human,ok,5548,488,0.0758
+RV15-0487,chimp,no LTR pair detected,,,
+RV15-0487,gorilla,ok,5553,486,0.0782
+RV15-0487,orangutan,ok,5523,493,0.073
+RV15-0490,human,ok,5622,513,0.0487
+RV15-0490,chimp,ok,6396,513,0.0507
+RV15-0490,gorilla,ok,6395,511,0.0431
+RV15-0490,orangutan,ok,6412,510,0.0686
+RV15-0494,human,ok,6383,517,0.0638
+RV15-0494,chimp,ok,6381,520,0.0692
+RV15-0494,gorilla,ok,6380,520,0.0558
+RV15-0494,orangutan,ok,6361,519,0.079
+RV15-0544,human,ok,7804,564,0.078
+RV15-0544,chimp,ok,7816,564,0.0833
+RV15-0544,orangutan,ok,7752,615,0.0699
+RV15-0553,human,ok,8290,505,0.097
+RV15-0553,chimp,no LTR pair detected,,,
+RV15-0553,gorilla,ok,8225,505,0.101
+RV15-0553,orangutan,short interval 1982bp,,,
+RV15-0591,human,ok,8528,498,0.0803
+RV15-0591,chimp,ok,8672,503,0.0835
+RV15-0591,gorilla,short interval 1999bp,,,
+RV15-0591,orangutan,ok,8613,471,0.0616
+RV15-0597,human,ok,6825,703,0.0669
+RV15-0597,chimp,ok,6679,439,0.0683
+RV15-0597,gorilla,no LTR pair detected,,,
+RV15-0597,orangutan,ok,6742,466,0.0687
+RV15-0608,human,ok,7832,429,0.0629
+RV15-0608,chimp,ok,7839,428,0.0654
+RV15-0608,gorilla,ok,7820,431,0.0673
+RV15-0608,orangutan,ok,7830,422,0.0569
+RV15-0664,human,ok,7984,586,0.0768
+RV15-0664,chimp,ok,7986,586,0.0836
+RV15-0664,gorilla,ok,7986,586,0.0512
+RV15-0664,orangutan,short interval 1996bp,,,
+RV15-0798,human,ok,6698,479,0.0689
+RV15-0798,chimp,ok,6388,478,0.0628
+RV15-0798,gorilla,ok,6398,540,0.0722
+RV15-0798,orangutan,no LTR pair detected,,,
+RV15-0805,human,no LTR pair detected,,,
+RV15-0805,chimp,ok,9157,493,0.0892
+RV15-0805,gorilla,no LTR pair detected,,,
+RV15-0805,orangutan,no LTR pair detected,,,
