@@ -2,7 +2,10 @@
 
 **Status:** Proposed research package; empirical validation pending  
 **Parent:** DFM Research Programme  
-**Governance:** EBCC-001 v1.0; PROGRAMME.md; WP-032 Historical Integrity  
+**Governance:** EBCC-001 v1.0; PROGRAMME.md; WP-032 Historical Integrity
+
+> **Primary programme (JD ruling, 2026-11-18).** The primary programme for ERV research is now **ERV Design Model**: https://github.com/jdlongmire/erv-design-model
+> That public programme was curated from the separate Original Biological Network line. This work package remains DFM's own record on this branch, with its gates unchanged (parity gate HOLD; scoring gate unresolved; parity not established). This banner is a programme-home pointer only: no content from the new programme is imported here, and nothing from this package is exported by it.  
 **Objective:** Establish a plausible, abductive explanatory model of endogenous retroviral (ERV) evidence within the designist framework.
 
 ## Research question
