@@ -1,0 +1,177 @@
+pair_id,family,source_pattern,gorilla_gap,gorilla_verdict,orangutan_gap,orangutan_verdict,chimp_gap,chimp_verdict,macaque_gap,macaque_verdict
+RV15-0012,HERV-K(HML2),11000,11008,present,3300,absent-supported,10997,present,3404,"collapsed, internal present?"
+RV15-0022,HERV-K(HML2),11000,11143,present,unmapped,unresolved,11057,present,unmapped,unresolved
+RV15-0026,HERV-K(HML2),11100,11021,present,11146,present,11042,present,unmapped,unresolved
+RV15-0031,ERV-9,11000,11740,present,unmapped,unresolved,11022,present,unmapped,unresolved
+RV15-0032,HERV-K(HML2),11000,10986,present,11000,present,11006,present,unmapped,unresolved
+RV15-0038,ERV-9,11000,unmapped,unresolved,unmapped,unresolved,unmapped,unresolved,unmapped,unresolved
+RV15-0040,HERV-R,11000,11011,present,unmapped,unresolved,11012,present,unmapped,unresolved
+RV15-0051,ERV-9,11000,unmapped,unresolved,unmapped,unresolved,unmapped,unresolved,unmapped,unresolved
+RV15-0054,HERV-H,11000,unmapped,unresolved,17711,present (internal unmapped),10614,present,unmapped,unresolved
+RV15-0060,Unclassified,11100,11005,present,unmapped,unresolved,11003,present,unmapped,unresolved
+RV15-0062,ERV-9,11100,11021,present,10937,present,11017,present,17121,present
+RV15-0064,HERV-I,11000,10982,present,18691,present,10971,present,unmapped,unresolved
+RV15-0069,HERV-W,11100,10975,present,10899,present,11020,present,unmapped,unresolved
+RV15-0073,ERV-9,11000,11327,present,unmapped,unresolved,unmapped,unresolved,unmapped,unresolved
+RV15-0074,HERV-K(HML2),11100,10923,present,22766,present (internal unmapped),10901,present,4809,intermediate
+RV15-0081,HERV-W,11100,11028,present,11092,present,11013,present,19254,present
+RV15-0089,HERV-W,11000,10994,present,11018,present,11002,present,3191,"collapsed, internal present?"
+RV15-0099,HERV-I,11000,11007,present,unmapped,unresolved,11041,present,unmapped,unresolved
+RV15-0103,HERV-I,11100,11002,present,11034,present,10982,present,unmapped,unresolved
+RV15-0111,HERV-H,11000,unmapped,unresolved,11020,present (internal unmapped),unmapped,unresolved,unmapped,unresolved
+RV15-0119,HERV-K(HML2),11110,11132,present,11014,present,11023,present,unmapped,unresolved
+RV15-0121,HERV-K(HML2),11000,10945,present,10924,present,10964,present,unmapped,unresolved
+RV15-0132,HERV-H,11000,10989,present,5180,intermediate,10993,present,5291,intermediate
+RV15-0141,HERV-E,11000,10801,present,10432,present (internal unmapped),11035,present,unmapped,unresolved
+RV15-0142,ERV-9,11100,43765,present,10916,present,11065,present,10915,present
+RV15-0144,HERV-H,11000,11025,present,11020,present,11004,present,10722,present
+RV15-0147,HERV-H,11000,11353,present,5618,intermediate,11346,present,5543,intermediate
+RV15-0148,ERV-9,11000,10831,present,1954,absent-supported,10768,present,1972,"collapsed, internal present?"
+RV15-0157,HERV-H,11000,10953,present,4623,intermediate,11015,present,4625,intermediate
+RV15-0169,ERV-9,11000,unmapped,unresolved,11042,present (internal unmapped),11102,present,unmapped,unresolved
+RV15-0177,HERV-H,11000,10686,present,5475,intermediate,10931,present,unmapped,unresolved
+RV15-0178,HERV-K(HML5),11100,11071,present,10981,present,10968,present,unmapped,unresolved
+RV15-0181,HERV-W,11100,11002,present,11020,present,11300,present,unmapped,unresolved
+RV15-0184,HERV-K(HML2),11100,10966,present,12216,present,10999,present,4787,intermediate
+RV15-0196,HERV-K(HML2),11000,12703,present,10223,present (internal unmapped),11044,present,5527,intermediate
+RV15-0202,HERV-H,11100,unmapped,unresolved,unmapped,unresolved,11033,present,unmapped,unresolved
+RV15-0205,HERV-H,11000,unmapped,unresolved,unmapped,unresolved,11100,present,unmapped,unresolved
+RV15-0206,HERV-K(HML2),11100,11006,present,unmapped,unresolved,11009,present,10947,present
+RV15-0209,HERV-K(HML2),11100,10987,present,6711,intermediate,10984,present,6290,intermediate
+RV15-0210,HERV-I,11000,10986,present,16102,present,10958,present,unmapped,unresolved
+RV15-0230,HERV-K(HML2),11000,unmapped,unresolved,unmapped,unresolved,10981,present,unmapped,unresolved
+RV15-0236,HERV-U3,11100,11321,present,10997,present,10935,present,10013,present
+RV15-0237,HERV-K(HML5),11000,unmapped,unresolved,10916,present,11055,present,11148,present
+RV15-0242,HERV-K(HML2),11000,11010,present,8637,present,11011,present,4307,"collapsed, internal present?"
+RV15-0245,HERV-R,11000,10977,present,11168,present,10987,present,11071,present
+RV15-0247,HERV-H,11000,10784,present,4570,intermediate,10998,present,4615,intermediate
+RV15-0249,HERV-T,11000,11017,present,1561,absent-supported,11003,present,1577,"collapsed, internal present?"
+RV15-0258,HERV-K(HML6),11100,10993,present,unmapped,unresolved,11018,present,unmapped,unresolved
+RV15-0264,RRHERV-I,11000,unmapped,unresolved,unmapped,unresolved,11015,present,unmapped,unresolved
+RV15-0265,ERV-9,11000,unmapped,unresolved,unmapped,unresolved,unmapped,unresolved,unmapped,unresolved
+RV15-0268,HERV-H,11000,11049,present,5214,intermediate,11072,present,5517,intermediate
+RV15-0272,HERV-H,11000,10600,present,9783,present (internal unmapped),10663,present,4900,intermediate
+RV15-0287,HERV-H,11100,11017,present,5128,intermediate,10996,present,unmapped,unresolved
+RV15-0289,HERV-K(HML2),11000,10965,present,28835,present (internal unmapped),unmapped,unresolved,10938,present
+RV15-0291,HERV-K(HML2),11100,unmapped,unresolved,11337,present,11010,present,5046,intermediate
+RV15-0303,ERV-9,11100,10984,present,10736,present (internal unmapped),10970,present,9798,present
+RV15-0311,HERV-I,11100,11020,present,11327,present,11025,present,10979,present
+RV15-0312,HERV-K(HML2),11000,unmapped,unresolved,unmapped,unresolved,1401,"collapsed, internal present?",unmapped,unresolved
+RV15-0316,HERV-K(HML2),11100,unmapped,unresolved,unmapped,unresolved,unmapped,unresolved,unmapped,unresolved
+RV15-0322,HERV-H,11000,unmapped,unresolved,3258,absent-supported,11162,present,3264,"collapsed, internal present?"
+RV15-0325,HERV-K(HML6),11000,10968,present,10954,present,10963,present,12688,present
+RV15-0326,HERV-K(HML2),11000,1668,absent-supported,12636,present,11185,present,unmapped,unresolved
+RV15-0334,ERV-9,11000,unmapped,unresolved,11299,present,11005,present,unmapped,unresolved
+RV15-0336,HERV-K(HML2),11000,10864,present,unmapped,unresolved,10893,present,unmapped,unresolved
+RV15-0340,HERV-K(HML2),11000,11013,present,11389,present (internal unmapped),10972,present,unmapped,unresolved
+RV15-0351,HERV-K(HML5),11100,10996,present,unmapped,unresolved,10898,present,unmapped,unresolved
+RV15-0355,HERV-H,11000,11016,present,10372,present,11000,present,11065,present
+RV15-0356,HERV-K(HML2),11000,unmapped,unresolved,unmapped,unresolved,unmapped,unresolved,unmapped,unresolved
+RV15-0360,ERV-9,11000,unmapped,unresolved,unmapped,unresolved,unmapped,unresolved,unmapped,unresolved
+RV15-0362,HERV-K(HML2),11100,11045,present,10947,present,11024,present,unmapped,unresolved
+RV15-0366,HERV-K(HML2),11000,10998,present,11360,present,11024,present,unmapped,unresolved
+RV15-0367,ERV-9,11110,10954,present,11388,present,10968,present,unmapped,unresolved
+RV15-0377,HERV-H,11000,unmapped,unresolved,unmapped,unresolved,unmapped,unresolved,unmapped,unresolved
+RV15-0378,ERV-9,11100,unmapped,unresolved,10870,present,10935,present,11448,present
+RV15-0379,HERV-K(HML2),11100,10955,present,7748,present (internal unmapped),11014,present,7049,present
+RV15-0388,HERV-H,11000,10938,present,10965,present,10930,present,10909,present
+RV15-0410,ERV-9,11000,11002,present,11057,present,10995,present,unmapped,unresolved
+RV15-0411,ERV-9,11100,11007,present,10938,present,11001,present,unmapped,unresolved
+RV15-0416,HERV-K(HML5),11100,10937,present,10951,present,10959,present,10906,present
+RV15-0417,HERV-W,11000,10994,present,10979,present,10990,present,11201,present
+RV15-0421,HERV-R,11110,10991,present,10930,present,10998,present,11238,present
+RV15-0423,HERV-H,11000,11000,present,10971,present,10994,present,unmapped,unresolved
+RV15-0425,HERV-K(HML6),11000,11442,present,11141,present,11417,present,13042,present
+RV15-0431,HERV-H,11000,10988,present,6083,intermediate,11003,present,6358,intermediate
+RV15-0436,RRHERV-I,11000,10912,present,unmapped,unresolved,10943,present,12215,present
+RV15-0457,HERV-H,11000,unmapped,unresolved,unmapped,unresolved,unmapped,unresolved,unmapped,unresolved
+RV15-0459,HERV-K(HML2),11110,10965,present,10956,present,10978,present,4302,"collapsed, internal present?"
+RV15-0465,HERV-K(HML2),11110,10957,present,10818,present,11011,present,3985,"collapsed, internal present?"
+RV15-0480,HERV-H,11000,11010,present,11462,present,11039,present,5850,intermediate
+RV15-0485,ERV-9,11000,11033,present,11115,present,11030,present,unmapped,unresolved
+RV15-0492,HERV-H,11000,10887,present,unmapped,unresolved,10898,present,unmapped,unresolved
+RV15-0496,Unclassified,11100,10999,present,11001,present,11004,present,unmapped,unresolved
+RV15-0502,ERV-9,11000,10926,present,10977,present,10980,present,unmapped,unresolved
+RV15-0507,HERV-K(HML2),11000,10977,present,9417,present,11022,present,unmapped,unresolved
+RV15-0509,HERV-H,11000,unmapped,unresolved,unmapped,unresolved,11771,present,unmapped,unresolved
+RV15-0514,ERV-9,11000,11001,present,11054,present,10999,present,10993,present
+RV15-0518,HERV-I,11000,11193,present,unmapped,unresolved,11048,present,unmapped,unresolved
+RV15-0519,HERV-K(HML2),11100,unmapped,unresolved,11113,present,unmapped,unresolved,1317,"collapsed, internal present?"
+RV15-0523,HERV-W,11100,10964,present,3975,absent-supported,10999,present,2931,"collapsed, internal present?"
+RV15-0525,ERV-9,11110,11013,present,11074,present,11017,present,10479,present
+RV15-0532,HERV-H,11100,11001,present,unmapped,unresolved,11017,present,unmapped,unresolved
+RV15-0536,ERV-9,11100,unmapped,unresolved,unmapped,unresolved,unmapped,unresolved,unmapped,unresolved
+RV15-0545,ERV-9,11000,10982,present,unmapped,unresolved,11049,present,unmapped,unresolved
+RV15-0551,HERV-H,11000,unmapped,unresolved,unmapped,unresolved,10989,present,unmapped,unresolved
+RV15-0558,HERV-K(HML2),11000,11005,present,8281,present (internal unmapped),11101,present,unmapped,unresolved
+RV15-0559,HERV-I,11110,10998,present,11035,present,11004,present,10997,present
+RV15-0560,HERV-XA,11100,10976,present,unmapped,unresolved,10723,present,10898,present
+RV15-0568,HERV-E,11110,10993,present,11013,present,11025,present,unmapped,unresolved
+RV15-0575,HERV-H,11000,10697,present (internal unmapped),4689,intermediate,10660,present,5018,intermediate
+RV15-0576,HERV-K(HML2),11100,10927,present,10903,present,10979,present,unmapped,unresolved
+RV15-0578,HERV-K(HML2),11000,unmapped,unresolved,unmapped,unresolved,unmapped,unresolved,unmapped,unresolved
+RV15-0579,HERV-W,11000,11004,present,11051,present,10973,present,unmapped,unresolved
+RV15-0589,HERV-E,11000,11024,present,2797,absent-supported,11010,present,11233,present
+RV15-0590,HERV-K(HML5),11100,10988,present,10986,present,10948,present,11185,present
+RV15-0598,HERV-H,11000,11598,present,6415,intermediate,11073,present,unmapped,unresolved
+RV15-0599,HERV-K(HML5),11100,10997,present,11176,present,10992,present,11000,present
+RV15-0601,HERV-K(HML2),11000,10958,present,unmapped,unresolved,10965,present,unmapped,unresolved
+RV15-0618,HERV-K(HML6),11000,11061,present,9439,present,11053,present,unmapped,unresolved
+RV15-0623,HERV-H,11000,10975,present,11039,present,11029,present,4975,intermediate
+RV15-0624,HERV-L,11100,11002,present,unmapped,unresolved,10996,present,unmapped,unresolved
+RV15-0625,HERV-W,11100,10689,present,10791,present,10716,present,2787,"collapsed, internal present?"
+RV15-0627,HERV-K(HML2),11000,11004,present,11055,present,11001,present,unmapped,unresolved
+RV15-0628,HERV-K(HML6),11000,11023,present,unmapped,unresolved,10996,present,unmapped,unresolved
+RV15-0629,HERV-K(HML6),11110,11028,present,11279,present,10922,present,unmapped,unresolved
+RV15-0630,Unclassified,11000,9269,present,unmapped,unresolved,10921,present,unmapped,unresolved
+RV15-0631,HERV-H,11000,11232,present,11536,present (internal unmapped),11194,present,5279,intermediate
+RV15-0644,HERV-ADP,11000,12989,present,10977,present,10998,present,unmapped,unresolved
+RV15-0646,RRHERV-I,11000,unmapped,unresolved,unmapped,unresolved,10980,present,unmapped,unresolved
+RV15-0647,HERV-H,11000,11062,present,5089,intermediate,11122,present,unmapped,unresolved
+RV15-0648,ERV-9,11000,10792,present (internal unmapped),10917,present,11004,present,12071,present
+RV15-0650,HERV-K(HML9),11110,10971,present,11020,present,10976,present,unmapped,unresolved
+RV15-0652,HERV-K(HML2),11000,unmapped,unresolved,unmapped,unresolved,10798,present,unmapped,unresolved
+RV15-0654,HERV-H,11000,11029,present,10996,present,11040,present,unmapped,unresolved
+RV15-0659,HERV-H,11000,unmapped,unresolved,unmapped,unresolved,11004,present,unmapped,unresolved
+RV15-0678,ERV-9,11000,11112,present,10963,present,11070,present,unmapped,unresolved
+RV15-0680,HERV-I,11100,11009,present,10660,present,11014,present,10681,present
+RV15-0684,HERV-K(HML2),11000,8405,present,11031,present,11033,present,unmapped,unresolved
+RV15-0696,HERV-H,11000,10905,present,5177,intermediate,10975,present,unmapped,unresolved
+RV15-0697,HERV-I,11000,10983,present,11001,present,10993,present,unmapped,unresolved
+RV15-0698,ERV-9,11100,10980,present,11038,present,10999,present,unmapped,unresolved
+RV15-0703,HERV-H,11000,11000,present,11013,present,10987,present,unmapped,unresolved
+RV15-0709,HERV-K(HML2),11110,10985,present,10945,present,10996,present,unmapped,unresolved
+RV15-0721,HERV-K(HML2),11000,unmapped,unresolved,10930,present,unmapped,unresolved,unmapped,unresolved
+RV15-0722,ERV-9,11110,10822,present,10827,present,unmapped,unresolved,unmapped,unresolved
+RV15-0727,HERV-H,11000,10927,present,10630,present,10954,present,5091,intermediate
+RV15-0732,ERV-9,11000,10976,present,10909,present,10994,present,unmapped,unresolved
+RV15-0734,HERV-P,11000,10984,present,11104,present,11004,present,unmapped,unresolved
+RV15-0735,HERV-E,11000,10974,present,11012,present,10999,present,12951,present
+RV15-0736,HERV-K(HML2),11110,11005,present,10950,present,11001,present,unmapped,unresolved
+RV15-0737,ERV-9,11000,11268,present (internal unmapped),2813,absent-supported,11310,present,unmapped,unresolved
+RV15-0742,HERV-H,11000,11019,present,6584,intermediate,11024,present,unmapped,unresolved
+RV15-0746,ERV-9,11000,11106,present,10855,present,11017,present,2368,"collapsed, internal present?"
+RV15-0747,HERV-K(HML2),11110,10962,present,10962,present,10962,present,unmapped,unresolved
+RV15-0748,HERV-K(HML2),11000,10988,present,10971,present,10998,present,6364,intermediate
+RV15-0750,HERV-W,11000,10977,present,10949,present,11018,present,3525,"collapsed, internal present?"
+RV15-0751,HERV-H,11000,10903,present,8405,present (internal unmapped),11006,present,unmapped,unresolved
+RV15-0757,HERV-H,11000,unmapped,unresolved,11283,present,11072,present,unmapped,unresolved
+RV15-0765,HERV-T,11000,11030,present,unmapped,unresolved,10968,present,10035,present
+RV15-0768,HERV-H,11000,11130,present,3850,absent-supported,11040,present,3201,"collapsed, internal present?"
+RV15-0780,HERV-W,11100,10957,present,10985,present,10978,present,10294,present
+RV15-0784,HERV-K(HML2),11000,11021,present,11345,present,10989,present,unmapped,unresolved
+RV15-0804,HERV-K(HML2),11000,10973,present,10998,present,10995,present,unmapped,unresolved
+RV15-0806,ERV-9,11110,11220,present,unmapped,unresolved,11091,present,unmapped,unresolved
+RV15-0811,ERV-9,11100,10972,present,15144,present,10936,present,8490,present
+RV15-0817,HERV-K(HML5),11110,11021,present,10987,present,10942,present,10953,present
+RV15-0824,HERV-K(HML2),11000,unmapped,unresolved,unmapped,unresolved,unmapped,unresolved,unmapped,unresolved
+RV15-0826,HERV-E,11000,10953,present,10998,present,11004,present,2224,"collapsed, internal present?"
+RV15-0834,HERV-K(HML2),11100,10992,present,10943,present,10993,present,unmapped,unresolved
+RV15-0836,HERV-I,11110,11293,present,11041,present,11008,present,unmapped,unresolved
+RV15-0843,HERV-I,11000,6683,intermediate,6881,intermediate,10849,present,12951,present
+RV15-0846,HERV-K(HML2),11000,11003,present,11102,present,11051,present,unmapped,unresolved
+RV15-0848,HERV-K(HML2),11000,unmapped,unresolved,unmapped,unresolved,10812,present,unmapped,unresolved
+RV15-0851,RRHERV-I,11110,10866,present,discordant,unresolved,11561,present,unmapped,unresolved
+RV15-0857,HERV-I,11100,10679,present,16747,present,10734,present,10993,present
+RV15-0859,HERV-F type_b,11000,11041,present,15317,present,11002,present,unmapped,unresolved
+RV15-0862,HERV-E,11100,10937,present,10617,present,10997,present,unmapped,unresolved
