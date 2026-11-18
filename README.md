@@ -162,6 +162,7 @@ This is not a race to the bottom: a weakness in a competing model is not positiv
 | Supernova functional state | Which observed supernova products are required components of a functional cosmic state? | Active |
 | Cosmological maturity | Which mature astronomical states discriminate DFM from gradual assembly models? | Developing |
 | Severe tests | Which observations would materially count against DFM auxiliaries? | Developing |
+| ERV explanatory model | Can endogenous retrovirus patterns be accounted for by a design model under this framework? | Active; primary public programme in the ERV Design Model repository (see below) |
 
 ## Public site
 
@@ -177,6 +178,7 @@ A mobile-first public presentation layer is maintained in [`docs/`](docs/). The 
 - [Programme Charter](PROGRAMME.md) — hard core, heuristics, scope, burdens, predictions, and falsification discipline.
 - [Research Roadmap](ROADMAP.md) — current development sequence.
 - [Objections and Responses Register](OBJECTIONS-AND-RESPONSES.md) — canonical adversarial-testing ledger with dispositions and residual burdens.
+- [ERV Design Model](https://github.com/jdlongmire/erv-design-model) (separate repository) - the primary public programme applying this framework to endogenous retroviruses.
 
 ## Current principal artifacts
 
@@ -200,6 +202,10 @@ In particular, the programme has not yet demonstrated that independently constra
 ## Relationship to the Biblical World Model
 
 DFM is the cosmological and physical-initialization component of the broader Biblical World Model. It should not be treated as a complete account of geology, biological diversification, post-Flood history, or every question of biblical chronology.
+
+## Relationship to the ERV Design Model programme
+
+This programme's work on endogenous retroviruses (ERVs) is carried publicly by [ERV Design Model](https://github.com/jdlongmire/erv-design-model), a separate repository established on 2026-11-18 as the primary public ERV programme under the Designed Functional Maturity framework. That programme is design-forward: it begins with the explanatory plausibility of design, interrogates consensus explanations on causal sufficiency and historical assumptions, and evaluates competing accounts on demonstrated explanatory reach, predictive performance, and independently justified assumptions. WP-038 in this repository is DFM's internal ERV record; the public programme stands on its own curated material and its own charter.
 
 ## Author
 
