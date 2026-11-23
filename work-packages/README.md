@@ -43,6 +43,8 @@ Systematic development track for the Designed Functional Maturity (DFM) research
 | [WP-035](WP-035-latent-isotopic-functionality.md) | Latent Isotopic Functionality and Daughter-Product Necessity | Functional isotope hypothesis and empirical controls | Proposed — ancillary hypothesis |
 | [WP-038](WP-038-erv-explanatory-model.md) | ERV Historical Signatures and Designed Functional Maturity | ERV explanatory model package + comparative severe tests (`work-packages/WP-038/`) | Proposed — empirical validation pending |
 
+| [WP-037](WP-037-ctc-day4-integration.md) | Creation Time Coordinates and DFM Day Four Integration | CTC mathematical audit, asynchronous deployment compatibility, and D3 severe test | Proposed — pending PI review |
+
 WP-021 is unassigned: no file, branch, or commit in the repository history ever used that number (the sequence skipped from WP-020 to WP-022).
 
 The current programme-level specification is [`PROGRAMME.md`](../PROGRAMME.md). The current development sequence is [`ROADMAP.md`](../ROADMAP.md).
