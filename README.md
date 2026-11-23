@@ -179,6 +179,7 @@ A mobile-first public presentation layer is maintained in [`docs/`](docs/). The 
 - [Research Roadmap](ROADMAP.md) — current development sequence.
 - [Objections and Responses Register](OBJECTIONS-AND-RESPONSES.md) — canonical adversarial-testing ledger with dispositions and residual burdens.
 - [ERV Design Model](https://github.com/jdlongmire/erv-design-model) (separate repository) - the primary public programme applying this framework to endogenous retroviruses.
+- [Christian Designism](https://github.com/jdlongmire/christian-designism) (separate repository) - the governing programme layer for the designist research lines: charter, numbered hard core, and registers. The revelational and historical principles statement of record lives there (charter/christian-designism-principles.md); this programme's own charter hard core in PROGRAMME.md stands under that governing layer.
 
 ## Current principal artifacts
 
